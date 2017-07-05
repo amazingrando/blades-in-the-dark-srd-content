@@ -63,115 +63,36 @@ There are four types of rolls that you’ll use most often in the game:
 * <span class="game-term">Fortune roll. </span>The GM can make a fortune roll to disclaim decision making and leave something up to chance. _How loyal is an NPC? How much does the plague spread? How much evidence is burned before the constables kick in the door?_
 * <span class="game-term">Resistance roll. </span>A player can make a resistance roll when their character suffers a consequence they don’t like. The roll tells us how much stress their character suffers to reduce the severity of a consequence. _When you resist that “Broken Leg” harm, you take some stress and now it’s only a “Sprained Ankle” instead._
 
-</div>
-<div id="_idContainer017" class="Basic-Text-Frame">
-
-1
-</div>
-<div id="_idContainer018" class="Basic-Text-Frame">
-
-the core system
-</div>
-<div id="_idContainer019" class="Basic-Text-Frame">
-
-1
-</div>
-<div id="_idContainer020" class="chapter-margin">
-
-<span class="CharOverride-3">the basics</span>
-</div>
-<div id="_idContainer021" class="Basic-Text-Frame">
-
-## the game structure
+## The Game Structure
 
 _Blades in the Dark_ has a structure to play, with four parts. By default, the game is in **free play**—characters talk to each other, they go places, they do things, they make rolls as needed.
 
-When the group is ready, they choose a _target_ for their next operation, then choose a type of _plan_ to employ. This triggers the _engagement roll_ (which establishes the situation as the operation starts) and then the game shifts into the **score **phase.
+When the group is ready, they choose a _target_ for their next operation, then choose a type of _plan_ to employ. This triggers the _engagement roll_ (which establishes the situation as the operation starts) and then the game shifts into the **score** phase.
 
 During the score, the PCs engage the target—they make rolls, overcome obstacles, call for flashbacks, and complete the operation (successfully or not). When the score is finished, the game shifts into the **downtime** phase.
 
 During the downtime phase, the GM engages the systems for _payoff_, _heat_, and _entanglements_, to determine all the fallout from the score. Then the PCs each get their _downtime activities_, such as indulging their vice to remove stress or working on a long-term project. When all the downtime activities are complete, the game returns to **free play** and the cycle starts over again.
 
 The phases are a conceptual model to help you organize the game. They’re not meant to be rigid structures that restrict your options (this is why they’re presented as amorphous blobs of ink without hard edges). Think of the phases as a menu of options to fit whatever it is you’re trying to accomplish in play. Each phase suits a different goal.
-</div>
-<div id="_idContainer022" class="Basic-Text-Frame">
 
-<span class="CharOverride-6">downtime</span>
-
-<span class="CharOverride-7">Payoff, Heat, Entanglements</span>
-
-<span class="CharOverride-7">Downtime Activities</span>
-
-<span class="CharOverride-7">Return to Free Play</span>
-</div>
-<div id="_idContainer023" class="Basic-Text-Frame">
-
-<span class="CharOverride-6">score</span>
-
-<span class="CharOverride-7">Actions &amp; Consequences</span>
-
-<span class="CharOverride-7">Flashbacks</span>
-</div>
-<div id="_idContainer024" class="Basic-Text-Frame">
-
-<span class="CharOverride-6">free play</span>
-
-<span class="CharOverride-7">Character Scenes </span>
-
-<span class="CharOverride-7">Actions &amp; Consequences</span>
-
-<span class="CharOverride-7">Gather Information</span>
-</div>
-<div id="_idContainer025" class="Basic-Text-Frame">
-
-<span class="CharOverride-7">Choose a Target</span>
-</div>
-<div id="_idContainer026" class="Basic-Text-Frame">
-
-<span class="CharOverride-7">Choose a Plan</span>
-</div>
-<div id="_idContainer027" class="Basic-Text-Frame">
-
-<span class="CharOverride-7">Engagement<br />Roll</span>
-</div>
-<div id="_idContainer028" class="Basic-Text-Frame">
-</div>
-<div class="_idGenObjectLayout-1">
-	<div id="_idContainer029" class="Basic-Graphics-Frame _idGenObjectStyleOverride-1">
-		<img class="_idGenObjectAttribute-1" src="Generic_Character_Playbook-web-resources/image/blades_ink_bg_01_dark1.png" alt="" />
-	</div>
-</div>
-<div id="_idContainer030" class="Basic-Text-Frame">
-
-1
-</div>
-<div class="_idGenObjectLayout-1">
-	<div id="_idContainer032" class="_idGenObjectStyleOverride-1">
-		<div id="_idContainer031" class="Basic-Graphics-Frame _idGenObjectStyleOverride-3">
-		</div>
-	</div>
-</div>
-<div id="_idContainer033" class="Basic-Text-Frame">
-
-the game structure
-</div>
-<div id="_idContainer034" class="Basic-Text-Frame">
-
-1
-</div>
-<div id="_idContainer035" class="chapter-margin">
-
-<span class="CharOverride-3">the basics</span>
-</div>
-<div id="_idContainer036" class="Basic-Text-Frame">
-
-actions &amp; attributes
-</div>
-<div id="_idContainer037" class="Basic-Text-Frame">
+# Actions & Attributes
 
 ## Action Ratings
 
-There are 12 **actions** in the game that the player characters use to overcome obstacles (see the list at right).
+There are 12 **actions** in the game that the player characters use to overcome obstacles.
+
+* Attune
+* Command
+* Consort
+* Finesse
+* Hunt
+* Prowl
+* Skirmish
+* Study
+* Survey
+* Sway
+* Tinker
+* Wreck
 
 Each action has a rating (from zero to 4) that tells you how many dice to roll when you perform that action. Action ratings don’t just represent skill or training—you’re free to describe _how_ your character performs that action based on the type of person they are. Maybe your character is good at <span class="game-term">Command</span> because they have a scary stillness to them, while another character barks orders and intimidates people with their military bearing.
 
@@ -188,64 +109,6 @@ If there’s no danger or trouble at hand, you don’t make an action roll. You 
 There are three **attributes** in the game system that the player characters use to resist bad consequences: <span class="game-term">Insight</span>, <span class="game-term">Prowess</span>, and <span class="game-term">Resolve</span>. Each attribute has a rating (from zero to 4) that tells you how many dice to roll when you use that attribute.
 
 The rating for each attribute is equal to the number of dots in the **first column** under that attribute (see the examples, at right). The more well-rounded your character is with a particular set of actions, the better their attribute rating.
-</div>
-<div id="_idContainer038" class="Basic-Text-Frame">
-	<table id="table001" class="Basic-Table TableOverride-1">
-		<colgroup>
-			<col class="_idGenTableRowColumn-1" />
-		</colgroup>
-		<tbody>
-			<tr class="Basic-Table _idGenTableRowColumn-2">
-				<td class="Basic-Table CellOverride-1">
-
-<span class="game-term CharOverride-8">Attune</span>
-
-<span class="game-term CharOverride-8">Command</span>
-
-<span class="game-term CharOverride-8">Consort</span>
-
-<span class="game-term CharOverride-8">Finesse</span>
-
-<span class="game-term CharOverride-8">Hunt</span>
-
-<span class="game-term CharOverride-8">Prowl</span>
-
-<span class="game-term CharOverride-8">Skirmish</span>
-
-<span class="game-term CharOverride-8">Study</span>
-
-<span class="game-term CharOverride-8">Survey</span>
-
-<span class="game-term CharOverride-8">Sway</span>
-
-<span class="game-term CharOverride-8">Tinker</span>
-
-<span class="game-term CharOverride-8">Wreck</span>
-				</td>
-			</tr>
-		</tbody>
-	</table>
-</div>
-<div id="_idContainer039" class="Basic-Text-Frame">
-	<table id="table002" class="Basic-Table TableOverride-1">
-		<colgroup>
-			<col class="_idGenTableRowColumn-3" />
-		</colgroup>
-		<tbody>
-			<tr class="Basic-Table _idGenTableRowColumn-4">
-				<td class="Basic-Table CellOverride-1">
-
-<span class="game-term CharOverride-8">Insight</span>
-
-<span class="game-term CharOverride-8">Prowess</span>
-
-<span class="game-term CharOverride-8">Resolve</span>
-				</td>
-			</tr>
-		</tbody>
-	</table>
-</div>
-<div id="_idContainer040" class="Basic-Text-Frame">
 
 ## Resistance Roll
 
@@ -255,407 +118,9 @@ When the enemy has a big advantage, you’ll need to make a resistance roll befo
 
 The GM judges the threat level of the enemies and uses these “preemptive” resistance rolls as needed to reflect the capabilities of especially dangerous foes.
 
-For details on **Resistance Rolls**, see page <a href="Generic_Character_Playbook.html#_idTextAnchor006">28</a>.
-</div>
-<div class="_idGenObjectLayout-1">
-	<div id="_idContainer041" class="Basic-Graphics-Frame _idGenObjectStyleOverride-4">
-	</div>
-</div>
-<div id="_idContainer042" class="Basic-Text-Frame">
+For details on **Resistance Rolls**, see page 28.
 
-example action &amp; attribute ratings
-</div>
-<div class="_idGenObjectLayout-1">
-	<div id="_idContainer046">
-		<div id="_idContainer043" class="Basic-Graphics-Frame _idGenObjectStyleOverride-5">
-		</div>
-		<div id="_idContainer044" class="Basic-Text-Frame">
-
-<span class="CharOverride-9">insight</span>
-		</div>
-		<div id="_idContainer045" class="Basic-Text-Frame">
-			<table id="table003" class="Basic-Table TableOverride-1">
-				<colgroup>
-					<col class="_idGenTableRowColumn-5" />
-					<col class="_idGenTableRowColumn-5" />
-					<col class="_idGenTableRowColumn-5" />
-					<col class="_idGenTableRowColumn-5" />
-					<col class="_idGenTableRowColumn-6" />
-				</colgroup>
-				<tbody>
-					<tr class="Basic-Table _idGenTableRowColumn-7">
-						<td class="Basic-Table CellOverride-2" />
-						<td class="Basic-Table CellOverride-3" />
-						<td class="Basic-Table CellOverride-4" />
-						<td class="Basic-Table CellOverride-4" />
-						<td class="Basic-Table CellOverride-5" />
-					</tr>
-					<tr class="Basic-Table _idGenTableRowColumn-8">
-						<td class="Basic-Table CellOverride-6">
-
-<span class="CharOverride-10"></span>
-						</td>
-						<td class="Basic-Table CellOverride-7">
-
-<span class="CharOverride-11"></span>
-						</td>
-						<td class="Basic-Table CellOverride-8">
-
-<span class="CharOverride-11"></span>
-						</td>
-						<td class="Basic-Table CellOverride-8">
-
-<span class="CharOverride-11"></span>
-						</td>
-						<td class="Basic-Table CellOverride-9">
-
-<span class="CharOverride-12">hunt</span>
-						</td>
-					</tr>
-					<tr class="Basic-Table _idGenTableRowColumn-8">
-						<td class="Basic-Table CellOverride-6">
-
-<span class="CharOverride-11"></span>
-						</td>
-						<td class="Basic-Table CellOverride-7">
-
-<span class="CharOverride-11"></span>
-						</td>
-						<td class="Basic-Table CellOverride-8">
-
-<span class="CharOverride-11"></span>
-						</td>
-						<td class="Basic-Table CellOverride-8">
-
-<span class="CharOverride-11"></span>
-						</td>
-						<td class="Basic-Table CellOverride-9">
-
-<span class="CharOverride-12">study</span>
-						</td>
-					</tr>
-					<tr class="Basic-Table _idGenTableRowColumn-8">
-						<td class="Basic-Table CellOverride-6">
-
-<span class="CharOverride-11"></span>
-						</td>
-						<td class="Basic-Table CellOverride-7">
-
-<span class="CharOverride-11"></span>
-						</td>
-						<td class="Basic-Table CellOverride-8">
-
-<span class="CharOverride-11"></span>
-						</td>
-						<td class="Basic-Table CellOverride-8">
-
-<span class="CharOverride-11"></span>
-						</td>
-						<td class="Basic-Table CellOverride-9">
-
-<span class="CharOverride-12">survey</span>
-						</td>
-					</tr>
-					<tr class="Basic-Table _idGenTableRowColumn-8">
-						<td class="Basic-Table CellOverride-6">
-
-<span class="CharOverride-11"></span>
-						</td>
-						<td class="Basic-Table CellOverride-7">
-
-<span class="CharOverride-11"></span>
-						</td>
-						<td class="Basic-Table CellOverride-8">
-
-<span class="CharOverride-11"></span>
-						</td>
-						<td class="Basic-Table CellOverride-8">
-
-<span class="CharOverride-11"></span>
-						</td>
-						<td class="Basic-Table CellOverride-9">
-
-<span class="CharOverride-12">tinker</span>
-						</td>
-					</tr>
-				</tbody>
-			</table>
-		</div>
-	</div>
-</div>
-<div class="_idGenObjectLayout-1">
-	<div id="_idContainer050">
-		<div id="_idContainer047" class="Basic-Graphics-Frame _idGenObjectStyleOverride-5">
-		</div>
-		<div id="_idContainer048" class="Basic-Text-Frame">
-
-<span class="CharOverride-9">prowess</span>
-		</div>
-		<div id="_idContainer049" class="Basic-Text-Frame">
-			<table id="table004" class="Basic-Table TableOverride-1">
-				<colgroup>
-					<col class="_idGenTableRowColumn-5" />
-					<col class="_idGenTableRowColumn-5" />
-					<col class="_idGenTableRowColumn-5" />
-					<col class="_idGenTableRowColumn-5" />
-					<col class="_idGenTableRowColumn-6" />
-				</colgroup>
-				<tbody>
-					<tr class="Basic-Table _idGenTableRowColumn-7">
-						<td class="Basic-Table CellOverride-2" />
-						<td class="Basic-Table CellOverride-3" />
-						<td class="Basic-Table CellOverride-4" />
-						<td class="Basic-Table CellOverride-4" />
-						<td class="Basic-Table CellOverride-5" />
-					</tr>
-					<tr class="Basic-Table _idGenTableRowColumn-8">
-						<td class="Basic-Table CellOverride-6">
-
-<span class="CharOverride-11"></span>
-						</td>
-						<td class="Basic-Table CellOverride-7">
-
-<span class="CharOverride-11"></span>
-						</td>
-						<td class="Basic-Table CellOverride-8">
-
-<span class="CharOverride-11"></span>
-						</td>
-						<td class="Basic-Table CellOverride-8">
-
-<span class="CharOverride-11"></span>
-						</td>
-						<td class="Basic-Table CellOverride-9">
-
-<span class="CharOverride-12">finesse</span>
-						</td>
-					</tr>
-					<tr class="Basic-Table _idGenTableRowColumn-8">
-						<td class="Basic-Table CellOverride-6">
-
-<span class="CharOverride-10"></span>
-						</td>
-						<td class="Basic-Table CellOverride-7">
-
-<span class="CharOverride-11"></span>
-						</td>
-						<td class="Basic-Table CellOverride-8">
-
-<span class="CharOverride-11"></span>
-						</td>
-						<td class="Basic-Table CellOverride-8">
-
-<span class="CharOverride-11"></span>
-						</td>
-						<td class="Basic-Table CellOverride-9">
-
-<span class="CharOverride-12">prowl</span>
-						</td>
-					</tr>
-					<tr class="Basic-Table _idGenTableRowColumn-8">
-						<td class="Basic-Table CellOverride-6">
-
-<span class="CharOverride-10"></span>
-						</td>
-						<td class="Basic-Table CellOverride-7">
-
-<span class="CharOverride-10"></span>
-						</td>
-						<td class="Basic-Table CellOverride-8">
-
-<span class="CharOverride-11"></span>
-						</td>
-						<td class="Basic-Table CellOverride-8">
-
-<span class="CharOverride-11"></span>
-						</td>
-						<td class="Basic-Table CellOverride-9">
-
-<span class="CharOverride-12">skirmish</span>
-						</td>
-					</tr>
-					<tr class="Basic-Table _idGenTableRowColumn-8">
-						<td class="Basic-Table CellOverride-6">
-
-<span class="CharOverride-11"></span>
-						</td>
-						<td class="Basic-Table CellOverride-7">
-
-<span class="CharOverride-11"></span>
-						</td>
-						<td class="Basic-Table CellOverride-8">
-
-<span class="CharOverride-11"></span>
-						</td>
-						<td class="Basic-Table CellOverride-8">
-
-<span class="CharOverride-11"></span>
-						</td>
-						<td class="Basic-Table CellOverride-9">
-
-<span class="CharOverride-12">wreck</span>
-						</td>
-					</tr>
-				</tbody>
-			</table>
-		</div>
-	</div>
-</div>
-<div class="_idGenObjectLayout-1">
-	<div id="_idContainer054">
-		<div id="_idContainer051" class="Basic-Graphics-Frame _idGenObjectStyleOverride-5">
-		</div>
-		<div id="_idContainer052" class="Basic-Text-Frame">
-
-<span class="CharOverride-9">resolve</span>
-		</div>
-		<div id="_idContainer053" class="Basic-Text-Frame">
-			<table id="table005" class="Basic-Table TableOverride-1">
-				<colgroup>
-					<col class="_idGenTableRowColumn-5" />
-					<col class="_idGenTableRowColumn-5" />
-					<col class="_idGenTableRowColumn-5" />
-					<col class="_idGenTableRowColumn-5" />
-					<col class="_idGenTableRowColumn-6" />
-				</colgroup>
-				<tbody>
-					<tr class="Basic-Table _idGenTableRowColumn-7">
-						<td class="Basic-Table CellOverride-2" />
-						<td class="Basic-Table CellOverride-3" />
-						<td class="Basic-Table CellOverride-4" />
-						<td class="Basic-Table CellOverride-4" />
-						<td class="Basic-Table CellOverride-5" />
-					</tr>
-					<tr class="Basic-Table _idGenTableRowColumn-8">
-						<td class="Basic-Table CellOverride-6">
-
-<span class="CharOverride-10"></span>
-						</td>
-						<td class="Basic-Table CellOverride-7">
-
-<span class="CharOverride-10"></span>
-						</td>
-						<td class="Basic-Table CellOverride-8">
-
-<span class="CharOverride-11"></span>
-						</td>
-						<td class="Basic-Table CellOverride-8">
-
-<span class="CharOverride-11"></span>
-						</td>
-						<td class="Basic-Table CellOverride-9">
-
-<span class="CharOverride-12">attune</span>
-						</td>
-					</tr>
-					<tr class="Basic-Table _idGenTableRowColumn-8">
-						<td class="Basic-Table CellOverride-6">
-
-<span class="CharOverride-10"></span>
-						</td>
-						<td class="Basic-Table CellOverride-7">
-
-<span class="CharOverride-11"></span>
-						</td>
-						<td class="Basic-Table CellOverride-8">
-
-<span class="CharOverride-11"></span>
-						</td>
-						<td class="Basic-Table CellOverride-8">
-
-<span class="CharOverride-11"></span>
-						</td>
-						<td class="Basic-Table CellOverride-9">
-
-<span class="CharOverride-12">command</span>
-						</td>
-					</tr>
-					<tr class="Basic-Table _idGenTableRowColumn-8">
-						<td class="Basic-Table CellOverride-6">
-
-<span class="CharOverride-11"></span>
-						</td>
-						<td class="Basic-Table CellOverride-7">
-
-<span class="CharOverride-11"></span>
-						</td>
-						<td class="Basic-Table CellOverride-8">
-
-<span class="CharOverride-11"></span>
-						</td>
-						<td class="Basic-Table CellOverride-8">
-
-<span class="CharOverride-11"></span>
-						</td>
-						<td class="Basic-Table CellOverride-9">
-
-<span class="CharOverride-12">consort</span>
-						</td>
-					</tr>
-					<tr class="Basic-Table _idGenTableRowColumn-8">
-						<td class="Basic-Table CellOverride-6">
-
-<span class="CharOverride-10"></span>
-						</td>
-						<td class="Basic-Table CellOverride-7">
-
-<span class="CharOverride-11"></span>
-						</td>
-						<td class="Basic-Table CellOverride-8">
-
-<span class="CharOverride-11"></span>
-						</td>
-						<td class="Basic-Table CellOverride-8">
-
-<span class="CharOverride-11"></span>
-						</td>
-						<td class="Basic-Table CellOverride-9">
-
-<span class="CharOverride-12">sway</span>
-						</td>
-					</tr>
-				</tbody>
-			</table>
-		</div>
-	</div>
-</div>
-<div id="_idContainer055" class="Basic-Text-Frame">
-
-<span class="em CharOverride-13">This character has a </span><span class="game-term CharOverride-8">Hunt</span><span class="em CharOverride-13"> action rating of 1.</span>
-
-<span class="em CharOverride-13">Their </span><span class="game-term CharOverride-8">Insight</span><span class="em CharOverride-13"> attribute rating is 1 (the first column of dots).</span>
-</div>
-<div id="_idContainer056" class="Basic-Text-Frame">
-
-<span class="em CharOverride-13">They also have </span><span class="game-term CharOverride-8">Prowl</span><span class="em CharOverride-13"> 1 and </span><span class="game-term CharOverride-8">Skirmish</span><span class="em CharOverride-13"> 2.</span>
-
-<span class="em CharOverride-13">Their </span><span class="game-term CharOverride-8">Prowess</span><span class="em CharOverride-13"> attribute rating is 2.</span>
-</div>
-<div id="_idContainer057" class="Basic-Text-Frame">
-
-<span class="em CharOverride-13">Finally, they have </span><span class="game-term CharOverride-8">Attune</span><span class="em CharOverride-13"> 2, </span><span class="game-term CharOverride-8">Command</span><span class="em CharOverride-13"> 1</span><span class="em CharOverride-13">, and </span><span class="game-term CharOverride-8">Sway</span><span class="em CharOverride-13"> 1.</span>
-
-<span class="em CharOverride-13">Their </span><span class="game-term CharOverride-8">Resolve</span><span class="em CharOverride-13"> attribute rating is 3.</span>
-</div>
-<div id="_idContainer058" class="Basic-Text-Frame">
-
-1
-</div>
-<div id="_idContainer059" class="Basic-Text-Frame">
-
-actions &amp; attributes
-</div>
-<div id="_idContainer060" class="Basic-Text-Frame">
-
-2
-</div>
-<div id="_idContainer061" class="chapter-margin">
-
-<span class="CharOverride-3">characters</span>
-</div>
-<div id="_idContainer062" class="Basic-Text-Frame">
-</div>
-<div id="_idContainer063" class="Basic-Text-Frame">
+@TODO Add table from page 9.
 
 ## Actions
 
@@ -693,11 +158,11 @@ _You might gather information from documents, newspapers, and books. You might d
 
 When you <span class="game-term">Survey</span>, you observe the situation and anticipate outcomes.
 
-_You might spot telltale signs of trouble before it happens. You might uncover opportunities or weaknesses. You might detect a person’s motivations or intentions. You could try to spot a good ambush point (but Hunting might be better). _
+_You might spot telltale signs of trouble before it happens. You might uncover opportunities or weaknesses. You might detect a person’s motivations or intentions. You could try to spot a good ambush point (but Hunting might be better)._
 
 When you <span class="game-term">Sway</span>, you influence with guile, charm, or argument.
 
-_You might lie convincingly.  You might persuade someone to do what you want. You might argue a compelling case that leaves no clear rebuttal. You could try to trick people into affection or obedience (but Consorting or Commanding might be better)._
+_You might lie convincingly. You might persuade someone to do what you want. You might argue a compelling case that leaves no clear rebuttal. You could try to trick people into affection or obedience (but Consorting or Commanding might be better)._
 
 When you <span class="game-term">Tinker</span>, you fiddle with devices and mechanisms.
 
@@ -706,41 +171,16 @@ _You might create a new gadget or alter an existing item. You might pick a lock 
 When you <span class="game-term">Wreck</span>, you unleash savage force.
 
 _You might smash down a door or wall with a sledgehammer, or use an explosive to do the same. You might employ chaos or sabotage to create a distraction or overcome an obstacle. You could try to overwhelm an enemy with sheer force in battle (but Skirmishing might be better)._
-</div>
-<div id="_idContainer064" class="Basic-Text-Frame">
 
 As you can see, many actions overlap with others. This is by design. As a player, you get to choose which action you roll, by saying what your character does. Can you try to <span class="game-term">Wreck</span> someone during a fight? Sure! The GM tells you the position and effect level of your action in this circumstance. As it says, <span class="game-term">Skirmish</span> _might_ be better (less risky or more effective), depending on the situation at hand (sometimes it won’t be better).
-</div>
-<div id="_idContainer065" class="Basic-Text-Frame">
-</div>
-<div class="_idGenObjectLayout-1">
-	<div id="_idContainer068">
-		<div id="_idContainer066" class="Basic-Graphics-Frame _idGenObjectStyleOverride-3">
-		</div>
-		<div id="_idContainer067" class="Basic-Graphics-Frame _idGenObjectStyleOverride-1">
-			<img class="_idGenObjectAttribute-1" src="Generic_Character_Playbook-web-resources/image/blades_ink_bg_01_dark1.png" alt="" />
-		</div>
-	</div>
-</div>
-<div id="_idContainer069" class="Basic-Text-Frame">
 
-2
-</div>
-<div id="_idContainer070" class="Basic-Text-Frame">
-
-action descriptions
-</div>
-<div id="_idContainer071" class="Basic-Text-Frame">
-
-<a id="_idTextAnchor000"></a>stress &amp; trauma
-</div>
-<div id="_idContainer072" class="Basic-Text-Frame">
+# Stress & Trauma
 
 ## Stress
 
 Player characters in _Blades in the Dark_ have a special reserve called **stress**. When they suffer a consequence that they don’t want to accept, they can take stress instead. The result of the **resistance roll** determines how much stress it costs to avoid a bad outcome.
 
-_During a knife fight, Daniel’s character, Cross, gets stabbed in the chest. Daniel rolls his _<span class="game-term">Prowess</span>_ rating to resist, and gets a _<span class="game-term">2</span>_. It costs 6 stress, minus 2 (the result of the resistance roll) to resist the consequences. Daniel marks off 4 stress and describes how Cross survives._
+_During a knife fight, Daniel’s character, Cross, gets stabbed in the chest. Daniel rolls his <span class="game-term">Prowess</span> rating to resist, and gets a <span class="game-term">2</span>. It costs 6 stress, minus 2 (the result of the resistance roll) to resist the consequences. Daniel marks off 4 stress and describes how Cross survives._
 
 _The GM rules that the harm is reduced by the resistance roll, but not avoided entirely. Cross suffers level 2 harm (“Chest Wound”) instead of level 3 harm (“Punctured Lung”)._
 
@@ -752,54 +192,30 @@ You can use stress to push yourself for greater performance. For each bonus you 
 * Add **+1 level** to your effect.
 * Take action when you’re incapacitated.
 
-
 ## Trauma
 
-When a PC marks their last stress box, they suffer a level of <span class="game-term">trauma</span>. When you take <span class="game-term">trauma</span>, circle one of your **trauma conditions** like _Cold_, _Reckless_, _Unstable, _etc. They’re all described on the next page.
+When a PC marks their last stress box, they suffer a level of <span class="game-term">trauma</span>. When you take <span class="game-term">trauma</span>, circle one of your **trauma conditions** like _Cold_, _Reckless_, _Unstable_, etc. They’re all described on the next page.
 
 When you suffer <span class="game-term">trauma</span>, you’re taken out of action. You’re “left for dead” or otherwise dropped out of the current conflict, only to come back later, shaken and drained. When you return, **you have zero stress** and your vice has been satisfied for the next downtime.
 
 **Trauma conditions are permanent**. Your character acquires the new personality quirk indicated by the condition, and can earn xp by using it to cause trouble. **When you mark your fourth trauma condition**, your character cannot continue as a daring scoundrel. You must retire them to a different life or send them to prison to take the fall for the crew’s <span class="game-term">wanted level</span>.
 
-<span class="CharOverride-14">trauma conditions</span>
+### Trauma Conditions
 
 * <span class="game-term">Cold</span>: You’re not moved by emotional appeals or social bonds.
-* <span class="game-term">Haunted</span>**:** You’re often lost in reverie, reliving past horrors, seeing things.
-* <span class="game-term">Obsessed</span>**:** You’re enthralled by one thing: an activity, a person, an ideology.
-* <span class="game-term">Paranoid</span>**:** You imagine danger everywhere; you can’t trust others.
+* <span class="game-term">Haunted</span>: You’re often lost in reverie, reliving past horrors, seeing things.
+* <span class="game-term">Obsessed</span>: You’re enthralled by one thing: an activity, a person, an ideology.
+* <span class="game-term">Paranoid</span>: You imagine danger everywhere; you can’t trust others.
 * <span class="game-term">Reckless</span>: You have little regard for your own safety or best interests.
-* <span class="game-term">Soft</span>**:** You lose your edge; you become sentimental, passive, gentle.
+* <span class="game-term">Soft</span>: You lose your edge; you become sentimental, passive, gentle.
 * <span class="game-term">Unstable</span>: Your emotional state is volatile. You can instantly rage, or fall into despair, act impulsively, or freeze up.
 * <span class="game-term">Vicious</span>: You seek out opportunities to hurt people, even for no good reason.
 
-</div>
-<div id="_idContainer073" class="Basic-Text-Frame">
-
-1
-</div>
-<div id="_idContainer074" class="Basic-Text-Frame">
-
-stress &amp; trauma
-</div>
-<div id="_idContainer075" class="Basic-Text-Frame">
-
-1
-</div>
-<div id="_idContainer076" class="chapter-margin">
-
-<span class="CharOverride-3">the basics</span>
-</div>
-<div class="_idGenObjectLayout-1">
-	<div id="_idContainer077" class="Basic-Text-Frame">
-	</div>
-</div>
-<div id="_idContainer078" class="Basic-Text-Frame">
-
-<a id="_idTextAnchor001"></a>progress clocks
-</div>
-<div id="_idContainer079" class="Basic-Text-Frame">
+# Progress clocks
 
 A **progress clock** is a circle divided into segments (see examples at right). Draw a progress clock when you need to track ongoing effort against an obstacle or the approach of impending trouble.
+
+@TODO add clock illustration
 
 _Sneaking into the constables watch tower? Make a clock to track the alert level of the patrolling guards. When the PCs suffer consequences from partial successes or missed rolls, fill in segments on the clock until the alarm is raised._
 
@@ -813,132 +229,84 @@ Complex enemy threats can be broken into several “layers,” each with its own
 
 Remember that a clock tracks progress. It reflects the fictional situation, so the group can gauge how they’re doing. A clock is like a speedometer in a car. It _shows_ the speed of the vehicle—it doesn’t determine the speed.
 
-simple obstacles
+## Simple Obstacles
 
 Not every situation and obstacle requires a clock. Use clocks when a situation is complex or layered and you need to track something over time—otherwise, resolve the result of an action with a single roll.
 
 Examples of progress clocks follow.
 
-<span class="CharOverride-14">danger clocks</span>
+## Danger Clocks
 
 The GM can use a clock to represent a progressive danger, like suspicion growing during a seduction, the proximity of pursuers in a chase, or the alert level of guards on patrol. In this case, when a complication occurs, the GM ticks one, two, or three segments on the clock, depending on the consequence level. When the clock is full, the danger comes to fruition—the guards hunt down the intruders, activate an alarm, release the hounds, etc.
 
-racing clocks
+## Racing Clocks
 
 Create two opposed clocks to represent a race. The PCs might have a progress clock called “Escape” while the constables have a clock called “Cornered.” If the PCs finish their clock before the constables fill theirs, they get away. Otherwise, they’re cornered and can’t flee. If both complete at the same time, the PCs escape to their lair, but the hunting officers are outside!
 
 You can also use racing clocks for an environmental hazard. Maybe the PCs are trying to complete the “Search” clock to find the lockbox on the sinking ship before the GM fills the “Sunk” clock and the vessel goes down.
 
-linked clocks
+## Linked Clocks
 
 You can make a clock that unlocks another clock once it’s filled. For example, the GM might make a linked clock called “Trapped” after an “Alert” clock fills up. When you fight a veteran warrior, she might have a clock for her “Defense” and then a linked clock for “Vulnerable.” Once you overcome the “Defense” clock, then you can attempt to overcome the “Vulnerable” clock and defeat her.  You might affect the “Defense” clock with violence in a knife-fight, or you lower her defense with deception if you have the opportunity. As always, the method of action is up to the players and the details of the fiction at hand.
 
-mission clocks
+## Mission Clocks
 
 The GM can make a clock for a time-sensitive mission, to represent the window of opportunity you have to complete it. If the countdown runs out, the mission is scrubbed or changes—the target escapes, the household wakes up for the day, etc.
 
-tug-of-war clocks
+## Tug-of-war Clocks
 
-You can make a clock that can be filled _and_ emptied by events, to represent a back-and-forth situation. You might make a “Revolution!” clock that indicates when the refugees start to riot over poor treatment. Some events will tick the clock up and some will tick it down. Once it fills, the revolution begins. A tug-of-war clock is also perfect for an ongoing turf war between two crews or factions.  
+You can make a clock that can be filled _and_ emptied by events, to represent a back-and-forth situation. You might make a “Revolution!” clock that indicates when the refugees start to riot over poor treatment. Some events will tick the clock up and some will tick it down. Once it fills, the revolution begins. A tug-of-war clock is also perfect for an ongoing turf war between two crews or factions.
 
-long-term project
+## Long-term Project
 
 Some projects will take a long time. A basic long-term project (like tinkering up a new feature for a device) is eight segments. Truly long-term projects (like creating a new designer drug) can be two, three, or even four clocks, representing all the phases of development, testing, and final completion. Add or subtract clocks depending on the details of the situation and complexity of the project.
 
-A long-term project is a good catch-all for dealing with any unusual player goal, including things that circumvent or change elements of the mechanics or the setting. <span class="CharOverride-14">faction clocks</span>
+A long-term project is a good catch-all for dealing with any unusual player goal, including things that circumvent or change elements of the mechanics or the setting.
+
+## Faction Clocks
 
 Each faction has a long-term goal. When the PCs have **downtime**, the GM ticks forward the faction clocks that they’re interested in. In this way, the world around the PCs is dynamic and things happen that they’re not directly connected to, changing the overall situation in the city and creating new opportunities and challenges.
 
 The PCs may also directly affect NPC faction clocks, based on the missions and scores they pull off. Discuss known faction projects that they might aid or interfere with, and also consider how a PC operation might affect the NPC clocks, whether the players intended it or not.
-</div>
-<div class="_idGenObjectLayout-1">
-	<div id="_idContainer083">
-		<div id="_idContainer080" class="_idGenObjectStyleOverride-1">
-			<img class="_idGenObjectAttribute-1" src="data:image/jpg;base64,/9j/7QAsUGhvdG9zaG9wIDMuMAA4QklNA+0AAAAAABAAlgAAAAEAAQCWAAAAAQAB/+4AJkFkb2JlAGQAAAAAAQMAEAMDBgkAAAAAAAAAAAAAAAAFAAJJRP/bAIQAAgICAgICAgICAgMCAgIDBAMDAwMEBQQEBAQEBQUFBQUFBQUFBQcICAgHBQkKCgoKCQwMDAwMDAwMDAwMDAwMDAEDAgIDAwMHBQUHDQsJCw0PDQ0NDQ8PDAwMDAwPDwwMDAwMDA8MDg4ODg4MERERERERERERERERERERERERERER/8IAEQgAXgBeAwERAAIRAQMRAf/EANAAAAICAgIDAAAAAAAAAAAAAAAJBwgEBgMFAQIKAQEBAQAAAAAAAAAAAAAAAAAAAQIQAAAFAwQCAAYDAAAAAAAAAAMEBQYHAAECECARCDBAUBITFBUXIRYYEQACAQMCAgcCCAoLAQAAAAABAgMRBAUAITESEEFRYSITBoEyIHGRYiOzFBahsdFCUnIzU9MkMEDBgpLSo3QVNXUHEgEAAAAAAAAAAAAAAAAAAABwEwEAAgICAgICAwEAAAAAAAABABEhMRBBIFFhcTBAgZGhsf/aAAwDAQACEAMQAAAAf4AAAAAAAABxlUrKAER1YqyXIvDLIsoAGuCb9ze8mxSp71GJSydC1d5uvm2NlAF1alOR7eaCf9Rg0s9RiCl95aPi7YuEIO3Ha5STKCetRjMs2QEZWRXVoc3qj5o9xoGbkHTlGrLWRIq7Oki1wF0M3HPng3GQSTBKC8avNEry9hXRJXyxhGdAqXWberZ3NBROowyWaoCn1mylnJQhmxZeo5TGuYUJqMOlm2NCE7ajxM32A8EKWL51LhxR9b4RH6qnsdDFlpQAA1MpNrNYTHW1kXbl2QAAAAAAAAAP/9oACAECAAEFAfT4rjyc1fZb1LVfbxt4rir7L1zXO6+tqvvtV9befjS/i5159H//2gAIAQMAAQUB9Pn4Pbx81byW2W8d/h//2gAIAQEAAQUB82WWOFnrMbRZVzXYCTniZcTsntvZILlm4dNSJ4GJDJDpRl0PYqqpFGJylMxpTFjKAyqmWJECSYW7KcWGicO+EdrrZQnMVcTGXowUGA+iDtI69g3JimoECMT8+v6dlw8ftovxyxj6hwATQDhQD0SuhFUwldOoyL9AvLygI5Xq00BObaHp2dFyteNv5j/R4pWSy2olO5mGvR6/BLNxl0uRwezzN+TLs8zcMbdqmZfKXZIS5DyZ/YltN9s/6jZvzE+ybLOCGpobAYELGgh0WhcPqBuduhEpmZsStQ8mfptg0FDUfB5T20UBrl2FHbHPMn9XRzego5YQGTxbjeAbMB2G/H6Ti3s8F6M1MNYTtOzmV7lo35/oGk0OYNFakSIOaGzdHuhhLSQynOpxi4QxMBcK7MWv9tG1+Y/pzOVHaKM0zalM8o2tbG2rzZRF3IpI1IcZGWrJiYq59glhDPG4wVSeLBfE8M9pYnD8gTc44yjsnH6NtWkcqukViF8TYh/rs4hRkXr25xx0brmyE4ylo6UiFvP/AP/aAAgBAgIGPwEQ/9oACAEDAgY/ARD/2gAIAQEBBj8B/pizsFUdZ2Gpre8uHusii+C2t152Zuqu4ovzjtqaz/8Anfo8RIN1kjgfJTUHHnceXAh+MnVpf+p85f4f7YaR24NmtTx8UUKvT5dW+ZsVu8pY3ESzIDHBcFlbf3R4/wC3S2PrHCvaXAoHaFGikXtLQy/l1DPibtb22mA8aVqjHgroRVT8fwXvshOIIFIUGhYszcFVRuSdDE4X+WMHgPKSzc7bVp29ikbah9S+v/NvDkPp0xTu1HDfn3bHxNUcErSnGvDUVljrOGxtIRSOG3RY41HcqgDWM4n6Zx7aHYfLr0iX998bAT/h0bPOYyDIRUopkXxp+o4oy+w6+8np67a99OCiz1X6e1Suwl5SodPnU+Pt0PLcC7i/ax81eX5ers+BFjrW4dMhdtRPKNCD3nS+o8rBLPbY0+bCSV5VlqaO1Q1eYg7dm/Tj5GHM4vwB7YTt+DXpDmp4sVbNt3xjoltrmJZ7edDHJG45lZWFCCDqLLYSI/d+8d5I+UeFFqPMt23rw93t1BfQmqTKDv1VAI/H0TTU5jGhYDtOsXg052nPIjIBuJrp6tyqOxRqwxuOQCKOJeaTlCtI1OLU+TpxMK0FZBJXv5GXXow9uGs/ql6ctYRIrzyQMYg36a78Tw7NfZLiv2rF3D27gmp5a1X8fRdnl56Qv4e3wnUmdylvJPb4y+5zHFQyeBAIwrOQNu/VXwuXrx2WA8d/3w07nCZjlUV92D+Nqn3fzJ7wLen1+rKXGWt9ZiEna7CcOqgRn7dYLBXmIyVzc4qyhtWeIQ8pMSBduaQbbaCnA5jfsFv/ABteUMXl4nPANFEa14biY6j82wvyt2GUDlj9oJ8ymsiI4PK/mS3NX3+PDrNO3odP0gRrKYe8gSWO+uVfymFfBdQjy2FSfzhqSbJYq0mkE3LGPJTwqAK9R1/0NqPihTh2cNV+7tlQdXkr8u4Osa2AxlvYyT3AD+VGBWqOSNh3a9KXeQ9J4u6vbnF20s00tsjSO7xqWZiRUnVT6Jw9f9pH+TSvD6PxEbLwItI/8usvdJg8csljayTIzW8fgp4mptttrLqa+RCIFWtT4n8xyB7KdNp6ohRTPEsSB0Uc6tEeaIn210+RiDKlyiMR1B9+YHvr04wdcdwnJ3fRycdejK8f+Gs/qV6ZcXFJTI+oT9ljHErCKGZz3cu3t1ZNPH5d3l2N9IDxAkAEYP8AcA6ZkdeYKpDUFW34FduIOp8Tl4pF9PZOcVmcHljNf2q/Np73Zx0ksbB45FDKymoIO4II6LRhXa7iH+jIdei//Gs/ql6LzPZ27Fpj7Ndzxd3Puxxr+c7HYDRyWbItMLDGZBYFy3LawmsVutNqsTVz8fdoKBQDYAfAOLYR200J8y0uOSrQSDrXuPWOvVvjMncST4dXZYF5meEqP3TnYfqn8Go7W9uY7Q0Pjum8p9uFaih+OurG0iv4L1opllkhhbnG0VAxK7desDLc5KIQw2yIJJZFQIFUeCrEe7qW2sC/qXMAeG3syBCp4fSTnwgfq8x7tW0cqPdCJj5NrbVWyso34tv1/Pbf2baa1pDPk7pue4uUXfl2pHzHcgUr8fwmsLwusLMHqhANV4cQdEW948fmbeYp8I225kOisV/Cy0HKW2BPazAmmktMxmJcbZKSCbdQ/MB2Euaa+0ZGe9zvKQUjuHEainHm8oKT8uls8Rj4MdbIAOSBAg24Vpx9v9Q//9oACAECAwE/EPz1KlSiMKPELhiLx1GDCB4YRwcmo75GyJXgueTUd8rMHBLzK4VOpVyvJEVcg4iy5bBb8OngNR3yIs8qJfJqO+dHiMoYwGIMypUXyGpSWSz9J//aAAgBAwMBPxD89854X4rN8m4SokHwd+BuHLiDwwhz3Dl1yYameQzzfidQlSp3xUqJjwPg7hyw5EHnuHKeKTMGdwl8B5JKZniv0f/aAAgBAQMBPxD82WgioH2sf8ystCmA17D7RIq0oUU3MwUPdQhZhnNoSYlQBTQvQMVBvVRgPolRk479H6gr7GpbowysUP8AYN5Mj4L6cmBRFQ0BD7MoJtZ4CsZjZtqE2Sb9UeuTQFDoVUPVR0Qf1LiNVhEpthc+hFyFMAMBAw1jNxpbQAuzd4X2EMt5bpbFsWjAnQwsAZGUbQU0VP28MJvekJobSrsxX3HqahQGs5kFrohJrgKDoBQ8p3c0uCFRMbI6eD0yvXBxERpJTbxXvbJWEWdMmRI+sBAiLhedDhSfjUhg62zvPCYNSyCflvLK28sJExzIADoK5RQbt6Cx2h/2P2ybqr7+atP2hRSqBJYXVw+gJ8A0TRkGOuGOvWIvDBUrl/RIKaNwFVLcC9hTb6Adkx0S7kq9aypTXVmt3WF66lhRUemIClnt/cIfv5tkb7H+SVHjtao9mN6hRNgRJUKTK7jTUd20Kxk59xIrb8O9nJCwbD/HGBrxlpdnsRlZxj6oFsZqrdJ1EBiKLWjaZXuKUq7bSKisl4hJsFBpEe2Q19QhQK7dlKjFCWlR1zU0LlYoERpY6gL01KbM/KVGFUKbXWyGn3AbBpoZCtBZIHfJLHWLZw2oAXnVRV43Atk26hG/XOeTiApZtE7f6iT7L/vlNrVsUQ4sKKr2ZWfh1fPjD35XkT4IVjSCcNP5h0GF+OEVLUoZ+hgc9OHxAREbEeDthGAtRZlfjUuWdOSnB8Dw0v0W8HAPb8Wx/Nv0sFCdrhmsGSOAUAYADRygiORKZdeY6UacR6MwPkGAb0GRylQRvBXqOgpejqJXHSMlNHMi+0ClXKwEEqi4UKMy0mtMSBxxd0KNQ+My96DCTApZeiogJHRGKm6gk0WnGDypugkLugTOSpkWUYRazUW1Gtf5KFAyNK2gUDogcJiKHGQOlGd0t8UpQ7jpBM0HwKJgVnaX9D//2Q==" alt="" />
-		</div>
-		<div id="_idContainer081" class="_idGenObjectStyleOverride-1">
-			<img class="_idGenObjectAttribute-1" src="data:image/jpg;base64,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" alt="" />
-		</div>
-		<div id="_idContainer082" class="_idGenObjectStyleOverride-1">
-			<img class="_idGenObjectAttribute-1" src="data:image/jpg;base64,/9j/7QAsUGhvdG9zaG9wIDMuMAA4QklNA+0AAAAAABAAlgAAAAEAAQCWAAAAAQAB/+4AJkFkb2JlAGQAAAAAAQMAEAMDBgkAAAAAAAAAAAAAAAAFAAJJRP/bAIQAAgICAgICAgICAgMCAgIDBAMDAwMEBQQEBAQEBQUFBQUFBQUFBQcICAgHBQkKCgoKCQwMDAwMDAwMDAwMDAwMDAEDAgIDAwMHBQUHDQsJCw0PDQ0NDQ8PDAwMDAwPDwwMDAwMDA8MDg4ODg4MERERERERERERERERERERERERERER/8IAEQgAXgBeAwERAAIRAQMRAf/EAMcAAAICAgMBAAAAAAAAAAAAAAAJBwgEBgIDBQEBAQEBAAAAAAAAAAAAAAAAAAABAhAAAQMDBAICAgMAAAAAAAAABgQFBwECAwAgEQgQMEBQEhQjFhcRAAEDAgQDBAUICAcAAAAAAAECAwQRBQAhMRJBEwZRYSIyEHGhIxQggZFCUnIVBzDhYpKiM0MlscHSc6OzNBIBAAAAAAAAAAAAAAAAAAAAcBMBAAICAgICAwEBAAAAAAAAAQARITEQQSBRYXEwgZFAof/aAAwDAQACEAMQAAAAf4AAB1nYAAAABglRdZqHUDFj5cGVo0bsAAdYqrWeAzeVOOo3DN8mVIVjhZbIgBAFix9TbIbJnSjNRoMQstIk2PUbfjWaAorWWeS9UqidTZUtvLUYcfLRXUnuJxlwxGm82Nl2uNXpQhM9MwzcIheyygwzN4iTtRi8ewQfSazKpzkTfLpiQtTD80FI6jHohqyCzT1sQLJHrZtGLLikpyhFNiMtSf5XP5qvbGFLFKJkqZoeRKAYJTbWaaUwzNqfVo0rlVJh4mNSKAAcTVbKNWVvJZqf4tVm++oAAAAcT6fQAAP/2gAIAQIAAQUB9/HsrX1U9lPRTbxrjZx5rs51zsr5rt48U21802U9fGqa49XPjnXPwf/aAAgBAwABBQH5tPruN9Pvv//aAAgBAQABBQHbS62tfRlUYsNpzJ6ceqrk2T33C5vkkCWlr9OrW3DvaDIlVj5IxFTbsurSlspS3jQOMXxoiLcWVNhRt3YtPjyIhWtf60VAwqaoy1pfevpnGclsklMXmSivGJjEcRjaZZ22pbB5CzvDa/t3Zf8AVxtQbdkuHpbldBHDTFcRuRsuFW9HEB1hzW5bfE2OWV+NBxnxsbQSjbWVtDWtLIJKZ2XsSobID20LCIuiNzMnmlKW0nhkTKhqOnNS9iGs2WuKwuL8I3M9vZxq0j7JjSmwvlkCMWHOovuTBBMzNZLXs6HW6r2lDaWm87Dxkx9dXResGNVpS6jk1NS3sZSHo7/BJFYEjuk57A44bH4cfGxgzN6sIdwAVjMsHLoxjy/RGBR80jPXPFXGMeJ8YnFhKhYuaS5vPJITDSUHCP8AQM/aT+JnfAZrMgJhfi2CipgfmwlaexBRalZA1iTjg94MWPCQMaV0J4pXxTGSg9WWWWYrO0N2SjIL28DB2CthS1oXQnggtjRpeZmknyp/L9c9jpQZs7EbEMXqBiVQ8js7JqUuZpSF2BpYiWWUt2FpBS+WCQYHG4Wa9lKUpp6Z0T6hfIFZ1mKvXggx6b4MxW6ZYkGG2qBAmb8forxv/9oACAECAgY/ARD/2gAIAQMCBj8BEP/aAAgBAQEGPwH5JAUCU6gcP0JUtWSdcIYjvNhwjxhPjc1y7k+s4Sx03HWtBUW3VRY/OcSCap3PU2pVTswxc7ne5VnTOcUhBDrXvCgbyFJQFZevEC62iJOvbEtsPGjUeYgtqAKVBKKOU9uDa+vum1wpDRo69bkrK2x9t2I7RYqfsk+rDV36euke7W97IPMK3UUNUqGqVDiCK/JJUaJAqTh/py1OOKeikCS6im0KUPID6jhjq3qjlXKE9Ux4iFEtOUy99nUkHUdutcKjQIzcZhtO1LTKAhCU/spSAMWNkJDQDkjMJBopTOtMdPDKv4XDJp3so+jC4fUdmYngpoh6myQ12Ft5NFpI7jiNL6S6pamM3FBdbgPGrq2EkAtz2E5KTwQ6KHs0zRc4B+EuLB5U+3OK97HeGv3kHVKuI+RMlhwJnyRyIaPrKcOpA/ZGeJdz6iZcfZuKHFlxKyhxor8rqDRQ3V4Hhh2M/vuvSkle5TQyRIby98xU0S8geZP1tOw4jXW0y0TYEtO5txHtBHAg5EHTFrU4Fbn5UlAoK7QGAQcWCtCj8Kh8M/5KMFuMlu4dUT2z8DCKqJQNDIkGvhbT/FoMPfmF+ZCl3Fm5FT8eLLGc4q8rr6ctrKf6bfEd1KvQpKfh4HUFWoziljwgLqlGdNDl9GAeNK09Nk6WZO9DDzbWwdqxzHlfMmgxFgI1bTVXrPAZDIYk2a7M82NIHhUMltLHlcQeBGH7VckruHS1zUXPd5Nvo058evleSPMjj9Bx0pdoDjF1t99dlct8CpWoNhWlDQilFCgxaRamWrt1E7Zohh2/dQNgspHOe4hv2nTvw7+Y35lh+T8W+X2YMzWWsEctx1HBlFPdt6HUimoAFANBhq9oVybtZHkSI6x2IUCvh2Z/NiyXSaypmW+xRe762003DuNPQVAVxIvsyJ8a3bNyvh0Zjc6mgVmUioAx4unJnAE1b1/fwtS7Dcmyns5RHd9cYkWm79NXmVDkU2uMpYD7DlMnWyXcin9Rywq2NSnX7OiUuQ2y7VKd6k7ObsG4JUpAFaHDnUXWTU6/KQhtDbCChfN2AJTzS4pPhQlI2oAp24omw3cgdiWMv+bBX+AXjYONI9P+7D0Wz2q5sS9q2SXy2loB1JFaBaq4nwZRUuPbX0pYJ0TvBKk619BBFQcO2K/RWpdvuNUhhzipcfmNK/hOWAB05GCqedKcz/jhKm+nIq9h3ALQCmv3aAYSpnpe1zL9OSpMKL8M2UJyzdfoMkD26DiRbOr7vHRGi9TSX/hI/L5a3EIb5peDQAShB0SOzPTEZF+tbE6BMZalJ3t7uay4lKwponRSQrMcfbiJdmOlrNMqpQLgip1By3AjWmox4ui7Or1xG/8ATjqOUjpW1wkN2+Q6pxmM2lYKG1FJSQK1rpi7LzUlyWmizoTtqafvenpz8zrOje7AUyH6J3bVxV7knTLchRScMXC1LUW3mkuFK6BSCdUmhOYweRR+WTk2lYTQcVrUfKB7cHrfraImZGlOh2FHeFQ+EZIcUPsCmQ0V6tekiAnltyJe0aZ8kfNSmLC3Nj83+1w3CtATzWymOna42o5gjs44+EuDap9huCiVoQTyZLPB1kZ0dSNRiHebRKTLgzEbkrSdDxSocCOIxaOiYspLE/q6Y0l81HuoLLiStSuwKXtT9OLbaozYaajspqE6KWrNSvWT6Z9smI50SQ0ap4pUPKsZjTEiKhLvLaUeS8ahok8PukYkdYdZuOKt6n96ILvnlrrvC3E6BrPwimfq1Q22kIbbASlIyAAyAGOmUoYEjfJlCmW4e6SfDXjljp1BGlriCh/2UYkQ7hGS9Fcz3A7XWVaBbRyAKf1YXFDq7haJh5nu/wCXJb03oGaUufaT8+J3X3UzP9ksr6FcvLk8xr/zQmhxS353CdSe/L0vbBVRSaYl2ll5uJPNFNPrFUpKM0hVM6YHT35g26RDU1tTEktJK2lITl7p364y+bsGGkovUeNKdHgaknkLVTXwuUx0qWpLbtJUk+AhWXJHZiyiW8hqkCPTNISKNI81ThxiI6ZTi0kCivdA96sNP3qeWLM1QrU2NpSwP6UZI0r9s19fZHtNqiohQoydqGke1SjqVHifk5ClcLt8+O1IjrUFFLyA4nLuOJaLeXIq3gSk7gpIUexKjX24QlV6ihkLzC23K07hUjAE+9Pyc/Kw3sH0qKsIV+FqlupP8yWreR/l7McuNGRHGh2AD9DnjL5X/9oACAECAwE/EPzkUcNSvMK4DcY7l8J4DMWpVxJ1GBFqVZ4DEW2DNwZWYvCjvmpTgFeCoY8Fy0tBXjubS2C+AcRKhC1wvMSJCLPO06i8ncGVNeBLm48DlAjHyGuFn+M//9oACAEDAwE/EPzXFlwhf4NwI64Hmwl1wbhzb4MCJxUvlhwwmYsviuWHhXBITcJUTxDFgc3ww5ZuVwwiTfiwJUGMuXBh5JKeKlQP8H//2gAIAQEDAT8Q8V3NSBfsdfhEQBkaPtljnyjIAF0TmFieuUWzToqpIWiSlb0iAtftHAPj21AUdFIzAPuLXEpRDWX6XSQ2TYZT9MYGHZ43bK9ADMpGKItlZGzImlrcY5i8kJEAE34aUFy/TNkMIAfoj+kqIkZEux+vc3mBiwtujpjBGjebcU5fBswXsZiqb5cP19JpoqTdV+EXA0hwikNNhyneaaaG23k/j3HfwnBVFDq2V+0uWlnYos3aKsE1Xf8AtnY009kZAFCJcSLYVBKA5Gnsl97gLTAMJhrWY4Aga1wRbt2KPejZ5kh7tQmgooWQ9dAQWAXe4GLppthoQYVtjpPh5G0MqqnsBY6DuvcBfB00Zmr0BM+saYp2dts6dIikH4rpRoiVIAzpSpWVBcchLVPTUwjmyYRbK4FKmT1aU0hIMHjtRg1MQVAmGOAFAGAAity3ityChDu9IByB0cgsGRsfzri5rNW0fuJBoBCXgMYDMXoBQsHbA99F4jl5Wmwb2czWoDkkWNOSV3pMCkheqfTZd5Qwvbhhj3vAwDRhZVVDD0a/DoWGNTGIJVozJX6zX9EAYLD6wqq0ldkQ+rQ0EtrWDVVngwwKRlyzj253Y18pvcJW8Eg3sU2lyjdGylCKrsiE6YztQt9Lb0QHlSG2Fio4eQUKWeT8uF6TaX4aSGMhNVQ2JLj0OJgjtUk/kBxMQ0VaSbbhg9VhMOlgL9OOXDm+1mMKjM9fBA3R+AlfIWnqDzbBkOMG6WbUTCsVQrgwEAKLTGFQsOtoarTABxKC9ZCjynYhobJSGJ4hEFFPblMNlICSRpdFwqsJk7jqDGGUfmgHs+LOkWoAF3a2lVvPIfzpFGqgRtsHJiNDI5QI2WkGvf8AYlvSupYYVKP0iDDpaBwA0AYIhuySwESjsPph44b+A6ZkuFMMYdYMF5MrMSyYvajWGoVA4Xo6YHRN+7LBeoDhLbPBjGFA+Sn/AJL6S9okDZVGkc2ekTHAzSESk6Xejql37WHz4FvWc9R0VXjrC1TR8wrEthi+I3cFansIaxBdV0O9x9ZZ/wBpaZ8Nq1yagTBxz7yamUVXfjYUWW0blpDUo1TQ5wiJB1nvJnBAPSpWRAQ0mUrvsshr0ZDuxQr1VlRH4+xc3QIGukgbjUL0NZMp+HBrXzqFUYV8eX//2Q==" alt="" />
-		</div>
-	</div>
-</div>
-<div id="_idContainer084" class="Basic-Text-Frame">
 
-1
-</div>
-<div id="_idContainer085" class="Basic-Text-Frame">
+# Action Roll
 
-progress clocks
-</div>
-<div id="_idContainer086" class="Basic-Text-Frame">
+When a player character does something challenging, we make an **action roll** to see how it turns out. An action is challenging if there’s an obstacle to the PC’s goal that’s dangerous or troublesome in some way. We don’t make an action roll unless the PC is put to the test. If their action is something that we’d expect them to simply accomplish, then we don’t make an action roll.
 
-1
-</div>
-<div id="_idContainer087" class="chapter-margin">
-
-<span class="CharOverride-3">the basics</span>
-</div>
-<div id="_idContainer088" class="Basic-Text-Frame">
-
-1
-</div>
-<div id="_idContainer089" class="Basic-Text-Frame">
-
-progress clocks
-</div>
-<div id="_idContainer090" class="Basic-Text-Frame">
-
-1
-</div>
-<div id="_idContainer091" class="chapter-margin">
-
-<span class="CharOverride-3">the basics</span>
-</div>
-<div id="_idContainer092" class="Basic-Text-Frame">
-
-<a id="_idTextAnchor002"></a>action roll
-</div>
-<div id="_idContainer093" class="Basic-Text-Frame">
-
-When a player character does something challenging, we make an **action roll **to see how it turns out. An action is challenging if there’s an obstacle to the PC’s goal that’s dangerous or troublesome in some way. We don’t make an action roll unless the PC is put to the test. If their action is something that we’d expect them to simply accomplish, then we don’t make an action roll.
-
-_Each game group will have their own ideas about what “challenging” means. This is good! It’s something that establishes the tone and style of your _<span class="CharOverride-15">Blades</span>_ series._
+_Each game group will have their own ideas about what “challenging” means. This is good! It’s something that establishes the tone and style of your Blades series._
 
 To make an action roll, we go through six steps. In play, they flow together somewhat, but let’s break each one down here for clarity.
-	<ol>
-		<li class="Numbers ParaOverride-12">The player states their **goal** for the action.
-		<li class="Numbers ParaOverride-13">The player chooses the **action rating**.
-		<li class="Numbers ParaOverride-13">The GM sets the **position** for the roll.
-		<li class="Numbers ParaOverride-13">The GM sets the **effect level** for the action.
-		<li class="Numbers ParaOverride-13">Add **bonus dice**.
-		<li class="Numbers ParaOverride-13">**The player rolls the dice** and we judge the result.
-	</ol>
 
-1. the player states their goal
+# The player states their **goal** for the action.
+# The player chooses the **action rating**.
+# The GM sets the **position** for the roll.
+# The GM sets the **effect level** for the action.
+# Add **bonus dice**.
+# The player rolls the dice** and we judge the result.
+
+## 1. The Player States Their Goal
 
 Your goal is the concrete outcome your character will achieve when they overcome the obstacle at hand. Usually the character’s goal is pretty obvious in context, but it’s the GM’s job to ask and clarify the goal when necessary.
 
 _“You’re punching him in the face, right? Okay... what do want to get out of this? Do you want to take him out, or just rough him up so he’ll do what you want?”_
 
-2. the player chooses the action rating
+## 2. The Player Chooses the Action Rating
 
 The player chooses which **action rating** to roll, following from what their character is doing on-screen. If you want to roll your <span class="game-term">Skirmish</span> action, then get in a fight. If you want to roll your <span class="game-term">Command</span> action, then order someone around. You can’t roll a given action rating unless your character is presently performing that action in the fiction.
 
-3. the gm sets the position
+## 3. The GM Sets the Position
 
 Once the player chooses their action, the GM sets the **position** for the roll. The position represents how dangerous or troublesome the action might be. There are three positions: **controlled**, **risky**, and **desperate**. To choose a position, the GM looks at the profiles for the positions below and picks one that most closely matches the situation at hand.
 
-**By default, an action roll is risky. **You wouldn’t be rolling if there was no risk involved. If the situation seems more dangerous, make it desperate. If it seems less dangerous, make it controlled.
+**By default, an action roll is risky.** You wouldn’t be rolling if there was no risk involved. If the situation seems more dangerous, make it desperate. If it seems less dangerous, make it controlled.
 
-4. the gm sets the effect level
+## 4. The GM Sets the Effect Level
 
 The GM assesses the likely **effect level** of this action, given the factors of the situation. Essentially, the effect level tells us “how much” this action can accomplish: will it have **limited**, **standard**, or **great** effect?
 
-_The GM’s choices for effect level and position can be strongly influenced by the player’s choice of action rating. If a player wants to try to make a new friend by _<span class="game-term">Wrecking</span>_ something—well... maybe that’s possible, but the GM wouldn’t be crazy to say it’s a desperate roll and probably limited effect. Seems like _<span class="game-term">Consorting</span>_ would be a lot better for that. The players are always free to choose the action they perform, but that doesn’t mean all actions should be equally risky or potent._
+_The GM’s choices for effect level and position can be strongly influenced by the player’s choice of action rating. If a player wants to try to make a new friend by <span class="game-term">Wrecking</span> something—well... maybe that’s possible, but the GM wouldn’t be crazy to say it’s a desperate roll and probably limited effect. Seems like <span class="game-term">Consorting</span> would be a lot better for that. The players are always free to choose the action they perform, but that doesn’t mean all actions should be equally risky or potent._
 
-5. add bonus dice
+## 5. Add Bonus Dice
 
 You can normally get two bonus dice for your action roll (some special abilities might give you additional bonus dice).
 
@@ -946,18 +314,17 @@ For one bonus die, you can get **assistance** from a teammate. They take 1 stres
 
 For another bonus die, you can either **push yourself** (take 2 stress) or you can accept a **Devil’s Bargain** (you can’t get dice for both, it’s one or the other).
 
-The Devil’s Bargain
+### The Devil’s Bargain
 
 PCs in _Blades_ are reckless scoundrels addicted to destructive vices—they don’t always act in their own best interests. To reflect this, the GM or any other player can offer you a bonus die if you accept a Devil’s Bargain. Common Devil’s Bargains include:
 
-		<li class="Bullets ParaOverride-15">Collateral damage, unintended harm.
-		<li class="Bullets ParaOverride-15">Sacrifice <span class="game-term">coin</span> or an item.
-		<li class="Bullets ParaOverride-15">Betray a friend or loved one.
-		<li class="Bullets ParaOverride-15">Offend or anger a faction.
-		<li class="Bullets ParaOverride-15">Start and/or tick a troublesome clock.
-		<li class="Bullets ParaOverride-15">Add <span class="game-term">heat</span> to the crew from evidence or witnesses.
-		<li class="Bullets ParaOverride-15">Suffer harm.
-
+* Collateral damage, unintended harm.
+* Sacrifice <span class="game-term">coin</span> or an item.
+* Betray a friend or loved one.
+* Offend or anger a faction.
+* Start and/or tick a troublesome clock.
+* Add <span class="game-term">heat</span> to the crew from evidence or witnesses.
+* Suffer harm.
 
 The Devil’s Bargain occurs regardless of the outcome of the roll. You make the deal, pay the price, and get the bonus die.
 
@@ -965,7 +332,7 @@ The Devil’s Bargain is always a free choice. If you don’t like one, just rej
 
 If it’s ever needed, the GM has final say over which Devil’s Bargains are valid.
 
-6. roll the dice and judge the result
+## 6. Roll the Dice and Judge the Result
 
 Once the goal, action rating, position, and effect have been established, add any bonus dice and roll the dice pool to determine the outcome. (See the sets of possible outcomes, by position, on the next page.)
 
@@ -977,184 +344,41 @@ Each <span class="game-term">4/5</span> and <span class="game-term">1-3</span> o
 
 When you narrate the action after the roll, the GM and player collaborate together to say what happens on-screen. _Tell us how you vault across to the other rooftop. Tell us what you say to the Inspector to convince her. The GM will tell us how she reacts. When you face the Red Sash duelist, what’s your fighting style like? Etc._
 
-## action roll summary
+## Action Roll Summary
 
 * A player or GM calls for a roll. Make an **action roll** when the character performs a dangerous or troublesome action.
 * The player chooses the **action rating** to roll. Choose the action that matches what the character is doing in the fiction.
-* The GM establishes the **position** and **effect level **of the action. The choice of position and effect is influenced strongly by the player’s choice of action.
+* The GM establishes the **position** and **effect level** of the action. The choice of position and effect is influenced strongly by the player’s choice of action.
 * Add up to two bonus dice. 1) **Assistance** from a teammate. 2) **Push yourself** (take 2 stress) or accept a **Devil’s Bargain**.
 * Roll the dice pool and judge the outcome. The players and GM narrate the action together. The GM has final say over what happens and inflicts consequences as called for by the position and the result of the roll.
 
-</div>
-<div class="_idGenObjectLayout-1">
-	<div id="_idContainer094" class="Basic-Graphics-Frame _idGenObjectStyleOverride-1">
-		<img class="_idGenObjectAttribute-1" src="Generic_Character_Playbook-web-resources/image/blades_ink_bg_01_dark1.png" alt="" />
-	</div>
-</div>
-<div id="_idContainer095" class="Basic-Text-Frame">
-
-1
-</div>
-<div class="_idGenObjectLayout-1">
-	<div id="_idContainer097" class="_idGenObjectStyleOverride-1">
-		<div id="_idContainer096" class="Basic-Graphics-Frame _idGenObjectStyleOverride-3">
-		</div>
-	</div>
-</div>
-<div id="_idContainer098" class="Basic-Text-Frame">
-
-action roll
-</div>
-<div id="_idContainer099" class="Basic-Text-Frame">
-
-1
-</div>
-<div id="_idContainer100" class="chapter-margin">
-
-<span class="CharOverride-3">the basics</span>
-</div>
-<div id="_idContainer101" class="Basic-Text-Frame">
-
-## <span class="CharOverride-16">action roll</span>
-</div>
-<div class="_idGenObjectLayout-1">
-	<div id="_idContainer102" class="Basic-Graphics-Frame _idGenObjectStyleOverride-5">
-		<img class="_idGenObjectAttribute-1" src="data:image/jpg;base64,/9j/7QAsUGhvdG9zaG9wIDMuMAA4QklNA+0AAAAAABAAlgAAAAEAAQCWAAAAAQAB/+4AJkFkb2JlAGQAAAAAAQMAEAMDBgkAAAAAAAAAAAAAAAAFAAJJRP/bAIQAAgICAgICAgICAgMCAgIDBAMDAwMEBQQEBAQEBQUFBQUFBQUFBQcICAgHBQkKCgoKCQwMDAwMDAwMDAwMDAwMDAEDAwMHBQcNBwcNDw0NDQ8PDg4ODg8PDAwMDAwPDwwODg4ODA8MEREREREMERERERERERERERERERERERERERER/8IAEQgAJgJrAwERAAIRAQMRAf/EAIwAAQEBAAAAAAAAAAAAAAAAAAAGCgEBAAAAAAAAAAAAAAAAAAAAABAAAwEBAQAAAAAAAAAAAAAAAAUVYEWAEQACAwACAgEFAAAAAAAAAAAABZPUNmARhcUTBDRUNRYSAQAAAAAAAAAAAAAAAAAAAIATAAEDBQEAAAAAAAAAAAAAABGAIVEAIFAxQXH/2gAMAwEAAhADEAAAAM/4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABfkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAX5AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAF+QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABfgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAvD/9oACAECAAEFAfQ3/9oACAEDAAEFAfQ3/9oACAEBAAEFAcbzsbzsbzsbzoy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiQvn//2gAIAQICBj8BQ3//2gAIAQMCBj8BQ3//2gAIAQEBBj8B4b4r2HDvFew4d4r2HDvFewNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA6/qVf6zrv4/r/z++/sT//aAAgBAgMBPxBQ3//aAAgBAwMBPxBQ3//aAAgBAQMBPxBLZJIYMGDBgwYMGDBgwYMGDBgwYMGDBgwYMGDBgwYMGDBsKGDBgwYMGDBgwYMGDBgwYMGDBgwYMGDBgwYMGDBgwYMGtDBgwYNEURHsAtongev/2Q==" alt="" />
-	</div>
-</div>
-<div class="_idGenObjectLayout-1">
-	<div id="_idContainer107">
-		<div id="_idContainer105">
-			<div id="_idContainer103" class="Basic-Graphics-Frame _idGenObjectStyleOverride-5">
-			</div>
-			<div id="_idContainer104" class="_idGenObjectStyleOverride-2">
-			</div>
-		</div>
-		<div id="_idContainer106" class="Basic-Text-Frame">
-
-<span class="CharOverride-17">1d</span><span class="CharOverride-13"> for each </span><span class="game-term CharOverride-8">Action</span><span class="CharOverride-13"> rating dot.</span>
-		</div>
-	</div>
-</div>
-<div class="_idGenObjectLayout-1">
-	<div id="_idContainer112">
-		<div id="_idContainer110">
-			<div id="_idContainer108" class="Basic-Graphics-Frame _idGenObjectStyleOverride-5">
-			</div>
-			<div id="_idContainer109" class="Basic-Text-Frame">
-
-<span class="CharOverride-18">+</span>
-			</div>
-		</div>
-		<div id="_idContainer111" class="Basic-Text-Frame">
-
-<span class="CharOverride-17">+1d</span><span class="CharOverride-13"> if you have </span><span class="game-term CharOverride-8">Assistance</span><span class="CharOverride-13">.</span>
-		</div>
-	</div>
-</div>
-<div class="_idGenObjectLayout-1">
-	<div id="_idContainer117">
-		<div id="_idContainer115">
-			<div id="_idContainer113" class="Basic-Graphics-Frame _idGenObjectStyleOverride-5">
-			</div>
-			<div id="_idContainer114" class="Basic-Text-Frame">
-
-<span class="CharOverride-18">+</span>
-			</div>
-		</div>
-		<div id="_idContainer116" class="Basic-Text-Frame">
-
-<span class="CharOverride-17">+1d</span><span class="CharOverride-13"> if you </span><span class="game-term CharOverride-8">Push</span><span class="CharOverride-13"> yourself </span><span class="CharOverride-19">-or-</span><span class="CharOverride-13"> you accept a </span><span class="game-term CharOverride-8">Devil’s Bargain</span><span class="CharOverride-13">.</span>
-		</div>
-	</div>
-</div>
-<div id="_idContainer118" class="Basic-Text-Frame">
-
-## double-duty rolls
+## Double-duty Rolls
 
 Since NPCs don’t roll for their actions, an action roll does double-duty: **it resolves the action of the PC as well as any NPCs that are involved**. The single roll tells us how those actions interact and which consequences result. On a <span class="game-term">6</span>, the PC wins and has their effect. On a <span class="game-term">4/5</span>, it’s a mix—both the PC and the NPC have their effect. On a <span class="game-term">1-3</span>, the NPC wins and has their effect as a consequence on the PC.
-</div>
-<div id="_idContainer119" class="Basic-Graphics-Frame _idGenObjectStyleOverride-6">
 
-<span class="game-term CharOverride-20">controlled</span>
+@TODO add Action Roll table p21
 
-<span class="game-term CharOverride-21">You act on your terms. You exploit a dominant advantage.</span>
-
-<span class="game-term CharOverride-8">Critical:</span><span class="CharOverride-22"> You do it with </span><span class="strong CharOverride-13">increased effect</span><span class="CharOverride-22">.</span>
-
-<span class="game-term CharOverride-8">6: </span><span class="CharOverride-22">You do it.</span>
-
-<span class="game-term CharOverride-8">4/5:</span><span class="CharOverride-22"> You hesitate. Withdraw and try a different approach, or else do it with a minor consequence: a minor </span><span class="strong CharOverride-13">complication</span><span class="CharOverride-22"> occurs, you have </span><span class="strong CharOverride-13">reduced effect</span><span class="CharOverride-13">,</span><span class="CharOverride-22"> you suffer </span><span class="strong CharOverride-13">lesser harm</span><span class="CharOverride-22">, you end up in a </span><span class="strong CharOverride-13">risky</span><span class="CharOverride-22"> position.</span>
-
-<span class="game-term CharOverride-8">1-3:</span><span class="CharOverride-22"> You falter. Press on by seizing a </span><span class="strong CharOverride-13">risky</span><span class="CharOverride-22"> opportunity, or withdraw and try a different approach.</span>
-</div>
-<div id="_idContainer120" class="Basic-Graphics-Frame _idGenObjectStyleOverride-6">
-
-<span class="game-term CharOverride-20">risky</span>
-
-<span class="game-term CharOverride-21">You go head to head. You act under fire. You take a chance.</span>
-
-<span class="game-term CharOverride-8">Critical:</span><span class="CharOverride-22"> You do it with </span><span class="strong CharOverride-13">increased effect</span><span class="CharOverride-22">.</span>
-
-<span class="game-term CharOverride-8">6: </span><span class="CharOverride-22">You do it.</span>
-
-<span class="game-term CharOverride-8">4/5:</span><span class="CharOverride-22"> You do it, but there’s a consequence: you suffer </span><span class="strong CharOverride-13">harm</span><span class="CharOverride-22">, a </span><span class="strong CharOverride-13">complication</span><span class="CharOverride-22"> occurs, you have </span><span class="strong CharOverride-13">reduced effect</span><span class="CharOverride-13">, </span><span class="CharOverride-22">you end up in a </span><span class="strong CharOverride-13">desperate</span><span class="CharOverride-22"> position.</span>
-
-<span class="game-term CharOverride-8">1-3:</span><span class="CharOverride-22"> Things go badly. You suffer </span><span class="strong CharOverride-13">harm</span><span class="CharOverride-22">, a </span><span class="strong CharOverride-13">complication</span><span class="CharOverride-22"> occurs, you end up in a </span><span class="strong CharOverride-13">desperate</span><span class="CharOverride-22"> position, you </span><span class="strong CharOverride-13">lose this opportunity</span><span class="CharOverride-22">.</span>
-</div>
-<div id="_idContainer121" class="Basic-Graphics-Frame _idGenObjectStyleOverride-6">
-
-<span class="game-term CharOverride-20">desperate</span>
-
-<span class="game-term CharOverride-21">You overreach your capabilities. You’re in serious trouble. </span>
-
-<span class="game-term CharOverride-8">Critical:</span><span class="CharOverride-22"> You do it with </span><span class="strong CharOverride-13">increased effect</span><span class="CharOverride-22">.</span>
-
-<span class="game-term CharOverride-8">6: </span><span class="CharOverride-22">You do it.</span>
-
-<span class="game-term CharOverride-8">4/5:</span><span class="CharOverride-22"> You do it, but there’s a consequence: you suffer </span><span class="strong CharOverride-13">severe harm</span><span class="CharOverride-22">, a </span><span class="strong CharOverride-13">serious complication</span><span class="CharOverride-22"> occurs, you have </span><span class="strong CharOverride-13">reduced effect</span><span class="CharOverride-22">.</span>
-
-<span class="game-term CharOverride-8">1-3:</span><span class="CharOverride-22"> It’s the worst outcome. You suffer </span><span class="strong CharOverride-13">severe harm</span><span class="CharOverride-22">, a </span><span class="strong CharOverride-13">serious complication</span><span class="CharOverride-22"> occurs, you </span><span class="strong CharOverride-13">lose this opportunity</span><span class="CharOverride-22"> for action.</span>
-</div>
-<div id="_idContainer122" class="Basic-Text-Frame">
-
-1
-</div>
-<div id="_idContainer123" class="Basic-Text-Frame">
-
-the devil’s bargain
-</div>
-<div id="_idContainer124" class="Basic-Text-Frame">
-
-1
-</div>
-<div id="_idContainer125" class="chapter-margin">
-
-<span class="CharOverride-3">the basics</span>
-</div>
-<div id="_idContainer126" class="Basic-Text-Frame">
-
-<a id="_idTextAnchor003"></a>effect
-</div>
-<div id="_idContainer127" class="Basic-Text-Frame">
+# Effect
 
 In _Blades in the Dark_, you achieve goals by taking actions and facing consequences. But how many actions does it take to achieve a particular goal? That depends on the **effect level** of your actions. The GM judges the effect level using the profiles below. Which one best matches the action at hand&#173;&#173;—**great**, **standard**, or **limited**? Each effect level indicates the questions that should be answered for that effect, as well as how many segments to tick if you’re using a **progress clock**.
 
-## <a id="_idTextAnchor004"></a>assessing Factors
+@TODO add fancy effect levels p23.
+
+## Assessing Factors
 
 To assess effect level, first start with your gut feeling, given this situation. Then, if needed, assess three factors that may modify the effect level: **potency**, **scale**, and **quality**. If the PC has an advantage in a given factor, consider a higher effect level. If they have a disadvantage, consider a reduced effect level.
 
-potency
+### Potency
 
 The potency factor considers particular weaknesses, taking extra time or a bigger risk, or the influence of arcane powers. An infiltrator is more potent if all the lights are extinguished and they move about in the dark.
 
-quality / tier
+### Quality/Tier
 
 Quality represents the effectiveness of tools, weapons, or other resources, usually summarized by Tier. **Fine items** count as +1 bonus in quality, stacking with Tier.
 
-_Thorn is picking the lock to a safehouse run of a gang reknowned for Occut dealings. Her crew is Tier I and she has _<span class="CharOverride-23">fine</span>_ lockpicks—so she’s effectively Tier II. The Occult gang is Tier III. Thorn is outclassed in quality, so her effect will be _<span class="CharOverride-23">limited</span>_ on the lock._
+_Thorn is picking the lock to a safehouse run of a gang reknowned for Occut dealings. Her crew is Tier I and she has <span class="CharOverride-23">fine</span> lockpicks—so she’s effectively Tier II. The Occult gang is Tier III. Thorn is outclassed in quality, so her effect will be <span class="CharOverride-23">limited</span> on the lock._
 
-scale
+### Scale
 
 Scale represents the number of opponents, size of an area covered, scope of influence, etc. Larger scale can be an advantage or disadvantage depending on the situation. In battle, more people are better. When infiltrating, more people are a hindrance.
 
@@ -1166,13 +390,13 @@ Also, remember that a PC can **push themselves** (take 2 stress) to get +1 effec
 
 Every factor won’t always apply to every situation. You don’t have to do an exact accounting every time, either. Use the factors to help you make a stronger judgment call—don’t feel beholden to them.
 
-## trading position for effect
+## Trading Position for Effect
 
 After factors are considered and the GM has announced the effect level, a player might want to trade position for effect, or vice versa. For instance, if they’re going to make a risky roll with standard effect (the most common scenario, generally), they might instead want to push their luck and make a desperate roll but with great effect.
 
 This kind of trade-off isn’t included in the effect factors because it’s not an element the GM should assess when setting the effect level. Once the level is set, though, you can always offer the trade-off to the player if it makes sense in the situation.
 
-_“I Prowl across the courtyard and vault over the wall, hiding in the <br />shadows by the canal dock and gondola.”_
+_“I Prowl across the courtyard and vault over the wall, hiding in the shadows by the canal dock and gondola.”_
 
 _“I don’t think you can make it across in one quick dash. The scale of the courtyard is a factor here, so your effect will be limited. Let’s say you can get halfway across with this action, then you’ll have to Prowl through the other half of the space (and the rest of the guards there) to reach the other side.”_
 
@@ -1180,82 +404,13 @@ _“I didn’t realize it was that far. Hmmm. Okay, what if I just go as fast as
 
 _“Yep, sounds good to me!”_
 
-## consequences
+## Consequences
 
 When a PC suffers an effect from an enemy or a dangerous situation, it’s called a **consequence**. Consequences are the companion to effects. PCs have effect on the world around them and they suffer consequences in return from the risks they face.
-</div>
-<div id="_idContainer128" class="Basic-Text-Frame">
 
-<span class="CharOverride-8">effect levels</span>
-</div>
-<div id="_idContainer129" class="Basic-Text-Frame">
+# Setting Position & Effect
 
-<span class="CharOverride-24">great</span>
-</div>
-<div class="_idGenObjectLayout-1">
-	<div id="_idContainer130" class="_idGenObjectStyleOverride-1">
-		<img class="_idGenObjectAttribute-1" src="data:image/png;base64,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" alt="" />
-	</div>
-</div>
-<div id="_idContainer131" class="Basic-Text-Frame">
-
-<span class="CharOverride-24">standard</span>
-</div>
-<div class="_idGenObjectLayout-1">
-	<div id="_idContainer132" class="_idGenObjectStyleOverride-1">
-		<img class="_idGenObjectAttribute-1" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAKkAAAA4CAYAAACG79jJAAAACXBIWXMAABcRAAAXEQHKJvM/AAAPXElEQVR4Xu2d7W5ctxVF9Qj+HTRIYaQNVNd1mzZNDTfp2OgD+hH1JupQmD3YWrM3eUcayS6iHweae0keno/FQ96rsXz19u1fbof8+Lcf7+Qff//pnvzr5/e3799/uP3ll19vd7uPt//5dXf74cO/72Tcl4x+GvPPn36+k3fv/nonuq85JKNtzK1+LrKr3b++/tOd8P4Pf/zhTr7//g93Mvq8efPno3ibZNwb/aSDIp3U7eP9vl+/fv16k1Anhf1k8xDNx2uObXNqHMXjJmlzUhgz6kxx9jwPPgZDe24+XxEch2yAp8+6HnAKVG9LEBJ46dZnGTQznEGiQwwex6WAeZL9mnM42EM8ubMkpfkIyLe/+/b2u+9+X2UrtG4PIWqA836DPPnEWDFm6p90pxy2PB/kZj/u1QmkDqQgdchG1RwVdVRWBzRByvbUX6DJia2Qag6ClCougXkopAJoBug5kCZQdX8LpKM/IXVQnxNSxb1BmgAlpCGOu9vb26sjpKniCVTJAFSVdECqbd637yScgzCzirsufZ455w4qEGllMghtATTdLdmEkgsgiQCjNJ0ES0A7qFwgTXeT5IPHgG1bhGNYQdP1Yc7PA9BNkOrMqXPokAHokPF5BimrHvsRTs2n86zaku4EYZJWkb2d9jZIWyVigj1BDYRzgJ9B6qByzArSZIuPV3w8Bs0++q7Ysd2hZPwtDzd7eXUCqbZiAekgEk7dd6C86jVI0xnVAfWzrUPscEsng5aqYwnAvRXsAaMuzpEqX6p+CWRCkEBvsM4WSNLPBdKAok72ZzwTpJyLRUBtLUcsJodc7AToPUi1pQ8Ax3Y+zp06exJQr6KE1EFtkPoDl1dQf5iiTgkhVYIYAAcxVXFfVNInXYR1BSkhWUF0DqSsygmwBGlawBTONYOUC5m6G6S6n2zyCm05++yA3kHKquavlVzaVq8zpAvPngQuVVKvor7VshpKH1c2E7AVVt/OmICWiMeI6121uz8cM6DkQxeB58Jo87Z2h4mQpnFus+LLnBBKQH2zl1cVUiWPT+D+wOSgziBVVZYOVtQGq1dLBkhOqx9XLJPJ9gSpAzoDokG6Sv6sbxtLW5JNA75xFv3mm2/upL0p4NsICWFOtrAyJ0h9LO31XAYYjzmdbfMn230Dh5Dqpb4/3acx/o6V7U0IkAuPEw1SrlwPSpIEeAv8CrwEZ6tmbUGwn/omiFol5fGBc6V+yQ/N7VWPuhhrXfPIx3y5zsO4k23+COmsyqUHqQHop0//vXdeTWdMfzMgYT8Hs1VWHhXSNpLAbO2pr/ozYQxwAmgGqUBKMNDOrWdTh8Tnmc1B+9u4NCcXOe1me4vdIj83+zEn2/wJpNwOBZIAHQ9TeqD6+PHT8bdOCT4fq2MBf3uVKmxq4+IRpEzAClKHaQWpEvWUkNIujt0CKcfRR/q3FVLp8ji1aqg2Vc02f9vFDhK3+QipznwCRk/7AnOIfn/v232DT2CzwnIOVtx0VCCs7czDJPp1S6TG674Sx2SsgGqQpoeaBmOT2SJUO7fk2UJNfvD+DDhu58qH5pIOjeFOaUWnbvMnkLKiOqT+SsohVZVM2/T4qSPCClKXVJFHXwWF2/9DIU1VwvsNYZJXUCZIKVsh5dyEhL6eA+lWG2aLxOMuSP0YliANcrMfU7f5I6SsErpOZ1JVRomqaduSCZtD6gtB7YJObWof/QkhoVXQEpwt+ayU0tHGCjTen8G5ArnZxx0uLc6HQsqF02ygjwlW3eMxTLpZBFEMp9v8EVI6shVSVUm9hCegfnTgmVN9dc8rMCFVO4F6LKQOJaWNbWA9J6QOw1ZIV/Y+BlJdKwe6L90TSJfb/BFSKWOyBZF/qcS/Typo/WzqY30rTqvIA20r6wgof+VKEdjU2RIkPx3QtAM4pNSxNenpLNqgZbK5CBk79fUF6z55Hy4a2csFT/9m4guCds380PUhV/d+N7+SI6RKNCEd8BHK9lLfx6YAJ0jN8COofgyYQeoL4bcCqdvFcQ+F1OFbAXoupMoN/Nq0zZ9s980Bh8YlPcwk54f49u5Hg/Ckd0/UZ/ykbiaNkCpBDpIS5YF3WAk+dwTa0GB1KPmynZCmpPpc0su5CKvGetw5V1sghDvlkfMnO3ws86H7+xhv3ubPhpSgEtKUxBdIHw8p/fg/h/RmH+PN2/wRUhpOI5Qsf/gZkI57NIyBlfMJvgQloU9jOQdtYNAIkPrKL9dJ+Bo41NmuZ8nUfR4D2D/lh1C0RaQ+am8Lm+28P/ryyKJ5/eHWnxG4wA+yWwH5AukLpF8S0rO3+SOkLcBMvoxXMDzQHMNrGi6HpM8BTPN6AhqUDPSqP2U2l+wmpBqn+PG+YkF/xk/Cx0VHu30sY+/20z7v67pSbLbEbFyPXOmNDmPDQnQYF7+Ct1VeILX2cyH166eG1G1j7N1+t4/5kK4Wm9l9v/cASHcrEKeQ0hFeu4MCSmW8OaeAymAeFfibKH/J7w76gxV1CvBmb1tsfk0gmw71IUgJygSXwPF26pgdFTz+isHMZtpAP6THbXC/GBP646JcSbj9vzvjpf3FIU1nOY3lauLbgXadnvx1P0E6pNnbEubXs+qUdOhMlmJG3QlS10UdWyFNu87KZ9eRIOV5dwuk+ryA9GZ/78Hb/NmQMrEKGKtRcsgrXxI5qD5yVtAKVl+h6s+kN3+2CIFh5aSffi8t1qSfIBKkZgtj7308P5zPbWTxaNC6nckP16WcMAaH9t0KwC1yNqSEL0HKBDIIyaEVpKy6OPNEIC4N6cqPFAe3w3XrvnReClKfX22EVAud9zV2zJfeKUvn+KmcKU/s9/YRT/MnkMrQBCUmPQLJJDHQFA+CB4XVVY4riL79KxisBtSTQEk203YfS/sbjCs9yYakO91P8Lk4MC1XlFXMqD/BKXs8Z75wD3LW7+ZXsoTUkyDQGEAZSh2qAgxKCpb0OKA8o/oWxbMQ56D9KcAe6DR2psOF+lKyHawU5wap9CeIPAd+7UUgxZ32plxrTkJKO+jnQXYr8M6Rk6/qUVKwUhLHT21jLXmsggxaaiOw0i1d9hR5AlqqNMm2LbC531uq95aYpgXNh5hmo9vlefHYrITxpw9pMXmuil0X2+YrpAy4AuhtLSkKbgsC7ztghFSf+eR/KUhTcmlng7AllwmdSYOznYPdZrfNr+XHCk4JX/25H3zA8xgpNxpjcz7qpf0S0hZgGsn7aYyC17YXChPgMPPVFMe2hZAWUUryuMetLNlFKKQjzcM5HXJW0HRvtriSHYS2CXXxSKV+yQ7O7/7b/d0KuIfICaQ0LkHqVSA5IkkVJyWNECkICVKHcAiT5HM6QN5fepS45oeuExRuA4FqcI2ffLpX+9b4N1sSsIw33/NyR1NcmBf64WL3L77NLyF1EJnELZASmLSSmVB3fgapB2cFKUW63SaCQT+ZIIe0jXGwHNLUnsZTb4pvgqXJGO+vs4YkSIckv2bz7tvv/tjtCraHSv3dva79my8ewAQpYeMKb0knQIJIkDqoHMOF0I4FCnya1xPhyWRM1E82Kg4a63HTOPctJZ8xm51JG7C6RzvZTp2EVDKbz3M7fh7adyvQHiMPhtSF9xukbE99vMqNzwzgrHL6tfdRMFndKATCq15aXIxDitcKGLXJL0I6G/dQ8VjxNZ8/yKbYME/Xkz+Pcym5YiIcUv9mOQOvwI6fLbB0TPfHZwVGwdFTpoMiHTNYqbu1X1+fnj1la5uDMLbFxnj5dy8VtwYM7W6FgOK5cj8caC4uzqldSsARWhYMbz/E4kme5k8gXVXQ2ZdyFRQGtkGaHJYQ0lnfBKFXBwviPbBSJeU8KUENUulwSD1WHjOOoWheAsZxBNWv1c6CQ8DTgvbYMYYpRoe23QqwS8gVA6trVVAH05PBquoBJJzNeX0Tys+cPmbcS9+USts+r5vM7NF4+kGgCcEMKMZoZa/6+ZO4xo3+BNXhTIvDCw/t40Ke5YsL+90FvoK3VSqkAvUpIVUFJaQClBBzK0qQUlaQpjGexAR6qmIEgJAmO1y/jxuifBDuBKnEgWTehrSF8gBIN/15nEvJCaRcfXR0C6S6XgGldsI4PvOvoySAkqSK68lNyWFSqEP3CVJLNqEb1/KBY9SnVWPC6f10T7nwa8+ddPjRSmdR978VArf7ILsVWJeUR0PqwbkkpPqzkoR0VQWUhASpkr4FUj//XgLSZL/3m1Xk0c+rpUOqnDwG0haHAuizbfNHSBucM1E//lvyBqkn3M+Z7e/y69/18zjgACJwx7l4X8EncJ6IBhJ1z+ZISfb+XOyKVZuDUCrGXlSok7r1WfYpL4STRwVfgJLD2Gd5mv+qIRWoL5B+XZBaVd+tgHoKOfl393z1lF6rtKAw8IRTwPkfy02i11EJ8HZedOhcCCvnHzq4tRJGzcWkyT7O6/fV30EYP6VrFUu3zfU4vO2vSUsanFxsAUqPy7Nv8y+QvkB6DqQX/ab9uXLya9GZKIie0CQKAgHbAp5AWv09fo0V2NI92hx49VNSPEFMPn2VPfSXizH5L3AdfIdyC4xJCLQgHT/pByHl3Lx2PwHzbgXSU8pmSN2hrxnSVJUfA6lX2q8JUl0/A6RfbJtfQjo7oDOouiakLYkNageYQLKdf0GDEGtL921bYNJ+gSd/CQm3f8WLAGlhCgjBKVg9XqvikF4NalzKietrD7QJ3lls3j7zS/uLQ+rO6JrQsQJ5MBLUrcoKUq/ODuFDIGXlIKReeQgpk58glR7Z7pC67hb3x0Kq6jqDNOUFcdmtAHoOOYFUwUm/u/cKwCR7Aggjk8mEKbmCYQWtb/cSjaV4u+vVNe2UPS7SoWv3g77PdKkKD/E4pwdTwsu4sRr7Z+kmwFwgzAd0ffFtXrIZUocsQZoqJCFlsCSCifA4IISUEBIsB0z9CX7aih2sNsfKT9clP1SJE6Re9ZgPQqo5CanD3SDV2BWke7nZyxff5iXHfz7CoKRVTqdZIek0t3NuL61i+hO6PvO1FWElMISk3adNLm0BUNdsAXOuFu8EHK89vgnSJi1PzIP5sluB85xyAqmv9PYntAlrW5kKArdxD44DKvAGhHq6F6D6lSlhpc62YBwi2drglO2yJyWTcFK39xk/ZaPutViyCrIf5zoHUvWXbdwxDvZ9Ndu85OpNCXhyloEiCE2YZIfBK006g3pl5TbvFVS6mRC1KZnNXq92XFxcVM3PBClj4KC6rVtjzbj7+FRQEqTNzuvFf0T7peR/j4JhrCcNLcsAAAAASUVORK5CYII=" alt="" />
-	</div>
-</div>
-<div id="_idContainer133" class="Basic-Text-Frame">
-
-<span class="CharOverride-24">limited</span>
-</div>
-<div class="_idGenObjectLayout-1">
-	<div id="_idContainer134" class="_idGenObjectStyleOverride-1">
-		<img class="_idGenObjectAttribute-1" src="data:image/png;base64,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" alt="" />
-	</div>
-</div>
-<div id="_idContainer135" class="Basic-Graphics-Frame _idGenObjectStyleOverride-6">
-
-<span class="em CharOverride-8">You achieve more than usual. How does the extra effort manifest? What additional benefit do you enjoy?</span>
-</div>
-<div id="_idContainer136" class="Basic-Graphics-Frame _idGenObjectStyleOverride-6">
-
-<span class="em CharOverride-8">You achieve what we’d expect as “normal” with this action. Is that enough, or is there more left to do?</span>
-</div>
-<div id="_idContainer137" class="Basic-Graphics-Frame _idGenObjectStyleOverride-6">
-
-<span class="em CharOverride-8">You achieve a partial or weak effect. How is your impact diminished? What effort remains to achieve your goal?</span>
-</div>
-<div id="_idContainer138" class="Basic-Text-Frame">
-
-<span class="CharOverride-8">ticks</span>
-</div>
-<div id="_idContainer139" class="Basic-Graphics-Frame _idGenObjectStyleOverride-7">
-
-<span class="CharOverride-25">3</span>
-</div>
-<div id="_idContainer140" class="Basic-Graphics-Frame _idGenObjectStyleOverride-7">
-
-<span class="CharOverride-25">2</span>
-</div>
-<div id="_idContainer141" class="Basic-Graphics-Frame _idGenObjectStyleOverride-7">
-
-<span class="CharOverride-25">1</span>
-</div>
-<div id="_idContainer142" class="Basic-Text-Frame">
-
-1
-</div>
-<div id="_idContainer143" class="Basic-Text-Frame">
-
-effect
-</div>
-<div id="_idContainer144" class="Basic-Text-Frame">
-
-setting position &amp; effect
-</div>
-<div id="_idContainer145" class="Basic-Text-Frame">
+@end
 
 The GM sets position and effect for an action roll at the same time, after the player says what they’re doing and chooses their action. Usually, **Risky / Standard** is the default combination, modified by the action being used, the strength of the opposition, and the effect factors.
 
