@@ -2019,8 +2019,8 @@ Also, talk about where the crew makes its **lair**. You begin at Tier 0, so it�
 Your crew is brand-new, but you have chosen some small part of a district as your **hunting grounds**. This is the area that you usually target for your scores, and you know it well. Your hunting grounds don’t have to be in the same district as your lair. The area is small, only three or four city blocks—but it’s still an intrusion on someone. The entire city is divided among larger, stronger factions. The GM will tell you which faction claims the area, then you decide how to deal with them:
 
 * Pay them off. Give them 1 <span class="game-term">coin</span> in exchange for giving you room to work.
-		<li class="Bullets ParaOverride-13">Pay the faction 2 <span class="game-term">coin</span> as a show of respect and gain **+1 status **with them.
-		<li class="Bullets ParaOverride-13">Keep your money and take **-1 status** with that faction.
+* Pay the faction 2 <span class="game-term">coin</span> as a show of respect and gain **+1 status **with them.
+* Keep your money and take **-1 status** with that faction.
 
 
 Your hunting grounds are useful for a particular type of criminal operation. Each crew type has a list of different operation types for their hunting grounds. For instance, Assassins have _Accident_, _Disappearance_, _Murder_, or _Ransom_ as options. Choose one of these operation types as your preference.
