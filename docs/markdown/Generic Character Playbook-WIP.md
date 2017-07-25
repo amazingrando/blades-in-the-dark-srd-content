@@ -410,51 +410,28 @@ When a PC suffers an effect from an enemy or a dangerous situation, it’s calle
 
 # Setting Position & Effect
 
-@end
-
 The GM sets position and effect for an action roll at the same time, after the player says what they’re doing and chooses their action. Usually, **Risky / Standard** is the default combination, modified by the action being used, the strength of the opposition, and the effect factors.
 
 The ability to set position and effect as independent variables gives you nine combinations to choose from, to help you convey a wide array of fictional circumstances.
 
 _For example, if a character is facing off alone against a small enemy gang, the situation might be:_
 
-		<li class="Bullets ParaOverride-21">_She fights the gang straight up, rushing into their midst, hacking away in a wild _<span class="game-term">Skirmish</span>_. In this case, being threatened by the larger force lowers her position to indicate greater risk, and the scale of the gang reduces her effect (Desperate / Limited)._
-		<li class="Bullets ParaOverride-21">_She fights the gang from a choke-point, like a narrow alleyway where their numbers can’t overwhelm her at once. She’s not threatened by several at once, so her risk is similar to a one-on-one fight, but there’s still a lot of enemies to deal with, so her effect is reduced (Risky / Limited)._
-		<li class="Bullets ParaOverride-21">_She doesn’t fight the gang, instead trying to maneuver her way past them and escape. She’s still under threat from many enemy attacks, so her position is worse, but if the ground is open and the gang can’t easily corral her, then her effect for escaping isn’t reduced (Desperate / Standard). If she had some immediate means of escape (like leaping onto a speeding carriage), then her effect might even be increased (Desperate / Great)._
-		<li class="Bullets ParaOverride-21">_The gang isn’t aware of her yet—she’s set up in a sniper position on a nearby roof. She takes a shot against one of them. Their greater numbers aren’t a factor, so her effect isn’t reduced, and she’s not immediately in any danger __(Controlled / Great).__ Maybe instead she wants to fire off a salvo of suppressing fire against the whole gang, in which case their scale applies __(Controlled / Limited).__ If the gang is on guard for potential trouble, her position is more dangerous __(Risky / Great).__ If the gang is alerted to a sniper, then the effect may be reduced further, as they scatter and take cover (__Risky / Limited).__ If the gang is able to muster covering fire while they fall back to a safe position, then things are even worse for our scoundrel __(Desperate / Limited)._
+* _She fights the gang straight up, rushing into their midst, hacking away in a wild _<span class="game-term">Skirmish</span>. In this case, being threatened by the larger force lowers her position to indicate greater risk, and the scale of the gang reduces her effect (Desperate / Limited)._
+* _She fights the gang from a choke-point, like a narrow alleyway where their numbers can’t overwhelm her at once. She’s not threatened by several at once, so her risk is similar to a one-on-one fight, but there’s still a lot of enemies to deal with, so her effect is reduced (Risky / Limited)._
+* _She doesn’t fight the gang, instead trying to maneuver her way past them and escape. She’s still under threat from many enemy attacks, so her position is worse, but if the ground is open and the gang can’t easily corral her, then her effect for escaping isn’t reduced (Desperate / Standard). If she had some immediate means of escape (like leaping onto a speeding carriage), then her effect might even be increased (Desperate / Great)._
+* _The gang isn’t aware of her yet—she’s set up in a sniper position on a nearby roof. She takes a shot against one of them. Their greater numbers aren’t a factor, so her effect isn’t reduced, and she’s not immediately in any danger (Controlled / Great). Maybe instead she wants to fire off a salvo of suppressing fire against the whole gang, in which case their scale applies (Controlled / Limited). If the gang is on guard for potential trouble, her position is more dangerous (Risky / Great). If the gang is alerted to a sniper, then the effect may be reduced further, as they scatter and take cover (Risky / Limited). If the gang is able to muster covering fire while they fall back to a safe position, then things are even worse for our scoundrel (Desperate / Limited)._
 
-</div>
-<div id="_idContainer146" class="Basic-Text-Frame">
+# Consequences and Harm
 
-1
-</div>
-<div id="_idContainer147" class="Basic-Text-Frame">
-
-setting position &amp; effect
-</div>
-<div id="_idContainer148" class="Basic-Text-Frame">
-
-1
-</div>
-<div id="_idContainer149" class="chapter-margin">
-
-<span class="CharOverride-3">the basics</span>
-</div>
-<div id="_idContainer150" class="Basic-Text-Frame">
-
-<a id="_idTextAnchor005"></a>consequences &amp; harm
-</div>
-<div id="_idContainer151" class="Basic-Text-Frame">
-
-Enemy actions, bad circumstances, or the outcome of a roll can inflict  **consequences** on a PC. There are five types (at right).
+Enemy actions, bad circumstances, or the outcome of a roll can inflict **consequences** on a PC. There are five types (at right).
 
 A given circumstance might result in one or more consequences, depending on the situation. The GM determines the consequences, following from the fiction and the style and tone established by the game group.
 
-reduced effect
+## Reduced Effect
 
 This consequence represents impaired performance. The PC’s action isn’t as effective as they’d anticipated. You hit him, but it’s only a flesh wound. She accepts the forged invitation, but she’ll keep her eye on you throughout the night. You’re able to scale the wall, but it’s slow going—you’re only halfway up. This consequence essentially reduces the effect level of the PC’s action by one after all other factors are accounted for.
 
-complication
+## Complication
 
 This consequence represents trouble, mounting danger, or a new threat. The GM might introduce an immediate problem that results from the action right now: the room catches fire, you’re disarmed, the crew takes +1 <span class="game-term">heat</span> from evidence or witnesses, you lose status with a faction, the target evades you and now it’s a chase, reinforcements arrive, etc.
 
@@ -464,158 +441,38 @@ A **serious complication** is more severe: reinforcements surround and trap you,
 
 **Don’t inflict a complication that negates a successful roll.** If a PC tries to corner an enemy and gets a <span class="game-term">4/5</span>, don’t say that the enemy escapes. The player’s roll succeeded, so the enemy is cornered... maybe the PC has to wrestle them into position and during the scuffle the enemy grabs their gun.
 
-lost opportunity
+## Lost Opportunity
 
 This consequence represents shifting circumstance. You had an opportunity to achieve your goal with this action, but it slips away. To try again, you need a new approach—usually a new form of action or a change in circumstances. Maybe you tried to <span class="game-term">Skirmish</span> with the noble to trap her on the balcony, but she evades your maneuver and leaps out of reach. If you want to trap her now you’ll have to try another way—maybe by <span class="game-term">Swaying</span> her with your roguish charm.
 
-worse position
+## Worse Position
 
 This consequence represents losing control of the situation—the action carries you into a more dangerous position. Perhaps you make the leap across to the next rooftop, only to end up dangling by your fingertips. You haven’t failed, but you haven’t succeeded yet, either. You can try again, re-rolling at the new, worse position. This is a good consequence to choose to show escalating action. A situation might go from controlled, to risky, to desperate as the action plays out and the PC gets deeper and deeper in trouble.
 
-harm
+## Harm
 
 This consequence represents a long-lasting debility (or death). When you suffer harm, record the specific injury on your character sheet equal to the level of harm you suffer. If you suffer** lesser harm**, record it in the bottom row. If you suffer **moderate harm**, write it in the middle row. If you suffer **severe harm**, record it in the top row. See examples of harm and the harm tracker, below.
 
 Your character suffers the penalty indicated at the end of the row if any or all harm recorded in that row applies to the situation at hand. So, if you have “Drained” and “Battered” harm in the bottom row, you’ll suffer reduced effect when you try to run away from the constables. When you’re impaired by harm in the top row (severe harm, level 3), your character is incapacitated and can’t do anything unless you have help from someone else or **push yourself** to perform the action.
 
 If you need to mark a harm level, but the row is already filled, the harm moves up to the next row above. So, if you suffered standard harm (level 2) but had no empty spaces in the second row, you’d have to record severe harm (level 3), instead. If you run out of spaces on the top row and need to mark harm there, your character suffers a **catastrophic, permanent consequence** (loss of a limb, sudden death, etc., depending on the circumstances).
-</div>
-<div id="_idContainer152" class="Basic-Text-Frame">
-	<table id="table006" class="Basic-Table TableOverride-1">
-		<colgroup>
-			<col class="_idGenTableRowColumn-9" />
-		</colgroup>
-		<tbody>
-			<tr class="Basic-Table _idGenTableRowColumn-10">
-				<td class="Basic-Table CellOverride-1">
 
-<span class="game-term CharOverride-8">Reduced Effect</span>
+@TODO Table from p27
 
-<span class="game-term CharOverride-8">Complication</span>
 
-<span class="game-term CharOverride-8">Lost Opportunity</span>
+### Harm examples
 
-<span class="game-term CharOverride-8">Worse Position</span>
-
-<span class="game-term CharOverride-8">Harm</span>
-				</td>
-			</tr>
-		</tbody>
-	</table>
-</div>
-<div class="_idGenObjectLayout-1">
-	<div id="_idContainer153" class="Basic-Graphics-Frame _idGenObjectStyleOverride-4">
-	</div>
-</div>
-<div class="_idGenObjectLayout-1">
-	<div id="_idContainer156">
-		<div id="_idContainer154" class="Basic-Graphics-Frame _idGenObjectStyleOverride-5">
-
-<span class="CharOverride-26">harm</span>
-		</div>
-		<div id="_idContainer155" class="Basic-Text-Frame">
-			<table id="table007" class="Basic-Table TableOverride-1">
-				<colgroup>
-					<col class="_idGenTableRowColumn-11" />
-					<col class="_idGenTableRowColumn-12" />
-					<col class="_idGenTableRowColumn-13" />
-					<col class="_idGenTableRowColumn-14" />
-				</colgroup>
-				<tbody>
-					<tr class="Basic-Table _idGenTableRowColumn-15">
-						<td class="Basic-Table CellOverride-10">
-
-<span class="game-term CharOverride-8">3</span>
-						</td>
-						<td class="Basic-Table CellOverride-11 _idGenCellOverride-1" colspan="2">
-
-<span class="CharOverride-27">Shattered Right Leg</span>
-						</td>
-						<td class="Basic-Table CellOverride-10">
-
-<span class="game-term CharOverride-28">need</span>
-
-<span class="game-term CharOverride-28">help</span>
-						</td>
-					</tr>
-					<tr class="Basic-Table _idGenTableRowColumn-15">
-						<td class="Basic-Table CellOverride-12">
-
-<span class="game-term CharOverride-8">2</span>
-						</td>
-						<td class="Basic-Table CellOverride-13" />
-						<td class="Basic-Table CellOverride-14" />
-						<td class="Basic-Table CellOverride-12">
-
-<span class="game-term CharOverride-28">-1d</span>
-						</td>
-					</tr>
-					<tr class="Basic-Table _idGenTableRowColumn-15">
-						<td class="Basic-Table CellOverride-12">
-
-<span class="game-term CharOverride-8">1</span>
-						</td>
-						<td class="Basic-Table CellOverride-13">
-
-<span class="CharOverride-27">Drained</span>
-						</td>
-						<td class="Basic-Table CellOverride-14">
-
-<span class="CharOverride-27">Battered</span>
-						</td>
-						<td class="Basic-Table CellOverride-12">
-
-<span class="game-term CharOverride-28">reduced</span>
-
-<span class="game-term CharOverride-28">effect</span>
-						</td>
-					</tr>
-				</tbody>
-			</table>
-		</div>
-	</div>
-</div>
-<div id="_idContainer157" class="Basic-Text-Frame">
-
-harm examples
-
-**Fatal (4):**_ Electrocuted, Drowned, Stabbed in the Heart._
+**Fatal (4):** _Electrocuted, Drowned, Stabbed in the Heart._
 
 **Severe (3):** _Impaled, Broken Leg, Shot in Chest, Badly Burned, Terrified._
 
-**Moderate (2): **_Exhausted, Deep Cut to Arm, Concussion, Panicked, Seduced._
+**Moderate (2):** _Exhausted, Deep Cut to Arm, Concussion, Panicked, Seduced._
 
 **Lesser (1):** _Battered, Drained, Distracted, Scared, Confused._
-</div>
-<div id="_idContainer158" class="Basic-Text-Frame">
 
 Harm like “Drained” or “Exhausted” can be a good fallback consequence if there’s nothing else threatening a PC (like when they spend all night <span class="game-term">Studying</span> those old books, looking for any clues to their enemy’s weaknesses before he strikes).
-</div>
-<div id="_idContainer159" class="Basic-Text-Frame">
 
-<span class="em CharOverride-8">This character has three harm: a “Shattered Right Leg” (level 3) plus “Drained” and “Battered” (level 1). If they suffer another level 1 harm, it will move up to level 2. If they suffer another level 3 harm, it will move up to level 4: Fatal.</span>
-</div>
-<div id="_idContainer160" class="Basic-Text-Frame">
-
-1
-</div>
-<div id="_idContainer161" class="Basic-Text-Frame">
-
-consequences, harm
-</div>
-<div id="_idContainer162" class="Basic-Text-Frame">
-
-1
-</div>
-<div id="_idContainer163" class="chapter-margin">
-
-<span class="CharOverride-3">the basics</span>
-</div>
-<div id="_idContainer164" class="Basic-Text-Frame">
-
-<a id="_idTextAnchor006"></a>resistance &amp; armor
-</div>
-<div id="_idContainer165" class="Basic-Text-Frame">
+# Resistance and Armor
 
 When your PC suffers a consequence that you don’t like, you can choose to resist it. Just tell the GM, “No, I don’t think so. I’m resisting that.” Resistance is always automatically effective—the GM will tell you if the consequence is reduced in severity or if you avoid it entirely. Then, you’ll make a **resistance roll** to see how much stress your character suffers as a result of their resistance.
 
@@ -625,10 +482,9 @@ You make the roll using one of your character’s **attributes** (<span class="g
 * <span class="game-term">Prowess</span>: Consequences from physical strain or injury.
 * <span class="game-term">Resolve</span>: Consequences from mental strain or willpower.
 
-
 Your character suffers **6 stress** when they resist, **minus the highest die result from the resistance roll**. So, if you rolled a <span class="game-term">4</span>, you’d suffer 2 stress. If you rolled a <span class="game-term">6</span>, you’d suffer zero stress. If you get a <span class="game-term">critical</span> result, you also **clear 1 stress**.
 
-_Ian’s character, Silas, is in a desperate _<span class="game-term">Skirmish</span>_ with several duelists and one of them lands a blow with their sword. Since the position was desperate, the GM inflicts severe harm (modified by any other factors). They tell Ian to record level 3 harm, “Gut Stabbed” on Silas’s sheet. Ian decides to resist the harm, instead. The GM says he can reduce the harm by one level if he resists it. Ian rolls 3d for Silas’s _<span class="game-term">Prowess</span>_ attribute and gets a _<span class="game-term">5</span>_. Silas takes 1 stress and the harm is reduced to level 2, “Cut to the Ribs.” _
+> Ian’s character, Silas, is in a desperate <span class="game-term">Skirmish</span> with several duelists and one of them lands a blow with their sword. Since the position was desperate, the GM inflicts severe harm (modified by any other factors). They tell Ian to record level 3 harm, “Gut Stabbed” on Silas’s sheet. Ian decides to resist the harm, instead. The GM says he can reduce the harm by one level if he resists it. Ian rolls 3d for Silas’s <span class="game-term">Prowess</span> attribute and gets a <span class="game-term">5</span>. Silas takes 1 stress and the harm is reduced to level 2, “Cut to the Ribs.”
 
 Usually, a resistance roll **reduces the severity** of a consequence. If you’re going to suffer fatal harm, for example, a resistance roll would reduce the harm to severe, instead. Or if you got a complication when you were sneaking into the manor house, and the GM was going to mark three ticks on the “Alert” clock, she’d only mark two (or maybe one) if you resisted the complication.
 
@@ -640,113 +496,51 @@ The GM also has the option to rule that your character **completely avoids** the
 
 The GM may also threaten several consequences at once, then the player may choose which ones to resist (and make rolls for each).
 
-_“She stabs you and then leaps off the balcony. _<span class="CharOverride-23">Level 2 harm</span>_ and you _<span class="CharOverride-23">lose the opportunity</span>_ to catch her with fighting.”_
+> “She stabs you and then leaps off the balcony. <span class="CharOverride-23">Level 2 harm</span> and you <span class="CharOverride-23">lose the opportunity</span> to catch her with fighting.”
 
-_“I’ll resist losing the opportunity by grappling her as she attacks. She can stab me, but I don’t want to let her escape.”_
+> “I’ll resist losing the opportunity by grappling her as she attacks. She can stab me, but I don’t want to let her escape.”
 
 Once you decide to resist a consequence and roll, you suffer the stress indicated. You can’t roll first and see how much stress you’ll take, then decide whether or not to resist.
+
+@TODO add table p29
 
 ## Armor
 
 If you have a type of **armor** that applies to the situation, you can mark an armor box to reduce or avoid a consequence, instead of rolling to resist.
 
-_Silas is taking level 2 harm, “Cut to the Ribs,” and the fight isn’t even over yet, so Ian decides to use Silas’s armor to reduce the harm. He marks the armor box and the harm becomes level 1, “Bruised.” If Silas was wearing heavy armor, he could mark a second armor box and reduce the harm again, to zero. _
+> Silas is taking level 2 harm, “Cut to the Ribs,” and the fight isn’t even over yet, so Ian decides to use Silas’s armor to reduce the harm. He marks the armor box and the harm becomes level 1, “Bruised.” If Silas was wearing heavy armor, he could mark a second armor box and reduce the harm again, to zero.
 
 When an armor box is marked, it can’t be used again until it’s restored. All of your armor is restored when you choose your **load** for the next score.
 
-<span class="CharOverride-2">Death</span>
+## Death
 
 There are a couple ways for a PC to die:
 
 * If they suffer level 4 fatal harm and they don’t resist it, they die. _Sometimes this is a choice a player wants to make, because they feel like it wouldn’t make sense for the character to survive or it seems right for their character to die here._
 * If they need to record harm at level 3 and it’s already filled, they suffer a catastrophic consequence, which might mean sudden death (depending on the circumstances).
 
-
 When your character dies, you have options:
 
 * You can create a new scoundrel to play. Maybe you “promote” one of the NPC gang members to a PC, or create a brand new character who joins the crew.
 
-</div>
-<div id="_idContainer166" class="Basic-Text-Frame">
-
-## <span class="CharOverride-16">resistance roll</span>
-</div>
-<div class="_idGenObjectLayout-1">
-	<div id="_idContainer167" class="Basic-Graphics-Frame _idGenObjectStyleOverride-5">
-		<img class="_idGenObjectAttribute-1" src="data:image/jpg;base64,/9j/7QAsUGhvdG9zaG9wIDMuMAA4QklNA+0AAAAAABAAlgAAAAEAAQCWAAAAAQAB/+4AJkFkb2JlAGQAAAAAAQMAEAMDBgkAAAAAAAAAAAAAAAAFAAJJRP/bAIQAAgICAgICAgICAgMCAgIDBAMDAwMEBQQEBAQEBQUFBQUFBQUFBQcICAgHBQkKCgoKCQwMDAwMDAwMDAwMDAwMDAEDAwMHBQcNBwcNDw0NDQ8PDg4ODg8PDAwMDAwPDwwODg4ODA8MEREREREMERERERERERERERERERERERERERER/8IAEQgAJgJrAwERAAIRAQMRAf/EAIwAAQEBAAAAAAAAAAAAAAAAAAAGCgEBAAAAAAAAAAAAAAAAAAAAABAAAwEBAQAAAAAAAAAAAAAAAAUVYEWAEQACAwACAgEFAAAAAAAAAAAABZPUNmARhcUTBDRUNRYSAQAAAAAAAAAAAAAAAAAAAIATAAEDBQEAAAAAAAAAAAAAABGAIVEAIFAxQXH/2gAMAwEAAhADEAAAAM/4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABfkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAX5AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAF+QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABfgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAvD/9oACAECAAEFAfQ3/9oACAEDAAEFAfQ3/9oACAEBAAEFAcbzsbzsbzsbzoy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiQvn//2gAIAQICBj8BQ3//2gAIAQMCBj8BQ3//2gAIAQEBBj8B4b4r2HDvFew4d4r2HDvFewNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA6/qVf6zrv4/r/z++/sT//aAAgBAgMBPxBQ3//aAAgBAwMBPxBQ3//aAAgBAQMBPxBLZJIYMGDBgwYMGDBgwYMGDBgwYMGDBgwYMGDBgwYMGDBsKGDBgwYMGDBgwYMGDBgwYMGDBgwYMGDBgwYMGDBgwYMGtDBgwYNEURHsAtongev/2Q==" alt="" />
-	</div>
-</div>
-<div id="_idContainer168" class="Basic-Text-Frame">
-
-<span class="CharOverride-17">1d </span><span class="CharOverride-13">for each </span><span class="game-term CharOverride-8">Attribute</span><span class="CharOverride-13"> rating.</span>
-</div>
-<div class="_idGenObjectLayout-1">
-	<div id="_idContainer169" class="Basic-Graphics-Frame _idGenObjectStyleOverride-1">
-	</div>
-</div>
-<div class="_idGenObjectLayout-1">
-	<div id="_idContainer174">
-		<div id="_idContainer170" class="Basic-Graphics-Frame _idGenObjectStyleOverride-1">
-		</div>
-		<div id="_idContainer173">
-			<div id="_idContainer171" class="Basic-Graphics-Frame _idGenObjectStyleOverride-5">
-			</div>
-			<div id="_idContainer172" class="_idGenObjectStyleOverride-2">
-			</div>
-		</div>
-	</div>
-</div>
-<div class="_idGenObjectLayout-1">
-	<div id="_idContainer175" class="Basic-Graphics-Frame _idGenObjectStyleOverride-4">
-	</div>
-</div>
-<div id="_idContainer176" class="Basic-Graphics-Frame _idGenObjectStyleOverride-6">
-
-<span class="CharOverride-22">You </span><span class="strong CharOverride-13">reduce</span><span class="CharOverride-22"> or </span><span class="strong CharOverride-13">avoid</span><span class="CharOverride-22"> the effects of the consequence (GM chooses).</span>
-
-<span class="strong CharOverride-13">Suffer 6 stress minus the highest die result.</span>
-
-<span class="game-term CharOverride-8">Critical:</span><span class="CharOverride-22"> Clear 1 stress.</span>
-</div>
-<div id="_idContainer177" class="Basic-Text-Frame">
-
-1
-</div>
-<div id="_idContainer178" class="Basic-Text-Frame">
-
-resistance &amp; armor
-</div>
-<div id="_idContainer179" class="Basic-Text-Frame">
-
-1
-</div>
-<div id="_idContainer180" class="chapter-margin">
-
-<span class="CharOverride-3">the basics</span>
-</div>
-<div id="_idContainer181" class="Basic-Text-Frame">
-
-<a id="_idTextAnchor007"></a>fortune roll
-</div>
-<div id="_idContainer182" class="Basic-Text-Frame">
+# Fortune Roll
 
 The fortune roll is a tool the GM can use to disclaim decision making. You use a fortune roll in two different ways:
 
 **When you need to make a determination about a situation the PCs aren’t directly involved in** and don’t want to simply decide the outcome.
 
-_Two rival gands are fighting. How does that turn out? The GM makes a fortune roll for each of them. One gets a good result but the other gets limited effect. The GM decides that the first gang takes over some of their rivals’ turf but suffer some injuries during the skirmish._
+> Two rival gands are fighting. How does that turn out? The GM makes a fortune roll for each of them. One gets a good result but the other gets limited effect. The GM decides that the first gang takes over some of their rivals’ turf but suffer some injuries during the skirmish.
 
 **When an outcome is uncertain**, but no other roll applies to the situation at hand.
 
-_While pilfering the workshop of an alchemist, Cross is possessed by a vengeful ghost. As control of his body slips away, Cross grabs a random potion bottle and drinks it down. Will the arcane concoction have an effect on the spirit? Will it poison Nock to death? Who knows? The GM makes a fortune roll to see how it turns out. _
+> While pilfering the workshop of an alchemist, Cross is possessed by a vengeful ghost. As control of his body slips away, Cross grabs a random potion bottle and drinks it down. Will the arcane concoction have an effect on the spirit? Will it poison Nock to death? Who knows? The GM makes a fortune roll to see how it turns out.
 
-When you make a fortune roll you may assess **any trait** **rating** to determine the dice pool of the roll.
+When you make a fortune roll you may assess **any trait rating** to determine the dice pool of the roll.
 
 * When a faction takes an action with uncertain outcome, you might use their **Tier** rating to make a fortune roll.
 * When a gang operates independently, use their **quality** rating for a fortune roll.
 * When a supernatural power manifests with uncertain results, you might use its **magnitude** for a fortune roll.
 * When a PC **gathers information**, you might make a fortune roll using their **action rating** to determine the amount of the info they get.
-
 
 If no trait applies, roll 1d for sheer luck or create a dice pool (from one to four) based on the situation at hand. If two parties are directly opposed, make a fortune roll for each side to see how they do, then assess the outcome of the situation by comparing their performance levels.
 
@@ -760,118 +554,9 @@ Other examples of fortune rolls:
 * Inspectors are putting a case together against the PC crew. How quickly will their evidence result in arrests? The crew’s <span class="game-term">wanted level</span> counts as a major advantage for the inspectors.
 * The PCs face off in a skirmish with a veteran demon hunter captain and her crew. The tide of battle goes in the PCs’ favor, and many crew members are killed. One of the players asks if the captain will surrender to spare the rest of her crew’s lives. The GM isn’t sure. How cold-hearted is this veteran hunter? She’s stared giant demons in the eye without flinching... is there anything human left inside her? The GM makes a 2d fortune roll for “human feelings” to see if a spark of compassion remains in heart. If so, maybe one of the PCs can roll to <span class="game-term">Consort</span>, <span class="game-term">Sway</span>, or <span class="game-term">Command</span> her to stand down.
 
-</div>
-<div id="_idContainer183" class="Basic-Text-Frame">
+@TODO table p31
 
-## <span class="CharOverride-16">fortune roll</span>
-</div>
-<div class="_idGenObjectLayout-1">
-	<div id="_idContainer184" class="Basic-Graphics-Frame _idGenObjectStyleOverride-5">
-		<img class="_idGenObjectAttribute-1" src="data:image/jpg;base64,/9j/7QAsUGhvdG9zaG9wIDMuMAA4QklNA+0AAAAAABAAlgAAAAEAAQCWAAAAAQAB/+4AJkFkb2JlAGQAAAAAAQMAEAMDBgkAAAAAAAAAAAAAAAAFAAJJRP/bAIQAAgICAgICAgICAgMCAgIDBAMDAwMEBQQEBAQEBQUFBQUFBQUFBQcICAgHBQkKCgoKCQwMDAwMDAwMDAwMDAwMDAEDAwMHBQcNBwcNDw0NDQ8PDg4ODg8PDAwMDAwPDwwODg4ODA8MEREREREMERERERERERERERERERERERERERER/8IAEQgAJgJrAwERAAIRAQMRAf/EAIwAAQEBAAAAAAAAAAAAAAAAAAAGCgEBAAAAAAAAAAAAAAAAAAAAABAAAwEBAQAAAAAAAAAAAAAAAAUVYEWAEQACAwACAgEFAAAAAAAAAAAABZPUNmARhcUTBDRUNRYSAQAAAAAAAAAAAAAAAAAAAIATAAEDBQEAAAAAAAAAAAAAABGAIVEAIFAxQXH/2gAMAwEAAhADEAAAAM/4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABfkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAX5AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAF+QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABfgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAvD/9oACAECAAEFAfQ3/9oACAEDAAEFAfQ3/9oACAEBAAEFAcbzsbzsbzsbzoy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiQvn//2gAIAQICBj8BQ3//2gAIAQMCBj8BQ3//2gAIAQEBBj8B4b4r2HDvFew4d4r2HDvFewNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA6/qVf6zrv4/r/z++/sT//aAAgBAgMBPxBQ3//aAAgBAwMBPxBQ3//aAAgBAQMBPxBLZJIYMGDBgwYMGDBgwYMGDBgwYMGDBgwYMGDBgwYMGDBsKGDBgwYMGDBgwYMGDBgwYMGDBgwYMGDBgwYMGDBgwYMGtDBgwYNEURHsAtongev/2Q==" alt="" />
-	</div>
-</div>
-<div id="_idContainer185" class="Basic-Text-Frame">
-
-<span class="CharOverride-17">1d </span><span class="CharOverride-13">for each </span><span class="game-term CharOverride-8">Trait</span><span class="CharOverride-13"> rating.</span>
-</div>
-<div class="_idGenObjectLayout-1">
-	<div id="_idContainer190">
-		<div id="_idContainer186" class="Basic-Graphics-Frame _idGenObjectStyleOverride-1">
-		</div>
-		<div id="_idContainer189">
-			<div id="_idContainer187" class="Basic-Graphics-Frame _idGenObjectStyleOverride-5">
-			</div>
-			<div id="_idContainer188" class="_idGenObjectStyleOverride-2">
-			</div>
-		</div>
-	</div>
-</div>
-<div class="_idGenObjectLayout-1">
-	<div id="_idContainer191" class="Basic-Graphics-Frame _idGenObjectStyleOverride-1">
-	</div>
-</div>
-<div id="_idContainer192" class="Basic-Text-Frame">
-
-<span class="CharOverride-17">+1d</span><span class="CharOverride-13"> for each </span><span class="game-term CharOverride-8">Major Advantage</span><span class="strong CharOverride-13">.</span>
-</div>
-<div class="_idGenObjectLayout-1">
-	<div id="_idContainer197">
-		<div id="_idContainer193" class="Basic-Graphics-Frame _idGenObjectStyleOverride-1">
-		</div>
-		<div id="_idContainer196">
-			<div id="_idContainer194" class="Basic-Graphics-Frame _idGenObjectStyleOverride-5">
-			</div>
-			<div id="_idContainer195" class="Basic-Text-Frame">
-
-<span class="CharOverride-18">+</span>
-			</div>
-		</div>
-	</div>
-</div>
-<div id="_idContainer198" class="Basic-Text-Frame">
-
-<span class="CharOverride-17">-1d</span><span class="CharOverride-13"> for each </span><span class="game-term CharOverride-8">Major Disadvantage</span><span class="strong CharOverride-13">.</span>
-</div>
-<div class="_idGenObjectLayout-1">
-	<div id="_idContainer202">
-		<div id="_idContainer199" class="Basic-Graphics-Frame _idGenObjectStyleOverride-1">
-		</div>
-		<div id="_idContainer200" class="Basic-Graphics-Frame _idGenObjectStyleOverride-8">
-		</div>
-		<div id="_idContainer201" class="Basic-Text-Frame">
-
-<span class="CharOverride-18">-</span>
-		</div>
-	</div>
-</div>
-<div class="_idGenObjectLayout-1">
-	<div id="_idContainer203" class="Basic-Graphics-Frame _idGenObjectStyleOverride-4">
-	</div>
-</div>
-<div id="_idContainer204" class="Basic-Graphics-Frame _idGenObjectStyleOverride-6">
-
-<span class="game-term CharOverride-8">Critical:</span><span class="CharOverride-22"> Exceptional result / Great, extreme effect.</span>
-
-<span class="game-term CharOverride-8">6: </span><span class="CharOverride-22">Good result / Standard,  full effect.</span>
-
-<span class="game-term CharOverride-8">4/5:</span><span class="CharOverride-22"> Mixed result / Limited, partial  effect.</span>
-
-<span class="game-term CharOverride-8">1-3:</span><span class="CharOverride-22"> Bad result / Poor, little effect.</span>
-</div>
-<div id="_idContainer205" class="Basic-Text-Frame">
-</div>
-<div class="_idGenObjectLayout-1">
-	<div id="_idContainer206" class="Basic-Graphics-Frame _idGenObjectStyleOverride-1">
-		<img class="_idGenObjectAttribute-1" src="Generic_Character_Playbook-web-resources/image/blades_ink_bg_01_dark1.png" alt="" />
-	</div>
-</div>
-<div id="_idContainer207" class="Basic-Text-Frame">
-
-1
-</div>
-<div class="_idGenObjectLayout-1">
-	<div id="_idContainer209" class="_idGenObjectStyleOverride-1">
-		<div id="_idContainer208" class="Basic-Graphics-Frame _idGenObjectStyleOverride-3">
-		</div>
-	</div>
-</div>
-<div id="_idContainer210" class="Basic-Text-Frame">
-
-fortune roll
-</div>
-<div id="_idContainer211" class="Basic-Text-Frame">
-
-1
-</div>
-<div id="_idContainer212" class="chapter-margin">
-
-<span class="CharOverride-3">the basics</span>
-</div>
-<div id="_idContainer213" class="Basic-Text-Frame">
-
-<a id="_idTextAnchor008"></a>gathering information
-</div>
-<div id="_idContainer214" class="Basic-Text-Frame">
+# Gathering Information
 
 The flow of information from the GM to the players about the fictional world is very important in a roleplaying game. By default, the GM tells the players what their characters perceive, suspect, and intuit. But there’s just too much going on to say _everything_—it would take forever and be boring, too. The players have a tool at their disposal to more fully investigate the fictional world.
 
@@ -887,7 +572,7 @@ The most common gather information actions are <span class="game-term">Surveying
 
 Sometimes, you’ll have to maneuver yourself into position before you can gather information. For example, you might have to <span class="game-term">Prowl</span> to a good hiding place first and then <span class="game-term">Study</span> the cultists when they perform their dark ritual.
 
-investigation
+## Investigation
 
 Some questions are too complex to answer immediately with a single gather information roll. For instance, you might want to discover the network of contraband smuggling routes in the city. In these cases, the GM will tell you to start a **long-term project** that you work on during **downtime**.
 
@@ -895,64 +580,20 @@ You track the investigation project using a progress clock. Once the clock is fi
 
 ## Examples &amp; Questions
 
-		<li class="Bullets ParaOverride-12">You might <span class="game-term">Attune</span> to see echoes of recent spirit activity. _Have any new ghosts been here? How can I find the spirit well that’s calling to them? What should I be worried about?_
-		<li class="Bullets ParaOverride-12">You might <span class="game-term">Command</span> a local barkeep to tell you what he knows about the secret meetings held in his back room. _What’s really going on here? What’s he really feeling about this? Is he part of this secret group?_
-		<li class="Bullets ParaOverride-12">You might <span class="game-term">Consort</span> with a well-connected friend to learn secrets about an enemy, rival, or potential ally. _What do they intend to do? What might I suspect about their motives? How can I discover leverage to manipulate them?_
-		<li class="Bullets ParaOverride-12">You might <span class="game-term">Hunt</span> a courier across the city, to discover who’s receiving satchels of coin from a master duelsit. _Where does the package end up? How can I find out who signed for the package at City Hall?_
-		<li class="Bullets ParaOverride-12">You might <span class="game-term">Study</span> ancient and obscure books to discover an arcane secret. _How can I disable the runes of warding? __Will anyone sense if they’re disabled?_
-		<li class="Bullets ParaOverride-12">Or you might <span class="game-term">Study</span> a person to read their intentions and feelings. _What are they really feeling? How could I get them to trust me?_
-		<li class="Bullets ParaOverride-12">You might <span class="game-term">Survey</span> a manor house to case it for a heist. _What’s a good point of infiltration? What’s the danger here?_
-		<li class="Bullets ParaOverride-12">Or you might <span class="game-term">Survey</span> a charged situation when you meet another gang. _What’s really going on here? Are they about to attack us?_
-		<li class="Bullets ParaOverride-12">You might <span class="game-term">Sway</span> a powerful lord at a party so he divulges his future plans. _What does he intend to do? How can I get him to think I might be a good partner in this venture?_
-		<li class="Bullets ParaOverride-12">Or you might <span class="game-term">Sway</span> his bodyguard to confide in you about recent events. _Where has he been lately? Who’s he been meeting with?_
+* You might <span class="game-term">Attune</span> to see echoes of recent spirit activity. _Have any new ghosts been here? How can I find the spirit well that’s calling to them? What should I be worried about?_
+* You might <span class="game-term">Command</span> a local barkeep to tell you what he knows about the secret meetings held in his back room. _What’s really going on here? What’s he really feeling about this? Is he part of this secret group?_
+* You might <span class="game-term">Consort</span> with a well-connected friend to learn secrets about an enemy, rival, or potential ally. _What do they intend to do? What might I suspect about their motives? How can I discover leverage to manipulate them?_
+* You might <span class="game-term">Hunt</span> a courier across the city, to discover who’s receiving satchels of coin from a master duelsit. _Where does the package end up? How can I find out who signed for the package at City Hall?_
+* You might <span class="game-term">Study</span> ancient and obscure books to discover an arcane secret. _How can I disable the runes of warding? __Will anyone sense if they’re disabled?_
+* Or you might <span class="game-term">Study</span> a person to read their intentions and feelings. _What are they really feeling? How could I get them to trust me?_
+* You might <span class="game-term">Survey</span> a manor house to case it for a heist. _What’s a good point of infiltration? What’s the danger here?_
+* Or you might <span class="game-term">Survey</span> a charged situation when you meet another gang. _What’s really going on here? Are they about to attack us?_
+* You might <span class="game-term">Sway</span> a powerful lord at a party so he divulges his future plans. _What does he intend to do? How can I get him to think I might be a good partner in this venture?_
+* Or you might <span class="game-term">Sway</span> his bodyguard to confide in you about recent events. _Where has he been lately? Who’s he been meeting with?_
 
-</div>
-<div id="_idContainer215" class="Basic-Text-Frame">
+@TODO table p33
 
-## <span class="CharOverride-16">gather information</span>
-</div>
-<div class="_idGenObjectLayout-1">
-	<div id="_idContainer216" class="Basic-Graphics-Frame _idGenObjectStyleOverride-5">
-		<img class="_idGenObjectAttribute-1" src="data:image/jpg;base64,/9j/7QAsUGhvdG9zaG9wIDMuMAA4QklNA+0AAAAAABAAlgAAAAEAAQCWAAAAAQAB/+4AJkFkb2JlAGQAAAAAAQMAEAMDBgkAAAAAAAAAAAAAAAAFAAJJRP/bAIQAAgICAgICAgICAgMCAgIDBAMDAwMEBQQEBAQEBQUFBQUFBQUFBQcICAgHBQkKCgoKCQwMDAwMDAwMDAwMDAwMDAEDAwMHBQcNBwcNDw0NDQ8PDg4ODg8PDAwMDAwPDwwODg4ODA8MEREREREMERERERERERERERERERERERERERER/8IAEQgAJgJrAwERAAIRAQMRAf/EAIwAAQEBAAAAAAAAAAAAAAAAAAAGCgEBAAAAAAAAAAAAAAAAAAAAABAAAwEBAQAAAAAAAAAAAAAAAAUVYEWAEQACAwACAgEFAAAAAAAAAAAABZPUNmARhcUTBDRUNRYSAQAAAAAAAAAAAAAAAAAAAIATAAEDBQEAAAAAAAAAAAAAABGAIVEAIFAxQXH/2gAMAwEAAhADEAAAAM/4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABfkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAX5AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAF+QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABfgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAvD/9oACAECAAEFAfQ3/9oACAEDAAEFAfQ3/9oACAEBAAEFAcbzsbzsbzsbzoy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiQvn//2gAIAQICBj8BQ3//2gAIAQMCBj8BQ3//2gAIAQEBBj8B4b4r2HDvFew4d4r2HDvFewNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA6/qVf6zrv4/r/z++/sT//aAAgBAgMBPxBQ3//aAAgBAwMBPxBQ3//aAAgBAQMBPxBLZJIYMGDBgwYMGDBgwYMGDBgwYMGDBgwYMGDBgwYMGDBsKGDBgwYMGDBgwYMGDBgwYMGDBgwYMGDBgwYMGDBgwYMGtDBgwYNEURHsAtongev/2Q==" alt="" />
-	</div>
-</div>
-<div id="_idContainer217" class="Basic-Text-Frame">
-
-_Ask a question and make an action roll or a fortune roll. The GM answers you honestly, with a level of detail depending on the effect level._
-</div>
-<div class="_idGenObjectLayout-1">
-	<div id="_idContainer218" class="Basic-Graphics-Frame _idGenObjectStyleOverride-4">
-	</div>
-</div>
-<div id="_idContainer219" class="Basic-Graphics-Frame _idGenObjectStyleOverride-6">
-
-<span class="game-term">Great</span>: You get exceptional details. The information is complete and follow-up questions may expand into related areas or reveal more than you hoped for.
-
-<span class="game-term">Standard</span>: You get good details. Clarifying and follow-up questions are possible.
-
-<span class="game-term">Limited</span>: You get incomplete or partial information. More information gathering will be needed to get all the answers.
-</div>
-<div id="_idContainer220" class="Basic-Text-Frame">
-
-1
-</div>
-<div id="_idContainer221" class="Basic-Text-Frame">
-
-gathering  information
-</div>
-<div id="_idContainer222" class="Basic-Text-Frame">
-
-1
-</div>
-<div id="_idContainer223" class="chapter-margin">
-
-<span class="CharOverride-3">the basics</span>
-</div>
-<div id="_idContainer224" class="Basic-Text-Frame">
-
-coin &amp; stash
-</div>
-<div id="_idContainer225" class="Basic-Text-Frame">
+# Coin and Stash
 
 ## Coin
 
@@ -960,30 +601,28 @@ coin &amp; stash
 
 The few bits PCs use in their daily lives are not tracked. If a character wants to spend to achieve a small goal (bribe a doorman), use the PC’s **lifestyle quality** for a fortune roll.
 
-monetary values
+## Monetary values
 
-		<li class="Bullets ParaOverride-13"><span class="game-term">1 coin: </span>A full purse of silver pieces. A week’s wages.
-		<li class="Bullets ParaOverride-13"><span class="game-term">2 coin:</span> A fine weapon. A weekly income for a small business. A fine piece of art. A set of luxury clothes.
-		<li class="Bullets ParaOverride-13"><span class="game-term">4 coin:</span> A satchel full of silver. A month’s wages.
-		<li class="Bullets ParaOverride-13"><span class="game-term">6 coin:</span> An exquisite jewel. A heavy burden of silver pieces.
-		<li class="Bullets ParaOverride-13"><span class="game-term">8 coin:</span> A good monthly take for a small business. A small safe full of coins and valuables. A very rare luxury commodity.
-		<li class="Bullets ParaOverride-13"><span class="game-term">10 coin:</span> Liquidating a significant asset—a carriage and goats, a horse, a deed to a small property.
+* <span class="game-term">1 coin: </span>A full purse of silver pieces. A week’s wages.
+* <span class="game-term">2 coin:</span> A fine weapon. A weekly income for a small business. A fine piece of art. A set of luxury clothes.
+* <span class="game-term">4 coin:</span> A satchel full of silver. A month’s wages.
+* <span class="game-term">6 coin:</span> An exquisite jewel. A heavy burden of silver pieces.
+* <span class="game-term">8 coin:</span> A good monthly take for a small business. A small safe full of coins and valuables. A very rare luxury commodity.
+* <span class="game-term">10 coin:</span> Liquidating a significant asset—a carriage and goats, a horse, a deed to a small property.
 
-
-More than 4<span class="CharOverride-4"> </span><span class="game-term">coin</span> is an impractical amount to keep lying around. You must spend the excess or put it in your **stash** (see below). A crew can also store 4<span class="game-term CharOverride-5"> </span><span class="game-term">coin</span> in their lair, by default. If they upgrade to a **vault**, they can expand their stores to <span class="game-term CharOverride-15">8</span> and then 16 <span class="game-term">coin</span>. Any <span class="game-term">coin</span> beyond their limit must be spent as soon as possible (typically before the next score) or distributed among the crew members.
+More than 4<span class="game-term">coin</span> is an impractical amount to keep lying around. You must spend the excess or put it in your **stash** (see below). A crew can also store 4<span class="game-term CharOverride-5"> </span><span class="game-term">coin</span> in their lair, by default. If they upgrade to a **vault**, they can expand their stores to <span class="game-term CharOverride-15">8</span> and then 16 <span class="game-term">coin</span>. Any <span class="game-term">coin</span> beyond their limit must be spent as soon as possible (typically before the next score) or distributed among the crew members.
 
 One unit of <span class="game-term">coin</span> in silver pieces or other bulk currency takes up one item slot for your **load** when carried.
 
-coin use
+### Coin Use
 
-		<li class="Bullets ParaOverride-12">Spend 1 <span class="game-term">coin</span> to get an additional **activity** during **downtime**.
-		<li class="Bullets ParaOverride-12">Spend 1 <span class="game-term">coin</span> to increase the result level of a **downtime activity** roll.
-		<li class="Bullets ParaOverride-12">Spend <span class="game-term">coin</span> to avoid certain crew **entanglements**.
-		<li class="Bullets ParaOverride-12">Put <span class="game-term">coin</span> in your character’s **stash** to improve their lifestyle and circumstances when they retire. See the next page.
-		<li class="Bullets ParaOverride-12">Spend <span class="game-term">coin</span> when you advance your crew’s **Tier**.
+* Spend 1 <span class="game-term">coin</span> to get an additional **activity** during **downtime**.
+* Spend 1 <span class="game-term">coin</span> to increase the result level of a **downtime activity** roll.
+* Spend <span class="game-term">coin</span> to avoid certain crew **entanglements**.
+* Put <span class="game-term">coin</span> in your character’s **stash** to improve their lifestyle and circumstances when they retire. See the next page.
+* Spend <span class="game-term">coin</span> when you advance your crew’s **Tier**.
 
-
-## <a id="_idTextAnchor009"></a>Stash &amp; Retirement
+## Stash &amp; Retirement
 
 When you mark your character’s final <span class="game-term">trauma</span> and they retire, the amount of <span class="game-term">coin</span> they’ve managed to stash away determines their fate. Your stash tracker is on your character sheet.
 
@@ -992,111 +631,57 @@ When you mark your character’s final <span class="game-term">trauma</span> and
 * **Stash 21-39: Modest.** A simple home or apartment, with some small comforts. You might operate a tavern or small business.
 * **Stash 40: Fine.** A well-appointed home or apartment, claiming a few luxuries. You might operate a medium business.
 
-
 In addition, each full row of stash (10 <span class="game-term">coins</span>) indicates the **quality level of the character’s lifestyle**, from zero (street life) to four (luxury).
 
-_Cross wants some alone-time with a prospective new friend, but he can’t take them back to the hidden lair where he lives, so what to do? Ryan, Cross’s player, says he wants to rent a nice room for the evening, so the GM asks for a fortune roll using Cross’s lifestyle rating to see what quality of room Cross can manage._
+> Cross wants some alone-time with a prospective new friend, but he can’t take them back to the hidden lair where he lives, so what to do? Ryan, Cross’s player, says he wants to rent a nice room for the evening, so the GM asks for a fortune roll using Cross’s lifestyle rating to see what quality of room Cross can manage.
 
-removing coin from your stash
+### Removing coin from your stash
 
 If you want to pull <span class="game-term">coin</span> out of your stash, you may do so, at a cost. Your character sells off some of their assets and investments in order to get some quick cash. **For every 2 stash removed, you get 1 **<span class="game-term">coin</span>** in cash.**
-</div>
-<div id="_idContainer226" class="Basic-Text-Frame">
-</div>
-<div class="_idGenObjectLayout-1">
-	<div id="_idContainer227" class="Basic-Graphics-Frame _idGenObjectStyleOverride-1">
-		<img class="_idGenObjectAttribute-1" src="Generic_Character_Playbook-web-resources/image/blades_ink_bg_01_dark1.png" alt="" />
-	</div>
-</div>
-<div id="_idContainer228" class="Basic-Text-Frame">
 
-1
-</div>
-<div class="_idGenObjectLayout-1">
-	<div id="_idContainer230" class="_idGenObjectStyleOverride-1">
-		<div id="_idContainer229" class="Basic-Graphics-Frame _idGenObjectStyleOverride-3">
-		</div>
-	</div>
-</div>
-<div id="_idContainer231" class="Basic-Text-Frame">
+# The Faction Game
 
-coin &amp; stash
-</div>
-<div id="_idContainer232" class="Basic-Text-Frame">
-
-1
-</div>
-<div id="_idContainer233" class="chapter-margin">
-
-<span class="CharOverride-3">the basics</span>
-</div>
-<div id="_idContainer234" class="Basic-Text-Frame">
-
-<a id="_idTextAnchor010"></a>the faction game
-</div>
-<div id="_idContainer235" class="Basic-Text-Frame">
-
-Tier
+## Tier
 
 Each notable faction is ranked by **Tier**—a measure of wealth, influence, and scale. At the highest level are the Tier V and VI factions, the true powers of the city. Your crew begins at Tier 0.
 
 You’ll use your Tier rating to roll dice when you acquire an asset, as well as for any fortune roll for which your crew’s overall power level and influence is the primary trait. Most importantly, your Tier determines the **quality level** of your items as well as the quality and **scale** of the gangs your crew employs—and thereby what size of enemy you can expect to handle.
 
-gang scale by tier
+### Gang scale by tier
 
-		<li class="Bullets ParaOverride-27"><span class="game-term">tier v</span>. Massive gangs. (80 people)
-		<li class="Bullets ParaOverride-27"><span class="game-term">tier iv</span>. Huge gangs. (40 people)
-		<li class="Bullets ParaOverride-27"><span class="game-term">tier iii</span>. Large gangs. (20 people)
-		<li class="Bullets ParaOverride-27"><span class="game-term">tier ii</span>. Medium gangs. (12 people)
-		<li class="Bullets ParaOverride-27"><span class="game-term">tier i</span>. Small gangs. (3-6 people)
-		<li class="Bullets ParaOverride-27"><span class="game-term">tier 0</span>. 1 or 2 people
+* <span class="game-term">tier v</span>. Massive gangs. (80 people)
+* <span class="game-term">tier iv</span>. Huge gangs. (40 people)
+* <span class="game-term">tier iii</span>. Large gangs. (20 people)
+* <span class="game-term">tier ii</span>. Medium gangs. (12 people)
+* <span class="game-term">tier i</span>. Small gangs. (3-6 people)
+* <span class="game-term">tier 0</span>. 1 or 2 people
 
-
-Hold
+## Hold
 
 On the faction ladder next to the Tier numbers is a letter indicating the strength of each faction’s **hold**. <span class="CharOverride-15">Hold</span> represents how well a faction can maintain their current position on the ladder. W indicates **weak** hold. S indicates **strong** hold. Your crew begins with **strong** hold at **Tier 0**.
 
-## <a id="_idTextAnchor011"></a>development
+## Development
 
 To move up the ladder and develop your crew, you need <span class="game-term">rep</span>. <span class="game-term">Rep</span> is a measure of clout and renown. When you accrue enough <span class="game-term">rep</span>, the other factions take you more seriously and you attract the support needed to develop and grow.
 
-When you complete a score, your crew earns **2 **<span class="game-term">rep</span>. If the target of the score is higher Tier than your crew, you get **+1 **<span class="game-term">rep</span>** per Tier higher**. If the target of the score is lower Tier, you get **-1 **<span class="game-term">rep</span>** per Tier lower** (minimum zero).
+When you complete a score, your crew earns **2 **<span class="game-term">rep</span>. If the target of the score is higher Tier than your crew, you get **+1 **<span class="game-term">rep</span>** per Tier higher**. If the target of the score is lower Tier, you get **-1 <span class="game-term">rep</span>** per Tier lower** (minimum zero).
 
-You need **12 **<span class="game-term">rep</span> to fill the <span class="game-term">rep</span> tracker on your crew sheet. When you fill the tracker, do one of the following:
+You need **12 <span class="game-term">rep</span>** to fill the <span class="game-term">rep</span> tracker on your crew sheet. When you fill the tracker, do one of the following:
 
 * If your hold is weak, it becomes strong. **Reset your **<span class="game-term">rep</span>** to zero**.
 * If your hold is strong, you can pay to increase your crew Tier by one. This costs <span class="game-term">coin</span> equal to your **new Tier x 8**. As long as your <span class="game-term">rep</span> tracker is full, you don’t earn new <span class="game-term">rep</span> (12 is the max). Once you pay and increase your Tier, **reset your **<span class="game-term">rep</span>** to zero** and **reduce your hold to weak**.
-
-</div>
-<div id="_idContainer236" class="Basic-Text-Frame">
 
 ## Turf
 
 Another way to contribute to the crew’s development is by acquiring **turf**. When you seize and hold territory, you establish a more stable basis for your <span class="game-term">rep</span>. Each piece of turf that you claim represents abstracted support for the crew (often a result of the fear you instill in the citizens on that turf).
 
 Turf is marked on your <span class="game-term">rep</span> tracker (see the example below). Each piece of turf you hold reduces the <span class="game-term">rep</span> cost to develop by one. So, if you have 2 turf, you need 10 <span class="game-term">rep</span> to develop. If you have 4 turf, you need 8 <span class="game-term">rep</span> to develop. **You can hold a maximum of 6 turf.** When you develop and reset your <span class="game-term">rep</span>, **you keep the marks from all the turf you hold.**
-</div>
-<div class="_idGenObjectLayout-1">
-	<div id="_idContainer237" class="Basic-Graphics-Frame _idGenObjectStyleOverride-4">
-	</div>
-</div>
-<div id="_idContainer238" class="Basic-Text-Frame">
 
-<span class="CharOverride-29">If you hold 3 pieces of turf, you need only 9 </span><span class="game-term CharOverride-8">rep</span><span class="CharOverride-29"> to develop, instead of 12. </span>
-</div>
-<div id="_idContainer239" class="Basic-Text-Frame">
-
-<span class="CharOverride-29">When you develop, you’ll clear the 9 </span><span class="game-term CharOverride-8">rep</span><span class="CharOverride-29"> marks, but keep the 3 turf marks. Mark turf on the right side, to show the “cap” on how much </span><span class="game-term CharOverride-8">rep</span><span class="CharOverride-29"> is needed.</span>
-</div>
-<div class="_idGenObjectLayout-1">
-	<div id="_idContainer240" class="Basic-Graphics-Frame _idGenObjectStyleOverride-4">
-	</div>
-</div>
-<div id="_idContainer241" class="Basic-Text-Frame">
+@TODO table p37
 
 Also, when you acquire turf, you expand the scope of your crew’s **hunting grounds**.
 
-reducing hold
+### Reducing hold
 
 You may perform an operation specifically to reduce the hold of another faction, if you know how they’re vulnerable. If the operation succeeds, the target faction loses 1 level of hold. If their hold is weak and it drops, the faction loses 1 Tier and stays weak.
 
@@ -1104,147 +689,35 @@ When a faction is at war, it temporarily loses 1 hold.
 
 Your crew can lose hold, too, following the same rules above. If your crew is Tier 0, with weak hold, and you lose hold for any reason, your lair comes under threat by your enemies or by a faction seeking to profit from your misfortune.
 
-## <a id="_idTextAnchor012"></a>Faction Status
+## Faction Status
 
 Your crew’s **status** with each faction indicates how well you are liked or hated. Status is rated from -3 to +3, with zero (neutral) being the default starting status. You track your status with each faction on the faction sheet.
 
 When you create your crew, you assign some positive and negative status ratings to reflect recent history. The ratings will then change over time based on your actions in play.
 
-faction status changes
+### Faction status changes
 
 When you execute an operation, you gain -1 or -2 status with factions that are hurt by your actions. You may also gain +1 status with a faction that your operation helps. (If you keep your operation completely quiet then your status doesn’t change.) Your status may also change if you do a favor for a faction or if you refuse one of their demands.
-</div>
-<div class="_idGenObjectLayout-1">
-	<div id="_idContainer285">
-		<div id="_idContainer281">
-			<div id="_idContainer242" class="Basic-Graphics-Frame _idGenObjectStyleOverride-9">
-			</div>
-			<div id="_idContainer243" class="Basic-Graphics-Frame _idGenObjectStyleOverride-5">
 
-<span class="CharOverride-30">rep</span>
-			</div>
-			<div id="_idContainer246">
-				<div id="_idContainer244" class="Basic-Graphics-Frame _idGenObjectStyleOverride-10">
-				</div>
-				<div id="_idContainer245" class="Basic-Graphics-Frame _idGenObjectStyleOverride-11">
-				</div>
-			</div>
-			<div id="_idContainer249">
-				<div id="_idContainer247" class="Basic-Graphics-Frame _idGenObjectStyleOverride-10">
-				</div>
-				<div id="_idContainer248" class="Basic-Graphics-Frame _idGenObjectStyleOverride-11">
-				</div>
-			</div>
-			<div id="_idContainer252">
-				<div id="_idContainer250" class="Basic-Graphics-Frame _idGenObjectStyleOverride-10">
-				</div>
-				<div id="_idContainer251" class="Basic-Graphics-Frame _idGenObjectStyleOverride-11">
-				</div>
-			</div>
-			<div id="_idContainer255">
-				<div id="_idContainer253" class="Basic-Graphics-Frame _idGenObjectStyleOverride-10">
-				</div>
-				<div id="_idContainer254" class="Basic-Graphics-Frame _idGenObjectStyleOverride-11">
-				</div>
-			</div>
-			<div id="_idContainer258">
-				<div id="_idContainer256" class="Basic-Graphics-Frame _idGenObjectStyleOverride-10">
-				</div>
-				<div id="_idContainer257" class="Basic-Graphics-Frame _idGenObjectStyleOverride-11">
-				</div>
-			</div>
-			<div id="_idContainer261">
-				<div id="_idContainer259" class="Basic-Graphics-Frame _idGenObjectStyleOverride-10">
-				</div>
-				<div id="_idContainer260" class="Basic-Graphics-Frame _idGenObjectStyleOverride-11">
-				</div>
-			</div>
-			<div id="_idContainer264">
-				<div id="_idContainer262" class="Basic-Graphics-Frame _idGenObjectStyleOverride-12">
-				</div>
-				<div id="_idContainer263" class="Basic-Graphics-Frame _idGenObjectStyleOverride-4">
-				</div>
-			</div>
-			<div id="_idContainer267">
-				<div id="_idContainer265" class="Basic-Graphics-Frame _idGenObjectStyleOverride-12">
-				</div>
-				<div id="_idContainer266" class="Basic-Graphics-Frame _idGenObjectStyleOverride-4">
-				</div>
-			</div>
-			<div id="_idContainer270">
-				<div id="_idContainer268" class="Basic-Graphics-Frame _idGenObjectStyleOverride-12">
-				</div>
-				<div id="_idContainer269" class="Basic-Graphics-Frame _idGenObjectStyleOverride-4">
-				</div>
-			</div>
-			<div id="_idContainer273">
-				<div id="_idContainer271" class="Basic-Graphics-Frame _idGenObjectStyleOverride-12">
-				</div>
-				<div id="_idContainer272" class="Basic-Graphics-Frame _idGenObjectStyleOverride-4">
-				</div>
-			</div>
-			<div id="_idContainer276">
-				<div id="_idContainer274" class="Basic-Graphics-Frame _idGenObjectStyleOverride-12">
-				</div>
-				<div id="_idContainer275" class="Basic-Graphics-Frame _idGenObjectStyleOverride-4">
-				</div>
-			</div>
-			<div id="_idContainer279">
-				<div id="_idContainer277" class="Basic-Graphics-Frame _idGenObjectStyleOverride-12">
-				</div>
-				<div id="_idContainer278" class="Basic-Graphics-Frame _idGenObjectStyleOverride-4">
-				</div>
-			</div>
-			<div id="_idContainer280" class="Basic-Graphics-Frame _idGenObjectStyleOverride-12">
+### Faction status levels
 
-<span class="CharOverride-31">turf</span>
-			</div>
-		</div>
-		<div id="_idContainer282" class="Basic-Graphics-Frame _idGenObjectStyleOverride-13">
-		</div>
-		<div id="_idContainer283" class="Basic-Graphics-Frame _idGenObjectStyleOverride-13">
-		</div>
-		<div id="_idContainer284" class="Basic-Graphics-Frame _idGenObjectStyleOverride-13">
-		</div>
-	</div>
-</div>
-<div id="_idContainer286" class="Basic-Text-Frame">
+* **+3: **Allies**. This faction will help you even if it’s not in their best interest to do so. They expect you to do the same for them.
+* **+2: **Friendly**.** This faction will help you if it doesn’t create serious problems for them. They expect you to do the same.
+* **+1: **Helpful**.** This faction will help you if it causes no problems or significant cost for them. They expect the same from you.
+* **0: **Neutral**
+* **-1: **Interfering**.** This faction will look for opportunities to cause trouble for you (or profit from your misfortune) as long as it causes no problems or significant cost for them. They expect the same from you.
+* **-2: **Hostile**.** This faction will look for opportunities to hurt you as long as it doesn’t create serious problems for them. They expect you to do the same, and take precautions against you.
+* **-3: **War**.** This faction will go out of its way to hurt you even if it’s not in their best interest to do so. They expect you to do the same, and take precautions against you. When you’re at war with any number of factions, your crew suffers +1 <span class="game-term">heat</span> from scores, temporarily loses 1 hold, and PCs get only one downtime action rather than two. You can end a war by eliminating your enemy or by negotiating a mutual agreement to establish a new status rating.
 
-1
-</div>
-<div id="_idContainer287" class="Basic-Text-Frame">
+> If your crew has weak hold when you go to war, the temporary loss of hold causes you to lose one Tier. When the war is over, restore your crew’s Tier back to its pre-war level.
 
-the faction game
-</div>
-<div id="_idContainer288" class="Basic-Text-Frame">
-
-1
-</div>
-<div id="_idContainer289" class="chapter-margin">
-
-<span class="CharOverride-3">the basics</span>
-</div>
-<div id="_idContainer290" class="Basic-Text-Frame">
-
-<span class="CharOverride-14">faction status levels</span>
-
-* **+3: **Allies**. **This faction will help you even if it’s not in their best interest to do so. They expect you to do the same for them.
-		<li class="Bullets ParaOverride-28">**+2: **Friendly**.** This faction will help you if it doesn’t create serious problems for them. They expect you to do the same.
-		<li class="Bullets ParaOverride-28">**+1: **Helpful**.** This faction will help you if it causes no problems or significant cost for them. They expect the same from you.
-		<li class="Bullets ParaOverride-28">**0: **Neutral**
-		<li class="Bullets ParaOverride-28">**-1: **Interfering**.** This faction will look for opportunities to cause trouble for you (or profit from your misfortune) as long as it causes no problems or significant cost for them. They expect the same from you.
-		<li class="Bullets ParaOverride-28">**-2: **Hostile**.** This faction will look for opportunities to hurt you as long as it doesn’t create serious problems for them. They expect you to do the same, and take precautions against you.
-		<li class="Bullets ParaOverride-28">**-3: **War**.** This faction will go out of its way to hurt you even if it’s not in their best interest to do so. They expect you to do the same, and take precautions against you. When you’re at war with any number of factions, your crew suffers +1 <span class="game-term">heat</span> from scores, temporarily loses 1 hold, and PCs get only one downtime action rather than two. You can end a war by eliminating your enemy or by negotiating a mutual agreement to establish a new status rating.
-_If your crew has weak hold when you go to war, the temporary loss of hold causes you to lose one Tier. When the war is over, restore your crew’s Tier back to its pre-war level._
-
-
-## <a id="_idTextAnchor013"></a>Claims
+## Claims
 
 Each crew sheet has a map of claims available to be seized. The claim map displays a default roadmap for your crew type. Claims should usually be seized in an orderly sequence, by following the paths from the central square, the crew’s lair.
 
 _However, you may attempt to seize any claim on your map_, ignoring the paths (or even seek out a special claim not on your map) but these operations will always be especially difficult and require exceptional efforts to discover and achieve.
 
-seizing a claim
+### Seizing a claim
 
 Every claim is already controlled by a faction. To acquire one for yourself, you have to take it from someone else. To seize a claim, tell the GM which claim on your map your crew intends to capture. The GM will detail the claim with a location and a description and will tell you which faction currently controls that claim. Or the GM might offer you a choice of a few options if they’re available.
 
@@ -1256,31 +729,11 @@ Seizing a claim is a serious attack on a faction, usually resulting in -2 factio
 
 As soon as you seize a claim, you enjoy the listed benefit for as long as you hold the claim. Some claims count as **turf**. Others provide special benefits to the crew, such as bonus dice in certain circumstances, extra <span class="game-term">coin</span> generated for the crew’s treasury, or new opportunities for action.
 
-losing a claim
+### Losing a claim
 
 An enemy faction may try to seize a claim that your crew holds. You can fight to defend it, or negotiate a deal with the faction, depending on the situation. If you lose a claim, you lose all the benefits of that claim. If your lair is lost, you lose the benefits of all of your claims until you can restore your lair or establish a new one. To restore or establish a new lair, accomplish a score to do so.
-</div>
-<div id="_idContainer291" class="Basic-Text-Frame">
 
-1
-</div>
-<div id="_idContainer292" class="Basic-Text-Frame">
-
-FACTION STATUS LEVELS, CLAIMS
-</div>
-<div id="_idContainer293" class="Basic-Text-Frame">
-
-1
-</div>
-<div id="_idContainer294" class="chapter-margin">
-
-<span class="CharOverride-3">the basics</span>
-</div>
-<div id="_idContainer295" class="Basic-Text-Frame">
-
-<a id="_idTextAnchor014"></a>advancement
-</div>
-<div id="_idContainer296" class="Basic-Text-Frame">
+# Advancement
 
 ## PC Advancement
 
@@ -1290,10 +743,9 @@ During the game session, mark xp:
 
 * When you make a **desperate action roll**. Mark 1 xp in the attribute for the action you rolled. For example, if you roll a desperate <span class="game-term">Skirmish</span> action, you mark xp in <span class="game-term">Prowess</span>_._ When you roll in a **group action** that’s desperate, you also mark xp.
 
-
 At the end of the session, review the **xp triggers** on your character sheet. For each one, mark 1 xp if it happened at all, or mark 2 xp if it happened a lot during the session. The xp triggers are:
 
-* **Your playbook-specific xp trigger**. For example, the Cutter’s is _“Address a challenge with violence or coercion.” _To “address a challenge,” your character should attempt to overcome a tough obstacle or threat. It doesn’t matter if the action is successful or not. You get xp either way.
+* **Your playbook-specific xp trigger**. For example, the Cutter’s is _“Address a challenge with violence or coercion.”_ To “address a challenge,” your character should attempt to overcome a tough obstacle or threat. It doesn’t matter if the action is successful or not. You get xp either way.
 * **You expressed your beliefs, drives, heritage, or background.** Your character’s beliefs and drives are yours to define, session to session. Feel free to tell the group about them when you mark xp.
 * **You struggled with issues from your vice or traumas**. Mark xp for this if your vice tempted you to some bad action or if a trauma condition caused you trouble. Simply indulging your vice doesn’t count as struggling with it (unless you **overindulge**).
 
@@ -1302,7 +754,7 @@ You may mark end-of-session xp on any xp tracks you want (any attribute or your 
 
 When you fill an xp track, clear all the marks and take an **advance**. When you take an advance from your playbook track, you may choose an additional **special ability**. When you take an advance from an attribute, you may add an **additional action dot** to one of the actions under that attribute.
 
-_Nadja is playing a Hound. At the end of the session, she reviews her xp triggers and tells the group how much xp she’s getting. She rolled two desperate _<span class="game-term">Hunt</span>_ actions during the session, so she marked 2 xp on her _<span class="game-term">Insight</span>_ xp track. She addressed several challenges with tracking or violence, so she marks 2 xp for that. She expressed her Iruvian heritage many times when dealing with the Red Sashes, so she takes 2 xp for that. She also showcased her character’s beliefs, but 2 xp is the maximum for that category, so she doesn’t get any more. She didn’t struggle with her vice or traumas, so no xp there. That’s 4 xp at the end of the session. She decides to put it all in her _<span class="game-term">Insight</span>_ xp track. This fills the track, so she adds a new action dot in _<span class="game-term">Hunt</span>_._
+> Nadja is playing a Hound. At the end of the session, she reviews her xp triggers and tells the group how much xp she’s getting. She rolled two desperate <span class="game-term">Hunt</span> actions during the session, so she marked 2 xp on her <span class="game-term">Insight</span> xp track. She addressed several challenges with tracking or violence, so she marks 2 xp for that. She expressed her Iruvian heritage many times when dealing with the Red Sashes, so she takes 2 xp for that. She also showcased her character’s beliefs, but 2 xp is the maximum for that category, so she doesn’t get any more. She didn’t struggle with her vice or traumas, so no xp there. That’s 4 xp at the end of the session. She decides to put it all in her <span class="game-term">Insight</span> xp track. This fills the track, so she adds a new action dot in <span class="game-term">Hunt</span>.
 
 You can also earn xp by **training** during downtime. When you train, mark xp in one of your attributes or in your playbook. A given xp track can be trained only once per downtime phase.
 
@@ -1310,7 +762,7 @@ You can also earn xp by **training** during downtime. When you train, mark xp in
 
 At the end of the session, review the crew xp triggers and mark 1 crew xp for each item that occurred during the session. If an item occurred multiple times or in a major way, mark 2 crew xp for it. The crew xp triggers are:
 
-* **Your crew-specific xp trigger**. For example, the Smugglers’ is _“Execute a smuggling operation or acquire new clients or contraband sources.” _If the crew successfully completed an operation from this trigger, mark xp.
+* **Your crew-specific xp trigger**. For example, the Smugglers’ is _“Execute a smuggling operation or acquire new clients or contraband sources.”_ If the crew successfully completed an operation from this trigger, mark xp.
 * **Contend with challenges above your current station.** If you tangled with higher Tiers or more dangerous opposition, mark xp for this.
 * **Bolster your crew’s reputation or develop a new one.** Review your crew’s reputation. Did you do anything to promote it? Also mark xp if you developed a new reputation for the crew.
 * **Express the goals, drives, inner conflict, or essential nature of the crew.** This one is very broad! Essentially, did anything happen that highlighted the specific elements that make your crew unique?
@@ -1318,72 +770,25 @@ At the end of the session, review the crew xp triggers and mark 1 crew xp for ea
 
 **When you fill your crew advancement tracker**, clear the marks and take a new **special ability **or mark **two crew upgrade boxes**.
 
-_For example, when a crew of Assassins earns a crew advance, they could take a new special ability, like _<span class="CharOverride-23">Predators</span>_. Or they could mark two upgrades, like _<span class="CharOverride-23">Ironhook Contacts</span>_ and _<span class="CharOverride-23">Resolve</span>_ _<span class="CharOverride-23">Training</span>_._
+> For example, when a crew of Assassins earns a crew advance, they could take a new special ability, like **Predators**. Or they could mark two upgrades, like **Ironhook Contacts** and **Resolve** **Training**.
 
 Say how you’ve obtained this new ability or upgrades for the crew. _Where did it come from? How does it become a new part of the crew?_
 
-profits
+### Profits
 
 Every time the crew advances, **each PC gets** **s**tash** equal to the crew Tier+2, to represent profits generated by the crew as they’ve been operating.
-</div>
-<div id="_idContainer297" class="Basic-Text-Frame">
 
-1
-</div>
-<div id="_idContainer298" class="Basic-Text-Frame">
+# Characters
 
-advancement
-</div>
-<div class="_idGenObjectLayout-1">
-	<div id="_idContainer303" class="_idGenObjectStyleOverride-1">
-		<div id="_idContainer302">
-			<div id="_idContainer300" class="_idGenObjectStyleOverride-1">
-				<div id="_idContainer299" class="_idGenObjectStyleOverride-1">
-					<img class="_idGenObjectAttribute-1" src="Generic_Character_Playbook-web-resources/image/blades_ink_bg_01_dark2.png" alt="" />
-				</div>
-			</div>
-			<div id="_idContainer301" class="Basic-Text-Frame">
-
-2
-			</div>
-		</div>
-	</div>
-</div>
-<div class="_idGenObjectLayout-1">
-	<div id="_idContainer305" class="_idGenObjectStyleOverride-1">
-		<div id="_idContainer304" class="_idGenObjectStyleOverride-2">
-		</div>
-	</div>
-</div>
-<div id="_idContainer306" class="Basic-Text-Frame">
-
-<span class="CharOverride-1">chapter 2</span>
-
-<a id="_idTextAnchor015"></a>characters
-</div>
-<div id="_idContainer307" class="Basic-Text-Frame">
-
-## characters
+## Characters
 
 Every player character is familiar with all of the various feats of skulduggery represented by the **actions** of the game. They’re all able to <span class="game-term">Skirmish</span> in a knife-fight, <span class="game-term">Prowl</span> in the shadows, <span class="game-term">Attune</span> to strange energy, <span class="game-term">Consort</span> with contacts for information, and so on.
 
 Of course, you’ll also have your specializations and skills, the qualities that make your character uniquely effective. You might want the ability to compel obedience from ghosts and channel arcane energy through your body, or maybe you want to manipulate the network of the underworld to your advantage and see danger before it strikes, or maybe you just want to be the deadliest fighter with a blade. In this chapter, you’ll learn how to create your own unique scoundrel and choose the abilities that suit the style of play you prefer.
-</div>
-<div id="_idContainer308" class="Basic-Text-Frame">
 
-2
-</div>
-<div id="_idContainer309" class="chapter-margin">
+## Character creation
 
-<span class="CharOverride-3">characters</span>
-</div>
-<div id="_idContainer310" class="Basic-Text-Frame">
-
-character creation
-</div>
-<div id="_idContainer311" class="Basic-Text-Frame">
-
-create playbooks
+### Create playbooks
 
 A playbook is what we call the sheet with all the specific rules to play a certain character type in a Blades-powered game. For example, you might create a playbook called a **Soldier**, with special abilities related to battle, or a playbook called a **Medic**, with special abilities related to field medicine.
 
@@ -1393,101 +798,64 @@ This is why we call them “playbooks” rather than “character classes” or 
 
 Once you’ve chosen your playbook, follow the steps below to complete your character.
 
-choose a heritage
+## Choose a heritage
 
 Your character’s **heritage** describes where their family line is from. When you choose a heritage, write a detail about your family life on the line above.
 
-<span class="CharOverride-14">choose a background</span>
+## Choose a background
 
 Your character’s **background** describes what they did before they joined the crew. Choose a background and then write a detail about it that’s specific to your character.
 
-<span class="CharOverride-14">assign four action dots</span>
+## Assign four action dots
 
 Your playbook begins with three action dots already placed. You get to add four more dots (so you’ll have seven total). At the start of the game, no action rating may have more than two dots (unless a special ability tells you otherwise). Assign your four dots like this:
 
-		<li class="Bullets ParaOverride-15">Put one dot in any action that you feel reflects your character’s **heritage**.
-		<li class="Bullets ParaOverride-15">Put one dot in any action that you feel reflects your character’s **background**.
-		<li class="Bullets ParaOverride-15">Assign two more dots anywhere you please (max rating is 2, remember).
+* Put one dot in any action that you feel reflects your character’s **heritage**.
+* Put one dot in any action that you feel reflects your character’s **background**.
+* Assign two more dots anywhere you please (max rating is 2, remember).
 
-
-choose a special ability
+## Choose a special ability
 
 Take a look at the special abilities for your playbook and choose one. If you can’t decide which one to pick, go with the first one on the list—it’s placed there as a good default choice.
 
-Special Armor
+### Special Armor
 
 Some special abilities refer to your **special armor**. Each character sheet has a set of three boxes to track usage of armor (standard, heavy, and special). If you have any abilities that use your special armor, tick its box when you activate one of them. If you don’t have any special abilities that use special armor, then you can’t use that armor box at all.
 
-choose one close friend and one rival
+## Choose one close friend and one rival
 
 Each playbook has a list of NPCs that your character knows. Choose one from the list who is a close relationship (a good friend, a lover, a family relation, etc.). Mark the upward-pointing triangle next to their name. Then choose another NPC on the list who’s your rival or enemy. Mark the downward-pointing triangle next to their name.
 
-choose your vice
+## Choose your vice
 
 Every character is in thrall to some vice or another, which they indulge to deal with stress. Choose a vice from the list, and describe it on the line above with the specific details and the name and location of your **vice purveyor**.
 
-		<li class="Bullets ParaOverride-28"><span class="game-term">Faith: </span>You’re dedicated to an unseen power, forgotten god, ancestor, etc.
-		<li class="Bullets ParaOverride-15"><span class="game-term">Gambling:</span> You crave games of chance, betting on sporting events, etc.
-		<li class="Bullets ParaOverride-15"><span class="game-term">Luxury: </span>Expensive or ostentatious displays of opulence.
-		<li class="Bullets ParaOverride-15"><span class="game-term">Obligation: </span>You’re devoted to a family, a cause, an organization, a charity, etc.
-		<li class="Bullets ParaOverride-15"><span class="game-term">Pleasure:</span> Gratification from lovers, food, drink, drugs, art, theater, etc.
-		<li class="Bullets ParaOverride-15"><span class="game-term">Stupor: </span>You seek oblivion in the abuse of drugs, drinking to excess, getting beaten to a pulp in the fighting pits, etc.
-		<li class="Bullets ParaOverride-15"><span class="game-term">Weird: </span>You experiment with strange essences, consort with rogue spirits, observe bizarre rituals or taboos, etc.
+* <span class="game-term">Faith: </span>You’re dedicated to an unseen power, forgotten god, ancestor, etc.
+* <span class="game-term">Gambling:</span> You crave games of chance, betting on sporting events, etc.
+* <span class="game-term">Luxury: </span>Expensive or ostentatious displays of opulence.
+* <span class="game-term">Obligation: </span>You’re devoted to a family, a cause, an organization, a charity, etc.
+* <span class="game-term">Pleasure:</span> Gratification from lovers, food, drink, drugs, art, theater, etc.
+* <span class="game-term">Stupor: </span>You seek oblivion in the abuse of drugs, drinking to excess, getting beaten to a pulp in the fighting pits, etc.
+* <span class="game-term">Weird: </span>You experiment with strange essences, consort with rogue spirits, observe bizarre rituals or taboos, etc.
 
 
-record your name, alias, &amp; look
+## Record your name, alias, &amp; look
 
 Choose a name for your character from the sample list, or create your own. If your character uses an alias or nickname in the underworld, make a note of it. Record a few evocative words that describe your character’s look (samples provided on the next page).
 
-review your details
+## Review your details
 
 Take a look at the details on your character sheet, especially the **experience triggers** for your playbook (like “Earn xp when you address a challenge with knowledge or arcane power,” for example) and the **special items** available to a character of your type (like the Whisper’s spirit mask, for example). You begin with access to all of the items on your sheet, so don’t worry about picking specific things—you’ll decide what your character is carrying later on, when you’re on the job.
 
 That’s it! Your character is ready for play. When you start the first session, the GM will ask you some questions about who you are, your outlook, or some past events. If you don’t know the answers, make some up. Or ask the other players for ideas.
-</div>
-<div id="_idContainer312" class="Basic-Text-Frame">
 
-2
-</div>
-<div id="_idContainer313" class="Basic-Text-Frame">
+## Character creation summary
 
-character creation
-</div>
-<div id="_idContainer314" class="Basic-Text-Frame">
+@TODO style dropcaps.
 
-2
-</div>
-<div id="_idContainer315" class="chapter-margin">
+<span class="CharOverride-32">1</span> **Choose a playbook.** Your playbook represents your character’s reputation, their special abilities, and how they advance.
 
-<span class="CharOverride-3">characters</span>
-</div>
-<div id="_idContainer316" class="Basic-Text-Frame">
-
-2
-</div>
-<div id="_idContainer317" class="Basic-Text-Frame">
-
-character creation
-</div>
-<div id="_idContainer318" class="Basic-Text-Frame">
-
-2
-</div>
-<div id="_idContainer319" class="chapter-margin">
-
-<span class="CharOverride-3">characters</span>
-</div>
-<div class="_idGenObjectLayout-1">
-	<div id="_idContainer320" class="Basic-Text-Frame">
-	</div>
-</div>
-<div id="_idContainer321" class="Basic-Text-Frame">
-
-## <a id="_idTextAnchor016"></a>character creation summary
-
-<span class="CharOverride-32">1</span>** Choose a playbook. **Your playbook represents your character’s reputation, their special abilities, and how they advance.
-
-<span class="CharOverride-32">2</span> **Choose a heritage. **Detail your choice with a note about your family life. _For example, Ore miners, now war refugees._
+<span class="CharOverride-32">2</span> **Choose a heritage.** Detail your choice with a note about your family life. _For example, Ore miners, now war refugees._
 
 <span class="CharOverride-32">3</span> **Choose a background.** Detail your choice with your specific history. _For example, Labor: Hunter, mutineer._
 
@@ -1497,15 +865,15 @@ character creation
 
 <span class="CharOverride-32">6</span> **Choose a close friend and a rival.** Mark the one who is a close friend, long-time ally, family relation, or lover (the upward-pointing triangle). Mark one who is a rival, enemy, scorned lover, betrayed partner, etc. (the downward-pointing triangle).
 
-<span class="CharOverride-32">7</span> **Choose your vice. **Pick your preferred type of vice, detail it with a short description and indicate the name and location of your vice purveyor.
+<span class="CharOverride-32">7</span> **Choose your vice.** Pick your preferred type of vice, detail it with a short description and indicate the name and location of your vice purveyor.
 
 <span class="CharOverride-32">8</span> **Record your name, alias, and look.** Choose a name, an alias (if you use one), and jot down a few words to describe your look. Examples are provided on the preceding page.
 
-loadout
+## Loadout
 
 You have access to all of the **items** on your character sheet. For each operation, decide what your character’s **load** will be. During the operation, you may say that your character has an item on hand by checking the box for the item you want to use—up to a number of items equal to your chosen load. Your load also determines your movement speed and conspicuousness:
 
-* <span class="game-term">1-3 load:</span>** Light. **_You’re__ faster, less conspicuous; you blend in with citizens._
+* <span class="game-term">1-3 load:</span>** Light. _You’re faster, less conspicuous; you blend in with citizens._
 * <span class="game-term">4/5 load: </span>**Normal**. _You look like a scoundrel, ready for trouble._
 * <span class="game-term">6 load: </span>**Heavy.** _You’re slower. You look like an operative on a mission._
 * <span class="game-term">7-9 load: </span>**Encumbered.** _You’re overburdened and can’t do anything except move very slowly._
@@ -1516,505 +884,334 @@ Some special abilities (like the Cutter’s <span class="game-term">Mule</span> 
 Some items count as two items for load (they have two connected boxes). _Items in italics don’t count toward your load._
 
 You don’t need to select specific items now.  Review your personal items and the standard item descriptions.
-</div>
-<div id="_idContainer322" class="Basic-Text-Frame">
 
-2
-</div>
-<div id="_idContainer323" class="Basic-Text-Frame">
+# Character playbook
 
-character creation
-</div>
-<div id="_idContainer324" class="Basic-Text-Frame">
-
-<span class="CharOverride-33">character playbook</span>
-</div>
-<div id="_idContainer325" class="Basic-Text-Frame">
-
-<span class="em CharOverride-34">Short Descriptor of Character</span>
+## Short Descriptor of Character
 
 Medium length description of the character here. Include what kind of activities they normally partake in.
 
-**Include the XP triggers for the characters here. **At the end of a sessoin mark XP if you addressed a challenge with: insert a short list of methods or actions here. Examples could include: violence, coersion, knowledge, charm, audacity, calculation, deception, influence, stealth, evasion, technical skill, mayham, tracking, or occult powers.
-</div>
-<div id="_idContainer326" class="Basic-Graphics-Frame _idGenObjectStyleOverride-6">
-<p><span class="CharOverride-35">starting actions</span>
-</div>
-<div id="_idContainer327" class="Basic-Text-Frame _idGenObjectStyleOverride-14">
-	<table id="table008" class="Basic-Table">
-		<colgroup>
-			<col class="_idGenTableRowColumn-16" />
-			<col class="_idGenTableRowColumn-17" />
-		</colgroup>
-		<tbody>
-			<tr class="Basic-Table _idGenTableRowColumn-18">
-				<td class="Basic-Table CellOverride-15">
+**Include the XP triggers for the characters here.** At the end of a session mark XP if you addressed a challenge with: insert a short list of methods or actions here. Examples could include: violence, coersion, knowledge, charm, audacity, calculation, deception, influence, stealth, evasion, technical skill, mayham, tracking, or occult powers.
 
-<span class="CharOverride-36"></span><span class="CharOverride-37"> </span><span class="CharOverride-36"></span><span class="CharOverride-38">  </span>
-				</td>
-				<td class="Basic-Table CellOverride-16">
+@TODO tables 51
 
-<span class="CharOverride-39">primary action</span>
-				</td>
-			</tr>
-			<tr class="Basic-Table _idGenTableRowColumn-18">
-				<td class="Basic-Table CellOverride-17">
 
-<span class="CharOverride-36"> </span><span class="CharOverride-38"></span><span class="CharOverride-37"> </span><span class="CharOverride-38"> </span>
-				</td>
-				<td class="Basic-Table CellOverride-18">
-
-<span class="CharOverride-4">secondary action</span>
-				</td>
-			</tr>
-		</tbody>
-	</table>
-</div>
-<div id="_idContainer328" class="Basic-Text-Frame">
-
-starting builds
+## Starting builds
 
 _If you want some guidance when you assign your four starting action dots and special ability, use one of these templates._
 
-**Example 1.** 4 Action Dots assinged plus a special ability
+**Example 1.** 4 Action Dots assigned plus a special ability
 
-**Example 2.** 4 Action Dots assinged plus a special ability
+**Example 2.** 4 Action Dots assigned plus a special ability
 
-**Example 3.** 4 Action Dots assinged plus a special ability
+**Example 3.** 4 Action Dots assigned plus a special ability
 
-**Example 4.** 4 Action Dots assinged plus a special ability
-</div>
-<div id="_idContainer329" class="Basic-Graphics-Frame _idGenObjectStyleOverride-6">
-<p><span class="CharOverride-35">friends, rivals</span>
-</div>
-<div id="_idContainer330" class="Basic-Text-Frame">
+**Example 4.** 4 Action Dots assigned plus a special ability
+
+## Friends, rivals
 
 A list of five possible friends or rivals go here, along with descriptions of each. Some possibilities include: A spy, a bounty hunte, a pugalist, a cold killer, an extortionist, a physicker, an assassin, a sentinel, an apothocary, a priestess, a noble, a city clerk, an officer, an inspector, a beggar, a locksmith, a gang leader, a drug dealer, a tavern owner, a porstitue, a jail-bird, an information broker, a servant, an archivist, or a supernatural entitity.
 
 Questions can inlclue how you know the friend, what they’ve done for you,  what you do for them, and what kind of relationship you have.
-</div>
-<div class="_idGenObjectLayout-1">
-	<div id="_idContainer331" class="Basic-Text-Frame">
-	</div>
-</div>
-<div id="_idContainer332" class="Basic-Text-Frame">
 
-character
-</div>
-<div id="_idContainer333" class="Basic-Text-Frame">
-
-playbook:
-</div>
-<div id="_idContainer334" class="Basic-Text-Frame">
-
-## special abilities
+## Special abilities
 
 Choose seven special abilities for you playbook. Here are several examples.
 
-**battleborn**
+### Battleborn
 
 You may expend your **special armor** to reduce harm from an attack in combat or to **push yourself** during a fight.
 
-_When you use this ability, tick the special armor box on your playbook sheet. If you “reduce harm” that means the level of harm you’re facing right now is reduced by one. If you use this ability to push yourself, you get one of the benefits (+1d, +1 effect, act despite severe harm) but you don’t take 2 stress. Your special armor is restored at the beginning of downtime._
+> When you use this ability, tick the special armor box on your playbook sheet. If you “reduce harm” that means the level of harm you’re facing right now is reduced by one. If you use this ability to push yourself, you get one of the benefits (+1d, +1 effect, act despite severe harm) but you don’t take 2 stress. Your special armor is restored at the beginning of downtime.
 
-bodyguard
+### Bodyguard
 
 When you **protect** a teammate, take **+1d** to your resistance roll. When you gather info to anticipate possible threats in the current situation, you get **+1 effect**.
 
-_The _<span class="CharOverride-23">protect</span>_ teamwork maneuver lets you face a consequence for a teammate. If you choose to resist that consequence, this ability gives you +1d to your resistance roll. Also, when you read a situation to gather information about hidden dangers or potential attackers, you get +1 effect—which means more detailed information._
+> The <span class="CharOverride-23">protect</span> teamwork maneuver lets you face a consequence for a teammate. If you choose to resist that consequence, this ability gives you +1d to your resistance roll. Also, when you read a situation to gather information about hidden dangers or potential attackers, you get +1 effect—which means more detailed information.
 
-arcane fighter
+### Arcane fighter
 
 You may imbue your hands, melee weapons, or tools with spirit energy. You gain **potency** in combat vs. the supernatural..
 
-_When you imbue yourself with arcane energy, how do you do it? What does it look like when the energy manifests? ._
+> When you imbue yourself with arcane energy, how do you do it? What does it look like when the energy manifests?
 
-leader
+### Leader
 
 When you <span class="game-term">Command</span> a **cohort** in combat, they continue to fight when they would otherwise **break **(they’re not taken out when they suffer level 3 harm). They gain **+1 effect** and **1 armor**.
 
-_This ability makes your cohorts more effective in battle and also allows them to resist harm by using armor. While you lead your cohorts, they won’t stop fighting until they take fatal harm (level 4) or you order them to cease. What do you do to inspire such bravery in battle?_
+> This ability makes your cohorts more effective in battle and also allows them to resist harm by using armor. While you lead your cohorts, they won’t stop fighting until they take fatal harm (level 4) or you order them to cease. What do you do to inspire such bravery in battle?
 
-mule
+### Mule
 
 Your load limits are higher. Light: 5. Normal: 7. Heavy: 8.
 
-_This ability is great if you want to wear heavy armor and pack a heavy weapon without attracting lots of attention. Since your exact gear is determined on-the-fly during an operation, having more load also gives you more options to get creative with when dealing with problems during a score._
+> This ability is great if you want to wear heavy armor and pack a heavy weapon without attracting lots of attention. Since your exact gear is determined on-the-fly during an operation, having more load also gives you more options to get creative with when dealing with problems during a score.
 
-**not to be trifled with**
+### Not to be trifled with
 
 You can **push yourself** to do one of the following: _perform a feat of physical force that verges on the superhuman—engage a small gang on equal footing in close combat._
 
-_When you push yourself to activate this ability, you still get one of the normal benefits of pushing yourself (+1d, +1 effect, etc.) in addition to the special ability._
+> When you push yourself to activate this ability, you still get one of the normal benefits of pushing yourself (+1d, +1 effect, etc.) in addition to the special ability.
 
-_If you perform a feat that verges on the superhuman, you might break a metal weapon with your bare hands, tackle a galloping horse, lift a huge weight, etc. If you engage a small gang on equal footing, you don’t suffer reduced effect due to scale against a small gang (up to six people)._
+> If you perform a feat that verges on the superhuman, you might break a metal weapon with your bare hands, tackle a galloping horse, lift a huge weight, etc. If you engage a small gang on equal footing, you don’t suffer reduced effect due to scale against a small gang (up to six people).
 
-savage
+### Savage
 
 When you unleash physical violence, it’s especially frightening. When you <span class="game-term">Command</span> a frightened target, take **+1d**.
 
-_You instill fear in those around you when you get violent. How they react depends on the person. Some people will flee from you, some will be impressed, some will get violent in return. The GM judges the response of a given NPC._
+> You instill fear in those around you when you get violent. How they react depends on the person. Some people will flee from you, some will be impressed, some will get violent in return. The GM judges the response of a given NPC.
 
-_In addition, when you _<span class="game-term">Command</span>_ someone who’s affected by fear (from this ability or otherwise), take +1d to your roll._
+> In addition, when you <span class="game-term">Command</span> someone who’s affected by fear (from this ability or otherwise), take +1d to your roll.
 
-**vigorous**
+### Vigorous
 
 You recover from harm faster. Permanently fill in one of your healing clock segments. Take **+1d** to healing treatment rolls.
 
-_Your healing clock becomes a 3-clock, and you get a bonus die when you recover._
+> Your healing clock becomes a 3-clock, and you get a bonus die when you recover.
 
-**sharpshooter**
+### Sharpshooter
 
 You can **push yourself** to do one of the following: _make a ranged attack at extreme distance beyond what’s normal for the weapon—unleash a barrage of rapid fire to suppress the enemy._
 
-_When you push yourself to activate this ability, you still get one of the normal benefits of pushing yourself (+1d, +1 effect, etc.) in addition to the special ability._
+> When you push yourself to activate this ability, you still get one of the normal benefits of pushing yourself (+1d, +1 effect, etc.) in addition to the special ability.
 
-_The first use of this ability allows you to attempt long-range sniper shots that would otherwise be impossible with  typical rudimentary firearms. The second use allows you to keep up a steady rate of fire in a battle (enough to “suppress” a small gang up to six people), rather than stopping for a slow reload or discarding a gun after each shot. When an enemy is suppressed, they’re reluctant to maneuver or attack (usually calling for a fortune roll to see if they can manage it)._
+> The first use of this ability allows you to attempt long-range sniper shots that would otherwise be impossible with  typical rudimentary firearms. The second use allows you to keep up a steady rate of fire in a battle (enough to “suppress” a small gang up to six people), rather than stopping for a slow reload or discarding a gun after each shot. When an enemy is suppressed, they’re reluctant to maneuver or attack (usually calling for a fortune roll to see if they can manage it).
 
-focused
+### Focused
 
 You may expend your **special armor** to resist a consequence of surprise or mental harm (fear, confusion, losing track of someone) or to **push yourself** for ranged combat or tracking.
 
-_When you use this ability, tick the special armor box on your playbook sheet. If you “resist a consequence” of the appropriate type, you avoid it completely. If you use this ability to push yourself, you get one of the benefits (+1d, __+1 effect__, act despite severe harm) but you don’t take 2 stress. Your special armor is restored at the beginning of downtime._
+> When you use this ability, tick the special armor box on your playbook sheet. If you “resist a consequence” of the appropriate type, you avoid it completely. If you use this ability to push yourself, you get one of the benefits (+1d, +1 effect, act despite severe harm) but you don’t take 2 stress. Your special armor is restored at the beginning of downtime.
 
-scout
+### Scout
 
 When you gather information to discover the location of a target, you get **+1 effect**. When you hide in a prepared position or use camouflage you get **+1d** to rolls to avoid detection.
 
-_A “target” can be a person, a destination, a good ambush spot, an item, etc._
+> A “target” can be a person, a destination, a good ambush spot, an item, etc.
 
-tough as nails
+### Tough as nails
 
 Penalties from harm are one level less severe (though level 4 harm is still fatal).
 
-_With this ability, level 3 harm doesn’t incapacitate you; instead you take -1d to your rolls (as if it were level 2 harm). Level 2 harm affects you as if it were level 1 (less effect). Level 1 harm has no effect on you (but you still write it on your sheet, and must recover to heal it). Record the harm at its original level—for healing purposes, the original harm level applies._
+> With this ability, level 3 harm doesn’t incapacitate you; instead you take -1d to your rolls (as if it were level 2 harm). Level 2 harm affects you as if it were level 1 (less effect). Level 1 harm has no effect on you (but you still write it on your sheet, and must recover to heal it). Record the harm at its original level—for healing purposes, the original harm level applies.
 
-**vengeful**
+### Vengeful
 
 You gain an additional **xp trigger**: _You got payback against someone who harmed you or someone you care about._ If your crew helped you get payback, also mark crew xp.
 
-**alchemist**
+### Alchemist
 
 When you **invent** or **craft** a creation with _alchemical_ features, you get **+1 result level** to your roll (a <span class="game-term">1-3</span> becomes a <span class="game-term">4/5</span>, etc.). You begin with one special formula already known.
 
-_Follow the _<span class="CharOverride-23">Inventing</span>_ procedure with the GM to define your first special alchemical formula._
+> Follow the Inventing procedure with the GM to define your first special alchemical formula.
 
-analyst
+### Analyst
 
 During downtime, you get **two ticks** to distribute among any long term project clocks that involve investigation or learning a new formula or design plan.
 
-artificer
+### Artificer
 
 When you **invent** or **craft** a creation with _spark-craft_ features, you get **+1 result level** to your roll (a <span class="game-term">1-3</span> becomes a <span class="game-term">4/5</span>, etc.). You begin with one special design already known.
 
-_Follow the _<span class="CharOverride-23">Inventing</span>_ procedure with the GM to define your first spark-craft design._
+> Follow the Inventing procedure with the GM to define your first spark-craft design.
 
-fortitude
+## Fortitude
 
 You may expend your **special armor** to resist a consequence of fatigue, weakness, or chemical effects, or to **push yourself** when working with technical skill or handling alchemicals.
 
-_When you use this ability, tick the special armor box on your playbook sheet. If you “resist a consequence” of the appropriate type, you avoid it completely. If you use this ability to push yourself, you get one of the benefits (+1d, __+1 effect__, act despite severe harm) but you don’t take 2 stress. Your special armor is restored at the beginning of downtime._
+> When you use this ability, tick the special armor box on your playbook sheet. If you “resist a consequence” of the appropriate type, you avoid it completely. If you use this ability to push yourself, you get one of the benefits (+1d, +1 effect, act despite severe harm) but you don’t take 2 stress. Your special armor is restored at the beginning of downtime.
 
-supernatural ward
+### Supernatural ward
 
 When you <span class="game-term">Wreck</span> an area with arcane substances, ruining it for any other use, it becomes anathema or enticing to the supernatural (your choice).
 
-_If you make an area anathema to the supernatural, they will do everything they can to avoid it, and will suffer torment if forced inside the area. If you make an area enticing to spirits, they will seek it out and linger in the area, and will suffer torment if forced to leave. This effect lasts for several days over an area the size of a small room. Particularly powerful or prepared entities may roll their quality or arcane magnitude to see how well they’re able to resist the effect._
+> If you make an area anathema to the supernatural, they will do everything they can to avoid it, and will suffer torment if forced inside the area. If you make an area enticing to spirits, they will seek it out and linger in the area, and will suffer torment if forced to leave. This effect lasts for several days over an area the size of a small room. Particularly powerful or prepared entities may roll their quality or arcane magnitude to see how well they’re able to resist the effect.
 
-saboteur
+### Saboteur
 
 When you <span class="game-term">Wreck</span>, your work is much quieter than it should be and the damage is very well-hidden from casual inspection.
 
-_You can drill holes in things, melt stuff with acid, even use a muffled explosive, and it will all be very quiet and extremely hard to notice._
+> You can drill holes in things, melt stuff with acid, even use a muffled explosive, and it will all be very quiet and extremely hard to notice.
 
-**infiltrator**
+### Infiltrator
 
 You are not affected by **quality** or **Tier** when you bypass security measures.
 
-_This ability lets you contend with higher-Tier enemies on equal footing. When you’re cracking a safe, picking a lock, or sneaking past elite guards, your effect level is never reduced due to superior Tier or quality level of your opposition._
+> This ability lets you contend with higher-Tier enemies on equal footing. When you’re cracking a safe, picking a lock, or sneaking past elite guards, your effect level is never reduced due to superior Tier or quality level of your opposition.
 
-_Are you a renowned safe cracker? Do people tell stories of how you slipped under the noses of two Chief Inspectors, or are your exceptional talents yet to be discovered?_
+> Are you a renowned safe cracker? Do people tell stories of how you slipped under the noses of two Chief Inspectors, or are your exceptional talents yet to be discovered?
 
-ambush
+### Ambush
 
 When you attack from hiding or spring a trap, you get **+1d** to your roll.
 
-_This ability benefits from preparation— so don’t forget you can do that in a flashback._
+> This ability benefits from preparation— so don’t forget you can do that in a flashback.
 
-daredevil
+### Daredevil
 
 When you roll a **desperate** action, you get **+1d** to your roll if you also take **-1d** to any resistance rolls against consequences from your action.
 
-_This special ability is a bit of a gamble. The bonus die helps you, but if you suffer consequences, they’ll probably be more costly to resist. But hey, you’re a daredevil, so no big deal, right?_
+> This special ability is a bit of a gamble. The bonus die helps you, but if you suffer consequences, they’ll probably be more costly to resist. But hey, you’re a daredevil, so no big deal, right?
 
-the devil’s footsteps
+### The devil’s footsteps
 
 You can **push yourself** to do one of the following: _perform a feat of athletics that verges on the superhuman—maneuver to confuse your enemies so they mistakenly attack each other._
 
-_When you push yourself to activate this ability, you still get one of the normal benefits of pushing yourself (+1d, +1 effect, etc.) if you’re making a roll, in addition to the special ability._
+> When you push yourself to activate this ability, you still get one of the normal benefits of pushing yourself (+1d, +1 effect, etc.) if you’re making a roll, in addition to the special ability.
 
-_If you perform an athletic feat (running, tumbling, balance, climbing, etc.) that verges on the superhuman, you might climb a sheer surface that lacks good hand-holds, tumble safely out of a three-story fall, leap a shocking distance, etc._
+> If you perform an athletic feat (running, tumbling, balance, climbing, etc.) that verges on the superhuman, you might climb a sheer surface that lacks good hand-holds, tumble safely out of a three-story fall, leap a shocking distance, etc.
 
-_If you maneuver to confuse your enemies, they attack each other for a moment before they realize their mistake. The GM might make a fortune roll to see how badly they harm or interfere with each other._
+> If you maneuver to confuse your enemies, they attack each other for a moment before they realize their mistake. The GM might make a fortune roll to see how badly they harm or interfere with each other.
 
-expertise
+### Expertise
 
 Choose one of your action ratings. When you lead a group action using that action, you can suffer only 1 stress at most, regardless of the number of failed rolls.
 
-_This special ability is good for covering for your team. If they’re all terrible at your favored action, you don’t have to worry about suffering a lot of stress when you lead their group action._
+> This special ability is good for covering for your team. If they’re all terrible at your favored action, you don’t have to worry about suffering a lot of stress when you lead their group action.
 
-reflexes
+### Reflexes
 
 When there’s a question about who acts first, the answer is you.
 
-_This ability gives you the initiative in most situations. Some specially trained NPCs might also have reflexes, but otherwise, you’re always the first to act, and can interrupt anyone else who tries to beat you to the punch. This ability usually doesn’t negate the need to make an action roll that you would otherwise have to make, but it may improve your position or effect._
+> This ability gives you the initiative in most situations. Some specially trained NPCs might also have reflexes, but otherwise, you’re always the first to act, and can interrupt anyone else who tries to beat you to the punch. This ability usually doesn’t negate the need to make an action roll that you would otherwise have to make, but it may improve your position or effect.
 
-shadow
+### Shadow
 
 You may expend your **special armor** to resist a consequence from detection or security measures, or to **push yourself** for a feat of athletics or stealth.
 
-_When you use this ability, tick the special armor box on your playbook sheet. If you “resist a consequence” of the appropriate type, you avoid it completely. If you use this ability to push yourself, you get one of the benefits (+1d, __+1 effect__, act despite severe harm) but you don’t take 2 stress. Your special armor is restored at the beginning of downtime._
+> When you use this ability, tick the special armor box on your playbook sheet. If you “resist a consequence” of the appropriate type, you avoid it completely. If you use this ability to push yourself, you get one of the benefits (+1d, +1 effect, act despite severe harm) but you don’t take 2 stress. Your special armor is restored at the beginning of downtime.
 
-**rook’s gambit**
+### Rook’s gambit
 
 Take **2 stress** to roll your best action rating while performing a different action. Say how you adapt your skill to this use.
 
-_This is the “jack-of-all-trades” ability. If you want to attempt lots of different sorts of actions and still have a good dice pool to roll, this is the special ability for you._
+> This is the “jack-of-all-trades” ability. If you want to attempt lots of different sorts of actions and still have a good dice pool to roll, this is the special ability for you.
 
-like looking into a mirror
+### Like looking into a mirror
 
 You can always tell when someone is lying to you.
 
-_This ability works in all situations without restriction. It is very powerful, but also a bit of a curse. You see though every lie, even the kind ones._
+> This ability works in all situations without restriction. It is very powerful, but also a bit of a curse. You see though every lie, even the kind ones.
 
-a little something on the side
+### A little something on the side
 
 At the end of each downtime phase, you earn **+2 stash**.
 
-_Since this money comes at the end of downtime, after all downtime actions are resolved, you can’t remove it from your stash and spend it on extra activities until your _<span class="CharOverride-23">next</span>_ downtime phase._
+> Since this money comes at the end of downtime, after all downtime actions are resolved, you can’t remove it from your stash and spend it on extra activities until your next downtime phase.
 
-mesmerism
+### Mesmerism
 
-<span class="CharOverride-8">When you </span><span class="game-term CharOverride-8">Sway</span><span class="CharOverride-8"> someone, you may cause them to forget that it’s happened until they next interact with you</span>.
+When you <span class="game-term">Sway</span> someone, you may cause them to forget that it’s happened until they next interact with you.
 
-_The victim’s memory “glosses over” the missing time, so it’s not suspicious that they’ve forgotten something. When you next interact with the victim, they remember everything clearly, including the strange effect of this ability._
+> The victim’s memory “glosses over” the missing time, so it’s not suspicious that they’ve forgotten something. When you next interact with the victim, they remember everything clearly, including the strange effect of this ability.
 
-subterfuge
+### Subterfuge
 
 You may expend your **special armor** to resist a consequence from suspicion or persuasion, or to **push yourself** for subterfuge.
 
-_When you use this ability, tick the special armor box on your playbook sheet. If you “resist a consequence” of the appropriate type, you avoid it completely. If you use this ability to push yourself, you get one of the benefits (+1d, __+1 effect__, act despite severe harm) but you don’t take 2 stress. Your special armor is restored at the beginning of downtime._
+> When you use this ability, tick the special armor box on your playbook sheet. If you “resist a consequence” of the appropriate type, you avoid it completely. If you use this ability to push yourself, you get one of the benefits (+1d, +1 effect, act despite severe harm) but you don’t take 2 stress. Your special armor is restored at the beginning of downtime.
 
-trust in me
+### Trust in me
 
 You get **+1d** vs. a target with whom you have an intimate relationship.
 
-_This ability isn’t just for social interactions. Any action can get the bonus. “Intimate” is for you and the group to define, it need not exclusively mean romantic intimacy._
+> This ability isn’t just for social interactions. Any action can get the bonus. “Intimate” is for you and the group to define, it need not exclusively mean romantic intimacy.
 
-foresight
+### Foresight
 
 Two times per score you can **assist** a teammate without paying stress. Describe how you prepared for this.
 
-_You can narrate an event in the past that helps your teammate now, or you might explain how you expected this situation and planned a helpful contingency that you reveal now._
+> You can narrate an event in the past that helps your teammate now, or you might explain how you expected this situation and planned a helpful contingency that you reveal now.
 
-calculating
+### Calculating
 
 Due to your careful planning, during downtime, you may give yourself or another crew member **+1 downtime activity**.
 
-_If you forget to use this ability during downtime, you can still activate it during the score and flashback to the previous downtime when the extra activity happened._
+> If you forget to use this ability during downtime, you can still activate it during the score and flashback to the previous downtime when the extra activity happened.
 
-connected
+### Connected
 
 During downtime, you get **+1 result level** when you **acquire an asset** or **reduce heat**.
 
-_Your array of underworld connections can be leveraged to loan assets, pressure a vendor to give you a better deal, intimidate witnesses, etc._
+> Your array of underworld connections can be leveraged to loan assets, pressure a vendor to give you a better deal, intimidate witnesses, etc.
 
-mastermind
+### Mastermind
 
 You may expend your **special armor** to **protect** a teammate, or to **push yourself** when you gather information or work on a long-term project.
 
-_When you use this ability, tick the special armor box on your playbook sheet. If you protect a teammate, this ability negates or reduces the severity of a consequence or harm that your teammate is facing. You don’t have to be present to use this ability—say how you prepared for this situation in the past. If you use this ability to push yourself, you get one of the benefits (+1d, __+1 effect__, act despite severe harm) but you don’t take 2 stress. Your special armor is restored at the beginning of downtime._
+> When you use this ability, tick the special armor box on your playbook sheet. If you protect a teammate, this ability negates or reduces the severity of a consequence or harm that your teammate is facing. You don’t have to be present to use this ability—say how you prepared for this situation in the past. If you use this ability to push yourself, you get one of the benefits (+1d, +1 effect, act despite severe harm) but you don’t take 2 stress. Your special armor is restored at the beginning of downtime.
 
-**weaving the web**
+### Weaving the web
 
 You gain **+1d** to <span class="game-term">Consort</span> when you gather information on a target for a score. You get **+1d** to the **engagement roll** for that operation.
 
-_Your network of underworld connections can always be leveraged to gain insight for a job—even when your contacts aren’t aware that they’re helping you._
+> Your network of underworld connections can always be leveraged to gain insight for a job—even when your contacts aren’t aware that they’re helping you.
 
-arcane mind
+### Arcane mind
 
 You’re always aware of supernatural entities in your presence. Take **+1d** whenever you **gather information** about the supernatural by any means.
 
-**iron will**
+### Iron will
 
 You are immune to the terror that some supernatural entities inflict on sight. When you make a **resistance roll **with <span class="game-term">Resolve</span>, take **+1d**.
 
-_With this ability, you do not freeze up or flee when confronted by any kind of supernatural entity or strange occult event._
+> With this ability, you do not freeze up or flee when confronted by any kind of supernatural entity or strange occult event.
 
-ritual
+### Ritual
 
 You know the arcane methods to perform ritual sorcery. You can <span class="game-term">Study</span> an occult ritual (or create a new one) to summon a supernatural effect or being. You begin with one ritual already learned.
 
-_Without this special ability, the study and practice of rituals leaves you utterly vulnerable to the powers you supplicate. Such endeavors are not recommended._
+> Without this special ability, the study and practice of rituals leaves you utterly vulnerable to the powers you supplicate. Such endeavors are not recommended.
 
-strange methods
+### Strange methods
 
 When you **invent** or **craft** a creation with _arcane_ features, get **+1 result level** to your roll (a <span class="game-term">1-3</span> becomes a <span class="game-term">4/5</span>, etc.). You begin with one arcane design already known.
 
-_Follow the _<span class="CharOverride-23">Inventing</span>_ procedure with the GM  to define your first arcane design._
+> Follow the Inventing procedure with the GM  to define your first arcane design.
 
-warded
+### Warded
 
 You may expend your **special armor** to resist a supernatural consequence, or to **push yourself** when you contend with or employ arcane forces.
 
-_When you use this ability, tick the special armor box on your playbook sheet. If you resist a consequence, this ability negates or reduces its severity. If you use this ability to push yourself, you get one of the benefits (+1d, +1 effect__, act despite severe harm) but you don’t take 2 stress. Your special armor is restored at the beginning of downtime._
+> When you use this ability, tick the special armor box on your playbook sheet. If you resist a consequence, this ability negates or reduces its severity. If you use this ability to push yourself, you get one of the benefits (+1d, +1 effect, act despite severe harm) but you don’t take 2 stress. Your special armor is restored at the beginning of downtime.
 
 ## Character items
 
-Add a list of five disctintive items that are either Fine (+1 quality), light (reduced load), rare, or otherwise specific to this character.
+Add a list of five distinctive items that are either Fine (+1 quality), light (reduced load), rare, or otherwise specific to this character.
 
 Some examples include: Weapons, clothes, arcane impliments, specialized tools, custom gear, capable pets, or supernatural objects.
-</div>
-<div class="_idGenObjectLayout-1">
-	<div id="_idContainer335" class="_idGenObjectStyleOverride-1">
-		<img class="_idGenObjectAttribute-1" src="data:image/jpg;base64,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" alt="" />
-	</div>
-</div>
-<div id="_idContainer336" class="Basic-Text-Frame">
 
-cutter
-</div>
-<div class="_idGenObjectLayout-1">
-	<div id="_idContainer338" class="_idGenObjectStyleOverride-1">
-		<div id="_idContainer337" class="_idGenObjectStyleOverride-2">
-		</div>
-	</div>
-</div>
-<div id="_idContainer339" class="Basic-Text-Frame">
+# Crew creation
 
-playbook:
-</div>
-<div class="_idGenObjectLayout-1">
-	<div id="_idContainer340" class="_idGenObjectStyleOverride-1">
-		<img class="_idGenObjectAttribute-1" src="data:image/jpg;base64,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" alt="" />
-	</div>
-</div>
-<div id="_idContainer341" class="Basic-Text-Frame">
-
-cutter
-</div>
-<div class="_idGenObjectLayout-1">
-	<div id="_idContainer343" class="_idGenObjectStyleOverride-1">
-		<div id="_idContainer342" class="_idGenObjectStyleOverride-2">
-		</div>
-	</div>
-</div>
-<div id="_idContainer344" class="Basic-Text-Frame">
-
-playbook:
-</div>
-<div class="_idGenObjectLayout-1">
-	<div id="_idContainer345" class="_idGenObjectStyleOverride-1">
-		<img class="_idGenObjectAttribute-1" src="data:image/jpg;base64,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" alt="" />
-	</div>
-</div>
-<div id="_idContainer346" class="Basic-Text-Frame">
-
-cutter
-</div>
-<div class="_idGenObjectLayout-1">
-	<div id="_idContainer348" class="_idGenObjectStyleOverride-1">
-		<div id="_idContainer347" class="_idGenObjectStyleOverride-2">
-		</div>
-	</div>
-</div>
-<div id="_idContainer349" class="Basic-Text-Frame">
-
-playbook:
-</div>
-<div class="_idGenObjectLayout-1">
-	<div id="_idContainer350" class="_idGenObjectStyleOverride-1">
-		<img class="_idGenObjectAttribute-1" src="data:image/jpg;base64,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" alt="" />
-	</div>
-</div>
-<div id="_idContainer351" class="Basic-Text-Frame">
-
-cutter
-</div>
-<div class="_idGenObjectLayout-1">
-	<div id="_idContainer353" class="_idGenObjectStyleOverride-1">
-		<div id="_idContainer352" class="_idGenObjectStyleOverride-2">
-		</div>
-	</div>
-</div>
-<div id="_idContainer354" class="Basic-Text-Frame">
-
-playbook:
-</div>
-<div class="_idGenObjectLayout-1">
-	<div id="_idContainer359" class="_idGenObjectStyleOverride-1">
-		<div id="_idContainer358">
-			<div id="_idContainer356" class="_idGenObjectStyleOverride-1">
-				<div id="_idContainer355" class="_idGenObjectStyleOverride-1">
-					<img class="_idGenObjectAttribute-1" src="Generic_Character_Playbook-web-resources/image/blades_ink_bg_01_dark2.png" alt="" />
-				</div>
-			</div>
-			<div id="_idContainer357" class="Basic-Text-Frame">
-
-3
-			</div>
-		</div>
-	</div>
-</div>
-<div class="_idGenObjectLayout-1">
-	<div id="_idContainer361" class="_idGenObjectStyleOverride-1">
-		<div id="_idContainer360" class="_idGenObjectStyleOverride-2">
-		</div>
-	</div>
-</div>
-<div id="_idContainer362" class="Basic-Text-Frame">
-
-<span class="CharOverride-1">chapter 3</span>
-
-<a id="_idTextAnchor017"></a>the crew
-</div>
-<div id="_idContainer363" class="Basic-Text-Frame">
-
-3
-</div>
-<div id="_idContainer364" class="chapter-margin">
-
-<span class="CharOverride-3">the crew</span>
-</div>
-<div id="_idContainer365" class="Basic-Text-Frame">
-
-crew creation
-</div>
-<div id="_idContainer366" class="Basic-Text-Frame">
-
-choose a crew type
+## Choose a crew type
 
 Each Blades-powered game should have crew types that suit its setting and premise. These might be organizations, gangs, ships, strongholds, etc. Three to six options are good.
 
 Your crew type determines the scores that you’ll focus on, as well as a selection of special abilities that support that kind of action. The crew type isn’t meant to be restrictive—a crew of smugglers might sometimes engage in extortion  or sell contraband —but the core activity of the crew type is the most frequent way they earn <span class="game-term">coin</span> and xp for advancement.
 
-
-</div>
-<div id="_idContainer367" class="Basic-Text-Frame">
-
 Like a character playbook, your crew type is also how you’re known in the underworld. The criminal factions and institutions think of you as “assassins” or “a cult” etc., and will treat you accordingly.
 
-Your crew begins with 2 <span class="game-term">coin</span> in its coffers (the remains of the PCs’ savings). You are **Tier 0**, with **strong hold** and **0 **<span class="game-term">rep</span>.
+Your crew begins with 2 <span class="game-term">coin</span> in its coffers (the remains of the PCs’ savings). You are **Tier 0**, with **strong hold** and **0** <span class="game-term">rep</span>.
 
-choose an initial reputation &amp; lair
+## Choose an initial reputation &amp; lair
 
 Your crew has just formed and acquired a lair. Given this group of characters and their previous escapades, what initial **reputation** would you have among the factions of the underworld? Choose one from the list at right (or create your own).
+
+* Ambitious
+* Brutal
+* Daring
+* Honorable
+* Professional
+* Savvy
+* Subtle
+* Strange
 
 You earn xp when you bolster your crew’s reputation, so think of this as another cue to indicate what sorts of action you want in the game. Will you be recklessly ambitious, targeting higher-Tier targets? Will you take on daring scores that others deem too risky? Are you interested in the strange and the weird?
 
 Also, talk about where the crew makes its **lair**. You begin at Tier 0, so it’s probably a very modest or abandoned sort of place.
 
-<span class="CharOverride-14">establish your hunting grounds</span>
+## Establish your hunting grounds
 
 Your crew is brand-new, but you have chosen some small part of a district as your **hunting grounds**. This is the area that you usually target for your scores, and you know it well. Your hunting grounds don’t have to be in the same district as your lair. The area is small, only three or four city blocks—but it’s still an intrusion on someone. The entire city is divided among larger, stronger factions. The GM will tell you which faction claims the area, then you decide how to deal with them:
 
@@ -2022,20 +1219,19 @@ Your crew is brand-new, but you have chosen some small part of a district as you
 * Pay the faction 2 <span class="game-term">coin</span> as a show of respect and gain **+1 status **with them.
 * Keep your money and take **-1 status** with that faction.
 
-
 Your hunting grounds are useful for a particular type of criminal operation. Each crew type has a list of different operation types for their hunting grounds. For instance, Assassins have _Accident_, _Disappearance_, _Murder_, or _Ransom_ as options. Choose one of these operation types as your preference.
 
 When you prepare to execute an operation of your preferred type on your hunting grounds, you  get **+1d** to any **gather information** rolls and a free additional **downtime activity** to contribute to that operation. This can help you discover an opportunity, acquire an asset you might need for the job, find an appropriate client, etc.
 
 When you acquire **turf** you also expand the size and/or type of your hunting grounds. Detail the new area and/or methods with help from the GM.
 
-choose a special ability
+## Choose a special ability
 
 Take a look at the special abilities for your crew and choose one. If you can’t decide which one to pick, go with the first one on the list—it’s placed there as a good default choice. It’s important to pick a special ability that everyone is excited about. You can get more special abilities in the future by earning xp.
 
 Just like picking the crew type, reputation, lair, and hunting grounds, choosing a special ability is another chance to focus the game down to a more specific range of possibilities. That’s a lot to work with, and it helps get the game going in a strong direction from the very beginning.
 
-assign crew upgrades
+## Assign crew upgrades
 
 An upgrade is a valuable asset that helps the crew in some way, like a boat or a gang (see the complete descriptions on the following page). Each crew type has two pre-selected **upgrades** that suit that crew (like **Prowess** **Training** and a** gang** of Thugs for the Bravos crew).
 
@@ -2049,195 +1245,117 @@ When you assign your two upgrades, the GM will tell you about two factions that 
 
 You’ll be able get more upgrades in the future by earning xp
 
-<span class="CharOverride-14">choose a favorite contact</span>
+## Choose a favorite contact
 
 Take a look at your list of potential contacts on the crew sheet. Choose one contact who is a close friend, long-time ally, or partner in crime. The GM will tell you about two factions that are impacted by your choice:
 
 * One faction is also friendly with this contact, and you get **+1 status** with them.
 * One faction is unfriendly with this contact, and you get **-1 status** with them.
 
-
 At your option, these factions are even more concerned with this contact and so you take **+2** and **-2 status** instead.
-</div>
-<div id="_idContainer368" class="Basic-Text-Frame">
-	<table id="table009" class="Basic-Table TableOverride-1">
-		<colgroup>
-			<col class="_idGenTableRowColumn-19" />
-		</colgroup>
-		<tbody>
-			<tr class="Basic-Table _idGenTableRowColumn-20">
-				<td class="Basic-Table CellOverride-1">
 
-<span class="game-term CharOverride-8">Ambitious</span>
-
-<span class="game-term CharOverride-8">Brutal</span>
-
-<span class="game-term CharOverride-8">Daring</span>
-
-<span class="game-term CharOverride-8">Honorable</span>
-
-<span class="game-term CharOverride-8">Professional</span>
-
-<span class="game-term CharOverride-8">Savvy</span>
-
-<span class="game-term CharOverride-8">Subtle</span>
-
-<span class="game-term CharOverride-8">Strange</span>
-				</td>
-			</tr>
-		</tbody>
-	</table>
-</div>
-<div id="_idContainer369" class="Basic-Text-Frame">
-
-3
-</div>
-<div id="_idContainer370" class="Basic-Text-Frame">
-
-crew creation
-</div>
-<div id="_idContainer371" class="Basic-Text-Frame">
-
-3
-</div>
-<div id="_idContainer372" class="chapter-margin">
-
-<span class="CharOverride-3">the crew</span>
-</div>
-<div id="_idContainer373" class="Basic-Text-Frame">
-
-## <a id="_idTextAnchor018"></a>crew upgrade Examples
+## Crew upgrade Examples
 
 * <span class="game-term">Boat house:</span><span class="game-term"> </span>You have a boat, a dock on a waterway, and a small shack to store boating supplies. A second upgrade improves the boat with armor and more cargo capacity.
 * <span class="game-term">Carriage House:</span> You have a carriage, and draft animals to pull it, and a stable. A second upgrade improves the carriage with armor and larger, swifter steeds.
 * <span class="game-term">Cohort:</span> A cohort is a gang or a single expert NPC who works for your crew. For all the details on cohorts, see the following pages.
 * <span class="game-term">Hidden Lair:</span> Your lair has a secret location and is disguised to hide it from view. If your lair is discovered, use two downtime activities and pay <span class="game-term">coin</span> equal to your Tier to relocate it and hide it once again.
 * <span class="game-term">Mastery: </span>Your crew has access to master level training. You may advance your PCs’ action ratings to 4 (until you unlock this upgrade, PC action ratings are capped at 3). This costs four upgrade boxes to unlock.
-* <span class="game-term">Quality:</span>** **Each upgrade improves the **quality rating** of all the PCs’ items of that type, beyond the quality established by the crew’s Tier and fine items. You can improve the quality of **Documents**, **Gear** (covers Burglary Gear and Climbing Gear), Arcane **Implements**, Subterfuge **Supplies**, **Tools** (covers Demolitions Tools and Tinkering Tools), and **Weapons**.
-_So, if you are Tier 0, with fine lockpicks (+1) and the Quality upgrade for gear (+1), you could contend equally with a Tier II quality lock._
+* <span class="game-term">Quality:</span>** **Each upgrade improves the quality rating** of all the PCs’ items of that type, beyond the quality established by the crew’s Tier and fine items. You can improve the quality of **Documents**, **Gear** (covers Burglary Gear and Climbing Gear), Arcane **Implements**, Subterfuge **Supplies**, **Tools** (covers Demolitions Tools and Tinkering Tools), and **Weapons**. _So, if you are Tier 0, with fine lockpicks (+1) and the Quality upgrade for gear (+1), you could contend equally with a Tier II quality lock._
 * <span class="game-term">Quarters:</span> Your lair includes living quarters for the crew. Without this upgrade, each PC sleeps elsewhere, and is vulnerable when they do so.
 * <span class="game-term">Secure Lair:</span><span class="game-term"> </span>Your lair has locks, alarms, and traps to thwart intruders. A second upgrade improves the defenses to include arcane measures that work against spirits. _You might roll your crew’s Tier if these measures are ever put to the test, to see how well they thwart an intruder._
-* <span class="game-term">Training: </span>If you have a Training upgrade, you earn 2 xp (instead of 1) when you train a given xp track during downtime (<span class="game-term">Insight</span>, <span class="game-term">Prowess</span>, <span class="game-term">Resolve</span>, or Playbook xp). This upgrade essentially helps you advance more quickly. See **Advancement**, page <a href="Generic_Character_Playbook.html#_idTextAnchor014">40</a>.
-_If you have _<span class="CharOverride-23">Insight Training</span>_, when you train _<span class="game-term">Insight</span>_ during downtime, you mark 2 xp on the _<span class="game-term">Insight</span>_ track (instead of just 1). If you have _<span class="CharOverride-23">Playbook Training</span>_, you mark __2 xp__ on your playbook xp track when you train._
+* <span class="game-term">Training: </span>If you have a Training upgrade, you earn 2 xp (instead of 1) when you train a given xp track during downtime (<span class="game-term">Insight</span>, <span class="game-term">Prowess</span>, <span class="game-term">Resolve</span>, or Playbook xp). This upgrade essentially helps you advance more quickly. See **Advancement**, page 40.
+_If you have Insight Training, when you train Insight during downtime, you mark 2 xp on the <span class="game-term">Insight</span> track (instead of just 1). If you have Playbook Training, you mark 2 xp on your playbook xp track when you train._
 * <span class="game-term">Vault:</span><span class="game-term"> </span>Your lair has a secure vault, increasing your storage capacity for <span class="game-term">coin</span> to 8. A second upgrade increases your capacity to 16.  A separate part of your vault can be used as a holding cell.
 * <span class="game-term">Workshop:</span> Your lair has a workshop appointed with tools for tinkering and alchemy, as well as a small library of books, documents, and maps. You may accomplish long-term projects with these assets without leaving your lair.
 
-</div>
-<div id="_idContainer374" class="Basic-Text-Frame">
-
-3
-</div>
-<div id="_idContainer375" class="Basic-Text-Frame">
-
-crew upgrades
-</div>
-<div id="_idContainer376" class="Basic-Text-Frame">
-
-3
-</div>
-<div id="_idContainer377" class="chapter-margin">
-
-<span class="CharOverride-3">the crew</span>
-</div>
-<div id="_idContainer378" class="Basic-Text-Frame">
-
-## <a id="_idTextAnchor019"></a>cohorts
+## Cohorts
 
 A **cohort** is a **gang** or an **expert** who works for your crew. To recruit a new cohort, spend** two upgrades** and create them using the process below.
 
-creating a gang
+### Creating a gang
 
 Choose a **gang type** from the list below:
 
-		<li class="Bullets ParaOverride-15"><span class="game-term">Adepts:</span><span class="game-term"> </span>Scholars, tinkerers, occultists, and chemists.
-		<li class="Bullets ParaOverride-15"><span class="game-term">Rooks:</span> Con artists, spies, and socialites.
-		<li class="Bullets ParaOverride-15"><span class="game-term">Rovers:</span><span class="game-term"> </span>Sailors, carriage drivers, and deathlands scavengers.
-		<li class="Bullets ParaOverride-15"><span class="game-term">Skulks:</span> Scouts, infiltrators, and thieves.
-		<li class="Bullets ParaOverride-15"><span class="game-term">Thugs:</span> Killers, brawlers, and roustabouts.
+* <span class="game-term">Adepts:</span><span class="game-term"> </span>Scholars, tinkerers, occultists, and chemists.
+* <span class="game-term">Rooks:</span> Con artists, spies, and socialites.
+* <span class="game-term">Rovers:</span><span class="game-term"> </span>Sailors, carriage drivers, and deathlands scavengers.
+* <span class="game-term">Skulks:</span> Scouts, infiltrators, and thieves.
+* <span class="game-term">Thugs:</span> Killers, brawlers, and roustabouts.
 
 
 A gang has **scale** and **quality** equal to your current crew Tier. It increases in scale and quality when your crew moves up in Tier.
 
-_If your crew is Tier 0, your gang is quality 0 and scale 0 (1 or 2 people). When your crew is Tier II, your gang is quality 2 and scale 2 (12 people)._
+> If your crew is Tier 0, your gang is quality 0 and scale 0 (1 or 2 people). When your crew is Tier II, your gang is quality 2 and scale 2 (12 people).
 
 Some crew upgrades will add the “Elite” feature to a gang, which gives them +1d when they roll for a given Type. _So, if you’re Tier I and have a gang of Elite Thugs (+1d), they would roll 2d when they try to kill a target._
 
-creating an expert
+### Creating an expert
 
 Record the expert’s **type** (their specific area of expertise). They might be a _Doctor_, an _Investigator_, an _Occultist_, an _Assassin_, a _Spy_, etc.
 
 An expert has **quality** equal to your current crew Tier +1. Their scale is always zero (1 person). Your experts increase in quality when your crew moves up in Tier.
 
-edges &amp; flaws
+### Edges &amp; flaws
 
 When you create a cohort, give them one or two **edges** and an equal number of **flaws**.
 
-Edges
+**Edges**
 
-		<li class="Bullets ParaOverride-13">**Fearsome: **The cohort is terrifying in aspect and reputation.
-		<li class="Bullets ParaOverride-13">**Independent:** The cohort can be trusted to make good decisions and act on their own initiative in the absence of direct orders.
-		<li class="Bullets ParaOverride-13">**Loyal:** The cohort can’t be bribed or turned against you.
-		<li class="Bullets ParaOverride-13">**Tenacious:** The cohort won’t be deterred from a task.
+* **Fearsome: **The cohort is terrifying in aspect and reputation.
+* **Independent:** The cohort can be trusted to make good decisions and act on their own initiative in the absence of direct orders.
+* **Loyal:** The cohort can’t be bribed or turned against you.
+* **Tenacious:** The cohort won’t be deterred from a task.
+
+**Flaws**
+
+* **Principled:** The cohort has an ethic or values that it won’t betray.
+* **Savage:** The cohort is excessively violent and cruel.
+* **Unreliable:** The cohort isn’t always available, due to other obligations, stupefaction from their vices, etc.
+* **Wild:** The cohort is drunken, debauched, and loud-mouthed.
 
 
-Flaws
-
-		<li class="Bullets ParaOverride-13">**Principled:** The cohort has an ethic or values that it won’t betray.
-		<li class="Bullets ParaOverride-13">**Savage:** The cohort is excessively violent and cruel.
-		<li class="Bullets ParaOverride-13">**Unreliable:** The cohort isn’t always available, due to other obligations, stupefaction from their vices, etc.
-		<li class="Bullets ParaOverride-13">**Wild:** The cohort is drunken, debauched, and loud-mouthed.
-
-
-modifying a cohort
+### Modifying a cohort
 
 You can add an **additional type** to a gang or expert by spending two crew upgrades. When a cohort performs actions for which its types apply, it uses its full quality rating. Otherwise, its quality is zero. A given cohort can have up to two types.
 
-using a cohort
+### Using a cohort
 
 When you send a cohort to achieve a goal, roll their **quality** to see how it goes. Or, a PC can oversee the maneuver by leading a **group action**. If you direct the cohort with orders, roll <span class="game-term">Command</span>. If you participate in the action alongside the cohort, roll the appropriate action. The quality of any opposition relative to the cohort’s quality affects the position and effect of the action.
 
-_The PCs crew of Hawkers want to run a rival gang out of the alley where they’re selling drugs. They send their gang of Thugs to go kick the interlopers out. The GM rolls 2d for the Thugs’ quality, and gets a _<span class="game-term">3</span>_. An hour later, the Thugs come back, beaten and bloody. One of them looks sheepish, “Those guys are tough, boss.” (The GM inflicts harm on the cohort, and they failed their goal.)_
+> The PCs crew of Hawkers want to run a rival gang out of the alley where they’re selling drugs. They send their gang of Thugs to go kick the interlopers out. The GM rolls 2d for the Thugs’ quality, and gets a <span class="game-term">3</span>. An hour later, the Thugs come back, beaten and bloody. One of them looks sheepish, “Those guys are tough, boss.” (The GM inflicts harm on the cohort, and they failed their goal.)
 
-_The next day, the crew boss goes back and leads a group action, rolling her 3d in _<span class="game-term">Skirmish</span>_ alongside the Thugs’ 2d. The boss gets a _<span class="game-term">6</span>_ this time—they beat the tar out of the other gang and send them packing (at least for now)._
+> The next day, the crew boss goes back and leads a group action, rolling her 3d in <span class="game-term">Skirmish</span> alongside the Thugs’ 2d. The boss gets a <span class="game-term">6</span> this time—they beat the tar out of the other gang and send them packing (at least for now).
 
 ## Cohort harm &amp; Healing
 
 Cohorts suffer harm similarly to PCs. A cohort can suffer four levels of harm:
-	<ol>
-		<li class="Bullets ParaOverride-31">**Weakened. **The cohort has reduced effect.
-		<li class="Bullets ParaOverride-31">**Impaired.** The cohort operates with reduced quality (-1d).
-		<li class="Bullets ParaOverride-31">**Broken. **The cohort can’t do anything until they recover.
-		<li class="Bullets ParaOverride-31">**Dead. **The cohort is destroyed.
-	</ol>
+<ol>
+	<li>**Weakened.** The cohort has reduced effect.
+	<li>**Impaired.** The cohort operates with reduced quality (-1d).
+	<li>**Broken.** The cohort can’t do anything until they recover.
+	<li>**Dead.** The cohort is destroyed.
+</ol>
 
 All of your cohorts heal during downtime. If circumstances are amenable for recovery, each cohort removes one level of harm (or two levels of harm instead, if a PC spends a downtime activity helping them recuperate).
 
 If a cohort is destroyed, it may be replaced. Spend <span class="game-term">coin</span> equal to your Tier +2 to restore it, plus two downtime activities to recruit new gang members, or hire a new expert.
-</div>
-<div id="_idContainer379" class="Basic-Text-Frame">
 
-3
-</div>
-<div id="_idContainer380" class="Basic-Text-Frame">
+## Crew creation summary
 
-cohorts
-</div>
-<div id="_idContainer381" class="Basic-Text-Frame">
+@TODO dropcaps
 
-## <a id="_idTextAnchor020"></a>crew creation summary
-
-<span class="CharOverride-32">1</span>** Choose a crew type. **The crew type determines the group’s purpose, their special abilities, and how they advance.
+<span class="CharOverride-32">1</span>**Choose a crew type.** The crew type determines the group’s purpose, their special abilities, and how they advance.
 
 You begin at **Tier 0**, with **strong hold** and 0 <span class="game-term">rep</span>. You start with 2 <span class="game-term">coin</span>.
 
-<span class="CharOverride-32">2</span> **Choose an initial reputation and lair. **Choose how other underworld factions see you: _Ambitious—Brutal—Daring—Honorable—Professional—Savvy—Subtle—Strange. _Look at the map and pick a district in which to place your lair. Describe the lair.
+<span class="CharOverride-32">2</span> **Choose an initial reputation and lair.** Choose how other underworld factions see you:_Ambitious—Brutal—Daring—Honorable—Professional—Savvy—Subtle—Strange._ Look at the map and pick a district in which to place your lair. Describe the lair.
 
 <span class="CharOverride-32">3</span> **Establish your hunting grounds.** Look at the map and pick a district in which to place your hunting grounds. Decide how to deal with the faction that claims that area.
 
-		<li class="Bullets ParaOverride-13">Pay them 1 <span class="game-term">coin</span>.
-		<li class="Bullets ParaOverride-13">Pay them 2 <span class="game-term">coin</span>. Get **+1 status**.
-		<li class="Bullets ParaOverride-13">Pay nothing. Get **-1 status**.
-
+* Pay them 1 <span class="game-term">coin</span>.
+* Pay them 2 <span class="game-term">coin</span>. Get **+1 status**.
+* Pay nothing. Get **-1 status**.
 
 <span class="CharOverride-32">4</span> **Choose a special ability.** They’re in the gray column in the middle of the crew sheet. If you can’t decide, choose the first ability on the list. It’s placed there as a good first option.
 
@@ -2254,22 +1372,35 @@ You begin at **Tier 0**, with **strong hold** and 0 <span class="game-term">rep<
 
 
 At your option, increase the intensity of the factions’ relationship with your contact and take **+2** and **-2 status**, instead.
-</div>
-<div id="_idContainer382" class="Basic-Text-Frame">
 
-3
-</div>
-<div id="_idContainer383" class="Basic-Text-Frame">
+# Crew playbook
 
-crew creation
-</div>
-<div id="_idContainer384" class="Basic-Text-Frame">
+**Short description of Crew**
+
+You’re professional murderers—death is your business.
+
+**Add xp trigger. When you play this crew, you earn xp when you execute a successful operation of a few specific types.** Some examples include: murder, ransom, battle extortion, sabotage, product supply or sale, espionage, theft, acquiring new contraband or sources.
+
+_Add questions to personalize the crew. How is the crew distinguished from other similar crews?_
+
+## Starting upgrades
+* First upgrade
+* Second upgrade
+
+## Favored Operations
+A list of operation types that the crew may perform. Some possibilities include: murder, ranson, extortion, sabotage, aquisition, consecration, sacrifice, sale, supply, show of force, sociailize, burglary, espionage, robbery, smuggling arms, smuggling contraband, or smuggling passengers.
+
+## Contacts
+
+A list of five possible contacts for thew crew, along with descriptions of each. Some possibilities include: a gang boss, a deal broker, a noble, a bounty hunter, a merchant, a blacksmith, a physicker, a ward boss, a taver owner, an academic, an occultist, a magistrate, a dillettante, an explorer, a collector, an arms dealer, a drug dealer, an anarchist, or a dock worker.
+
+Questions can inlclue how you know the friend, what they’ve done for you,  what you do for them, and what kind of relationship you have.
 
 ## Crew upgrades
 
 A list of five upgrades specific to the crew. Some examples:
 
-* **Rigging: **You get 2 free load in two of the equipment categories (weapons, implements, supplies, gear, documents, and tools).
+* **Rigging:** You get 2 free load in two of the equipment categories (weapons, implements, supplies, gear, documents, and tools).
 * **Prison Contacts:** Your Tier is effectively +1 higher in prison. _This counts for any Tier-related element in prison, including the incarceration roll._
 * **Elite Cohorts (specify type):** All of your cohorts with the specified type get **+1d** to quality rolls for related actions.
 * **Hardened:** Each PC gets **+1 **<span class="game-term">trauma</span>** box**. This costs three upgrades to unlock, not just one. _This may bring a PC with 4 _<span class="game-term">trauma</span>_ back into play if you wish._
@@ -2277,210 +1408,71 @@ A list of five upgrades specific to the crew. Some examples:
 * **Underground Maps and Passkeys:** You have easy passage through the underground canals, tunnels, and basements of the city.
 * **Camouflage:** Your vehicles are perfectly concealed when at rest. They blend in as part of the environment, or as an uninteresting civilian vehicle (your choice).
 
-</div>
-<div id="_idContainer385" class="Basic-Text-Frame">
+### Make a Claim Map for the Crew. Sample claims include:</span>
 
-<span class="CharOverride-40">crew playbook</span>
-</div>
-<div id="_idContainer386" class="Basic-Text-Frame">
+<span class="game-term">Turf: </span>You require one less Rep to advance in tier (max 6).</span>
 
-<span class="em CharOverride-34">Short description of Crew</span>
+<span class="game-term ">City Records:</span> You get </span>**+1d** to the **engagement roll** for **stealth** plans. _You can use blueprints and other documents to determine a good approach for infiltrations._
 
-You’re professional murderers—death is your business.
+<span class="game-term">Cover Identities: </span> You get **+1d** to the **engagement roll** for **deception** and **social plans. _False identities help confuse the opposition._
 
-**Add xp trigger. When you play this crew, you earn xp when you execute a successful operation of a few specific types. **Some examples include: murder, ransom, battle extortion, sabotage, product supply or sale, espionage, theft, acquiring new contraband or sources.
+<span class="game-term">Cover Operation: </span> You get **-2** <span class="game-term">heat</span> per score. _The cover of a legitimate operation helps deflect some of the heat from law enforcement._
 
-_Add questions to personalize the crew. How is the crew distinguished from other similar crews?_
-</div>
-<div id="_idContainer387" class="Basic-Graphics-Frame _idGenObjectStyleOverride-6">
-<p><span class="CharOverride-35">starting upgrades</span>
-</div>
-<div id="_idContainer388" class="Basic-Text-Frame">
+<span class="game-term">Envoy:</span> You get **+2** <span class="game-term">coin</span> in **payoff** for scores that involve high-class clients. _This well-connected liaison will help arrange for a better payoff from rich clients._
 
-* **First Upgrade**
-* **Second Upgrade**
+<span class="game-term">Fixer:</span> You get </span>**+2** <span class="game-term">coin</span> in **payoff** for scores that involve lower-class clients. _This well-respected agent will help arrange for a better payoff from poorer clients._
 
-</div>
-<div id="_idContainer389" class="Basic-Graphics-Frame _idGenObjectStyleOverride-6">
-<p><span class="CharOverride-35">favored operations</span>
-</div>
-<div id="_idContainer390" class="Basic-Text-Frame">
+<span class="game-term">Infirmary:</span> You get **+1d** to healing treatment rolls. _The infirmary also has beds for long-term convalescence._
 
-A list of operation types that the crew may perform. Some possibilities include: murder, ranson, extortion, sabotage, aquisition, consecration, sacrifice, sale, supply, show of force, sociailize, burglary, espionage, robbery, smuggling arms, smuggling contraband, or smuggling passengers.
-</div>
-<div id="_idContainer391" class="Basic-Graphics-Frame _idGenObjectStyleOverride-6">
-<p><span class="CharOverride-35">contacts</span>
-</div>
-<div id="_idContainer392" class="Basic-Text-Frame">
+<span class="game-term">Informants:</span> You get **+1d** to gather information for a score. _Your eyes and ears on the streets are always on the lookout for new targets._
 
-A list of five possible contacts for thew crew, along with descriptions of each. Some possibilities include: a gang boss, a deal broker, a noble, a bounty hunter, a merchant, a blacksmith, a physicker, a ward boss, a taver owner, an academic, an occultist, a magistrate, a dillettante, an explorer, a collector, an arms dealer, a drug dealer, an anarchist, or a dock worker.
+<span class="game-term">Protection Racket:</span> Any time during downtime, roll dice equal to your Tier. You earn <span class="game-term">coin</span> equal to the highest result, minus your <span class="game-term">heat</span>. _Some of the locals are terrified of you and will gladly pay for “protection.”_
 
-Questions can inlclue how you know the friend, what they’ve done for you,  what you do for them, and what kind of relationship you have.
-</div>
-<div id="_idContainer393" class="Basic-Graphics-Frame _idGenObjectStyleOverride-1">
-<p><span class="CharOverride-1">crew claims</span>
-</div>
-<div class="_idGenObjectLayout-1">
-	<div id="_idContainer419">
-		<div id="_idContainer394" class="Basic-Text-Frame _idGenObjectStyleOverride-15">
+<span class="game-term">Training Rooms:</span> Your cohorts of a specific type get **+1 scale**. _Extra training enables them to fight like a larger gang._
 
-<span class="CharOverride-41">claim</span>
-		</div>
-		<div id="_idContainer395" class="Basic-Text-Frame _idGenObjectStyleOverride-15">
+<span class="game-term">Vice Den:</span> Any time during downtime, roll dice equal to your Tier. You earn <span class="game-term">coin</span> equal to the highest result, minus your <span class="game-term">heat</span>.
 
-<span class="CharOverride-41">claim</span>
-		</div>
-		<div id="_idContainer396" class="Basic-Text-Frame _idGenObjectStyleOverride-15">
+<span class="game-term">Victim Trophies:</span> You get **+1 rep** per score. _Word of your grisly “collection” gets around, and your boldness boosts your rep in the underworld._
 
-<span class="CharOverride-41">claim</span>
-		</div>
-		<div id="_idContainer397" class="Basic-Graphics-Frame _idGenObjectStyleOverride-16">
-		</div>
-		<div id="_idContainer398" class="Basic-Graphics-Frame _idGenObjectStyleOverride-16">
-		</div>
-		<div id="_idContainer399" class="Basic-Graphics-Frame _idGenObjectStyleOverride-16">
-		</div>
-		<div id="_idContainer400" class="Basic-Text-Frame _idGenObjectStyleOverride-15">
+<span class="game-term">Fighting Pits </span> During downtime, roll dice equal to your Tier. You earn <span class="game-term">coin</span> equal to the highest result, minus your <span class="game-term">heat</span>. _The locals love to gamble away their hard-won coin on the blood-sports you host._
 
-<span class="CharOverride-41">claim</span>
-		</div>
-		<div id="_idContainer401" class="Basic-Text-Frame _idGenObjectStyleOverride-15">
+<span class="game-term">Street Fence:</span> You get **+2** <span class="game-term">coin</span> in your payoff for scores that involve lower-class targets. _An expert can find the treasure amid the trash you loot from your poorer victims._
 
-<span class="CharOverride-41">turf</span>
-		</div>
-		<div id="_idContainer402" class="Basic-Text-Frame _idGenObjectStyleOverride-15">
-
-<span class="CharOverride-41">claim</span>
-		</div>
-		<div id="_idContainer403" class="Basic-Graphics-Frame _idGenObjectStyleOverride-16">
-		</div>
-		<div id="_idContainer404" class="Basic-Graphics-Frame _idGenObjectStyleOverride-16">
-		</div>
-		<div id="_idContainer405" class="Basic-Text-Frame _idGenObjectStyleOverride-15">
-
-<span class="CharOverride-41">claim</span>
-		</div>
-		<div id="_idContainer406" class="Basic-Text-Frame _idGenObjectStyleOverride-17">
-
-<span class="CharOverride-42">lair</span>
-		</div>
-		<div id="_idContainer407" class="Basic-Text-Frame _idGenObjectStyleOverride-15">
-
-<span class="CharOverride-41">claim</span>
-		</div>
-		<div id="_idContainer408" class="Basic-Graphics-Frame _idGenObjectStyleOverride-16">
-		</div>
-		<div id="_idContainer409" class="Basic-Text-Frame _idGenObjectStyleOverride-15">
-
-<span class="CharOverride-41">claim</span>
-		</div>
-		<div id="_idContainer410" class="Basic-Text-Frame _idGenObjectStyleOverride-15">
-
-<span class="CharOverride-41">claim</span>
-		</div>
-		<div id="_idContainer411" class="Basic-Text-Frame _idGenObjectStyleOverride-15">
-
-<span class="CharOverride-41">claim</span>
-		</div>
-		<div id="_idContainer412" class="Basic-Graphics-Frame _idGenObjectStyleOverride-16">
-		</div>
-		<div id="_idContainer413" class="Basic-Graphics-Frame _idGenObjectStyleOverride-16">
-		</div>
-		<div id="_idContainer414" class="Basic-Graphics-Frame _idGenObjectStyleOverride-16">
-		</div>
-		<div id="_idContainer415" class="Basic-Text-Frame _idGenObjectStyleOverride-15">
-
-<span class="CharOverride-41">claim</span>
-		</div>
-		<div id="_idContainer416" class="Basic-Text-Frame _idGenObjectStyleOverride-15">
-
-<span class="CharOverride-41">claim</span>
-		</div>
-		<div id="_idContainer417" class="Basic-Text-Frame _idGenObjectStyleOverride-15">
-
-<span class="CharOverride-41">claim</span>
-		</div>
-		<div id="_idContainer418" class="Basic-Graphics-Frame _idGenObjectStyleOverride-16">
-		</div>
-	</div>
-</div>
-<div id="_idContainer420" class="Basic-Graphics-Frame _idGenObjectStyleOverride-1">
-
-<span class="game-term CharOverride-8">Make a Claim Map for the Crew. Sample claims include:</span>
-
-<span class="game-term CharOverride-8">Turf: </span><span class="CharOverride-8">You require one less Rep to advance in tier (max 6).</span>
-
-<span class="game-term CharOverride-8">City Records: </span><span class="CharOverride-8">You get </span><span class="strong CharOverride-8">+1d</span><span class="CharOverride-8"> to the </span><span class="strong CharOverride-8">engagement roll</span><span class="CharOverride-8"> for </span><span class="strong CharOverride-8">stealth</span><span class="CharOverride-8"> plans. </span><span class="em CharOverride-8">You can use blueprints and other documents to determine a good approach for infiltrations.</span>
-
-<span class="game-term CharOverride-8">Cover Identities: </span><span class="CharOverride-8">You get </span><span class="strong CharOverride-8">+1d</span><span class="CharOverride-8"> to the </span><span class="strong CharOverride-8">engagement roll</span><span class="CharOverride-8"> for </span><span class="strong CharOverride-8">deception</span><span class="CharOverride-8"> and </span><span class="strong CharOverride-8">social</span><span class="CharOverride-8"> plans. </span><span class="em CharOverride-8">False identities help confuse the opposition.</span>
-
-<span class="game-term CharOverride-8">Cover Operation: </span><span class="CharOverride-8">You get </span><span class="strong CharOverride-8">-2 </span><span class="game-term CharOverride-8">heat</span><span class="CharOverride-8"> per score. </span><span class="em CharOverride-8">The cover of a legitimate operation helps deflect some of the heat from law enforcement.</span>
-
-<span class="game-term CharOverride-8">Envoy:</span><span class="CharOverride-8"> You get </span><span class="strong CharOverride-8">+2 </span><span class="game-term CharOverride-8">coin</span><span class="CharOverride-8"> in </span><span class="strong CharOverride-8">payoff</span><span class="CharOverride-8"> for scores that involve high-class clients. </span><span class="em CharOverride-8">This well-connected liaison will help arrange for a better payoff from rich clients.</span>
-
-<span class="game-term CharOverride-8">Fixer:</span><span class="CharOverride-8"> You get </span><span class="strong CharOverride-8">+2 </span><span class="game-term CharOverride-8">coin</span><span class="CharOverride-8"> in </span><span class="strong CharOverride-8">payoff</span><span class="CharOverride-8"> for scores that involve lower-class clients. </span><span class="em CharOverride-8">This well-respected agent will help arrange for a better payoff from poorer clients.</span>
-
-<span class="game-term CharOverride-8">Infirmary:</span><span class="CharOverride-8"> You get </span><span class="strong CharOverride-8">+1d</span><span class="CharOverride-8"> to healing treatment rolls. </span><span class="em CharOverride-8">The infirmary also has beds for long-term convalescence.</span>
-
-<span class="game-term CharOverride-8">Informants:</span><span class="CharOverride-8"> You get </span><span class="strong CharOverride-8">+1d</span><span class="CharOverride-8"> to gather information for a score. </span><span class="em CharOverride-8">Your eyes and ears on the streets are always on the lookout for new targets.</span>
-
-<span class="game-term CharOverride-8">Protection Racket:</span><span class="CharOverride-8"> Any time during downtime, roll dice equal to your Tier. You earn </span><span class="game-term CharOverride-8">coin</span><span class="CharOverride-8"> equal to the highest result, minus your </span><span class="game-term CharOverride-8">heat</span><span class="CharOverride-8">. </span><span class="em CharOverride-8">Some of the locals are terrified of you and will gladly pay for “protection.”</span>
-
-<span class="game-term CharOverride-8">Training Rooms:</span><span class="CharOverride-8"> Your cohorts of a specific type get </span><span class="strong CharOverride-8">+1 scale</span><span class="CharOverride-8">. </span><span class="em CharOverride-8">Extra training enables them to fight like a larger gang.</span>
-
-<span class="game-term CharOverride-8">Vice Den:</span><span class="CharOverride-8"> Any time during downtime, roll dice equal to your Tier. You earn </span><span class="game-term CharOverride-8">coin</span><span class="CharOverride-8"> equal to the highest result, minus your </span><span class="game-term CharOverride-8">heat</span><span class="CharOverride-8">. </span>
-
-<span class="game-term CharOverride-8">Victim Trophies:</span><span class="CharOverride-8"> You get </span><span class="strong CharOverride-8">+1 rep</span><span class="CharOverride-8"> per score. </span><span class="em CharOverride-8">Word of your grisly “collection” gets around, and your boldness boosts your rep in the underworld.</span>
-</div>
-<div id="_idContainer421" class="Basic-Text-Frame">
-
-Playbook
-</div>
-<div id="_idContainer422" class="Basic-Text-Frame">
-
-crew:
-</div>
-<div id="_idContainer423" class="Basic-Graphics-Frame _idGenObjectStyleOverride-1">
-
-<span class="game-term">Fighting Pits </span>During downtime, roll dice equal to your Tier. You earn <span class="game-term">coin</span> equal to the highest result, minus your <span class="game-term">heat</span>. _The locals love to gamble away their hard-won coin on the blood-sports you host._
-
-<span class="game-term">Street Fence:</span> You get **+2 **<span class="game-term">coin</span> in your payoff for scores that involve lower-class targets. _An expert can find the treasure amid the trash you loot from your poorer victims._
-
-<span class="game-term">Terrorized Citizens:</span> You get **+2 **<span class="game-term">coin</span> in your payoff for scores that involve battle or extortion. _The frightened locals offer you tribute whenever you lash out. They don’t want to be next._
+<span class="game-term">Terrorized Citizens:</span> You get **+2** <span class="game-term">coin</span> in your payoff for scores that involve battle or extortion. _The frightened locals offer you tribute whenever you lash out. They don’t want to be next._
 
 <span class="game-term">Warehouses:</span> You get **+1d** to **acquire asset** rolls. _You have space to hold all the various spoils you end up with after your battles. It can be useful on its own or for barter when you need it._
 
-<span class="game-term">Ancient Altar: </span>You get **+1d** to the **engagement roll** for **occult** plans. _Its blessing is with you._
+<span class="game-term">Ancient Altar: </span> You get **+1d** to the **engagement roll** for **occult** plans. _Its blessing is with you._
 
 <span class="game-term">Ancient Tower:</span> You get **+1d** to <span class="game-term">Consort</span> with arcane entities on-site.
 
-<span class="game-term">Offertory:</span> You get **+2 **<span class="game-term">coin</span> in your payoff for scores that involve occult operations. _The frightened locals offer you tribute when you perform your dark practices. They don’t want to be next._
+<span class="game-term">Offertory:</span> You get **+2** <span class="game-term">coin</span> in your payoff for scores that involve occult operations. _The frightened locals offer you tribute when you perform your dark practices. They don’t want to be next._
 
-<span class="game-term">Local Graft:</span> You get **+2 **<span class="game-term">coin</span> in **payoff** for scores that involve a show of force or socializing. _A few city officials share bribe money with those who show that they’re players on the scene._
+<span class="game-term">Local Graft:</span> You get **+2** <span class="game-term">coin</span> in **payoff** for scores that involve a show of force or socializing. _A few city officials share bribe money with those who show that they’re players on the scene._
 
-<span class="game-term">Lookouts: </span>You get **+1d** to <span class="game-term">Hunt</span> or <span class="game-term">Survey</span> on your turf.
+<span class="game-term">Lookouts: </span> You get **+1d** to <span class="game-term">Hunt</span> or <span class="game-term">Survey</span> on your turf.
 
-<span class="game-term">Luxury Venue: </span>**+1d** to <span class="game-term">Consort</span> and <span class="game-term">Sway</span> rolls on-site. _Silks, paintings, and crystal impress the clientele._
+<span class="game-term">Luxury Venue: </span> **+1d** to <span class="game-term">Consort</span> and <span class="game-term">Sway</span> rolls on-site. _Silks, paintings, and crystal impress the clientele._
 
-<span class="game-term">Surplus Cache:</span> You get **+2 **<span class="game-term">coin</span> in **payoff** for scores that involve product sale or supply. _You have an abundance of product, which pads your pockets every now and then._
+<span class="game-term">Surplus Cache:</span> You get **+2** <span class="game-term">coin</span> in **payoff** for scores that involve product sale or supply. _You have an abundance of product, which pads your pockets every now and then._
 
-<span class="game-term">Covert Drop:</span> You get **+2 **<span class="game-term">coin</span> in **payoff** for scores that involve espionage or sabotage. _The perfect hidden exchange point is worth the extra coin to discerning clientele._
+<span class="game-term">Covert Drop:</span> You get **+2** <span class="game-term">coin</span> in **payoff** for scores that involve espionage or sabotage. _The perfect hidden exchange point is worth the extra coin to discerning clientele._
 
 <span class="game-term">Interrogation Chamber:</span> You get **+1d** to <span class="game-term">Command</span> and <span class="game-term">Sway</span> on-site. _Grisly business, but effective._
 
-<span class="game-term">Loyal Fence:</span> You get **+2 **<span class="game-term">coin</span> in **payoff** for scores that involve burglary or robbery. _It requires a skilled eye and good contacts to move stolen goods._
+<span class="game-term">Loyal Fence:</span> You get **+2** <span class="game-term">coin</span> in **payoff** for scores that involve burglary or robbery. _It requires a skilled eye and good contacts to move stolen goods._
 
-<span class="game-term">Secret Pathways: </span>You get **+1d** to the **engagement roll** for **stealth** plans. _You might have access to long-forgotten underground canals, rooftop walkways, or some other route of your choosing._
+<span class="game-term">Secret Pathways: </span> You get **+1d** to the **engagement roll** for **stealth** plans. _You might have access to long-forgotten underground canals, rooftop walkways, or some other route of your choosing._
 
-<span class="game-term">Tavern: </span><span class="game-term CharOverride-43">You get </span>**+1d** to <span class="game-term">Consort</span> and <span class="game-term">Sway</span> rolls on-site. _Some booze and friendly conversation can go a long way._
+<span class="game-term">Tavern:</span> You get **+1d** to <span class="game-term">Consort</span> and <span class="game-term">Sway</span> rolls on-site. _Some booze and friendly conversation can go a long way._
 
 <span class="game-term">Side Business:</span> Any time during downtime, roll dice equal to your Tier. You earn <span class="game-term">coin</span> equal to the highest result, minus your <span class="game-term">heat</span>. _What kind of legitimate business is this? How do you get paid in secret?_
-</div>
-<div id="_idContainer424" class="Basic-Text-Frame">
 
-## CREW special abilities
+## Crew special abilities
 
 Create seven special abiliites for your crew. Here are several exaples.
+
+@TODO END
 
 deadly
 
@@ -3170,10 +2162,10 @@ heat
 
 The city is full of prying eyes and informants. Anything you do might be witnessed, and there’s always evidence left behind. To reflect this, your crew acquires <span class="game-term">heat</span> as they commit crimes. After a score or conflict with an opponent, your crew takes <span class="game-term">heat</span> according to the nature of the operation:
 
-		<li class="Bullets ParaOverride-12"><span class="game-term">0 heat:</span> Smooth &amp; quiet; low exposure.
-		<li class="Bullets ParaOverride-12"><span class="game-term">2 heat:</span> Contained; standard exposure.
-		<li class="Bullets ParaOverride-12"><span class="game-term">4 heat: </span>Loud &amp; chaotic; high exposure.
-		<li class="Bullets ParaOverride-12"><span class="game-term">6 heat:</span> Wild; devastating exposure.
+* <span class="game-term">0 heat:</span> Smooth &amp; quiet; low exposure.
+* <span class="game-term">2 heat:</span> Contained; standard exposure.
+* <span class="game-term">4 heat: </span>Loud &amp; chaotic; high exposure.
+* <span class="game-term">6 heat:</span> Wild; devastating exposure.
 
 
 Add +1 <span class="game-term">heat</span> for a high-profile or well-connected target. Add +1 <span class="game-term">heat</span> if the situation happened on hostile turf. Add +1 <span class="game-term">heat</span> if you’re at war with another faction. Add +2 <span class="game-term">heat</span> if killing was involved (whether the crew did the killing or not—bodies draw attention).
@@ -3194,11 +2186,11 @@ Incarceration may result from investigation and arrest by the officers, or becau
 
 The severity of the prison sentence depends on your <span class="game-term">wanted level</span>:
 
-		<li class="Bullets ParaOverride-12"><span class="game-term">Wanted Level 4: </span>Life or execution.
-		<li class="Bullets ParaOverride-12"><span class="game-term">Wanted Level 3:</span> A year or two.
-		<li class="Bullets ParaOverride-12"><span class="game-term">Wanted Level 2:</span> Several months.
-		<li class="Bullets ParaOverride-12"><span class="game-term">Wanted Level 1:</span> A month or two.
-		<li class="Bullets ParaOverride-12"><span class="game-term">Wanted Level 0:</span> A few weeks. Or, the constables give you a beating to teach you a lesson (suffer level 3 harm, no resistance roll allowed—they keep going until you’re injured).
+* <span class="game-term">Wanted Level 4: </span>Life or execution.
+* <span class="game-term">Wanted Level 3:</span> A year or two.
+* <span class="game-term">Wanted Level 2:</span> Several months.
+* <span class="game-term">Wanted Level 1:</span> A month or two.
+* <span class="game-term">Wanted Level 0:</span> A few weeks. Or, the constables give you a beating to teach you a lesson (suffer level 3 harm, no resistance roll allowed—they keep going until you’re injured).
 
 
 Incarceration is dehumanizing and brutal. The renown of your crew is your only real defense inside. When you serve your time, make an **incarceration roll** using your crew’s Tier as the dice pool.
@@ -3722,10 +2714,10 @@ _“Remember how you had that weird vision at the altar to the forgotten gods? Y
 
 Gain temporary use of an **asset**:
 
-		<li class="Bullets ParaOverride-15">One special **item** or set of common items (enough for a gang of your Tier scale).
-		<li class="Bullets ParaOverride-15">A **cohort** (an expert or gang).
-		<li class="Bullets ParaOverride-15">A **vehicle**.
-		<li class="Bullets ParaOverride-15">A **service**. Transport from a smuggler or driver, use of a warehouse for temporary storage, legal representation, etc.
+* One special **item** or set of common items (enough for a gang of your Tier scale).
+* A **cohort** (an expert or gang).
+* A **vehicle**.
+* A **service**. Transport from a smuggler or driver, use of a warehouse for temporary storage, legal representation, etc.
 
 
 “Temporary use” constitutes one significant period of usage that makes sense for the asset—typically the duration of one score. An asset may also be acquired for “standby” use in the future. You might hire a gang to guard your lair, for example, and they’ll stick around until after the first serious battle, or until a week goes by and they lose interest.
@@ -3975,12 +2967,12 @@ vice
 
 NPCs and factions also do things when the PCs have downtime. The GM **advances their project clocks** and chooses a downtime maneuver or two for each faction that they’re interested in at the moment. Choose any maneuver that makes sense for that faction to pursue. For example:
 
-		<li class="Bullets ParaOverride-15">Seize a claim or increase hold, make an enemy vulnerable, or reduce the hold of a vulnerable enemy.
-		<li class="Bullets ParaOverride-15">Gather information on the PCs (may be opposed by a PC roll) or another subject.
-		<li class="Bullets ParaOverride-15">Achieve a short-term goal they’re in position to accomplish.
-		<li class="Bullets ParaOverride-15">Acquire a new asset.
-		<li class="Bullets ParaOverride-15">Call in a favor from another faction.
-		<li class="Bullets ParaOverride-15">Employ political pressure or threats to force someone’s hand.
+* Seize a claim or increase hold, make an enemy vulnerable, or reduce the hold of a vulnerable enemy.
+* Gather information on the PCs (may be opposed by a PC roll) or another subject.
+* Achieve a short-term goal they’re in position to accomplish.
+* Acquire a new asset.
+* Call in a favor from another faction.
+* Employ political pressure or threats to force someone’s hand.
 
 
 **GM:** Choose downtime maneuvers and advance clocks for the factions you’re interested in right now. Don’t worry about the rest. Later, when you turn your attention to a faction you’ve ignored for a while, go ahead and give them several downtime phases and project clock ticks to “catch up” to current events.
@@ -4002,9 +2994,9 @@ _Add _<span class="CharOverride-23">+1d</span>_ to your roll if a _<span class="
 Roll the crew’s **Tier**<span class="game-term CharOverride-15">.</span> The result indicates the **quality** of the asset:
 
 * <span class="game-term">Critical:</span> Tier +2.
-		<li class="Bullets ParaOverride-13"><span class="game-term">6:</span> Tier +1.
-		<li class="Bullets ParaOverride-13"><span class="game-term">4/5:</span> Tier.
-		<li class="Bullets ParaOverride-13"><span class="game-term">1-3:</span> Tier -1.
+* <span class="game-term">6:</span> Tier +1.
+* <span class="game-term">4/5:</span> Tier.
+* <span class="game-term">1-3:</span> Tier -1.
 
 
 _Some items require a minimum quality result to acquire. To raise the result beyond critical, you may spend _<span class="CharOverride-23">2</span>_ _<span class="game-term">coin</span>_ per +1 Tier bonus._
@@ -4770,9 +3762,9 @@ modifying an item
 
 Adding a feature or additional function to an item is simpler than creating something new. You don’t need to invent a special formula or plan. Make a crafting roll to modify an item (the baseline quality of an item that you modify is equal to your crew’s Tier, as usual).
 
-		<li class="Bullets ParaOverride-13">A simple, useful modification requires Tier +1 quality. _A rifle that breaks down into two sections to be more easily concealed._
-		<li class="Bullets ParaOverride-13">A significant modification requires Tier +2 quality. _Strengthening the barrel and powder load of a gun to fire further._
-		<li class="Bullets ParaOverride-13">An arcane, spark-craft, or alchemical modification requires Tier +3 quality. _A dagger that can harm a demon. An electrified hull on a boat to repel boarders or ghosts. An outfit coated with chemicals to mask you from deathlands predators._
+* A simple, useful modification requires Tier +1 quality. _A rifle that breaks down into two sections to be more easily concealed._
+* A significant modification requires Tier +2 quality. _Strengthening the barrel and powder load of a gun to fire further._
+* An arcane, spark-craft, or alchemical modification requires Tier +3 quality. _A dagger that can harm a demon. An electrified hull on a boat to repel boarders or ghosts. An outfit coated with chemicals to mask you from deathlands predators._
 
 
 Modified items, like special creations, may have **drawbacks**.
@@ -4781,12 +3773,12 @@ drawbacks
 
 A creation or modification may have one or more drawbacks, chosen by the GM.
 
-		<li class="Bullets ParaOverride-13"><span class="game-term">Complex. </span>You’ll have to create it in multiple stages; the GM will tell you how many. One downtime activity and crafting roll is needed per stage.
-		<li class="Bullets ParaOverride-13"><span class="game-term">Conspicuous. </span>This creation doesn’t go unnoticed. Take **+1 **<span class="game-term">heat</span> if it’s used any number of times on an operation.
-		<li class="Bullets ParaOverride-13"><span class="game-term">Consumable.</span> This creation has a limited number of uses (all alchemicals must have this drawback, usually one use).
-		<li class="Bullets ParaOverride-13"><span class="game-term">Rare. </span>This creation requires a rare item or material when it is crafted.
-		<li class="Bullets ParaOverride-13"><span class="game-term">Unreliable. </span>When you use the item, make a fortune roll (using its **quality**) to see how well it performs.
-		<li class="Bullets ParaOverride-13"><span class="game-term">Volatile. </span>The item produces a dangerous or troublesome side-effect for the user, specified by the GM (see examples on the sample creations, next page). A side-effect is a consequence, and may be **resisted**.
+* <span class="game-term">Complex. </span>You’ll have to create it in multiple stages; the GM will tell you how many. One downtime activity and crafting roll is needed per stage.
+* <span class="game-term">Conspicuous. </span>This creation doesn’t go unnoticed. Take **+1 **<span class="game-term">heat</span> if it’s used any number of times on an operation.
+* <span class="game-term">Consumable.</span> This creation has a limited number of uses (all alchemicals must have this drawback, usually one use).
+* <span class="game-term">Rare. </span>This creation requires a rare item or material when it is crafted.
+* <span class="game-term">Unreliable. </span>When you use the item, make a fortune roll (using its **quality**) to see how well it performs.
+* <span class="game-term">Volatile. </span>The item produces a dangerous or troublesome side-effect for the user, specified by the GM (see examples on the sample creations, next page). A side-effect is a consequence, and may be **resisted**.
 
 </div>
 <div id="_idContainer716" class="Basic-Text-Frame">
