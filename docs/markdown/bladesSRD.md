@@ -786,9 +786,9 @@ Every player character is familiar with all of the various feats of skulduggery 
 
 Of course, you’ll also have your specializations and skills, the qualities that make your character uniquely effective. You might want the ability to compel obedience from ghosts and channel arcane energy through your body, or maybe you want to manipulate the network of the underworld to your advantage and see danger before it strikes, or maybe you just want to be the deadliest fighter with a blade. In this chapter, you’ll learn how to create your own unique scoundrel and choose the abilities that suit the style of play you prefer.
 
-## Character creation
+# Character creation
 
-### Create playbooks
+## Create playbooks
 
 A playbook is what we call the sheet with all the specific rules to play a certain character type in a Blades-powered game. For example, you might create a playbook called a **Soldier**, with special abilities related to battle, or a playbook called a **Medic**, with special abilities related to field medicine.
 

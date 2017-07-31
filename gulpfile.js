@@ -158,31 +158,31 @@
   });
 
   //  Takes Markdown files and turns them into HTML
-  // gulp.task('make-html', function () {
-  //   return gulp.src('docs/markdown/**.md')
-  //     .pipe(markdown())
-  //     .pipe(gulp.dest('docs/html'));
-  // });
+  gulp.task('make-html', function () {
+    return gulp.src('docs/markdown/**.md')
+      .pipe(markdown())
+      .pipe(gulp.dest('docs/html'));
+  });
 
   //  This splits html when it encounters an h1
   //  The assumption is that this starts new chapters.
-  // gulp.task('split-html', function() {
-  //   gulp.src('docs/html/**.html')
-  //     .pipe(tap(function (file,t) {
-  //       filename = path.basename(file.path)
-  //       filename = filename.replace('.html','')
-  //       splitDest = 'for-import/';
-  //       return filename, splitDest;
-  //     }))
-  //     // Insert breaks before the <h1>s.
-  //     .pipe(replace(/<h1 id="((.)*?)">((.|\n)*?)<\/h1>/g, function(match, offset, p1, p2, p3){
-  //       i++; // Start the count at 1. :-)
-  //       return '<!-- split ' + filename + '-' + i + '-' + offset + '.html --><h1>' + p2 + '</h1>'
-  //     }))
-  //     .pipe(htmlsplit())
-  //     .pipe(gulp.dest(function(){
-  //       return splitDest;
-  //     }))
-  // });
+  gulp.task('split-html', function() {
+    gulp.src('docs/html/bladesSRD.html')
+      .pipe(tap(function (file,t) {
+        filename = path.basename(file.path)
+        filename = filename.replace('.html','')
+        splitDest = 'for-import/';
+        return filename, splitDest;
+      }))
+      // Insert breaks before the <h1>s.
+      .pipe(replace(/<h1 id="((.)*?)">((.|\n)*?)<\/h1>/g, function(match, offset, p1, p2, p3){
+        i++; // Start the count at 1. :-)
+        return '<!-- split ' + filename + '-' + i + '-' + offset + '.html --><h1>' + p2 + '</h1>'
+      }))
+      .pipe(htmlsplit())
+      .pipe(gulp.dest(function(){
+        return splitDest;
+      }))
+  });
 
 })();
