@@ -1470,158 +1470,91 @@ A list of five upgrades specific to the crew. Some examples:
 
 ## Crew special abilities
 
-Create seven special abiliites for your crew. Here are several exaples.
+Create seven special abilities for your crew. Here are several examples.
 
-@TODO END
-
-deadly
+### Deadly
 
 Each PC may add +1 action rating to <span class="game-term">Hunt</span>, <span class="game-term">Prowl</span>, or <span class="game-term">Skirmish</span> (up to a max rating of 3).
 
-_Each player may choose the action they prefer (you don’t all have to choose the same one). If you take this ability during initial character and crew creation, it supersedes the normal starting limit for action ratings._
+> Each player may choose the action they prefer (you don’t all have to choose the same one). If you take this ability during initial character and crew creation, it supersedes the normal starting limit for action ratings.
 
-death veil
+### Death veil
 
 Due to hard-won experience or occult ritual, you don’t take extra <span class="game-term">heat</span> when killing is involved on a score.
 
-no traces
+### No traces
 
 When you keep an operation quiet or make it look like an accident, you get half the <span class="game-term">rep</span> value of the target (round up) instead of zero. When you end downtime with zero <span class="game-term">heat</span>, take **+1** <span class="game-term">rep</span>.
 
-_There are many clients who value quiet operations. This ability rewards you for keeping a low-profile._
+> There are many clients who value quiet operations. This ability rewards you for keeping a low-profile.
 
-patron
+### Patron
 
-When you advance your **Tier**, it costs **half the **<span class="game-term">coin</span> it normally would.
+When you advance your **Tier**, it costs half the <span class="game-term">coin</span> it normally would.
 
-_Who is your patron? Why do they help you?_
+> Who is your patron? Why do they help you?
 
-predators
+### Predators
 
 When you use a stealth or deception plan to commit murder, take **+1d** to the **engagement roll**.
 
-_This ability applies when the goal is murder. It doesn’t apply to other stealth or deception operations you attempt that happen to involve killing. _
+> This ability applies when the goal is murder. It doesn’t apply to other stealth or deception operations you attempt that happen to involve killing.
 
-fiends
+### Fiends
 
 Fear is as good as respect. You may count each <span class="game-term">wanted level</span> as if it were **turf**.
 
-_The maximum _<span class="game-term">wanted level</span>_ is 4. Regardless of how much turf you hold (from this ability or otherwise) the minimum _<span class="game-term">rep</span>_ cost to advance your Tier is always 6._
+> The maximum <span class="game-term">wanted level</span> is 4. Regardless of how much turf you hold (from this ability or otherwise) the minimum <span class="game-term">rep</span> cost to advance your Tier is always 6._
 
-forged in the fire
+### Forged in the fire
 
 Each PC has been toughened by cruel experience. You get **+1d** to **resistance** rolls.
 
-_This ability applies to PCs in the crew. It doesn’t confer any special toughness to your cohorts._
+> This ability applies to PCs in the crew. It doesn’t confer any special toughness to your cohorts.
 
-war dogs
+### War dogs
 
 When you’re at war (-3 faction status), your crew does not suffer -1 hold and PCs still get two downtime activities, instead of just one.
 
-anointed
+### Anointed
 
 You gain **+1d** to **resistance** rolls against supernatural threats. You get **+1d** to healing rolls when you have supernatural harm.
 
-accord
+### Accord
 
 Sometimes friends are as good as territory. You may treat up to three **+3 faction** statuses** you hold as if they are **turf**.
 
-_If your status changes, you lose the turf until it becomes +3 again. Regardless of how much turf you hold (from this ability or otherwise) the minimum _<span class="game-term">rep</span>_ cost to advance your Tier is always 6._
+> If your status changes, you lose the turf until it becomes +3 again. Regardless of how much turf you hold (from this ability or otherwise) the minimum <span class="game-term">rep</span> cost to advance your Tier is always 6.
 
-high society
+### High society
 
 It’s all about who you know. Take **-1 **<span class="game-term">heat</span>** **during downtime and **+1d** to **gather information** about the city’s elite.
 
-pack rats
+### Pack rats
 
 Your lair is a jumble of stolen items. When you roll to **acquire an asset**, take **+1d**.
 
-_This ability might mean that you actually have the item you need in your pile of stuff, or it could mean you have extra odds and ends to barter with._
+> This ability might mean that you actually have the item you need in your pile of stuff, or it could mean you have extra odds and ends to barter with.
 
-second story
+### Second story
 
 When you execute a clandestine infiltration, you get **+1d** to the **engagement roll**.
 
-synchronized
+### Synchronized
 
 When you perform a **group action**, you may count multiple 6s from different rolls as a <span class="game-term">critical</span> success.
 
-_For example, Lyric leads a group action to _<span class="game-term">Attune</span>_ to the ghost field to overcome a magical ward on the Dimmer Sisters’ door. Emily, Lyric’s player, rolls and gets a _<span class="game-term">6</span>_, and so does Matt! Because the crew has Synchronized, their two separate _<span class="game-term">6</span>_s count as a _<span class="game-term">critical</span>_ success on the roll._
+> For example, Lyric leads a group action to <span class="game-term">Attune</span> to the ghost field to overcome a magical ward on the Dimmer Sisters’ door. Emily, Lyric’s player, rolls and gets a <span class="game-term">6</span>, and so does Matt! Because the crew has Synchronized, their two separate <span class="game-term">6</span>s count as a <span class="game-term">critical</span> success on the roll.
 
-all hands
+### All hands
 
-During **downtime**, one of your **cohorts** may perform a downtime activity for the crew to **acquire an asset**, **reduce **<span class="game-term">heat</span>, or work on a **long-term project**.
+During **downtime**, one of your **cohorts** may perform a downtime activity for the crew to **acquire an asset**, **reduce** <span class="game-term">heat</span>, or work on a **long-term project**.
 
-just passing through
+### Just passing through
 
 During **downtime**, take **-1 **<span class="game-term">heat</span>. When your <span class="game-term">heat</span> is 4 or less, you get **+1d** to deceive people when you pass yourselves off as ordinary citizens.
-</div>
-<div class="_idGenObjectLayout-1">
-	<div id="_idContainer425" class="_idGenObjectStyleOverride-1">
-		<img class="_idGenObjectAttribute-1" src="data:image/jpg;base64,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" alt="" />
-	</div>
-</div>
-<div class="_idGenObjectLayout-1">
-	<div id="_idContainer426" class="Basic-Text-Frame">
-	</div>
-</div>
-<div class="_idGenObjectLayout-1">
-	<div id="_idContainer428" class="_idGenObjectStyleOverride-1">
-		<div id="_idContainer427" class="_idGenObjectStyleOverride-2">
-		</div>
-	</div>
-</div>
-<div id="_idContainer429" class="Basic-Text-Frame">
 
-crew:
-</div>
-<div class="_idGenObjectLayout-1">
-	<div id="_idContainer430" class="_idGenObjectStyleOverride-1">
-		<img class="_idGenObjectAttribute-1" src="data:image/jpg;base64,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" alt="" />
-	</div>
-</div>
-<div class="_idGenObjectLayout-1">
-	<div id="_idContainer431" class="Basic-Text-Frame">
-	</div>
-</div>
-<div class="_idGenObjectLayout-1">
-	<div id="_idContainer433" class="_idGenObjectStyleOverride-1">
-		<div id="_idContainer432" class="_idGenObjectStyleOverride-2">
-		</div>
-	</div>
-</div>
-<div id="_idContainer434" class="Basic-Text-Frame">
-
-crew:
-</div>
-<div class="_idGenObjectLayout-1">
-	<div id="_idContainer439" class="_idGenObjectStyleOverride-1">
-		<div id="_idContainer438">
-			<div id="_idContainer436" class="_idGenObjectStyleOverride-1">
-				<div id="_idContainer435" class="_idGenObjectStyleOverride-1">
-					<img class="_idGenObjectAttribute-1" src="Generic_Character_Playbook-web-resources/image/blades_ink_bg_01_dark2.png" alt="" />
-				</div>
-			</div>
-			<div id="_idContainer437" class="Basic-Text-Frame">
-
-4
-			</div>
-		</div>
-	</div>
-</div>
-<div class="_idGenObjectLayout-1">
-	<div id="_idContainer441" class="_idGenObjectStyleOverride-1">
-		<div id="_idContainer440" class="_idGenObjectStyleOverride-2">
-		</div>
-	</div>
-</div>
-<div id="_idContainer442" class="Basic-Text-Frame">
-
-<span class="CharOverride-1">chapter 4</span>
-
-<a id="_idTextAnchor021"></a>the score
-</div>
-<div id="_idContainer443" class="Basic-Text-Frame">
+# The Score
 
 _Murder for hire, brutal extortion, dark rituals, illicit deals, smuggling runs, thievery in the shadows—the only chances left for those pushed to the margins and denied the privileges of the corrupt and predatory elite._
 
@@ -1633,28 +1566,21 @@ A score is a single operation with a particular goal: _burgle a Lord’s manor, 
 * Seizing a **claim** that you choose from your crew’s **claim map**. Claims help your crew grow and develop. See page <a href="Generic_Character_Playbook.html#_idTextAnchor013">38</a> for more details.
 * A **special mission** or goal determined by the players (like getting a rare artifact to empower one of the Whisper’s rituals).
 
-
 A score can be long and involved or short and sweet. There might be lots of rolls and trouble, or just a few actions to resolve it. _Play to find out what happens!_ A score doesn’t need to fill one session of play every time. Let it be however long it is.
 
 The PCs can set up a new score by choosing a target (from their claims or the faction list, for example), by approaching a potential client and asking for work, or by being contacted by an NPC who needs to hire a crew for a job.
 
 A score consists of a few key elements, detailed in this chapter: **planning &amp; engagement**, **flashbacks**, and **teamwork**.
-</div>
-<div class="_idGenObjectLayout-1">
-	<div id="_idContainer444" class="Basic-Text-Frame">
-	</div>
-</div>
-<div id="_idContainer445" class="Basic-Text-Frame">
 
-planning &amp; engagement
-</div>
-<div id="_idContainer446" class="Basic-Text-Frame">
+# Planning &amp; engagement
 
 Your crew spends time planning each score. They huddle around a flickering lantern in their lair, looking at scrawled maps, whispering plots and schemes, bickering about the best approach, lamenting the dangers ahead, and lusting after stacks of coin.
 
 But you, the players, don’t have to do the nitty-gritty planning. The characters take care of that, off-screen. All you have to do is choose what **type of plan** the characters _have already made_. There’s no need to sweat all the little details and try to cover every eventuality ahead of time, because the **engagement roll** (detailed on the next page) ultimately determines how much trouble you’re in when the plan is put in motion. _No plan is ever perfect._ You can’t account for everything. This system assumes that there’s always some unknown factors and trouble—major or minor—in every operation; you just have to make the best of it.
 
 There are six different plans, each with a missing **detail** you need to provide (see the list below). To “plan an operation,” simply choose the plan and supply the detail. Then the GM will **cut to the action** as the first moments of the operation unfold.
+
+@TODO Add table p79
 
 ## The Detail
 
@@ -1670,27 +1596,28 @@ Once the players choose a plan and provide its detail, the GM cuts to the action
 
 The engagement roll is a **fortune roll**, starting with **1d for sheer luck**. Modify the dice pool for any major advantages or disadvantages that apply.
 
-Major Advantages / Disadvantages
+### Major Advantages / Disadvantages
 
 * Is this operation particularly bold or daring? Take **+1d**. Is this operation overly complex or contingent on many factors? Take **-1d**.
 * Does the **plan’s detail** expose a vulnerability of the target or hit them where they’re weakest? Take **+1d**. Is the target strongest against this approach, or do they have particular defenses or special preparations? Take **-1d**.
 * Can any of your **friends or contacts **provide aid or insight for this operation? Take **+1d**. Are any **enemies or rivals** interfering in the operation? Take **-1d**.
 * Are there any **other elements** that you want to consider? Maybe a lower-Tier target will give you +1d.  Maybe a higher-Tier target will give you -1d. Maybe there’s a situation in the district that makes the operation more or less tricky.
 
-
 The engagement roll assumes that the PCs are approaching the target as intelligently as they can, given the plan and detail they provided, so we don’t need to play out tentative probing maneuvers, special precautions, or other ponderous non-action. The engagement roll covers all of that. The PCs are already in action, facing the first obstacle—up on the rooftop, picking the lock on the window; kicking down the door of the rival gang’s lair; maneuvering to speak with a Lord at the masquerade party; etc.
 
 Don’t make the engagement roll and then describe the PCs _approaching_ the target. It’s the approach that the engagement roll resolves. Cut to the action that results _because of_ that initial approach—to the first serious obstacle in their path.
 
-_The first obstacles at the witches’ house are their cunning locks and magical traps. The engagement roll puts us on the roof outside a window, as the PCs attempt to silently and carefully break into the attic._
+@TODO add table p81
 
-_The PCs have kicked down the door and swarmed into the front room of the gang’s lair, weapons flashing, into the swirl of the melee with the first guards._
+> The first obstacles at the witches’ house are their cunning locks and magical traps. The engagement roll puts us on the roof outside a window, as the PCs attempt to silently and carefully break into the attic.
 
-_The PCs have socialized politely at the party, maneuvering into position to have a private word with a powerful Lord. As a group of young nobles leave his side, the PCs step up and engage him in conversation._
+> The PCs have kicked down the door and swarmed into the front room of the gang’s lair, weapons flashing, into the swirl of the melee with the first guards.
+
+> The PCs have socialized politely at the party, maneuvering into position to have a private word with a powerful Lord. As a group of young nobles leave his side, the PCs step up and engage him in conversation.
 
 If the players want to include a special preparation or clever setup, they can do so with **flashbacks** during the score. This takes some getting used to. Players may balk at first, worried that you’re skipping over important things that they want to do. But jumping straight into the action of the score is much more effective once you get used to it. When they see the situation they’re in, their “planning” in flashbacks will be focused and useful, rather than merely speculations on circumstances and events that might not even happen.
 
-outcomes
+### Outcomes
 
 The outcome of the engagement roll determines the **position** for the PCs’ initial actions when we cut to the score in progress. A <span class="game-term">1-3</span> means a desperate position. A <span class="game-term">4/5</span> is a risky position. A <span class="game-term">6</span> yields a controlled position. And a <span class="game-term">critical</span> carries the action beyond the initial obstacle, deeper into the action of the score.
 
@@ -1698,30 +1625,30 @@ No matter how low-Tier or outmatched you are, a desperate position is the worst 
 
 When you describe the situation after the roll, use the details of the target to paint a picture of the PCs’ position. How might the strange, occult gang present a desperate position for burglars? How might the violent and ruthless butchers present a risky threat to assaulting thugs? How might the vain and pompous Lord present a controlled opportunity for a manipulative scoundrel? Use this opportunity to show how the PCs’ enemies are dangerous and capable—don’t characterize a bad engagement roll as a failure by the PCs, or they won’t trust the technique in the future. Sure, things are starting out desperate here against the creepy occultists, but you’re just the type of characters who are daring enough to take them on. Let’s get to it.
 
-how long does it last?
+### How long does it last?
 
 The engagement roll determines the starting position for the PCs’ actions. How long does that hold? Does the situation stay desperate? No. Once the initial actions have been resolved, you follow the normal process for establishing position for the rest of the rolls during the score. The engagement roll is a quick short-hand to kick things off and get the action started—it doesn’t have any impact after that.
 
 ## Linked Plans
 
 Sometimes an operation seems to call for a couple of plans linked together. A common scenario is a team that wants a two-pronged approach. “You create a diversion at the tavern, and when they send thugs over there, we’ll break into their lair.” There are two ways to handle this.
-	<ol>
-		<li class="Numbers">The diversion is a **setup maneuver** that a team member performs as part of the plan. A successful setup maneuver can improve **position** for teammates (possibly offsetting a bad engagement roll) or give increased effect.  An unsuccessful setup maneuver might cause trouble for the second part of the plan—an easy consequence is to give the engagement roll -1d. <br />_If it makes sense, the team member who performed the setup can drift back into the main operation and join the team later so they don’t have to sit out and wait._
-		<li class="Numbers">The diversion is its own plan, engagement, and operation, whose outcome creates the opportunity for a future plan. Use this option when the first part of the plan is required for the next part to happen at all. For example, you might execute a stealth plan to steal an artifact from the Museum of the Ancients, then later use that artifact in an occult plan to consecrate a temple for your forgotten god. In this case, you go into downtime (and payoff, <span class="game-term">heat</span>, etc.) after the first part of the plan, as normal.
-	</ol>
+
+<ol>
+	<li>The diversion is a **setup maneuver** that a team member performs as part of the plan. A successful setup maneuver can improve **position** for teammates (possibly offsetting a bad engagement roll) or give increased effect.  An unsuccessful setup maneuver might cause trouble for the second part of the plan—an easy consequence is to give the engagement roll -1d. _If it makes sense, the team member who performed the setup can drift back into the main operation and join the team later so they don’t have to sit out and wait._
+	<li>The diversion is its own plan, engagement, and operation, whose outcome creates the opportunity for a future plan. Use this option when the first part of the plan is required for the next part to happen at all. For example, you might execute a stealth plan to steal an artifact from the Museum of the Ancients, then later use that artifact in an occult plan to consecrate a temple for your forgotten god. In this case, you go into downtime (and payoff, <span class="game-term">heat</span>, etc.) after the first part of the plan, as normal.
+</ol>
 
 Either approach is fine. It’s usually a question of interest. Is the linked plan idea interesting enough on its own to play out moment by moment? Is it required for the second plan to make sense? If so, make it a separate operation. If not, just use a setup maneuver.
 
-<span class="CharOverride-2">Flashbacks</span>
+## Flashbacks
 
 The rules don’t distinguish between actions performed in the present moment and those performed in the past. When an operation is underway, you can invoke a **flashback** to roll for an action in the past that impacts your current situation. Maybe you convinced the district Watch sergeant to cancel the patrol tonight, so you make a <span class="game-term">Sway</span> roll to see how that went.
 
 The GM sets a **stress cost** when you activate a flashback action.
 
-* <span class="game-term CharOverride-5">0 </span><span class="game-term">Stress:</span> An ordinary action for which you had easy opportunity. _The Cutter _<span class="game-term">Consorted</span>_ with her friend to agree to arrive at the dice game ahead of time, to suddenly spring out as a surprise ally._
-* <span class="game-term CharOverride-5">1 </span><span class="game-term">Stress:</span> A complex action or unlikely opportunity. _The Hound _<span class="game-term">Finessed</span>_ his pistols into a hiding spot near the card table so he could retrieve them after the pat-down at the front door._
-* <span class="game-term CharOverride-5">2 </span><span class="game-term">(or more) Stress:</span> An elaborate action that involved special opportunities or contingencies. _The Whisper has already _<span class="game-term">Studied</span>_ the history of the property and learned of a ghost that is known to haunt its ancient canal dock—a ghost that can be compelled to reveal the location of the hidden vault._
-
+* <span class="game-term">0 </span><span class="game-term">Stress:</span> An ordinary action for which you had easy opportunity. _The Cutter _<span class="game-term">Consorted</span>_ with her friend to agree to arrive at the dice game ahead of time, to suddenly spring out as a surprise ally._
+* <span class="game-term">1 </span><span class="game-term">Stress:</span> A complex action or unlikely opportunity. _The Hound _<span class="game-term">Finessed</span>_ his pistols into a hiding spot near the card table so he could retrieve them after the pat-down at the front door._
+* <span class="game-term">2 </span><span class="game-term">(or more) Stress:</span> An elaborate action that involved special opportunities or contingencies. _The Whisper has already <span class="game-term">Studied</span> the history of the property and learned of a ghost that is known to haunt its ancient canal dock—a ghost that can be compelled to reveal the location of the hidden vault._
 
 After the stress cost is paid, a flashback action is handled just like any other action. Sometimes it will entail an action roll, because there’s some danger or trouble involved. Sometimes a flashback will entail a fortune roll, because we just need to find out how well (or how much, or how long, etc.). Sometimes a flashback won’t call for a roll at all because you can just pay the stress and it’s accomplished.
 
@@ -1729,278 +1656,47 @@ If a flashback involves a **downtime** activity, pay 1 <span class="game-term">c
 
 One of the best uses for a flashback is when the **engagement roll** goes badly. After the GM describes the trouble you’re in, you can call for a flashback to a special preparation you made, “just in case” something like this happened. This way, your “flashback planning” will be focused on the problems that _do _happen, not the problems that _might_ happen.
 
-<span class="CharOverride-14">limits of flashbacks</span>
+### Limits of flashbacks
 
-A flashback isn’t time travel. It can’t “undo” something that just occurred in the present moment. For instance, if an Inspector confronts you about recent thefts of occult artifacts when you’re at the Lady’s party, you can’t call for a flashback to assassinate the Inspector the night before. She’s here now, questioning you—that’s established in the fiction. You _can _call for a flashback to show that you intentionally tipped off the inspector so she would confront you at the party—so you could use that opportunity to impress the Lady with your aplomb and daring.
+A flashback isn’t time travel. It can’t “undo” something that just occurred in the present moment. For instance, if an Inspector confronts you about recent thefts of occult artifacts when you’re at the Lady’s party, you can’t call for a flashback to assassinate the Inspector the night before. She’s here now, questioning you—that’s established in the fiction. You _can_ call for a flashback to show that you intentionally tipped off the inspector so she would confront you at the party—so you could use that opportunity to impress the Lady with your aplomb and daring.
 
-## flashback examples
+#### flashback examples
 
-_“I want to have a flashback to earlier that night, where I sneak into the stables and feed fireweed to all their goats so they’ll go berserk and create a distraction for our infiltration.”_
+> “I want to have a flashback to earlier that night, where I sneak into the stables and feed fireweed to all their goats so they’ll go berserk and create a distraction for our infiltration.”
 
-_“Ha! Nice. Okay, that’s seems a bit tricky, dealing with ornery goats and all... 1 stress.” _
+> “Ha! Nice. Okay, that’s seems a bit tricky, dealing with ornery goats and all... 1 stress.”
 
-_“Should I roll Prowl to sneak in and plant it?”_
+> “Should I roll Prowl to sneak in and plant it?”
 
-_“Nah. Their goat stable security amounts to a stable boy who is usually asleep anyway. You can easily avoid their notice.”_
+> “Nah. Their goat stable security amounts to a stable boy who is usually asleep anyway. You can easily avoid their notice.”
 
-_“So it just works?”_
+> “So it just works?”
 
-_“Eh... not so fast. When you want the distraction to hit, let’s make a fortune roll to see how crazy the Fireweed Goat Maneuver gets. Three dice.”_
+> “Eh... not so fast. When you want the distraction to hit, let’s make a fortune roll to see how crazy the Fireweed Goat Maneuver gets. Three dice.”
 
-<span class="em CharOverride-44">—</span>
+&emdash;
 
-_“The engagement roll is... a _<span class="game-term">2</span>_. Looks like a desperate situation for you! Hmmm. Okay, so you’re inside the gang’s compound at the docks, slipping up through the shadows next to some huge metal storage tanks. But then all the electric lights come on. The big metal warehouse door rolls open, and you hear a heavy wagon coming in through the gate. Looks like they’re getting a delivery right now, and a bunch of gang members are out to receive it. They’re about to be on top of you. What do you do?”_
+> “The engagement roll is... a <span class="game-term">2</span>. Looks like a desperate situation for you! Hmmm. Okay, so you’re inside the gang’s compound at the docks, slipping up through the shadows next to some huge metal storage tanks. But then all the electric lights come on. The big metal warehouse door rolls open, and you hear a heavy wagon coming in through the gate. Looks like they’re getting a delivery right now, and a bunch of gang members are out to receive it. They’re about to be on top of you. What do you do?”
 
-_“Hang on, I want to have a flashback.”_
+> “Hang on, I want to have a flashback.”
 
-_“Okay, for what?”_
+> “Okay, for what?”
 
-_“Uh. Something... helpful? Damn, I don’t know what that would be. Anyone have ideas?”_
+> “Uh. Something... helpful? Damn, I don’t know what that would be. Anyone have ideas?”
 
-_“Oh, what if you Consorted with your docker friends yesterday and they blabbed about this delivery, so we rigged it with a bomb.”_
+> “Oh, what if you Consorted with your docker friends yesterday and they blabbed about this delivery, so we rigged it with a bomb.”
 
-_“Oh man, that’s hilarious. But kind of nuts. I guess 2 stress for that?”_
+> “Oh man, that’s hilarious. But kind of nuts. I guess 2 stress for that?”
 
-_“Sounds good. But let’s make that Consort roll and see if your docker friends made any demands or complicated anything for you. Then we need to find out how well this bomb works. Who was in charge of that?”_
+> “Sounds good. But let’s make that Consort roll and see if your docker friends made any demands or complicated anything for you. Then we need to find out how well this bomb works. Who was in charge of that?”
 
-_“I did it. I’ll roll Tinker to set the fuse just right. Hopefully.”_
+> “I did it. I’ll roll Tinker to set the fuse just right. Hopefully.”
 
-## giving up on a score
+## Giving up on a score
 
 When you give up on a score, you go into **downtime**. Follow the phases for downtime presented in the next chapter. You’ll usually have zero **payoff**, since you didn’t accomplish anything. You’ll still face <span class="game-term">heat</span> and **entanglements** as usual.
-</div>
-<div class="_idGenObjectLayout-1">
-	<div id="_idContainer450">
-		<div id="_idContainer447" class="_idGenObjectStyleOverride-1">
-			<img class="_idGenObjectAttribute-1" src="data:image/png;base64,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" alt="" />
-		</div>
-		<div id="_idContainer448" class="Basic-Text-Frame">
 
-<span class="CharOverride-25">assault</span>
-		</div>
-		<div id="_idContainer449" class="Basic-Graphics-Frame _idGenObjectStyleOverride-6">
-
-<span class="CharOverride-13">Do violence to a target. </span><span class="em CharOverride-13">Detail: The point of attack.</span>
-		</div>
-	</div>
-</div>
-<div class="_idGenObjectLayout-1">
-	<div id="_idContainer454">
-		<div id="_idContainer451" class="_idGenObjectStyleOverride-1">
-			<img class="_idGenObjectAttribute-1" src="data:image/png;base64,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" alt="" />
-		</div>
-		<div id="_idContainer452" class="Basic-Text-Frame">
-
-<span class="CharOverride-25">deception</span>
-		</div>
-		<div id="_idContainer453" class="Basic-Graphics-Frame _idGenObjectStyleOverride-6">
-
-<span class="CharOverride-13">Lure, trick, or manipulate. </span><span class="em CharOverride-13">Detail: The method of deception.</span>
-		</div>
-	</div>
-</div>
-<div class="_idGenObjectLayout-1">
-	<div id="_idContainer458">
-		<div id="_idContainer455" class="_idGenObjectStyleOverride-1">
-			<img class="_idGenObjectAttribute-1" src="data:image/png;base64,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" alt="" />
-		</div>
-		<div id="_idContainer456" class="Basic-Text-Frame">
-
-<span class="CharOverride-25">stealth</span>
-		</div>
-		<div id="_idContainer457" class="Basic-Graphics-Frame _idGenObjectStyleOverride-6">
-
-<span class="CharOverride-13">Trespass unseen. </span><span class="em CharOverride-13">Detail: The point of infiltration.</span>
-		</div>
-	</div>
-</div>
-<div class="_idGenObjectLayout-1">
-	<div id="_idContainer462">
-		<div id="_idContainer459" class="_idGenObjectStyleOverride-1">
-			<img class="_idGenObjectAttribute-1" src="data:image/png;base64,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" alt="" />
-		</div>
-		<div id="_idContainer460" class="Basic-Text-Frame">
-
-<span class="CharOverride-25">occult</span>
-		</div>
-		<div id="_idContainer461" class="Basic-Graphics-Frame _idGenObjectStyleOverride-6">
-
-<span class="CharOverride-13">Engage a supernatural power. </span><span class="em CharOverride-13">Detail: The arcane method.</span>
-		</div>
-	</div>
-</div>
-<div class="_idGenObjectLayout-1">
-	<div id="_idContainer466">
-		<div id="_idContainer463" class="Basic-Text-Frame">
-
-<span class="CharOverride-25">social</span>
-		</div>
-		<div id="_idContainer464" class="_idGenObjectStyleOverride-1">
-			<img class="_idGenObjectAttribute-1" src="data:image/png;base64,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" alt="" />
-		</div>
-		<div id="_idContainer465" class="Basic-Graphics-Frame _idGenObjectStyleOverride-6">
-
-<span class="CharOverride-13">Negotiate, bargain, or persuade. </span><span class="em CharOverride-13">Detail: The social connection.</span>
-		</div>
-	</div>
-</div>
-<div class="_idGenObjectLayout-1">
-	<div id="_idContainer470">
-		<div id="_idContainer467" class="Basic-Text-Frame">
-
-<span class="CharOverride-25">transport</span>
-		</div>
-		<div id="_idContainer468" class="_idGenObjectStyleOverride-1">
-			<img class="_idGenObjectAttribute-1" src="data:image/png;base64,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" alt="" />
-		</div>
-		<div id="_idContainer469" class="Basic-Graphics-Frame _idGenObjectStyleOverride-6">
-
-<span class="CharOverride-13">Carry cargo or people through danger. </span><span class="em CharOverride-13">Detail: The route &amp; means.</span>
-		</div>
-	</div>
-</div>
-<div id="_idContainer471" class="Basic-Text-Frame">
-
-4
-</div>
-<div id="_idContainer472" class="Basic-Text-Frame">
-
-plans, loadout
-</div>
-<div id="_idContainer473" class="Basic-Text-Frame">
-
-4
-</div>
-<div id="_idContainer474" class="chapter-margin">
-
-<span class="CharOverride-3">the score</span>
-</div>
-<div id="_idContainer475" class="Basic-Text-Frame">
-
-## <span class="CharOverride-16">engagement roll</span>
-</div>
-<div class="_idGenObjectLayout-1">
-	<div id="_idContainer476" class="Basic-Graphics-Frame _idGenObjectStyleOverride-5">
-		<img class="_idGenObjectAttribute-1" src="data:image/jpg;base64,/9j/7QAsUGhvdG9zaG9wIDMuMAA4QklNA+0AAAAAABAAlgAAAAEAAQCWAAAAAQAB/+4AJkFkb2JlAGQAAAAAAQMAEAMDBgkAAAAAAAAAAAAAAAAFAAJJRP/bAIQAAgICAgICAgICAgMCAgIDBAMDAwMEBQQEBAQEBQUFBQUFBQUFBQcICAgHBQkKCgoKCQwMDAwMDAwMDAwMDAwMDAEDAwMHBQcNBwcNDw0NDQ8PDg4ODg8PDAwMDAwPDwwODg4ODA8MEREREREMERERERERERERERERERERERERERER/8IAEQgAJgJrAwERAAIRAQMRAf/EAIwAAQEBAAAAAAAAAAAAAAAAAAAGCgEBAAAAAAAAAAAAAAAAAAAAABAAAwEBAQAAAAAAAAAAAAAAAAUVYEWAEQACAwACAgEFAAAAAAAAAAAABZPUNmARhcUTBDRUNRYSAQAAAAAAAAAAAAAAAAAAAIATAAEDBQEAAAAAAAAAAAAAABGAIVEAIFAxQXH/2gAMAwEAAhADEAAAAM/4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABfkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAX5AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAF+QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABfgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAvD/9oACAECAAEFAfQ3/9oACAEDAAEFAfQ3/9oACAEBAAEFAcbzsbzsbzsbzoy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiQvn//2gAIAQICBj8BQ3//2gAIAQMCBj8BQ3//2gAIAQEBBj8B4b4r2HDvFew4d4r2HDvFewNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA6/qVf6zrv4/r/z++/sT//aAAgBAgMBPxBQ3//aAAgBAwMBPxBQ3//aAAgBAQMBPxBLZJIYMGDBgwYMGDBgwYMGDBgwYMGDBgwYMGDBgwYMGDBsKGDBgwYMGDBgwYMGDBgwYMGDBgwYMGDBgwYMGDBgwYMGtDBgwYNEURHsAtongev/2Q==" alt="" />
-	</div>
-</div>
-<div id="_idContainer477" class="Basic-Text-Frame _idGenObjectStyleOverride-15">
-
-<span class="strong CharOverride-13">1d</span><span class="CharOverride-13"> for sheer luck.</span>
-</div>
-<div class="_idGenObjectLayout-1">
-	<div id="_idContainer482">
-		<div id="_idContainer478" class="Basic-Graphics-Frame _idGenObjectStyleOverride-1">
-		</div>
-		<div id="_idContainer481">
-			<div id="_idContainer479" class="Basic-Graphics-Frame _idGenObjectStyleOverride-5">
-			</div>
-			<div id="_idContainer480" class="_idGenObjectStyleOverride-2">
-			</div>
-		</div>
-	</div>
-</div>
-<div id="_idContainer483" class="Basic-Text-Frame _idGenObjectStyleOverride-15">
-
-<span class="CharOverride-17">+1d</span><span class="CharOverride-13"> for each </span><span class="game-term CharOverride-8">Major</span><span class="CharOverride-13"> </span><span class="game-term CharOverride-8">Advantage</span><span class="strong CharOverride-13">.</span>
-</div>
-<div class="_idGenObjectLayout-1">
-	<div id="_idContainer488">
-		<div id="_idContainer484" class="Basic-Graphics-Frame _idGenObjectStyleOverride-1">
-		</div>
-		<div id="_idContainer487">
-			<div id="_idContainer485" class="Basic-Graphics-Frame _idGenObjectStyleOverride-5">
-			</div>
-			<div id="_idContainer486" class="Basic-Text-Frame">
-
-<span class="CharOverride-18">+</span>
-			</div>
-		</div>
-	</div>
-</div>
-<div id="_idContainer489" class="Basic-Text-Frame">
-
-<span class="CharOverride-17">-1d</span><span class="CharOverride-13"> for each </span><span class="game-term CharOverride-8">Major</span><span class="CharOverride-13"> </span><span class="game-term CharOverride-8">Disadvantage</span><span class="strong CharOverride-13">.</span>
-</div>
-<div class="_idGenObjectLayout-1">
-	<div id="_idContainer493">
-		<div id="_idContainer490" class="Basic-Graphics-Frame _idGenObjectStyleOverride-1">
-		</div>
-		<div id="_idContainer491" class="Basic-Graphics-Frame _idGenObjectStyleOverride-8">
-		</div>
-		<div id="_idContainer492" class="Basic-Text-Frame">
-
-<span class="CharOverride-18">-</span>
-		</div>
-	</div>
-</div>
-<div class="_idGenObjectLayout-1">
-	<div id="_idContainer494" class="Basic-Graphics-Frame _idGenObjectStyleOverride-4">
-	</div>
-</div>
-<div id="_idContainer495" class="Basic-Graphics-Frame _idGenObjectStyleOverride-6">
-
-<span class="game-term CharOverride-8">Critical:</span><span class="CharOverride-22"> Exceptional result. </span><span class="CharOverride-45">You’ve already overcome the first obstacle and you’re in a controlled position for what’s next.</span>
-
-<span class="game-term CharOverride-8">6: </span><span class="CharOverride-22">Good result. </span><span class="CharOverride-45">You’re in a controlled position when the action starts.</span>
-
-<span class="game-term CharOverride-8">4/5:</span><span class="CharOverride-22"> Mixed result. </span><span class="CharOverride-45">You’re in a risky position when the action starts.</span>
-
-<span class="game-term CharOverride-8">1-3:</span><span class="CharOverride-22"> Bad result. </span><span class="CharOverride-45">You’re in a desperate position when the action starts.</span>
-</div>
-<div id="_idContainer496" class="Basic-Text-Frame">
-
-4
-</div>
-<div id="_idContainer497" class="Basic-Text-Frame">
-
-engagement roll
-</div>
-<div id="_idContainer498" class="Basic-Text-Frame">
-
-4
-</div>
-<div id="_idContainer499" class="chapter-margin">
-
-<span class="CharOverride-3">the score</span>
-</div>
-<div id="_idContainer500" class="Basic-Text-Frame">
-
-4
-</div>
-<div id="_idContainer501" class="Basic-Text-Frame">
-
-linked plans
-</div>
-<div id="_idContainer502" class="Basic-Text-Frame">
-
-4
-</div>
-<div id="_idContainer503" class="chapter-margin">
-
-<span class="CharOverride-3">the score</span>
-</div>
-<div id="_idContainer504" class="Basic-Text-Frame">
-
-4
-</div>
-<div id="_idContainer505" class="Basic-Text-Frame">
-
-flashbacks
-</div>
-<div id="_idContainer506" class="Basic-Text-Frame">
-
-4
-</div>
-<div id="_idContainer507" class="chapter-margin">
-
-<span class="CharOverride-3">the score</span>
-</div>
-<div id="_idContainer508" class="Basic-Text-Frame">
-
-<span class="CharOverride-46"><a id="_idTextAnchor022"></a>teamwork</span>
-</div>
-<div id="_idContainer509" class="Basic-Text-Frame">
+# Teamwork
 
 ## Teamwork
 
@@ -2011,91 +1707,47 @@ When the team of PCs works together, the characters have access to four special 
 * **Protect** a teammate.
 * **Set up** a character who will follow through on your action.
 
+### Assist
 
-assist
-
-When you assist another player who’s rolling, describe what your character does to help. Take 1 stress and give them **+1d** to their roll. You might also suffer any consequences that occur because of the roll, depending on the circumstances. Only one character may assist a given roll._ If you really want to help and someone else is already assisting, consider performing a _<span class="CharOverride-23">setup</span>_ maneuver instead._
+When you assist another player who’s rolling, describe what your character does to help. Take 1 stress and give them **+1d** to their roll. You might also suffer any consequences that occur because of the roll, depending on the circumstances. Only one character may assist a given roll._ If you really want to help and someone else is already assisting, consider performing a **setup** maneuver instead._
 
 A character may assist a group action, but only if they aren’t taking part in it directly. You decide which character in the group action gets the bonus die.
 
-lead a group action
+### Lead a group action
 
 When you lead a group action, you coordinate multiple members of the team to tackle a problem together. Describe how your character leads the team in a coordinated effort. Do you bark orders, give subtle hand signals, or provide charismatic inspiration?
 
 Each PC who’s involved makes an **action roll** (using the same action) and **the team counts the single best result** as the overall effort for everyone who rolled. However, the character leading the group action takes **1 stress** for each PC that rolled<span class="game-term"> 1-3</span> as their best result.
 
-_This is how you do the “we all sneak into the building” scene. Everyone who wants to sneak in rolls their _<span class="CharOverride-47">Prowl</span>_ action, and the best result counts for the whole team. The leader suffers stress for everyone who does poorly. It’s tough covering for the stragglers._
+> This is how you do the “we all sneak into the building” scene. Everyone who wants to sneak in rolls their <span class="CharOverride-47">Prowl</span> action, and the best result counts for the whole team. The leader suffers stress for everyone who does poorly. It’s tough covering for the stragglers.
 
-**The group action result covers everyone who rolled. **If you don’t roll, your character doesn’t get the effects of the action.
+**The group action result covers everyone who rolled.** If you don’t roll, your character doesn’t get the effects of the action.
 
 Your character doesn’t have to be especially skilled at the action at hand in order to lead a group action. This maneuver is about leadership, not necessarily about ability. You can also lead your crew’s **cohorts** with a group action. Roll <span class="game-term">Command</span> if you direct their efforts, or roll the appropriate action rating if you participate alongside them. The cohort rolls its **quality** level.
 
-protect
+### Protect
 
 You step in to face a consequence that one of your teammates would otherwise face. **You suffer it instead of them. You may roll to resist it as normal.** Describe how you intervene.
 
-_This is how you do the “I’ll dive in front of the bullet” You cover for a teammate, suffering any harm or consequences that still linger after you’ve rolled to resist. It hurts, cost stress, and may leave you in a bad spot. But hey, you’re a hero._
+> This is how you do the “I’ll dive in front of the bullet” You cover for a teammate, suffering any harm or consequences that still linger after you’ve rolled to resist. It hurts, cost stress, and may leave you in a bad spot. But hey, you’re a hero.
 
-set up
+### Set up
 
 When you perform a setup action, you have an indirect effect on an obstacle. If your action has its intended result, any member of the team who follows through on your maneuver gets **+1 effect level** or **improved position** for their roll. You choose the benefit, based on the nature of your setup action.
 
-_This is how you do the “I’ll create a distraction” scene. You roll _<span class="game-term">Sway</span>_ to distract a constable with your charms, then any teammate who follows through with a _<span class="game-term">Prowl</span>_ action to sneak past him can get improved position. It’s less risky since you’re drawing the guard’s attention._
+> This is how you do the “I’ll create a distraction” scene. You roll <span class="game-term">Sway</span> to distract a constable with your charms, then any teammate who follows through with a <span class="game-term">Prowl</span> action to sneak past him can get improved position. It’s less risky since you’re drawing the guard’s attention.
 
 This is a good way to contribute to an operation when you don’t have a good rating in the action at hand. A clever setup action lets you help the team indirectly. Multiple follow-up actions may take advantage of your setup (including someone **leading** a group action) as long as it makes sense in the fiction.
 
 Since a setup action can increase the effect of follow-up actions, it’s also useful when the team is facing tough opposition that has advantages in quality, scale, and/or potency. Even if the PCs are reduced to zero effect due to disadvantages in a situation, the setup action provides a bonus that allows for limited effect.
 
-_The PCs are facing a heavily armored carriage that’s immune to their weapons. Aldo uses _<span class="game-term">Wreck</span>_ as a setup action to pry some of the armor loose with his crowbar, giving follow up actions +1 effect—going from zero to limited effect._
+> The PCs are facing a heavily armored carriage that’s immune to their weapons. Aldo uses <span class="game-term">Wreck</span> as a setup action to pry some of the armor loose with his crowbar, giving follow up actions +1 effect—going from zero to limited effect.
 
 ## Do We Have to Use Teamwork?
 
 Teamwork maneuvers are options, not requirements. Each character can still perform solo actions as normal during an operation. If your character can’t communicate or somehow coordinate with the rest of the team, you can’t use or benefit from any teamwork maneuvers.
-</div>
-<div id="_idContainer510" class="Basic-Text-Frame">
 
-4
-</div>
-<div id="_idContainer511" class="Basic-Text-Frame">
-
-teamwork
-</div>
-<div id="_idContainer512" class="Basic-Text-Frame">
-
-4
-</div>
-<div id="_idContainer513" class="chapter-margin">
-
-<span class="CharOverride-3">the score</span>
-</div>
-<div class="_idGenObjectLayout-1">
-	<div id="_idContainer518" class="_idGenObjectStyleOverride-1">
-		<div id="_idContainer517">
-			<div id="_idContainer515" class="_idGenObjectStyleOverride-1">
-				<div id="_idContainer514" class="_idGenObjectStyleOverride-1">
-					<img class="_idGenObjectAttribute-1" src="Generic_Character_Playbook-web-resources/image/blades_ink_bg_01_dark2.png" alt="" />
-				</div>
-			</div>
-			<div id="_idContainer516" class="Basic-Text-Frame">
-
-5
-			</div>
-		</div>
-	</div>
-</div>
-<div class="_idGenObjectLayout-1">
-	<div id="_idContainer520" class="_idGenObjectStyleOverride-1">
-		<div id="_idContainer519" class="_idGenObjectStyleOverride-2">
-		</div>
-	</div>
-</div>
-<div id="_idContainer521" class="Basic-Text-Frame">
-
-<span class="CharOverride-1">chapter 5</span>
-
-<a id="_idTextAnchor023"></a>downtime
-</div>
-<div id="_idContainer522" class="Basic-Text-Frame">
+# Downtime
 
 After the crew finishes a score (succeed or fail), they take time to recover, regroup, and prepare for the next operation. This phase of the game is called **downtime**.
 
@@ -2104,36 +1756,23 @@ Downtime fulfills two purposes in the game:
 * First, it’s a break for the players. During the action of the score, the PCs are always under threat, charging from obstacle to obstacle in a high-energy sequence. Downtime gives them a reprieve so they can catch their breath and relax a bit—focus on lower-energy, quieter elements of the game, as well as explore personal aspects of their characters.
 * Second, the shift into a new phase of the game signals a shift in which mechanics are needed. There are special rules that are only used during the downtime phase, so they’re kept “out of the way” during the other parts of play. When we shift into downtime, we take out a different toolbox and resolve downtime on its own terms, then shift back into the more action-focused phases of the game afterwards.
 
-
 Downtime is divided into four parts, which are resolved in order:
 	<ol>
-		<li class="Numbers"><span class="game-term">Payoff. </span>The crew receives their rewards from a successfully completed score.
-		<li class="Numbers"><span class="game-term">Heat. </span>The crew accumulates suspicion and attention from the law and the powers-that-be in the city as a result of their last score.
-		<li class="Numbers"><span class="game-term">Entanglements.</span> The crew faces trouble from the rival factions, the law, and the haunted city itself.
-		<li class="Numbers"><span class="game-term">Downtime Activities.</span> The PCs indulge their vices to remove stress, work on long-term projects, recover from injuries, etc.
+		<li><span class="game-term">Payoff. </span>The crew receives their rewards from a successfully completed score.
+		<li><span class="game-term">Heat. </span>The crew accumulates suspicion and attention from the law and the powers-that-be in the city as a result of their last score.
+		<li><span class="game-term">Entanglements.</span> The crew faces trouble from the rival factions, the law, and the haunted city itself.
+		<li><span class="game-term">Downtime Activities.</span> The PCs indulge their vices to remove stress, work on long-term projects, recover from injuries, etc.
 	</ol>
 
 After the downtime activities are resolved, the game returns to free play, and the group can move toward their next score.
-</div>
-<div id="_idContainer523" class="Basic-Text-Frame">
 
-5
-</div>
-<div id="_idContainer524" class="chapter-margin">
-
-<span class="CharOverride-3">downtime</span>
-</div>
-<div id="_idContainer525" class="Basic-Text-Frame">
-
-payoff
-</div>
-<div id="_idContainer526" class="Basic-Text-Frame">
+# Payoff
 
 After a score, the PCs take stock of their income from the operation. A successful score generates both <span class="game-term">rep</span> and <span class="game-term">coin</span>.
 
 The crew earns 2 <span class="game-term">rep</span> per score by default. If the target of the score is higher Tier than you, take **+1 **<span class="game-term">rep</span>** per Tier higher**. If the target of the score is lower Tier, you get **-1 **<span class="game-term">rep</span>** per Tier lower** (minimum zero).
 
-_If your crew is Tier I and you pull off a successful score against a Tier III target, you earn 4 _<span class="game-term">rep</span>_ (2 _<span class="game-term">rep</span>_, +2 _<span class="game-term">rep</span>_ for a target two tiers above you). If your crew is Tier III and you complete a score against a Tier I target, you earn 0 _<span class="game-term">rep</span>_ __(2 rep,__ -2 rep for the lower Tier target)._
+> If your crew is Tier I and you pull off a successful score against a Tier III target, you earn 4 <span class="game-term">rep</span> (2 <span class="game-term">rep</span>, +2 <span class="game-term">rep</span> for a target two tiers above you). If your crew is Tier III and you complete a score against a Tier I target, you earn 0 <span class="game-term">rep</span> (2 rep, -2 rep for the lower Tier target).
 
 If you keep the operation completely quiet so no one knows about it, you earn zero <span class="game-term">rep</span>. Mark the rep on the <span class="game-term">rep</span> tracker on the crew sheet.
 
@@ -2148,17 +1787,13 @@ The crew earns <span class="game-term">coin</span> based on the nature of the op
 
 Record the <span class="game-term">coin</span> on the crew sheet, or divvy it up among the crew members as you see fit.
 
-Most districts have crime bosses that expect smaller crews to pay a tithe from their scores. Ask the GM if there’s a boss that you should be paying. **Subtract **<span class="game-term">coin</span>** equal to your crew Tier +1 **when you pay a tithe to a boss or larger organization. _If you’re supposed to be paying off a boss, but you don’t, start a clock for that boss’s patience running out. Tick it whenever you don’t pay. Every time it fills up, lose 1 faction status with them._
+Most districts have crime bosses that expect smaller crews to pay a tithe from their scores. Ask the GM if there’s a boss that you should be paying. **Subtract <span class="game-term">coin</span> equal to your crew Tier +1** when you pay a tithe to a boss or larger organization. _If you’re supposed to be paying off a boss, but you don’t, start a clock for that boss’s patience running out. Tick it whenever you don’t pay. Every time it fills up, lose 1 faction status with them._
 
 You can set the scene and play out a meeting with a client or patron who’s paying the crew if there’s something interesting to explore there. If not, just gloss over it and move on to the next part of downtime.
 
 GM, definitely don’t screw around with the players when it comes to the payoff. Don’t say that the client lied and there’s no reward. Or that the meeting for the payment is actually a trap, or whatever. These types of things are staples of crime fiction, but in _Blades_, the PCs have enough problems coming at them from every direction already. When it comes to getting paid, just give them what they earned.
-</div>
-<div id="_idContainer527" class="Basic-Text-Frame">
 
-heat
-</div>
-<div id="_idContainer528" class="Basic-Text-Frame">
+# Heat
 
 The city is full of prying eyes and informants. Anything you do might be witnessed, and there’s always evidence left behind. To reflect this, your crew acquires <span class="game-term">heat</span> as they commit crimes. After a score or conflict with an opponent, your crew takes <span class="game-term">heat</span> according to the nature of the operation:
 
@@ -2167,18 +1802,19 @@ The city is full of prying eyes and informants. Anything you do might be witness
 * <span class="game-term">4 heat: </span>Loud &amp; chaotic; high exposure.
 * <span class="game-term">6 heat:</span> Wild; devastating exposure.
 
-
 Add +1 <span class="game-term">heat</span> for a high-profile or well-connected target. Add +1 <span class="game-term">heat</span> if the situation happened on hostile turf. Add +1 <span class="game-term">heat</span> if you’re at war with another faction. Add +2 <span class="game-term">heat</span> if killing was involved (whether the crew did the killing or not—bodies draw attention).
 
 You mark <span class="game-term">heat</span> levels on the <span class="game-term">heat</span> tracker on the crew sheet.
+
+@TODO add table p91
 
 When your <span class="game-term">heat</span> level reaches 9, you gain a <span class="game-term">wanted level</span> and clear your <span class="game-term">heat</span> (any excess <span class="game-term">heat</span> “rolls over,” so if your <span class="game-term">heat</span> was 7 and you took 4 <span class="game-term">heat</span>, you’d reset with 2 <span class="game-term">heat</span> marked).
 
 The higher your <span class="game-term">wanted level</span>, the more serious the response when law enforcement takes action against you (they’ll send a force of higher **quality** and **scale**).
 
-Also, your <span class="game-term">wanted level</span> contributes to the severity of the **entanglements** that your crew faces after a score. See page <a href="Generic_Character_Playbook.html#_idTextAnchor026">94</a> for details.
+Also, your <span class="game-term">wanted level</span> contributes to the severity of the **entanglements** that your crew faces after a score. See page <a>94</a> for details.
 
-## <a id="_idTextAnchor024"></a>Incarceration
+## Incarceration
 
 The only way to reduce your crew’s <span class="game-term">wanted level</span> is through incarceration. When one of your crew members, friends, contacts—or a framed enemy—is convicted and incarcerated for crimes associated with your crew, your <span class="game-term">wanted level</span> is reduced by 1 and you clear your <span class="game-term">heat</span>.
 
@@ -2192,339 +1828,45 @@ The severity of the prison sentence depends on your <span class="game-term">want
 * <span class="game-term">Wanted Level 1:</span> A month or two.
 * <span class="game-term">Wanted Level 0:</span> A few weeks. Or, the constables give you a beating to teach you a lesson (suffer level 3 harm, no resistance roll allowed—they keep going until you’re injured).
 
-
 Incarceration is dehumanizing and brutal. The renown of your crew is your only real defense inside. When you serve your time, make an **incarceration roll** using your crew’s Tier as the dice pool.
-</div>
-<div class="_idGenObjectLayout-1">
-	<div id="_idContainer566">
-		<div id="_idContainer529" class="Basic-Graphics-Frame _idGenObjectStyleOverride-9">
-		</div>
-		<div id="_idContainer530" class="Basic-Graphics-Frame _idGenObjectStyleOverride-5">
 
-<span class="CharOverride-30">heat</span>
-		</div>
-		<div id="_idContainer533">
-			<div id="_idContainer531" class="Basic-Graphics-Frame _idGenObjectStyleOverride-10">
-			</div>
-			<div id="_idContainer532" class="Basic-Graphics-Frame _idGenObjectStyleOverride-14">
-			</div>
-		</div>
-		<div id="_idContainer534" class="Basic-Graphics-Frame _idGenObjectStyleOverride-18">
-		</div>
-		<div id="_idContainer537">
-			<div id="_idContainer535" class="Basic-Graphics-Frame _idGenObjectStyleOverride-10">
-			</div>
-			<div id="_idContainer536" class="Basic-Graphics-Frame _idGenObjectStyleOverride-14">
-			</div>
-		</div>
-		<div id="_idContainer538" class="Basic-Graphics-Frame _idGenObjectStyleOverride-18">
-		</div>
-		<div id="_idContainer541">
-			<div id="_idContainer539" class="Basic-Graphics-Frame _idGenObjectStyleOverride-10">
-			</div>
-			<div id="_idContainer540" class="Basic-Graphics-Frame _idGenObjectStyleOverride-14">
-			</div>
-		</div>
-		<div id="_idContainer544">
-			<div id="_idContainer542" class="Basic-Graphics-Frame _idGenObjectStyleOverride-10">
-			</div>
-			<div id="_idContainer543" class="Basic-Graphics-Frame _idGenObjectStyleOverride-14">
-			</div>
-		</div>
-		<div id="_idContainer547">
-			<div id="_idContainer545" class="Basic-Graphics-Frame _idGenObjectStyleOverride-10">
-			</div>
-			<div id="_idContainer546" class="Basic-Graphics-Frame _idGenObjectStyleOverride-14">
-			</div>
-		</div>
-		<div id="_idContainer550">
-			<div id="_idContainer548" class="Basic-Graphics-Frame _idGenObjectStyleOverride-10">
-			</div>
-			<div id="_idContainer549" class="Basic-Graphics-Frame _idGenObjectStyleOverride-14">
-			</div>
-		</div>
-		<div id="_idContainer553">
-			<div id="_idContainer551" class="Basic-Graphics-Frame _idGenObjectStyleOverride-10">
-			</div>
-			<div id="_idContainer552" class="Basic-Graphics-Frame _idGenObjectStyleOverride-14">
-			</div>
-		</div>
-		<div id="_idContainer556">
-			<div id="_idContainer554" class="Basic-Graphics-Frame _idGenObjectStyleOverride-10">
-			</div>
-			<div id="_idContainer555" class="Basic-Graphics-Frame _idGenObjectStyleOverride-14">
-			</div>
-		</div>
-		<div id="_idContainer559">
-			<div id="_idContainer557" class="Basic-Graphics-Frame _idGenObjectStyleOverride-10">
-			</div>
-			<div id="_idContainer558" class="Basic-Graphics-Frame _idGenObjectStyleOverride-14">
-			</div>
-		</div>
-		<div id="_idContainer560" class="Basic-Graphics-Frame _idGenObjectStyleOverride-5">
+@TODO add table p92
 
-<span class="CharOverride-30">wanted level</span>
-		</div>
-		<div id="_idContainer565">
-			<div id="_idContainer561" class="Basic-Graphics-Frame _idGenObjectStyleOverride-6">
-			</div>
-			<div id="_idContainer562" class="Basic-Graphics-Frame _idGenObjectStyleOverride-6">
-			</div>
-			<div id="_idContainer563" class="Basic-Graphics-Frame _idGenObjectStyleOverride-6">
-			</div>
-			<div id="_idContainer564" class="Basic-Graphics-Frame _idGenObjectStyleOverride-6">
-			</div>
-		</div>
-	</div>
-</div>
-<div id="_idContainer567" class="Basic-Text-Frame">
+## Prison claims
 
-_Marking 2 _<span class="game-term">heat</span>_ on the _<span class="game-term">heat</span>_ tracker. When the tracker is full, mark a _<span class="game-term">wanted level</span>_ and clear all the _<span class="game-term">heat</span>_._
-</div>
-<div class="_idGenObjectLayout-1">
-	<div id="_idContainer568" class="Basic-Graphics-Frame _idGenObjectStyleOverride-1">
-		<img class="_idGenObjectAttribute-1" src="Generic_Character_Playbook-web-resources/image/blades_ink_bg_01_dark1.png" alt="" />
-	</div>
-</div>
-<div id="_idContainer569" class="Basic-Text-Frame">
+@TODO add table p93
 
-5
-</div>
-<div class="_idGenObjectLayout-1">
-	<div id="_idContainer571" class="_idGenObjectStyleOverride-1">
-		<div id="_idContainer570" class="Basic-Graphics-Frame _idGenObjectStyleOverride-3">
-		</div>
-	</div>
-</div>
-<div id="_idContainer572" class="Basic-Text-Frame">
-
-payoff, heat
-</div>
-<div id="_idContainer573" class="Basic-Text-Frame">
-
-5
-</div>
-<div id="_idContainer574" class="chapter-margin">
-
-<span class="CharOverride-3">downtime</span>
-</div>
-<div id="_idContainer575" class="Basic-Text-Frame">
-
-## <span class="CharOverride-16"><a id="_idTextAnchor025"></a>incarceration roll</span>
-</div>
-<div class="_idGenObjectLayout-1">
-	<div id="_idContainer576" class="Basic-Graphics-Frame _idGenObjectStyleOverride-5">
-		<img class="_idGenObjectAttribute-1" src="data:image/jpg;base64,/9j/7QAsUGhvdG9zaG9wIDMuMAA4QklNA+0AAAAAABAAlgAAAAEAAQCWAAAAAQAB/+4AJkFkb2JlAGQAAAAAAQMAEAMDBgkAAAAAAAAAAAAAAAAFAAJJRP/bAIQAAgICAgICAgICAgMCAgIDBAMDAwMEBQQEBAQEBQUFBQUFBQUFBQcICAgHBQkKCgoKCQwMDAwMDAwMDAwMDAwMDAEDAwMHBQcNBwcNDw0NDQ8PDg4ODg8PDAwMDAwPDwwODg4ODA8MEREREREMERERERERERERERERERERERERERER/8IAEQgAJgJrAwERAAIRAQMRAf/EAIwAAQEBAAAAAAAAAAAAAAAAAAAGCgEBAAAAAAAAAAAAAAAAAAAAABAAAwEBAQAAAAAAAAAAAAAAAAUVYEWAEQACAwACAgEFAAAAAAAAAAAABZPUNmARhcUTBDRUNRYSAQAAAAAAAAAAAAAAAAAAAIATAAEDBQEAAAAAAAAAAAAAABGAIVEAIFAxQXH/2gAMAwEAAhADEAAAAM/4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABfkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAX5AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAF+QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABfgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAvD/9oACAECAAEFAfQ3/9oACAEDAAEFAfQ3/9oACAEBAAEFAcbzsbzsbzsbzoy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiQvn//2gAIAQICBj8BQ3//2gAIAQMCBj8BQ3//2gAIAQEBBj8B4b4r2HDvFew4d4r2HDvFewNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA6/qVf6zrv4/r/z++/sT//aAAgBAgMBPxBQ3//aAAgBAwMBPxBQ3//aAAgBAQMBPxBLZJIYMGDBgwYMGDBgwYMGDBgwYMGDBgwYMGDBgwYMGDBsKGDBgwYMGDBgwYMGDBgwYMGDBgwYMGDBgwYMGDBgwYMGtDBgwYNEURHsAtongev/2Q==" alt="" />
-	</div>
-</div>
-<div id="_idContainer577" class="Basic-Text-Frame _idGenObjectStyleOverride-15">
-
-<span class="CharOverride-17">1d </span><span class="CharOverride-13">for each PC </span><span class="CharOverride-8">Tier</span><span class="CharOverride-13"> level.</span>
-</div>
-<div class="_idGenObjectLayout-1">
-	<div id="_idContainer582">
-		<div id="_idContainer578" class="Basic-Graphics-Frame _idGenObjectStyleOverride-1">
-		</div>
-		<div id="_idContainer581">
-			<div id="_idContainer579" class="Basic-Graphics-Frame _idGenObjectStyleOverride-5">
-			</div>
-			<div id="_idContainer580" class="_idGenObjectStyleOverride-2">
-			</div>
-		</div>
-	</div>
-</div>
-<div id="_idContainer583" class="Basic-Graphics-Frame _idGenObjectStyleOverride-6">
-
-<span class="game-term CharOverride-8">Critical: </span><span class="CharOverride-22">You make a name for yourself inside. You gain </span><span class="strong CharOverride-13">+3 </span><span class="game-term CharOverride-8">rep</span><span class="CharOverride-22"> for your crew, </span><span class="strong CharOverride-13">1 prison claim</span><span class="CharOverride-22"> and </span><span class="strong CharOverride-13">+1 faction status</span><span class="CharOverride-22"> with a faction that you assisted while you served your time.</span>
-
-<span class="game-term CharOverride-8">6: </span><span class="CharOverride-22">You do your time well.</span><span class="CharOverride-13"> Your crew gains </span><span class="strong CharOverride-13">1 prison claim </span><span class="CharOverride-13">and </span><span class="strong CharOverride-13">+1 faction</span><span class="strong CharOverride-13"> status </span><span class="CharOverride-13">with a faction that you assisted while you served your time.</span>
-
-<span class="game-term CharOverride-8">4/5:</span><span class="CharOverride-22"> You keep your head down and do your time without incident.</span>
-
-<span class="game-term CharOverride-8">1-3:</span><span class="CharOverride-22"> It’s horrific. You suffer a level of </span><span class="game-term CharOverride-8">trauma</span><span class="CharOverride-22"> from the experience.</span>
-</div>
-<div id="_idContainer584" class="Basic-Text-Frame _idGenObjectStyleOverride-15">
-
-<span class="CharOverride-48">claims: </span><span class="CharOverride-49">prison</span>
-</div>
-<div id="_idContainer585" class="Basic-Text-Frame _idGenObjectStyleOverride-15">
-
-<span class="CharOverride-50">parole influence</span>
-</div>
-<div id="_idContainer586" class="Basic-Text-Frame _idGenObjectStyleOverride-19">
-
-<span class="CharOverride-50">guard<br />payoff</span>
-</div>
-<div id="_idContainer587" class="Basic-Text-Frame _idGenObjectStyleOverride-19">
-
-<span class="CharOverride-50">hardcase</span>
-</div>
-<div class="_idGenObjectLayout-1">
-	<div id="_idContainer588" class="Basic-Graphics-Frame _idGenObjectStyleOverride-4">
-	</div>
-</div>
-<div id="_idContainer589" class="Basic-Text-Frame">
-
-## prison claims
-
-allied claim
+### Allied claim
 
 One of your allies on the inside arranges for their faction to grant you a boon. Take a claim for your crew from a different crew type. You can’t take turf with this claim.
 
-cell block control
+### Cell block control
 
 Your crew has a cell block under their total control—guards and all. You never take <span class="game-term">trauma</span> from incarceration.
 
-guard payoff
+### Guard payoff
 
 You claim several prison guards on your payroll. Take +1d to your Tier roll when a member of your crew is incarcerated.
 
-hardcase
+### Hardcase
 
 Your reputation as a tough inmate bolsters your crew’s image. When your crew advances Tier, it costs 2 fewer <span class="game-term">coins</span> than it normally would.
 
-parole influence
+### Parole influence
 
-Political pressures of various sorts can be applied to the magistrates and warden who oversee sentences for crimes. With this claim, you’re always able to arrange for a shorter prison stay—as if your <span class="game-term">wanted level</span>** **was 1 lower. So, if your <span class="game-term">wanted level</span> was 3 when you went in, you’d spend only several months behind bars (equivalent to level 2) instead of a full year.
+Political pressures of various sorts can be applied to the magistrates and warden who oversee sentences for crimes. With this claim, you’re always able to arrange for a shorter prison stay—as if your <span class="game-term">wanted level</span> was 1 lower. So, if your <span class="game-term">wanted level</span> was 3 when you went in, you’d spend only several months behind bars (equivalent to level 2) instead of a full year.
 
-smuggling
+### Smuggling
 
-You arrange smuggling channels inside. You have **+**2 load **while incarcerated, (starting from zero as a prisoner). If you take this claim twice, you’ll have 4 load while you’re serving time in Ironhook. Also, you may choose to carry <span class="game-term">coin</span> in place of load for purposes of bribes or acquiring assets while in prison. You may reset the items in your prison loadout whenever your crew has downtime.
-</div>
-<div class="_idGenObjectLayout-1">
-	<div id="_idContainer590" class="Basic-Graphics-Frame  _idGenObjectLayout-2 _idGenObjectStyleOverride-20">
-	</div>
-</div>
-<div class="_idGenObjectLayout-1">
-	<div id="_idContainer591" class="Basic-Graphics-Frame _idGenObjectStyleOverride-20">
-	</div>
-</div>
-<div class="_idGenObjectLayout-1">
-	<div id="_idContainer592" class="Basic-Graphics-Frame _idGenObjectStyleOverride-20">
-	</div>
-</div>
-<div class="_idGenObjectLayout-1">
-	<div id="_idContainer593" class="Basic-Graphics-Frame _idGenObjectStyleOverride-20">
-	</div>
-</div>
-<div id="_idContainer594" class="Basic-Text-Frame _idGenObjectStyleOverride-19">
+You arrange smuggling channels inside. You have **+**2 load** while incarcerated, (starting from zero as a prisoner). If you take this claim twice, you’ll have 4 load while you’re serving time in Ironhook. Also, you may choose to carry <span class="game-term">coin</span> in place of load for purposes of bribes or acquiring assets while in prison. You may reset the items in your prison loadout whenever your crew has downtime.
 
-<span class="CharOverride-50">smuggling</span>
-</div>
-<div id="_idContainer595" class="Basic-Text-Frame _idGenObjectStyleOverride-17">
-
-<span class="CharOverride-42">prison</span>
-</div>
-<div id="_idContainer596" class="Basic-Text-Frame _idGenObjectStyleOverride-19">
-
-<span class="CharOverride-50">smuggling</span>
-</div>
-<div class="_idGenObjectLayout-1">
-	<div id="_idContainer597" class="Basic-Graphics-Frame  _idGenObjectLayout-3 _idGenObjectStyleOverride-20">
-	</div>
-</div>
-<div id="_idContainer598" class="Basic-Text-Frame _idGenObjectStyleOverride-19">
-
-<span class="CharOverride-50">allied<br />claim</span>
-</div>
-<div id="_idContainer599" class="Basic-Text-Frame _idGenObjectStyleOverride-19">
-
-<span class="CharOverride-50">guard<br />payoff</span>
-</div>
-<div id="_idContainer600" class="Basic-Text-Frame _idGenObjectStyleOverride-19">
-
-<span class="CharOverride-50">allied<br />claim</span>
-</div>
-<div class="_idGenObjectLayout-1">
-	<div id="_idContainer601" class="Basic-Graphics-Frame  _idGenObjectLayout-2 _idGenObjectStyleOverride-20">
-	</div>
-</div>
-<div id="_idContainer602" class="Basic-Text-Frame _idGenObjectStyleOverride-15">
-
-<span class="CharOverride-50">cell block control</span>
-</div>
-<div id="_idContainer603" class="Basic-Text-Frame _idGenObjectStyleOverride-19">
-
-<span class="CharOverride-50">allied<br />claim</span>
-</div>
-<div id="_idContainer604" class="Basic-Text-Frame _idGenObjectStyleOverride-19">
-
-<span class="CharOverride-50">allied<br />claim</span>
-</div>
-<div class="_idGenObjectLayout-1">
-	<div id="_idContainer605" class="Basic-Graphics-Frame  _idGenObjectLayout-2 _idGenObjectStyleOverride-20">
-	</div>
-</div>
-<div id="_idContainer606" class="Basic-Text-Frame">
-
-5
-</div>
-<div id="_idContainer607" class="Basic-Text-Frame">
-
-heat &amp; incarceration
-</div>
-<div id="_idContainer608" class="Basic-Text-Frame">
-
-5
-</div>
-<div id="_idContainer609" class="chapter-margin">
-
-<span class="CharOverride-3">downtime</span>
-</div>
-<div id="_idContainer610" class="Basic-Text-Frame">
-
-<a id="_idTextAnchor026"></a>entanglements
-</div>
-<div id="_idContainer611" class="Basic-Text-Frame">
+# Entanglements
 
 Your crew didn’t just spring into existence tonight. You have a complex history of favors, commitments, debts, and promises that got you where you are today. To reflect this, after each score, you roll dice to find out which **entanglement** comes calling. An entanglement might be a rival crew looking to throw their weight around (and demand some <span class="game-term">coin</span>), an Investigator of the City Watch making a case against your crew (but ready for a bribe), or even the attention of a vengeful ghost.
 
-After payoff and <span class="game-term">heat</span> are determined, the GM generates an entanglement for the crew using the lists below. Find the column that matches the crew’s current <span class="game-term">heat</span> level. Then roll a number of dice equal to their <span class="game-term">wanted level</span>, and use the result of the roll to select which sort of entanglement manifests. _If _<span class="game-term">wanted level</span>_ is zero, roll two dice and keep the lowest result._
-</div>
-<div id="_idContainer612" class="Basic-Graphics-Frame _idGenObjectStyleOverride-6">
-<p><span class="CharOverride-35">heat 0-3</span>
-</div>
-<div id="_idContainer613" class="Basic-Text-Frame">
-	<table id="table010" class="Basic-Table">
-		<colgroup>
-			<col class="_idGenTableRowColumn-21" />
-			<col class="_idGenTableRowColumn-22" />
-		</colgroup>
-		<tbody>
-			<tr class="Basic-Table _idGenTableRowColumn-23">
-				<td class="Basic-Table CellOverride-19">
+After payoff and <span class="game-term">heat</span> are determined, the GM generates an entanglement for the crew using the lists below. Find the column that matches the crew’s current <span class="game-term">heat</span> level. Then roll a number of dice equal to their <span class="game-term">wanted level</span>, and use the result of the roll to select which sort of entanglement manifests. _If <span class="game-term">wanted level</span> is zero, roll two dice and keep the lowest result._
 
-<span class="strong CharOverride-19">1-3</span>
-				</td>
-				<td class="Basic-Table CellOverride-20">
-
-Gang Trouble or<br />The Usual Suspects
-				</td>
-			</tr>
-			<tr class="Basic-Table _idGenTableRowColumn-23">
-				<td class="Basic-Table CellOverride-21">
-
-<span class="strong CharOverride-19">4/5</span>
-				</td>
-				<td class="Basic-Table CellOverride-14">
-
-Rivals or<br />Unquiet Dead
-				</td>
-			</tr>
-			<tr class="Basic-Table _idGenTableRowColumn-23">
-				<td class="Basic-Table CellOverride-22">
-
-<span class="strong CharOverride-19">6</span>
-				</td>
-				<td class="Basic-Table CellOverride-23">
-
-Cooperation
-				</td>
-			</tr>
-		</tbody>
-	</table>
-</div>
-<div id="_idContainer614" class="Basic-Text-Frame">
+@TODO add table p94
 
 Bring the entanglement into play immediately, or hold off until an appropriate moment. For example, if you get the _Interrogation_ entanglement, you might wait until a PC indulges their vice, then say the costables picked them up when they were distracted by its pleasures.
 
@@ -2532,175 +1874,76 @@ Entanglements manifest fully before the PCs have a chance to avoid them. When an
 
 The entanglements are detailed on the following pages. Each has a list of potential ways for the PCs to be rid of it. If you want the entanglements to be a momentary problem for the crew, stick to the suggested methods to resolve them, and move on to the next part of downtime. If you want to dive in and explore the entanglement in detail, set the scene and play out the event in full, following the actions and consequences where they lead.
 
-<span class="game-term">arrest</span>
+### Arrest
 
 An Inspector presents a case file of evidence to a magistrate, to begin prosecution of your crew. They send a detail to arrest you (a gang at least equal in **scale** to your <span class="game-term">wanted level</span>). Pay them off with <span class="game-term">coin</span> equal to your <span class="game-term">wanted level</span> +3, hand someone over for arrest (this clears your <span class="game-term">heat</span>), or try to evade capture.
 
-_A truncheon bangs on the shutters of the window. “Alright then! Come on out and let’s go quietly now!” It sounds like the bald Sergeant. When you peek out, you see a detail of about twenty constables, all geared up for a fight. The Sergeant mumbles under his breath, so only you inside can hear: “Or perhaps I have the wrong address?” He clears his throat and waits for some coin to appear._
+> A truncheon bangs on the shutters of the window. “Alright then! Come on out and let’s go quietly now!” It sounds like the bald Sergeant. When you peek out, you see a detail of about twenty constables, all geared up for a fight. The Sergeant mumbles under his breath, so only you inside can hear: “Or perhaps I have the wrong address?” He clears his throat and waits for some coin to appear.
 
-<span class="game-term">cooperation</span>
+### Cooperation
 
 A +3 status faction asks you for a favor. Agree to do it, or forfeit 1 <span class="game-term">rep</span> per Tier of the friendly faction, or lose **1 status** with them. If you don’t have a +3 faction status, you avoid entanglements right now.
 
-<span class="game-term">demonic notice</span>
+### Demonic notice
 
 A demon approaches the crew with a dark offer. Accept their bargain, hide until it loses interest (forfeit<span class="game-term"> </span>3 <span class="game-term">rep</span>), or deal with it another way.
 
-<span class="game-term">flipped</span>
+### Flipped
 
 One of the PCs’ rivals arranges for one of your contacts, patrons, clients, or a group of your customers to switch allegiances due to the <span class="game-term">heat</span> on you. They’re loyal to another faction now.
 
-<span class="game-term">gang trouble</span>
+### Gang trouble
 
 One of your gangs (or other cohorts) causes trouble due to their flaw(s). You can lose face (forfeit<span class="game-term"> rep</span> equal to your Tier +1), make an example of one of the gang members, or face reprisals from the wronged party.
 
-<span class="game-term">interrogation</span>
+### Interrogation
 
-The officers round up one of the PCs to question them about the crew’s crimes. _How did they manage to capture you?_ Either pay them off with 3 <span class="game-term">coin</span>, or they beat you up (**level 2 harm**) and you tell them what they want to know (**+3 **<span class="game-term">heat</span>). You can **resist** each of those consequences separately.
+The officers round up one of the PCs to question them about the crew’s crimes. _How did they manage to capture you?_ Either pay them off with 3 <span class="game-term">coin</span>, or they beat you up (**level 2 harm**) and you tell them what they want to know (**+3** <span class="game-term">heat</span>). You can **resist** each of those consequences separately.
 
-_Some players really hate it when their character gets captured! Just tell them that this is completely normal for a scoundrel of the underworld. You spend time in and out of jail, getting questioned and harassed by the law. It’s not the end of the world. But now that you’re here in the interrogation room, what kind of person are you? Do you talk? Do you stand up to them? Do you make a deal?_
+> Some players really hate it when their character gets captured! Just tell them that this is completely normal for a scoundrel of the underworld. You spend time in and out of jail, getting questioned and harassed by the law. It’s not the end of the world. But now that you’re here in the interrogation room, what kind of person are you? Do you talk? Do you stand up to them? Do you make a deal?
 
-<span class="game-term">questioning</span>
+### Questioning
 
-The cops grab an NPC member of your crew or one of the crew’s contacts, to question them about your crimes. _Who do they think is most vulnerable?_ Make a **fortune roll** to see how much they talk (<span class="game-term">1-3:</span> **+2 **<span class="game-term">heat</span>, <span class="game-term">4/5:</span> **+1 **<span class="game-term">heat</span>**)**, or pay the constables off with 2 <span class="game-term">coin</span>.
+The cops grab an NPC member of your crew or one of the crew’s contacts, to question them about your crimes. _Who do they think is most vulnerable?_ Make a **fortune roll** to see how much they talk (<span class="game-term">1-3:</span> **+2** <span class="game-term">heat</span>, <span class="game-term">4/5:</span> **+1** <span class="game-term">heat</span>), or pay the constables off with 2 <span class="game-term">coin</span>.
 
-_Roll 2d for a normal person to see how well they keep quiet. If they’re an experienced underworld type or some kind of tough, give them 3d or 4d instead. If they’re soft or if they have some loyalty to the law, give them 1d or 0d._
+>Roll 2d for a normal person to see how well they keep quiet. If they’re an experienced underworld type or some kind of tough, give them 3d or 4d instead. If they’re soft or if they have some loyalty to the law, give them 1d or 0d.
 
-<span class="game-term">reprisals</span>
+### Reprisals
 
 An enemy faction makes a move against you (or a friend, contact, or vice purveyor). Pay them (1 <span class="game-term">rep</span> and 1 <span class="game-term">coin</span>) per Tier of the enemy as an apology, allow them to mess with you or yours, or fight back and show them who’s boss.
 
-<span class="game-term">rivals</span>
+### Rivals
 
 A neutral faction throws their weight around. They threaten you, a friend, a contact, or one of your vice purveyors. Forfeit (1 <span class="game-term">rep</span> or 1 <span class="game-term">coin</span>) per Tier of the rival, or stand up to them and lose** 1 status**<span class="game-term"> </span>with them.
 
-<span class="game-term">show of force</span>
+### Show of force
 
 A faction with whom you have a negative status makes a play against your holdings. Give them 1 **claim** or go to war (drop to -3 status). If you have no claims, **lose 1 hold** instead.
 
-<span class="game-term">unquiet dead</span>
+### Unquiet dead
 
 A rogue spirit is drawn to you—perhaps it’s a past victim? Acquire the services of an occultist to attempt to destroy or banish it, or deal with it yourself.
 
-_They can hire an NPC by using the _<span class="CharOverride-23">acquire asset</span>_ downtime activity. Roll the NPC’s quality level as a fortune roll to see how well they deal with the spirit._
+> They can hire an NPC by using the <span class="game-term">acquire asset</span>_ downtime activity. Roll the NPC’s quality level as a fortune roll to see how well they deal with the spirit.
 
-<span class="game-term">the usual suspects</span>
+### The usual suspects
 
 The cops grab someone in the periphery of your crew. One player volunteers a friend or vice purveyor as the person most likely to be taken. Make a **fortune roll** to find out if they resist questioning (<span class="game-term">1-3</span>: **+2 **<span class="game-term">heat</span>**, **4/5:** level 2 harm**), or pay them off with 1 <span class="game-term">coin</span>.
-</div>
-<div id="_idContainer615" class="Basic-Graphics-Frame _idGenObjectStyleOverride-6">
-<p><span class="CharOverride-35">heat 4/5</span>
-</div>
-<div id="_idContainer616" class="Basic-Text-Frame">
-	<table id="table011" class="Basic-Table">
-		<colgroup>
-			<col class="_idGenTableRowColumn-21" />
-			<col class="_idGenTableRowColumn-22" />
-		</colgroup>
-		<tbody>
-			<tr class="Basic-Table _idGenTableRowColumn-23">
-				<td class="Basic-Table CellOverride-19">
 
-<span class="strong CharOverride-19">1-3</span>
-				</td>
-				<td class="Basic-Table CellOverride-20">
+# Downtime activities
 
-Gang Trouble or<br />Questioning
-				</td>
-			</tr>
-			<tr class="Basic-Table _idGenTableRowColumn-23">
-				<td class="Basic-Table CellOverride-21">
+Between scores, your crew spends time at their liberty, attending to personal needs and side projects. These are called **downtime activities** (see the list below). During a downtime phase, each PC has time for **two downtime activities**. _When you’re at war, each PC has time for only one._
 
-<span class="strong CharOverride-19">4/5</span>
-				</td>
-				<td class="Basic-Table CellOverride-14">
-
-Reprisals or<br />Unquiet Dead
-				</td>
-			</tr>
-			<tr class="Basic-Table _idGenTableRowColumn-23">
-				<td class="Basic-Table CellOverride-22">
-
-<span class="strong CharOverride-19">6</span>
-				</td>
-				<td class="Basic-Table CellOverride-23">
-
-Show of Force
-				</td>
-			</tr>
-		</tbody>
-	</table>
-</div>
-<div id="_idContainer617" class="Basic-Graphics-Frame _idGenObjectStyleOverride-6">
-<p><span class="CharOverride-35">heat 6+</span>
-</div>
-<div id="_idContainer618" class="Basic-Text-Frame">
-	<table id="table012" class="Basic-Table">
-		<colgroup>
-			<col class="_idGenTableRowColumn-21" />
-			<col class="_idGenTableRowColumn-22" />
-		</colgroup>
-		<tbody>
-			<tr class="Basic-Table _idGenTableRowColumn-23">
-				<td class="Basic-Table CellOverride-19">
-
-<span class="strong CharOverride-19">1-3</span>
-				</td>
-				<td class="Basic-Table CellOverride-20">
-
-Flipped or<br />Interrogation
-				</td>
-			</tr>
-			<tr class="Basic-Table _idGenTableRowColumn-23">
-				<td class="Basic-Table CellOverride-21">
-
-<span class="strong CharOverride-19">4/5</span>
-				</td>
-				<td class="Basic-Table CellOverride-14">
-
-Demonic Notice or<br />Show of Force
-				</td>
-			</tr>
-			<tr class="Basic-Table _idGenTableRowColumn-23">
-				<td class="Basic-Table CellOverride-22">
-
-<span class="strong CharOverride-19">6</span>
-				</td>
-				<td class="Basic-Table CellOverride-23">
-
-Arrest
-				</td>
-			</tr>
-		</tbody>
-	</table>
-</div>
-<div id="_idContainer619" class="Basic-Text-Frame">
-
-5
-</div>
-<div id="_idContainer620" class="Basic-Text-Frame">
-
-entanglements
-</div>
-<div id="_idContainer621" class="Basic-Text-Frame">
-
-5
-</div>
-<div id="_idContainer622" class="chapter-margin">
-
-<span class="CharOverride-3">downtime</span>
-</div>
-<div id="_idContainer623" class="Basic-Text-Frame">
-
-<a id="_idTextAnchor027"></a>downtime activities
-</div>
-<div id="_idContainer624" class="Basic-Text-Frame">
-
-Between scores, your crew spends time at their liberty, attending to personal needs and side projects. These are called **downtime activities** (see the list at right). During a downtime phase, each PC has time for **two downtime activities**. _When you’re at war, each PC has time for only one._
+* Acquire Asset
+* Long-Term Project
+* Recover
+* Reduce Heat
+* Train
+* Indulge Vice
 
 You may choose the same activity more than once. You can only attempt actions that you’re in a position to accomplish. If an activity is contingent on another action, resolve that action first.
 
-A PC can make time for more than two activities, at a cost. **Each additional activity from the list costs** **1 **<span class="game-term">coin</span> or **1 **<span class="game-term">rep</span>. This reflects the time and resulting resource drain while you’re “off the clock” and not earning from a score. When you complete a new score, you reset and get two “free” activities again.
+A PC can make time for more than two activities, at a cost. **Each additional activity from the list costs** **1** <span class="game-term">coin</span> or **1** <span class="game-term">rep</span>. This reflects the time and resulting resource drain while you’re “off the clock” and not earning from a score. When you complete a new score, you reset and get two “free” activities again.
 
 Activities on the downtime list are limited; normal actions are not. During downtime, you can still go places, do things, make action rolls, gather information, talk with other characters, etc. In other words, only activities that are _on the list_ are limited.
 
@@ -2708,9 +1951,9 @@ For any downtime activity, take **+1d** to the roll if a **friend** or **contact
 
 **GM:** If a player can’t decide which downtime activity to pick, offer them a long-term project idea. You know what the player is interested in and what they like. Suggest a project that will head in a fun direction for them.
 
-_“Remember how you had that weird vision at the altar to the forgotten gods? Yeah, do you want to get to the bottom of that? Okay, start a long-term project—six segments—called... ‘Weird God Vibes.’ What do you do to work on that?”_
+> “Remember how you had that weird vision at the altar to the forgotten gods? Yeah, do you want to get to the bottom of that? Okay, start a long-term project—six segments—called... ‘Weird God Vibes.’ What do you do to work on that?”
 
-<a id="_idTextAnchor028"></a>acquire asset
+### Acquire asset
 
 Gain temporary use of an **asset**:
 
@@ -2719,22 +1962,21 @@ Gain temporary use of an **asset**:
 * A **vehicle**.
 * A **service**. Transport from a smuggler or driver, use of a warehouse for temporary storage, legal representation, etc.
 
-
 “Temporary use” constitutes one significant period of usage that makes sense for the asset—typically the duration of one score. An asset may also be acquired for “standby” use in the future. You might hire a gang to guard your lair, for example, and they’ll stick around until after the first serious battle, or until a week goes by and they lose interest.
 
-To acquire the asset, roll the crew’s Tier<span class="game-term CharOverride-15">.</span> The result indicates the **quality** of the asset you get, using the crew’s Tier as the base. <span class="game-term">1-3:</span> Tier -1, <span class="game-term">4/5:</span> Tier, <span class="game-term">6:</span> Tier +1, <span class="game-term">critical:</span> Tier +2. You can spend <span class="game-term">coin</span> to raise the result of this roll beyond <span class="game-term">critical</span> by spending **2 **<span class="game-term">coin</span> per additional Tier level added.
+To acquire the asset, roll the crew’s Tier<span class="game-term CharOverride-15">.</span> The result indicates the **quality** of the asset you get, using the crew’s Tier as the base. <span class="game-term">1-3:</span> Tier -1, <span class="game-term">4/5:</span> Tier, <span class="game-term">6:</span> Tier +1, <span class="game-term">critical:</span> Tier +2. You can spend <span class="game-term">coin</span> to raise the result of this roll beyond <span class="game-term">critical</span> by spending **2** <span class="game-term">coin</span> per additional Tier level added.
 
-The GM may set a **minimum quality **level that must be achieved to acquire a particular asset. For example, if you want to get a set of Warden uniforms and masks, you’d need to acquire a Tier IV asset. A lower result won’t do.
+The GM may set a **minimum quality** level that must be achieved to acquire a particular asset. For example, if you want to get a set of Warden uniforms and masks, you’d need to acquire a Tier IV asset. A lower result won’t do.
 
 If you acquire the same asset again, you get **+1d** to your roll. If you continue to re-acquire an asset every time it’s used, you can effectively rent it indefinitely.
 
-Alchemicals, poisons, bombs, and dangerous gadgets are highly restricted. When you acquire one of these items (rather than crafting it yourself), you take **+2 **<span class="game-term">heat</span>.
+Alchemicals, poisons, bombs, and dangerous gadgets are highly restricted. When you acquire one of these items (rather than crafting it yourself), you take **+2** <span class="game-term">heat</span>.
 
-If you want to acquire an asset permanently, you can either gain it as a crew upgrade  or work on it as a **long-term project** to set up a permanent acquisition.
+If you want to acquire an asset permanently, you can either gain it as a crew upgrade or work on it as a **long-term project** to set up a permanent acquisition.
 
-_Zamira the Whisper is a duelist in the Iruvian style, and would like a _<span class="CharOverride-23">fine</span>_ sword to add to her permanent items. Her player starts a long-term project: “Get My Family Sword Back from the Pawn Shop.” The GM says this is an 8-clock (she can work on it by _<span class="game-term">Consorting</span>_ or _<span class="game-term">Swaying</span>_ the pawn shop owner or maybe rolling her lifestyle level to represent small payments)._
+> Zamira the Whisper is a duelist in the Iruvian style, and would like a <span class="CharOverride-23">fine</span> sword to add to her permanent items. Her player starts a long-term project: “Get My Family Sword Back from the Pawn Shop.” The GM says this is an 8-clock (she can work on it by <span class="game-term">Consorting</span> or <span class="game-term">Swaying</span> the pawn shop owner or maybe rolling her lifestyle level to represent small payments).
 
-<a id="_idTextAnchor029"></a>long-term project
+### Long-term project
 
 When you work on a long-term project (either a brand new one, or an already existing one), describe what your character does to advance the project clock, and roll one of your actions. Mark segments on the clock according to your result: <span class="game-term">1-3:</span> one segment, <span class="game-term">4/5:</span> two segments, <span class="game-term">6:</span> three segments, <span class="game-term">critical:</span> five segments.
 
@@ -2744,7 +1986,7 @@ Based on the goal of the project, the GM will tell you the clock(s) to create an
 
 In order to work on a project, you might first have to achieve the means to pursue it—which can be a project in itself. For example, you might want to make friends with a member of the City Council, but you have no connection to them. You could first work on a project to <span class="game-term">Consort</span> in their circles so you have the opportunity to meet one of them. Once that’s accomplished, you could start a new project to form a friendly relationship.
 
-recover
+### Recover
 
 When you recover, you seek treatment and heal your harm. You might visit a physicker who can stitch your wounds and soothe your mind with anatomical science or a witch who specializes in healing charms and restorative alchemy. If you don’t have a contact or fellow PC who can provide treatment, you can use the **acquire asset** activity to gain access to a healer, who can provide service for the whole crew.
 
@@ -2752,7 +1994,9 @@ Recovery is like a long-term project. Your healer rolls (<span class="game-term"
 
 When you fill your healing clock, reduce each instance of harm on your sheet by one level, then clear the clock. If you have more segments to mark, they “roll over.”
 
-_Cross has two injuries: a level 3 “Shattered Right Leg” and level 1 “Battered.” During downtime, he gets treatment from Quellyn, a witch friend of the crew’s Whisper. Quellyn is a competent healer, so the GM says quality 2 makes sense. The player rolls 2d to recover and gets a _<span class="game-term">6</span>_: three segments on the healing clock. He decides to spend _<span class="CharOverride-23">1 </span><span class="game-term">coin</span>_ to improve the result to a _<span class="game-term">critical</span>_ to get five segments instead. Four segments fill the clock—all of Cross’s harm is reduced by one level, then he clears the clock and marks one more segment. His level 3 harm “Shattered Right Leg” is reduced to level 2 harm. His level 1 harm “Battered” is reduced to zero and goes away. Cross is left with one injury on his sheet: level 2 “Broken Leg.”_
+@TODO add table p99
+
+> Cross has two injuries: a level 3 “Shattered Right Leg” and level 1 “Battered.” During downtime, he gets treatment from Quellyn, a witch friend of the crew’s Whisper. Quellyn is a competent healer, so the GM says quality 2 makes sense. The player rolls 2d to recover and gets a <span class="game-term">6</span>: three segments on the healing clock. He decides to spend <span class="CharOverride-23">1 </span><span class="game-term">coin</span> to improve the result to a <span class="game-term">critical</span> to get five segments instead. Four segments fill the clock—all of Cross’s harm is reduced by one level, then he clears the clock and marks one more segment. His level 3 harm “Shattered Right Leg” is reduced to level 2 harm. His level 1 harm “Battered” is reduced to zero and goes away. Cross is left with one injury on his sheet: level 2 “Broken Leg.”
 
 You may heal yourself if you have the <span class="game-term">Physicker</span> special ability, but you take 2 stress when you do so. You can also choose to simply tough it out and attempt to heal without any treatment—in this case, take 1 stress and roll 0d.
 
@@ -2760,106 +2004,23 @@ Note that it’s the recovering character that takes the recovery action. Healin
 
 Whenever you suffer new harm, clear any ticks on your healing clock.
 
-reduce heat
+### Reduce heat
 
 Say what your character does to reduce the <span class="game-term">heat</span> level of the crew and make an action roll. Maybe you <span class="game-term">Consort</span> with your friend who’s a officer and she arranges for a few incriminating Watch reports to disappear. Or maybe you <span class="game-term">Command</span> the fear of the local citizens so they’re afraid to snitch.
 
 Reduce <span class="game-term">heat</span> according to the result: <span class="game-term">1-3:</span> one, <span class="game-term">4/5:</span> two, <span class="game-term">6:</span> three, <span class="game-term">critical:</span> five.
 
-<a id="_idTextAnchor030"></a>train
+### Train
 
-When you spend time in training,** mark 1 xp** on the xp track for an **attribute** or **playbook **advancement. If you have the appropriate crew Training upgrade unlocked, mark **+1**<span class="game-term"> </span>**xp** (2 total). See **Crew Upgrades**, page <a href="Generic_Character_Playbook.html#_idTextAnchor018">65</a>. _You can train a given xp track only once per downtime._
+When you spend time in training,** mark 1 xp** on the xp track for an **attribute** or **playbook **advancement. If you have the appropriate crew Training upgrade unlocked, mark **+1**<span class="game-term"> </span>**xp** (2 total). See **Crew Upgrades**, page <a>65</a>. _You can train a given xp track only once per downtime._
 
-indulge vice
+### Indulge vice
 
 Visit your **vice purveyor** to relieve **stress**. See the next section for details.
-</div>
-<div id="_idContainer625" class="Basic-Text-Frame">
-	<table id="table013" class="Basic-Table TableOverride-1">
-		<colgroup>
-			<col class="_idGenTableRowColumn-9" />
-		</colgroup>
-		<tbody>
-			<tr class="Basic-Table _idGenTableRowColumn-24">
-				<td class="Basic-Table CellOverride-1">
 
-<span class="game-term CharOverride-8">Acquire Asset</span>
+# Vice
 
-<span class="game-term CharOverride-8">Long-Term Project</span>
-
-<span class="game-term CharOverride-8">Recover</span>
-
-<span class="game-term CharOverride-8">Reduce Heat</span>
-
-<span class="game-term CharOverride-8">Train</span>
-
-<span class="game-term CharOverride-8">Indulge Vice</span>
-				</td>
-			</tr>
-		</tbody>
-	</table>
-</div>
-<div id="_idContainer626" class="Basic-Text-Frame">
-
-5
-</div>
-<div id="_idContainer627" class="Basic-Text-Frame">
-
-downtime activities
-</div>
-<div id="_idContainer628" class="Basic-Text-Frame">
-
-5
-</div>
-<div id="_idContainer629" class="chapter-margin">
-
-<span class="CharOverride-3">downtime</span>
-</div>
-<div class="_idGenObjectLayout-1">
-	<div id="_idContainer636">
-		<div id="_idContainer630" class="Basic-Graphics-Frame _idGenObjectStyleOverride-5">
-
-<span class="CharOverride-30">healing</span>
-		</div>
-		<div id="_idContainer631" class="Basic-Text-Frame">
-
-<span class="em CharOverride-51">project clock</span>
-		</div>
-		<div id="_idContainer635">
-			<div id="_idContainer632" class="Basic-Graphics-Frame _idGenObjectStyleOverride-21">
-			</div>
-			<div id="_idContainer633" class="Basic-Graphics-Frame">
-			</div>
-			<div id="_idContainer634" class="Basic-Graphics-Frame">
-			</div>
-		</div>
-	</div>
-</div>
-<div class="_idGenObjectLayout-1">
-	<div id="_idContainer637" class="Basic-Graphics-Frame _idGenObjectStyleOverride-22">
-	</div>
-</div>
-<div id="_idContainer638" class="Basic-Text-Frame">
-
-5
-</div>
-<div id="_idContainer639" class="Basic-Text-Frame">
-
-downtime activities
-</div>
-<div id="_idContainer640" class="Basic-Text-Frame">
-
-5
-</div>
-<div id="_idContainer641" class="chapter-margin">
-
-<span class="CharOverride-3">downtime</span>
-</div>
-<div id="_idContainer642" class="Basic-Text-Frame">
-
-<a id="_idTextAnchor031"></a>vice
-</div>
-<div id="_idContainer643" class="Basic-Text-Frame">
+@TODO add table p101
 
 ## Stress Relief
 
@@ -2875,93 +2036,24 @@ You roll to find out how much stress relief your character receives. A vice roll
 
 Make an **attribute roll** using your character’s lowest attribute rating (if there’s a tie, that’s fine—simply use that rating). **Clear stress equal to the highest die result.**
 
-overindulgence
+### Overindulgence
 
 If your vice roll clears more stress levels than you had marked, you <span class="CharOverride-23">overindulge</span>. A vice is not a reliable, controllable habit. It’s a risk—and one that can drive your character to act against their own best interests.
 
-When you overindulge, you make a bad call because of your vice—in acquiring it or while under its influence_. _To bring the effect of this bad decision into the game, select an overindulgence from the list:
+When you overindulge, you make a bad call because of your vice—in acquiring it or while under its influence. To bring the effect of this bad decision into the game, select an overindulgence from the list:
 
 * <span class="game-term">Attract Trouble.</span> Select or roll an additional **entanglement**.
-* <span class="game-term">Brag</span> about your exploits. **+2 **<span class="game-term">heat</span>.
+* <span class="game-term">Brag</span> about your exploits. **+2** <span class="game-term">heat</span>.
 * <span class="game-term">Lost.</span> Your character vanishes for a few weeks. Play a different character until this one returns from their bender. When your character returns, they’ve also healed any harm they had.
 * <span class="game-term">Tapped.</span> Your current purveyor cuts you off. Find a new source for your vice.
 
-
-ignoring your vice
+### Ignoring your vice
 
 If you do not or cannot indulge your vice during a downtime phase, you take stress equal to your <span class="game-term">trauma</span>. If you don’t have any <span class="game-term">trauma</span>, you’re free to ignore your vice. It doesn’t have a hold over you (yet).
 
-roleplaying &amp; xp
+### Roleplaying &amp; XP
 
 Along with your character’s heritage and background, their vice tells us what kind of person they are. This obsession impacts their motivations, goals, and behavior. When you ponder what your character might do or say next, you can always consider their vice to help you think of something. As an added benefit, by playing to the nature of your character’s vice, you earn xp at the end of the session.
-</div>
-<div id="_idContainer644" class="Basic-Text-Frame">
-
-## <span class="CharOverride-16">vice roll</span>
-</div>
-<div class="_idGenObjectLayout-1">
-	<div id="_idContainer645" class="Basic-Graphics-Frame _idGenObjectStyleOverride-5">
-		<img class="_idGenObjectAttribute-1" src="data:image/jpg;base64,/9j/7QAsUGhvdG9zaG9wIDMuMAA4QklNA+0AAAAAABAAlgAAAAEAAQCWAAAAAQAB/+4AJkFkb2JlAGQAAAAAAQMAEAMDBgkAAAAAAAAAAAAAAAAFAAJJRP/bAIQAAgICAgICAgICAgMCAgIDBAMDAwMEBQQEBAQEBQUFBQUFBQUFBQcICAgHBQkKCgoKCQwMDAwMDAwMDAwMDAwMDAEDAwMHBQcNBwcNDw0NDQ8PDg4ODg8PDAwMDAwPDwwODg4ODA8MEREREREMERERERERERERERERERERERERERER/8IAEQgAJgJrAwERAAIRAQMRAf/EAIwAAQEBAAAAAAAAAAAAAAAAAAAGCgEBAAAAAAAAAAAAAAAAAAAAABAAAwEBAQAAAAAAAAAAAAAAAAUVYEWAEQACAwACAgEFAAAAAAAAAAAABZPUNmARhcUTBDRUNRYSAQAAAAAAAAAAAAAAAAAAAIATAAEDBQEAAAAAAAAAAAAAABGAIVEAIFAxQXH/2gAMAwEAAhADEAAAAM/4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABfkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAX5AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAF+QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABfgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAvD/9oACAECAAEFAfQ3/9oACAEDAAEFAfQ3/9oACAEBAAEFAcbzsbzsbzsbzoy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiQvn//2gAIAQICBj8BQ3//2gAIAQMCBj8BQ3//2gAIAQEBBj8B4b4r2HDvFew4d4r2HDvFewNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA6/qVf6zrv4/r/z++/sT//aAAgBAgMBPxBQ3//aAAgBAwMBPxBQ3//aAAgBAQMBPxBLZJIYMGDBgwYMGDBgwYMGDBgwYMGDBgwYMGDBgwYMGDBsKGDBgwYMGDBgwYMGDBgwYMGDBgwYMGDBgwYMGDBgwYMGtDBgwYNEURHsAtongev/2Q==" alt="" />
-	</div>
-</div>
-<div id="_idContainer646" class="Basic-Text-Frame">
-
-<span class="CharOverride-13">Roll dice equal to your </span><span class="game-term CharOverride-8">Lowest Attribute</span><span class="CharOverride-13"> rating.</span>
-</div>
-<div class="_idGenObjectLayout-1">
-	<div id="_idContainer651">
-		<div id="_idContainer647" class="Basic-Graphics-Frame _idGenObjectStyleOverride-1">
-		</div>
-		<div id="_idContainer650">
-			<div id="_idContainer648" class="Basic-Graphics-Frame _idGenObjectStyleOverride-5">
-			</div>
-			<div id="_idContainer649" class="_idGenObjectStyleOverride-2">
-			</div>
-		</div>
-	</div>
-</div>
-<div class="_idGenObjectLayout-1">
-	<div id="_idContainer652" class="Basic-Graphics-Frame _idGenObjectStyleOverride-1">
-	</div>
-</div>
-<div class="_idGenObjectLayout-1">
-	<div id="_idContainer653" class="Basic-Graphics-Frame _idGenObjectStyleOverride-4">
-	</div>
-</div>
-<div id="_idContainer654" class="Basic-Graphics-Frame _idGenObjectStyleOverride-6">
-
-Clear stress equal to your highest die result. If you clear more stress levels than you had marked, you <span class="CharOverride-23">overindulge</span>. _If you do not or cannot indulge your vice during downtime, you take stress equal to your _<span class="game-term">trauma</span>_._
-</div>
-<div id="_idContainer655" class="Basic-Text-Frame">
-</div>
-<div class="_idGenObjectLayout-1">
-	<div id="_idContainer656" class="Basic-Graphics-Frame _idGenObjectStyleOverride-1">
-		<img class="_idGenObjectAttribute-1" src="Generic_Character_Playbook-web-resources/image/blades_ink_bg_01_dark1.png" alt="" />
-	</div>
-</div>
-<div id="_idContainer657" class="Basic-Text-Frame">
-
-5
-</div>
-<div class="_idGenObjectLayout-1">
-	<div id="_idContainer659" class="_idGenObjectStyleOverride-1">
-		<div id="_idContainer658" class="Basic-Graphics-Frame _idGenObjectStyleOverride-3">
-		</div>
-	</div>
-</div>
-<div id="_idContainer660" class="Basic-Text-Frame">
-
-vice
-</div>
-<div id="_idContainer661" class="Basic-Text-Frame">
-
-5
-</div>
-<div id="_idContainer662" class="chapter-margin">
-
-<span class="CharOverride-3">downtime</span>
-</div>
-<div id="_idContainer663" class="Basic-Text-Frame">
 
 ## NPC &amp; faction downtime
 
@@ -2974,723 +2066,62 @@ NPCs and factions also do things when the PCs have downtime. The GM **advances t
 * Call in a favor from another faction.
 * Employ political pressure or threats to force someone’s hand.
 
-
 **GM:** Choose downtime maneuvers and advance clocks for the factions you’re interested in right now. Don’t worry about the rest. Later, when you turn your attention to a faction you’ve ignored for a while, go ahead and give them several downtime phases and project clock ticks to “catch up” to current events.
 
-If you’re not sure how far to progress a faction’s clock, make a fortune roll using their Tier as the base trait, modified up or down depending on the opposition or circumstances. Tick 1 segment for a <span class="CharOverride-4">1-3</span> result, 2 segments for a <span class="CharOverride-4">4/5</span> result, 3 segments for a <span class="CharOverride-4">6</span> result, or 5 segments for a <span class="game-term">critical</span> result.
+If you’re not sure how far to progress a faction’s clock, make a fortune roll using their Tier as the base trait, modified up or down depending on the opposition or circumstances. Tick 1 segment for a 1-3 result, 2 segments for a 4/5 result, 3 segments for a 6 result, or 5 segments for a <span class="game-term">critical</span> result.
 
 When factions do things that are known in the criminal underworld, **tell the players about it** through one of their **friends** or **contacts** or **vice purveyors**. These rumors and bits of gossip can lead to future scores and opportunities for the PCs.
-</div>
-<div id="_idContainer664" class="Basic-Text-Frame">
 
-## downtime activities summary
-</div>
-<div id="_idContainer665" class="Basic-Text-Frame">
+## Downtime Activities Summary
 
-_Add _<span class="CharOverride-23">+1d</span>_ to your roll if a _<span class="CharOverride-23">friend</span>_ or _<span class="CharOverride-23">contact</span>_ helps with your downtime activity._
-</div>
-<div id="_idContainer666" class="Basic-Graphics-Frame _idGenObjectStyleOverride-6">
+@TODO add tables p102
 
-Roll the crew’s **Tier**<span class="game-term CharOverride-15">.</span> The result indicates the **quality** of the asset:
-
-* <span class="game-term">Critical:</span> Tier +2.
-* <span class="game-term">6:</span> Tier +1.
-* <span class="game-term">4/5:</span> Tier.
-* <span class="game-term">1-3:</span> Tier -1.
-
-
-_Some items require a minimum quality result to acquire. To raise the result beyond critical, you may spend _<span class="CharOverride-23">2</span>_ _<span class="game-term">coin</span>_ per +1 Tier bonus._
-</div>
-<div class="_idGenObjectLayout-1">
-	<div id="_idContainer667" class="_idGenObjectStyleOverride-1">
-		<img class="_idGenObjectAttribute-1" src="Generic_Character_Playbook-web-resources/image/blades_ink_bg_01_dark3.png" alt="" />
-	</div>
-</div>
-<div id="_idContainer668" class="Basic-Text-Frame">
-
-<span class="CharOverride-52">acquire asset</span>
-</div>
-<div id="_idContainer669" class="Basic-Graphics-Frame _idGenObjectStyleOverride-6">
-
-Work on a **long term project**, if you have the means.
-
-Mark segments on the clock according to your result:
-
-* <span class="game-term">Critical:</span> Five ticks.
-* <span class="game-term">6:</span> Three ticks.
-* <span class="game-term">4/5:</span> Two ticks.
-* <span class="game-term">1-3:</span> One tick.
-
-</div>
-<div class="_idGenObjectLayout-1">
-	<div id="_idContainer670" class="_idGenObjectStyleOverride-1">
-		<img class="_idGenObjectAttribute-1" src="Generic_Character_Playbook-web-resources/image/blades_ink_bg_01_dark3.png" alt="" />
-	</div>
-</div>
-<div id="_idContainer671" class="Basic-Text-Frame">
-
-<span class="CharOverride-52">long-term project</span>
-</div>
-<div id="_idContainer672" class="Basic-Graphics-Frame _idGenObjectStyleOverride-6">
-
-Visit your **vice purveyor** to relieve **stress**. Roll dice equal to your **lowest attribute**. Clear stress equal to your highest die result. If you clear more stress levels than you had marked, you <span class="CharOverride-23">overindulge</span> (see below). _If you do not or cannot indulge your vice during downtime, you take stress equal to your _<span class="game-term">trauma</span>_._
-</div>
-<div class="_idGenObjectLayout-1">
-	<div id="_idContainer673" class="_idGenObjectStyleOverride-1">
-		<img class="_idGenObjectAttribute-1" src="Generic_Character_Playbook-web-resources/image/blades_ink_bg_01_dark3.png" alt="" />
-	</div>
-</div>
-<div id="_idContainer674" class="Basic-Text-Frame">
-
-<span class="CharOverride-52">vice</span>
-</div>
-<div id="_idContainer675" class="Basic-Text-Frame">
-
-<span class="game-term">Overindulge:</span> You made a bad call because of your vice—in acquiring it or while under its influence_._ What did you do?
-
-* <span class="game-term">Attract Trouble: </span>_Maybe an enemy has tracked you to your vice purveyor and you let your guard down. _Select or roll an additional **entanglement.**
-* <span class="game-term">Brag: </span>_Maybe you brag about your exploits._ The crew takes <span class="game-term">+2 heat</span>.
-* <span class="game-term">Lost:</span> Play a different character until this one returns from their bender.
-* <span class="game-term">Tapped.</span> Your current purveyor cuts you off. Find a new source for the indulgence of your vice.
-
-</div>
-<div id="_idContainer676" class="Basic-Graphics-Frame _idGenObjectStyleOverride-6">
-
-Get **treatment** to tick your **healing clock** (like a long-term project). _When you fill a clock, each harm is reduced by one level._
-</div>
-<div class="_idGenObjectLayout-1">
-	<div id="_idContainer677" class="_idGenObjectStyleOverride-1">
-		<img class="_idGenObjectAttribute-1" src="Generic_Character_Playbook-web-resources/image/blades_ink_bg_01_dark3.png" alt="" />
-	</div>
-</div>
-<div id="_idContainer678" class="Basic-Text-Frame">
-
-<span class="CharOverride-52">recover</span>
-</div>
-<div id="_idContainer679" class="Basic-Graphics-Frame _idGenObjectStyleOverride-6">
-
-Say how you reduce <span class="game-term">heat</span> on the crew and roll your action. Reduce <span class="game-term">heat</span> according to the result level:
-
-* <span class="game-term">Critical:</span> Clear five <span class="game-term">heat</span>.
-* <span class="game-term">6:</span> Clear three <span class="game-term">heat</span>.
-* <span class="game-term">4/5:</span> Clear two <span class="game-term">heat</span>.
-* <span class="game-term">1-3:</span> Clear one <span class="game-term">heat</span>.
-
-</div>
-<div class="_idGenObjectLayout-1">
-	<div id="_idContainer680" class="_idGenObjectStyleOverride-1">
-		<img class="_idGenObjectAttribute-1" src="Generic_Character_Playbook-web-resources/image/blades_ink_bg_01_dark3.png" alt="" />
-	</div>
-</div>
-<div id="_idContainer681" class="Basic-Text-Frame">
-
-<span class="CharOverride-52">reduce heat</span>
-</div>
-<div id="_idContainer682" class="Basic-Graphics-Frame _idGenObjectStyleOverride-6">
-
-**Mark 1 xp** (in an attribute or your playbook). Add **+1** **xp** if you have the appropriate crew upgrade. _You may train a given xp track once per downtime._
-</div>
-<div class="_idGenObjectLayout-1">
-	<div id="_idContainer683" class="_idGenObjectStyleOverride-1">
-		<img class="_idGenObjectAttribute-1" src="Generic_Character_Playbook-web-resources/image/blades_ink_bg_01_dark3.png" alt="" />
-	</div>
-</div>
-<div id="_idContainer684" class="Basic-Text-Frame">
-
-<span class="CharOverride-52">train</span>
-</div>
-<div id="_idContainer685" class="Basic-Text-Frame">
-
-5
-</div>
-<div id="_idContainer686" class="Basic-Text-Frame">
-
-npc &amp; faction downtime
-</div>
-<div id="_idContainer687" class="Basic-Text-Frame">
-
-8
-</div>
-<div id="_idContainer688" class="chapter-margin">
-
-<span class="CharOverride-3">strange forces</span>
-</div>
-<div id="_idContainer689" class="Basic-Text-Frame">
-
-<a id="_idTextAnchor032"></a>magnitude
-</div>
-<div id="_idContainer690" class="Basic-Text-Frame">
+# Magnitude
 
 Supernatural entities and energies have a wide variety of effects and power levels. To help the GM judge these forces consistently, the **magnitude** scale is provided. See the master table of magnitude at right. Magnitude measures the quality level of a ghost or demon or different aspects of an arcane force: its area, scale, duration, range, and force. Whenever you need to assess an entity or power, use the magnitude scale as a guideline to judge how it compares relative to the examples given on the table.
 
 You can use the magnitude of an entity or power as a dice pool for a **fortune roll** to see how much effect it has, if it’s not obvious or certain.
 
-_A sea demon summons a crushing wave at the canal dock where the PCs are landing their boat. How badly does this damage the vessel and the crew? Obviously it’s gonna be bad for them, but are they merely sinking or are they immediately wrecked and sunk? The GM makes a fortune roll using 6d (the magnitude of the demon). On a _<span class="game-term">1-3</span>_, the wave has only little effect (for a huge wave), causing the craft to take on water and begin sinking. On a _<span class="game-term">4-5</span>_, the wave has reduced effect, fully swamping the boat and throwing some of the characters and their cargo overboard. On a _<span class="game-term">6</span>_, the wave has full effect, immediately sinking the boat and dragging the crew and cargo under. On a _<span class="game-term">critical</span>_, the boat is sunk, and also the crew and cargo are badly harmed by flying debris and the crushing force of the wave._
+> A sea demon summons a crushing wave at the canal dock where the PCs are landing their boat. How badly does this damage the vessel and the crew? Obviously it’s gonna be bad for them, but are they merely sinking or are they immediately wrecked and sunk? The GM makes a fortune roll using 6d (the magnitude of the demon). On a <span class="game-term">1-3</span>, the wave has only little effect (for a huge wave), causing the craft to take on water and begin sinking. On a <span class="game-term">4-5</span>, the wave has reduced effect, fully swamping the boat and throwing some of the characters and their cargo overboard. On a <span class="game-term">6</span>, the wave has full effect, immediately sinking the boat and dragging the crew and cargo under. On a <span class="game-term">critical</span>, the boat is sunk, and also the crew and cargo are badly harmed by flying debris and the crushing force of the wave.
 
 You can add levels of magnitude together to describe a combination of effects, or simply focus on one key feature for the magnitude assessment, ignoring other elements, even if they’re on the magnitude scale. They’re not _always_ additive.
 
-_In the example above, the demon generated magnitude 6 force and the GM included its area of effect “for free” as part of the power. A huge wave at a dock should affect the boats and the crews there, in their judgment._
+> In the example above, the demon generated magnitude 6 force and the GM included its area of effect “for free” as part of the power. A huge wave at a dock should affect the boats and the crews there, in their judgment.
 
-_In a different session, a Whisper wants to accomplish a ritual that will unleash a hurricane across the district. The GM says that this is a very significant effect, so they add two levels of magnitude together: _<span class="CharOverride-23">force 6</span>_ and _<span class="CharOverride-23">range 5</span>_. To create such a devastating power, the Whisper will suffer 11 stress! The GM offers a compromise: the ritual will take a few hours to complete, so the stress cost will be reduced to 8, but some people in the affected area may realize what’s happening and flee before the full storm hits._
+> In a different session, a Whisper wants to accomplish a ritual that will unleash a hurricane across the district. The GM says that this is a very significant effect, so they add two levels of magnitude together: _<span class="CharOverride-23">force 6</span>_ and _<span class="CharOverride-23">range 5</span>_. To create such a devastating power, the Whisper will suffer 11 stress! The GM offers a compromise: the ritual will take a few hours to complete, so the stress cost will be reduced to 8, but some people in the affected area may realize what’s happening and flee before the full storm hits._
 
 The magnitude table is provided as a tool to help the GM make judgment calls. It’s not meant to be a rigid restriction or mathematical formula to replace those judgment calls. Use the levels as a _guideline_ for setting a magnitude number that seem appropriate to you.
 
 This table can also be used as a guide to **quality level** when a PC **acquires an asset **or crafts an **alchemical** or **gadget**.
-</div>
-<div class="_idGenObjectLayout-1">
-	<div id="_idContainer691" class="Basic-Text-Frame">
-		<img class="_idGenObjectAttribute-1" src="Generic_Character_Playbook-web-resources/image/blades_ink_bg_01_dark.jpg" alt="" />
-	</div>
-</div>
-<div id="_idContainer692" class="Basic-Text-Frame">
 
-<span class="CharOverride-53">area / scale</span>
-</div>
-<div id="_idContainer693" class="Basic-Text-Frame">
-	<table id="table014" class="Blades-Table-01">
-		<colgroup>
-			<col class="_idGenTableRowColumn-14" />
-			<col class="_idGenTableRowColumn-25" />
-			<col class="_idGenTableRowColumn-25" />
-			<col class="_idGenTableRowColumn-26" />
-			<col class="_idGenTableRowColumn-25" />
-			<col class="_idGenTableRowColumn-25" />
-			<col class="_idGenTableRowColumn-27" />
-		</colgroup>
-		<tbody>
-			<tr class="Blades-Table-01 _idGenTableRowColumn-28">
-				<td class="Blades-Table-01 CellOverride-24">
+@TODO add tables from 105
 
-<span class="strong CharOverride-54">0</span>
-				</td>
-				<td class="Blades-Table-01 CellOverride-24">
-
-<span class="strong CharOverride-54">1</span>
-				</td>
-				<td class="Blades-Table-01 CellOverride-24">
-
-<span class="strong CharOverride-54">2</span>
-				</td>
-				<td class="Blades-Table-01 CellOverride-24">
-
-<span class="strong CharOverride-54">3</span>
-				</td>
-				<td class="Blades-Table-01 CellOverride-24">
-
-<span class="strong CharOverride-54">4</span>
-				</td>
-				<td class="Blades-Table-01 CellOverride-24">
-
-<span class="strong CharOverride-54">5</span>
-				</td>
-				<td class="Blades-Table-01 CellOverride-24">
-
-<span class="strong CharOverride-54">6</span>
-				</td>
-			</tr>
-			<tr class="Blades-Table-01 _idGenTableRowColumn-29">
-				<td class="Blades-Table-01 CellOverride-25">
-
-<span class="CharOverride-55">A closet</span>
-				</td>
-				<td class="Blades-Table-01 CellOverride-25">
-
-<span class="CharOverride-55">A small room</span>
-				</td>
-				<td class="Blades-Table-01 CellOverride-25">
-
-<span class="CharOverride-55">A large room</span>
-				</td>
-				<td class="Blades-Table-01 CellOverride-25">
-
-<span class="CharOverride-55">Several rooms</span>
-				</td>
-				<td class="Blades-Table-01 CellOverride-25">
-
-<span class="CharOverride-55">A small building</span>
-				</td>
-				<td class="Blades-Table-01 CellOverride-25">
-
-<span class="CharOverride-55">A large building</span>
-				</td>
-				<td class="Blades-Table-01 CellOverride-25">
-
-<span class="CharOverride-55">A city block</span>
-				</td>
-			</tr>
-			<tr class="Blades-Table-01 _idGenTableRowColumn-30">
-				<td class="Blades-Table-01 CellOverride-26">
-
-<span class="CharOverride-55">1 or 2 people</span>
-				</td>
-				<td class="Blades-Table-01 CellOverride-26">
-
-<span class="CharOverride-55">A small gang (3-6)</span>
-				</td>
-				<td class="Blades-Table-01 CellOverride-26">
-
-<span class="CharOverride-55">A medium gang (12)</span>
-				</td>
-				<td class="Blades-Table-01 CellOverride-26">
-
-<span class="CharOverride-55">A large<br />gang (20)</span>
-				</td>
-				<td class="Blades-Table-01 CellOverride-26">
-
-<span class="CharOverride-55">A huge gang (40)</span>
-				</td>
-				<td class="Blades-Table-01 CellOverride-26">
-
-<span class="CharOverride-55">A massive gang (80)</span>
-				</td>
-				<td class="Blades-Table-01 CellOverride-26">
-
-<span class="CharOverride-55">A colossal gang (160)</span>
-				</td>
-			</tr>
-		</tbody>
-	</table>
-</div>
-<div class="_idGenObjectLayout-1">
-	<div id="_idContainer694" class="Basic-Text-Frame">
-		<img class="_idGenObjectAttribute-1" src="Generic_Character_Playbook-web-resources/image/blades_ink_bg_01_dark1.jpg" alt="" />
-	</div>
-</div>
-<div id="_idContainer695" class="Basic-Text-Frame">
-
-<span class="CharOverride-53">duration / range</span>
-</div>
-<div id="_idContainer696" class="Basic-Text-Frame">
-	<table id="table015" class="Blades-Table-01">
-		<colgroup>
-			<col class="_idGenTableRowColumn-14" />
-			<col class="_idGenTableRowColumn-25" />
-			<col class="_idGenTableRowColumn-25" />
-			<col class="_idGenTableRowColumn-26" />
-			<col class="_idGenTableRowColumn-25" />
-			<col class="_idGenTableRowColumn-25" />
-			<col class="_idGenTableRowColumn-27" />
-		</colgroup>
-		<tbody>
-			<tr class="Blades-Table-01 _idGenTableRowColumn-28">
-				<td class="Blades-Table-01 CellOverride-24">
-
-<span class="strong CharOverride-54">0</span>
-				</td>
-				<td class="Blades-Table-01 CellOverride-24">
-
-<span class="strong CharOverride-54">1</span>
-				</td>
-				<td class="Blades-Table-01 CellOverride-24">
-
-<span class="strong CharOverride-54">2</span>
-				</td>
-				<td class="Blades-Table-01 CellOverride-24">
-
-<span class="strong CharOverride-54">3</span>
-				</td>
-				<td class="Blades-Table-01 CellOverride-24">
-
-<span class="strong CharOverride-54">4</span>
-				</td>
-				<td class="Blades-Table-01 CellOverride-24">
-
-<span class="strong CharOverride-54">5</span>
-				</td>
-				<td class="Blades-Table-01 CellOverride-24">
-
-<span class="strong CharOverride-54">6</span>
-				</td>
-			</tr>
-			<tr class="Blades-Table-01 _idGenTableRowColumn-29">
-				<td class="Blades-Table-01 CellOverride-25">
-
-<span class="CharOverride-55">A few moments</span>
-				</td>
-				<td class="Blades-Table-01 CellOverride-25">
-
-<span class="CharOverride-55">A few minutes</span>
-				</td>
-				<td class="Blades-Table-01 CellOverride-25">
-
-<span class="CharOverride-55">An hour</span>
-				</td>
-				<td class="Blades-Table-01 CellOverride-25">
-
-<span class="CharOverride-55">A few hours</span>
-				</td>
-				<td class="Blades-Table-01 CellOverride-25">
-
-<span class="CharOverride-55">A day</span>
-				</td>
-				<td class="Blades-Table-01 CellOverride-25">
-
-<span class="CharOverride-55">Several days</span>
-				</td>
-				<td class="Blades-Table-01 CellOverride-25">
-
-<span class="CharOverride-55">A week</span>
-				</td>
-			</tr>
-			<tr class="Blades-Table-01 _idGenTableRowColumn-30">
-				<td class="Blades-Table-01 CellOverride-26">
-
-<span class="CharOverride-55">Within reach</span>
-				</td>
-				<td class="Blades-Table-01 CellOverride-26">
-
-<span class="CharOverride-55">A dozen paces</span>
-				</td>
-				<td class="Blades-Table-01 CellOverride-26">
-
-<span class="CharOverride-55">A stone’s throw</span>
-				</td>
-				<td class="Blades-Table-01 CellOverride-26">
-
-<span class="CharOverride-55">Down the road</span>
-				</td>
-				<td class="Blades-Table-01 CellOverride-26">
-
-<span class="CharOverride-55">Several blocks away</span>
-				</td>
-				<td class="Blades-Table-01 CellOverride-26">
-
-<span class="CharOverride-55">Across the district</span>
-				</td>
-				<td class="Blades-Table-01 CellOverride-26">
-
-<span class="CharOverride-55">Across the city</span>
-				</td>
-			</tr>
-		</tbody>
-	</table>
-</div>
-<div class="_idGenObjectLayout-1">
-	<div id="_idContainer697" class="Basic-Text-Frame">
-		<img class="_idGenObjectAttribute-1" src="data:image/jpg;base64,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" alt="" />
-	</div>
-</div>
-<div id="_idContainer698" class="Basic-Text-Frame">
-
-<span class="CharOverride-53">tier &amp; quality / force</span>
-</div>
-<div id="_idContainer699" class="Basic-Text-Frame">
-	<table id="table016" class="Blades-Table-01">
-		<colgroup>
-			<col class="_idGenTableRowColumn-14" />
-			<col class="_idGenTableRowColumn-25" />
-			<col class="_idGenTableRowColumn-31" />
-			<col class="_idGenTableRowColumn-32" />
-			<col class="_idGenTableRowColumn-25" />
-			<col class="_idGenTableRowColumn-33" />
-			<col class="_idGenTableRowColumn-27" />
-		</colgroup>
-		<tbody>
-			<tr class="Blades-Table-01 _idGenTableRowColumn-28">
-				<td class="Blades-Table-01 CellOverride-24">
-
-<span class="strong CharOverride-54">0</span>
-				</td>
-				<td class="Blades-Table-01 CellOverride-24">
-
-<span class="strong CharOverride-54">1</span>
-				</td>
-				<td class="Blades-Table-01 CellOverride-24">
-
-<span class="strong CharOverride-54">2</span>
-				</td>
-				<td class="Blades-Table-01 CellOverride-24">
-
-<span class="strong CharOverride-54">3</span>
-				</td>
-				<td class="Blades-Table-01 CellOverride-24">
-
-<span class="strong CharOverride-54">4</span>
-				</td>
-				<td class="Blades-Table-01 CellOverride-24">
-
-<span class="strong CharOverride-54">5</span>
-				</td>
-				<td class="Blades-Table-01 CellOverride-24">
-
-<span class="strong CharOverride-54">6</span>
-				</td>
-			</tr>
-			<tr class="Blades-Table-01 _idGenTableRowColumn-34">
-				<td class="Blades-Table-01 CellOverride-25">
-
-<span class="CharOverride-55">Poor</span>
-				</td>
-				<td class="Blades-Table-01 CellOverride-25">
-
-<span class="CharOverride-55">Adequate</span>
-				</td>
-				<td class="Blades-Table-01 CellOverride-25">
-
-<span class="CharOverride-55">Good</span>
-				</td>
-				<td class="Blades-Table-01 CellOverride-25">
-
-<span class="CharOverride-55">Excellent</span>
-				</td>
-				<td class="Blades-Table-01 CellOverride-25">
-
-<span class="CharOverride-55">Superior</span>
-				</td>
-				<td class="Blades-Table-01 CellOverride-25">
-
-<span class="CharOverride-55">Impeccable</span>
-				</td>
-				<td class="Blades-Table-01 CellOverride-25">
-
-<span class="CharOverride-55">Legendary</span>
-				</td>
-			</tr>
-			<tr class="Blades-Table-01 _idGenTableRowColumn-35">
-				<td class="Blades-Table-01 CellOverride-26">
-
-<span class="CharOverride-55">Weak</span>
-				</td>
-				<td class="Blades-Table-01 CellOverride-26">
-
-<span class="CharOverride-55">Moderate</span>
-				</td>
-				<td class="Blades-Table-01 CellOverride-26">
-
-<span class="CharOverride-55">Strong</span>
-				</td>
-				<td class="Blades-Table-01 CellOverride-26">
-
-<span class="CharOverride-55">Serious</span>
-				</td>
-				<td class="Blades-Table-01 CellOverride-26">
-
-<span class="CharOverride-55">Powerful</span>
-				</td>
-				<td class="Blades-Table-01 CellOverride-26">
-
-<span class="CharOverride-55">Overwhelming</span>
-				</td>
-				<td class="Blades-Table-01 CellOverride-26">
-
-<span class="CharOverride-55">Devastating</span>
-				</td>
-			</tr>
-		</tbody>
-	</table>
-</div>
-<div id="_idContainer700" class="Basic-Graphics-Frame _idGenObjectStyleOverride-6">
-<p><span class="CharOverride-35">quality examples</span>
-</div>
-<div id="_idContainer701" class="Basic-Text-Frame">
-	<table id="table017" class="Basic-Table">
-		<colgroup>
-			<col class="_idGenTableRowColumn-21" />
-			<col class="_idGenTableRowColumn-36" />
-		</colgroup>
-		<tbody>
-			<tr class="Basic-Table _idGenTableRowColumn-37">
-				<td class="Basic-Table CellOverride-19">
-
-<span class="strong CharOverride-56">6</span>
-				</td>
-				<td class="Basic-Table CellOverride-20">
-
-<span class="CharOverride-57">A mansion, large ship, rare essences or arcane artifacts, powerful demon</span>
-				</td>
-			</tr>
-			<tr class="Basic-Table _idGenTableRowColumn-37">
-				<td class="Basic-Table CellOverride-21">
-
-<span class="strong CharOverride-56">5</span>
-				</td>
-				<td class="Basic-Table CellOverride-14">
-
-<span class="CharOverride-57">A large townhouse, small ship, custom-tailored clothing, lightning barrier</span>
-				</td>
-			</tr>
-			<tr class="Basic-Table _idGenTableRowColumn-37">
-				<td class="Basic-Table CellOverride-21">
-
-<span class="strong CharOverride-56">4</span>
-				</td>
-				<td class="Basic-Table CellOverride-14">
-
-<span class="CharOverride-57">A luxury vehicle, townhouse, typical demon or powerful ghost</span>
-				</td>
-			</tr>
-			<tr class="Basic-Table _idGenTableRowColumn-37">
-				<td class="Basic-Table CellOverride-21">
-
-<span class="strong CharOverride-56">3</span>
-				</td>
-				<td class="Basic-Table CellOverride-14">
-
-<span class="CharOverride-57">A coach, boat, military rifle, fashionable clothing, small home</span>
-				</td>
-			</tr>
-			<tr class="Basic-Table _idGenTableRowColumn-37">
-				<td class="Basic-Table CellOverride-21">
-
-<span class="strong CharOverride-56">2</span>
-				</td>
-				<td class="Basic-Table CellOverride-14">
-
-<span class="CharOverride-57">A pistol, respectable clothing, private rented room, typical ghost</span>
-				</td>
-			</tr>
-			<tr class="Basic-Table _idGenTableRowColumn-37">
-				<td class="Basic-Table CellOverride-21">
-
-<span class="strong CharOverride-56">1</span>
-				</td>
-				<td class="Basic-Table CellOverride-14">
-
-<span class="CharOverride-57">A fighting blade, ordinary clothing, shared apartment, cheap food or drugs</span>
-				</td>
-			</tr>
-			<tr class="Basic-Table _idGenTableRowColumn-37">
-				<td class="Basic-Table CellOverride-22">
-
-<span class="strong CharOverride-56">0</span>
-				</td>
-				<td class="Basic-Table CellOverride-23">
-
-<span class="CharOverride-57">A rusty knife, worn &amp; tattered clothing, rickety shack on the street</span>
-				</td>
-			</tr>
-		</tbody>
-	</table>
-</div>
-<div id="_idContainer702" class="Basic-Graphics-Frame _idGenObjectStyleOverride-6">
-<p><span class="CharOverride-35">force examples</span>
-</div>
-<div id="_idContainer703" class="Basic-Text-Frame">
-	<table id="table018" class="Basic-Table">
-		<colgroup>
-			<col class="_idGenTableRowColumn-21" />
-			<col class="_idGenTableRowColumn-36" />
-		</colgroup>
-		<tbody>
-			<tr class="Basic-Table _idGenTableRowColumn-37">
-				<td class="Basic-Table CellOverride-19">
-
-<span class="strong CharOverride-56">6</span>
-				</td>
-				<td class="Basic-Table CellOverride-20">
-
-<span class="CharOverride-57">Hurricane wind, molten lava, tidal wave, electrical maelstrom</span>
-				</td>
-			</tr>
-			<tr class="Basic-Table _idGenTableRowColumn-37">
-				<td class="Basic-Table CellOverride-21">
-
-<span class="strong CharOverride-56">5</span>
-				</td>
-				<td class="Basic-Table CellOverride-14">
-
-<span class="CharOverride-57">A ship’s cannon, raging thunder-storm, massive fire, lightning strike</span>
-				</td>
-			</tr>
-			<tr class="Basic-Table _idGenTableRowColumn-37">
-				<td class="Basic-Table CellOverride-21">
-
-<span class="strong CharOverride-56">4</span>
-				</td>
-				<td class="Basic-Table CellOverride-14">
-
-<span class="CharOverride-57">A charging horse, burning forge, bomb, whirlwind, electrocution</span>
-				</td>
-			</tr>
-			<tr class="Basic-Table _idGenTableRowColumn-37">
-				<td class="Basic-Table CellOverride-21">
-
-<span class="strong CharOverride-56">3</span>
-				</td>
-				<td class="Basic-Table CellOverride-14">
-
-<span class="CharOverride-57">A crushing blow, </span><span class="CharOverride-57">staggering wind, grenade, searing fire, electrical surge</span>
-				</td>
-			</tr>
-			<tr class="Basic-Table _idGenTableRowColumn-37">
-				<td class="Basic-Table CellOverride-21">
-
-<span class="strong CharOverride-56">2</span>
-				</td>
-				<td class="Basic-Table CellOverride-14">
-
-<span class="CharOverride-57">A powerful blow, howling wind, burning brand</span>
-				</td>
-			</tr>
-			<tr class="Basic-Table _idGenTableRowColumn-37">
-				<td class="Basic-Table CellOverride-21">
-
-<span class="strong CharOverride-56">1</span>
-				</td>
-				<td class="Basic-Table CellOverride-14">
-
-<span class="CharOverride-57">A solid punch, </span><span class="CharOverride-57">steady wind, torch flame, electrical shock</span>
-				</td>
-			</tr>
-			<tr class="Basic-Table _idGenTableRowColumn-37">
-				<td class="Basic-Table CellOverride-22">
-
-<span class="strong CharOverride-56">0</span>
-				</td>
-				<td class="Basic-Table CellOverride-23">
-
-<span class="CharOverride-57">A firm shove, a</span><span class="CharOverride-57"> candle flame, breeze, tiny spark</span>
-				</td>
-			</tr>
-		</tbody>
-	</table>
-</div>
-<div id="_idContainer704" class="Basic-Text-Frame">
-
-8
-</div>
-<div id="_idContainer705" class="Basic-Text-Frame">
-
-magnitude
-</div>
-<div id="_idContainer706" class="Basic-Text-Frame">
-
-8
-</div>
-<div id="_idContainer707" class="chapter-margin">
-
-<span class="CharOverride-3">strange forces</span>
-</div>
-<div id="_idContainer708" class="Basic-Text-Frame">
-
-<a id="_idTextAnchor033"></a>rituals
-</div>
-<div id="_idContainer709" class="Basic-Text-Frame">
+# Rituals
 
 To enact a ritual is to come into contact with these abyssal forces and entreat them to do your will. It is a practice not without considerable risk.
 
-## finding a ritual source
+## Finding a ritual source
 
 A PC with the <span class="game-term">Ritual</span> special ability begins with one known ritual, already learned (answer the questions below to create it). To learn a new ritual, a PC must first find a **source**. A source may be secured as payoff from a score—perhaps you steal a ritual book when your crew robs the Museum of Antiquities. You might also secure a source as the goal of a long-term project—by consorting with cultist friends, studying ancient texts, or some other method you devise.
 
-## learning a ritual
+## Learning a ritual
 
 Once the source of a ritual is found, you may undertake a long-term project to learn the ritual. Most rituals will require an 8-segment progress clock to learn. The player and the GM answer questions about the ritual to define what it will do in play and what is required to perform it (see below). The player records these answers in their notes for future reference.
 
-Ritual Questions
-	<ol>
-		<li class="Numbers ParaOverride-13">GM asks: **“What does the ritual do and how is it weird?”** Player answers.
-		<li class="Numbers ParaOverride-13">Player asks: **“What must I do to perform the ritual, and what is its price?” **GM answers. A ritual takes at least one downtime activity to perform and inflicts **stress** on the caster according to its **magnitude**.  If performance of the ritual is dangerous or troublesome in some way, it requires an action roll (usually <span class="game-term">Attune</span>). A ritual may also have additional costs, such as a sacrifice, rare item, the start of a dire progress clock, etc.
-		<li class="Numbers ParaOverride-13">GM asks: **“What new belief or fear does knowledge of this ritual and its attendant occult forces instill in you?”** Player answers.
-	</ol>
+### Ritual Questions
+<ol>
+	<li>GM asks: **“What does the ritual do and how is it weird?”** Player answers.
+	<li>Player asks: **“What must I do to perform the ritual, and what is its price?” **GM answers. A ritual takes at least one downtime activity to perform and inflicts **stress** on the caster according to its **magnitude**.  If performance of the ritual is dangerous or troublesome in some way, it requires an action roll (usually <span class="game-term">Attune</span>). A ritual may also have additional costs, such as a sacrifice, rare item, the start of a dire progress clock, etc.
+	<li>GM asks: **“What new belief or fear does knowledge of this ritual and its attendant occult forces instill in you?”** Player answers.
+</ol>
 
-Example Ritual Answers
+### Example Ritual Answers
 
-_Player: “The ritual wards a person so that the ghosts of their victims cannot find them. It’s weird because... as long as the ward is in place, the person sometimes weeps tears of black blood.”_
+> Player: “The ritual wards a person so that the ghosts of their victims cannot find them. It’s weird because... as long as the ward is in place, the person sometimes weeps tears of black blood.”
 
-_GM: “Spend a downtime action to prepare a mixture of tobacco, dream smoke, and crematory ash from a victim—which the target then smokes. You take at least 3 stress when you perform the ritual, which will be its quality for a fortune roll when it’s challenged by a spirit—so you might want to take more stress to make it more potent.”_
+> GM: “Spend a downtime action to prepare a mixture of tobacco, dream smoke, and crematory ash from a victim—which the target then smokes. You take at least 3 stress when you perform the ritual, which will be its quality for a fortune roll when it’s challenged by a spirit—so you might want to take more stress to make it more potent.”
 
-_Player: “Gotcha. My new fear is what will happen if the spirits figure out where the ward came from and turn their vengeance on me, instead.”_
+> Player: “Gotcha. My new fear is what will happen if the spirits figure out where the ward came from and turn their vengeance on me, instead.”
 
 ## Performing a Ritual
 
@@ -3705,42 +2136,22 @@ The GM may also **tick a progress clock** when you perform a ritual—to advance
 If a ritual is dangerous or troublesome to perform, make an **action roll** (usually <span class="game-term">Attune</span>) to see if unpleasant consequences manifest. If a ritual has an uncertain effect then a **fortune roll** should be made to see how well it manifests. Because a ritual is a downtime activity, you may spend <span class="game-term">coin</span> 1-for-1 to increase the result level of your fortune roll (this represents the expenditure of expensive or rare ritual materials). If a ritual is both dangerous and uncertain, then both rolls may be called for.
 
 Each performance of a ritual is a unique event, and may not always work the same way each time. The GM or players may call for a round of questions to establish a ritual anew. Rituals are a way to bring in a wide variety of arcane effects into the game. Use with caution! If you ever go overboard, address the questions again to establish new weirdness and costs if things have gotten out of hand. The abyssal forces are not playthings and cannot be considered a reliable or safe source of power.
-</div>
-<div id="_idContainer710" class="Basic-Text-Frame">
 
-8
-</div>
-<div id="_idContainer711" class="Basic-Text-Frame">
-
-rituals
-</div>
-<div id="_idContainer712" class="Basic-Text-Frame">
-
-8
-</div>
-<div id="_idContainer713" class="chapter-margin">
-
-<span class="CharOverride-3">strange forces</span>
-</div>
-<div id="_idContainer714" class="Basic-Text-Frame">
-
-<a id="_idTextAnchor034"></a>crafting
-</div>
-<div id="_idContainer715" class="Basic-Text-Frame">
+# Crafting
 
 During downtime, a PC can <span class="game-term">Tinker</span> with special materials and tools to produce strange** alchemicals**, **build** (or **modify) items**,** **create **spark-craft** gadgets, or enchant **arcane** implements or weapons. The system for each method is similar, with different details depending on the nature of the project.
 
-inventing
+## Inventing
 
 To invent a formula for a new alchemical concoction or the plan for a new item of your design, you need to <span class="game-term">Study</span> it as a **long-term project**. Most new formulas or designs will require an 8-segment progress clock to invent and learn. The player and the GM answer questions about the invention to define what it will do in play and what is required to create it (see below). The player records these answers in their notes for future reference.
 
-Creation Questions
-	<ol>
-		<li class="Numbers ParaOverride-15">GM asks: **“What type of creation is it and what does it do?”** Player answers. A creation might be mundane, alchemical, arcane, or spark-craft. If a PC has an appropriate special ability (<span class="game-term">Alchemist</span><span class="game-term CharOverride-15">, </span><span class="game-term">Artificer</span><span class="game-term CharOverride-15">, </span><span class="game-term">Strange Methods</span>), they get bonuses when inventing and crafting certain creation types.
-		<li class="Numbers ParaOverride-15">Player asks: **“What’s the minimum quality level of this item?”** GM answers, with the **magnitude** of the effects the item produces as a guideline.
-		<li class="Numbers ParaOverride-15">GM asks: **“What rare, strange, or adverse aspect of this formula or design has kept it in obscurity, out of common usage?**” Player answers.
-		<li class="Numbers ParaOverride-15">Player asks: **“What drawbacks does this item have, if any?”** GM answers by choosing one or more from the drawbacks list, or by saying there are none.
-	</ol>
+### Creation Questions
+<ol>
+	<li>GM asks: **“What type of creation is it and what does it do?”** Player answers. A creation might be mundane, alchemical, arcane, or spark-craft. If a PC has an appropriate special ability (<span class="game-term">Alchemist</span><span class="game-term CharOverride-15">, </span><span class="game-term">Artificer</span><span class="game-term CharOverride-15">, </span><span class="game-term">Strange Methods</span>), they get bonuses when inventing and crafting certain creation types.
+	<li>Player asks: **“What’s the minimum quality level of this item?”** GM answers, with the **magnitude** of the effects the item produces as a guideline.
+	<li>GM asks: **“What rare, strange, or adverse aspect of this formula or design has kept it in obscurity, out of common usage?**” Player answers.
+	<li>Player asks: **“What drawbacks does this item have, if any?”** GM answers by choosing one or more from the drawbacks list, or by saying there are none.
+</ol>
 
 A PC with the <span class="game-term">Alchemist</span>, <span class="game-term">Artificer</span>, or <span class="game-term">Strange Methods</span> special abilities invents and learns one special formula when they take the ability (they don’t have to take time to learn it).
 
@@ -3748,17 +2159,19 @@ Once you’ve invented a formula or design, you can **craft** it by using a down
 
 Common alchemicals (see **Sample Creations** on page 226) and ordinary items don’t require special formulas or designs to learn. Anyone may attempt to craft them by using commonly available instructions.
 
-crafting
+## Crafting
+
+@TODO add table p109
 
 To craft something, spend one **downtime activity** to make a <span class="game-term">Tinker</span> roll to determine the **quality level** of the item you produce. The base quality level is equal to your crew’s Tier, modified by the result of the roll (see the results on the next page).
 
-The results are based on your crew’s Tier because it indicates the overall quality of the workspace and materials you have access to. _If you do the work with the _<span class="CharOverride-23">Workshop </span>_upgrade for your crew, your effective Tier level is one higher for this roll._
+The results are based on your crew’s Tier because it indicates the overall quality of the workspace and materials you have access to. _If you do the work with the **Workshop** upgrade for your crew, your effective Tier level is one higher for this roll._
 
-The GM sets a **minimum quality **level that must be achieved to craft the item, based on the **magnitude** of the effect(s) it produces. The GM uses magnitude as a _guideline_ for setting the quality level—it may be higher or lower at their discretion to better describe the nature of the project. An item may be crafted at _higher_ quality if the player wishes to attempt it.
+The GM sets a **minimum quality** level that must be achieved to craft the item, based on the **magnitude** of the effect(s) it produces. The GM uses magnitude as a _guideline_ for setting the quality level—it may be higher or lower at their discretion to better describe the nature of the project. An item may be crafted at _higher_ quality if the player wishes to attempt it.
 
 You may spend <span class="game-term">coin</span> 1-for-1 to increase the final quality level result of your roll (this can raise quality level beyond Tier +2).
 
-modifying an item
+### Modifying an item
 
 Adding a feature or additional function to an item is simpler than creating something new. You don’t need to invent a special formula or plan. Make a crafting roll to modify an item (the baseline quality of an item that you modify is equal to your crew’s Tier, as usual).
 
@@ -3766,169 +2179,15 @@ Adding a feature or additional function to an item is simpler than creating some
 * A significant modification requires Tier +2 quality. _Strengthening the barrel and powder load of a gun to fire further._
 * An arcane, spark-craft, or alchemical modification requires Tier +3 quality. _A dagger that can harm a demon. An electrified hull on a boat to repel boarders or ghosts. An outfit coated with chemicals to mask you from deathlands predators._
 
-
 Modified items, like special creations, may have **drawbacks**.
 
-drawbacks
+### Drawbacks
 
 A creation or modification may have one or more drawbacks, chosen by the GM.
 
 * <span class="game-term">Complex. </span>You’ll have to create it in multiple stages; the GM will tell you how many. One downtime activity and crafting roll is needed per stage.
-* <span class="game-term">Conspicuous. </span>This creation doesn’t go unnoticed. Take **+1 **<span class="game-term">heat</span> if it’s used any number of times on an operation.
+* <span class="game-term">Conspicuous. </span>This creation doesn’t go unnoticed. Take **+1** <span class="game-term">heat</span> if it’s used any number of times on an operation.
 * <span class="game-term">Consumable.</span> This creation has a limited number of uses (all alchemicals must have this drawback, usually one use).
 * <span class="game-term">Rare. </span>This creation requires a rare item or material when it is crafted.
 * <span class="game-term">Unreliable. </span>When you use the item, make a fortune roll (using its **quality**) to see how well it performs.
 * <span class="game-term">Volatile. </span>The item produces a dangerous or troublesome side-effect for the user, specified by the GM (see examples on the sample creations, next page). A side-effect is a consequence, and may be **resisted**.
-
-</div>
-<div id="_idContainer716" class="Basic-Text-Frame">
-
-## <span class="CharOverride-16">crafting roll</span>
-</div>
-<div class="_idGenObjectLayout-1">
-	<div id="_idContainer717" class="Basic-Graphics-Frame _idGenObjectStyleOverride-5">
-		<img class="_idGenObjectAttribute-1" src="data:image/jpg;base64,/9j/7QAsUGhvdG9zaG9wIDMuMAA4QklNA+0AAAAAABAAlgAAAAEAAQCWAAAAAQAB/+4AJkFkb2JlAGQAAAAAAQMAEAMDBgkAAAAAAAAAAAAAAAAFAAJJRP/bAIQAAgICAgICAgICAgMCAgIDBAMDAwMEBQQEBAQEBQUFBQUFBQUFBQcICAgHBQkKCgoKCQwMDAwMDAwMDAwMDAwMDAEDAwMHBQcNBwcNDw0NDQ8PDg4ODg8PDAwMDAwPDwwODg4ODA8MEREREREMERERERERERERERERERERERERERER/8IAEQgAJgJrAwERAAIRAQMRAf/EAIwAAQEBAAAAAAAAAAAAAAAAAAAGCgEBAAAAAAAAAAAAAAAAAAAAABAAAwEBAQAAAAAAAAAAAAAAAAUVYEWAEQACAwACAgEFAAAAAAAAAAAABZPUNmARhcUTBDRUNRYSAQAAAAAAAAAAAAAAAAAAAIATAAEDBQEAAAAAAAAAAAAAABGAIVEAIFAxQXH/2gAMAwEAAhADEAAAAM/4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABfkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAX5AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAF+QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABfgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAvD/9oACAECAAEFAfQ3/9oACAEDAAEFAfQ3/9oACAEBAAEFAcbzsbzsbzsbzoy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiMuIy4jLiQvn//2gAIAQICBj8BQ3//2gAIAQMCBj8BQ3//2gAIAQEBBj8B4b4r2HDvFew4d4r2HDvFewNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA1iqNhQNYqjYUDWKo2FA6/qVf6zrv4/r/z++/sT//aAAgBAgMBPxBQ3//aAAgBAwMBPxBQ3//aAAgBAQMBPxBLZJIYMGDBgwYMGDBgwYMGDBgwYMGDBgwYMGDBgwYMGDBsKGDBgwYMGDBgwYMGDBgwYMGDBgwYMGDBgwYMGDBgwYMGtDBgwYNEURHsAtongev/2Q==" alt="" />
-	</div>
-</div>
-<div id="_idContainer718" class="Basic-Text-Frame">
-
-<span class="CharOverride-17">1d </span><span class="CharOverride-13">for each </span><span class="game-term CharOverride-8">Tinker</span><span class="CharOverride-13"> action dot.</span>
-</div>
-<div class="_idGenObjectLayout-1">
-	<div id="_idContainer723">
-		<div id="_idContainer719" class="Basic-Graphics-Frame _idGenObjectStyleOverride-1">
-		</div>
-		<div id="_idContainer722">
-			<div id="_idContainer720" class="Basic-Graphics-Frame _idGenObjectStyleOverride-5">
-			</div>
-			<div id="_idContainer721" class="_idGenObjectStyleOverride-2">
-			</div>
-		</div>
-	</div>
-</div>
-<div class="_idGenObjectLayout-1">
-	<div id="_idContainer724" class="Basic-Graphics-Frame _idGenObjectStyleOverride-1">
-	</div>
-</div>
-<div class="_idGenObjectLayout-1">
-	<div id="_idContainer767">
-		<div id="_idContainer725" class="_idGenObjectStyleOverride-1">
-		</div>
-		<div id="_idContainer766">
-			<div id="_idContainer730">
-				<div id="_idContainer726" class="Basic-Graphics-Frame _idGenObjectStyleOverride-11">
-				</div>
-				<div id="_idContainer727" class="Basic-Graphics-Frame _idGenObjectStyleOverride-5">
-				</div>
-				<div id="_idContainer728" class="Basic-Graphics-Frame _idGenObjectStyleOverride-5">
-				</div>
-				<div id="_idContainer729" class="Basic-Graphics-Frame _idGenObjectStyleOverride-5">
-				</div>
-			</div>
-			<div id="_idContainer735">
-				<div id="_idContainer731" class="Basic-Graphics-Frame _idGenObjectStyleOverride-11">
-				</div>
-				<div id="_idContainer732" class="Basic-Graphics-Frame _idGenObjectStyleOverride-5">
-				</div>
-				<div id="_idContainer733" class="Basic-Graphics-Frame _idGenObjectStyleOverride-5">
-				</div>
-				<div id="_idContainer734" class="Basic-Graphics-Frame _idGenObjectStyleOverride-5">
-				</div>
-			</div>
-			<div id="_idContainer740">
-				<div id="_idContainer736" class="Basic-Graphics-Frame _idGenObjectStyleOverride-11">
-				</div>
-				<div id="_idContainer737" class="Basic-Graphics-Frame _idGenObjectStyleOverride-5">
-				</div>
-				<div id="_idContainer738" class="Basic-Graphics-Frame _idGenObjectStyleOverride-5">
-				</div>
-				<div id="_idContainer739" class="Basic-Graphics-Frame _idGenObjectStyleOverride-5">
-				</div>
-			</div>
-			<div id="_idContainer745">
-				<div id="_idContainer741" class="Basic-Graphics-Frame _idGenObjectStyleOverride-11">
-				</div>
-				<div id="_idContainer742" class="Basic-Graphics-Frame _idGenObjectStyleOverride-5">
-				</div>
-				<div id="_idContainer743" class="Basic-Graphics-Frame _idGenObjectStyleOverride-5">
-				</div>
-				<div id="_idContainer744" class="Basic-Graphics-Frame _idGenObjectStyleOverride-5">
-				</div>
-			</div>
-			<div id="_idContainer750">
-				<div id="_idContainer746" class="Basic-Graphics-Frame _idGenObjectStyleOverride-11">
-				</div>
-				<div id="_idContainer747" class="Basic-Graphics-Frame _idGenObjectStyleOverride-5">
-				</div>
-				<div id="_idContainer748" class="Basic-Graphics-Frame _idGenObjectStyleOverride-5">
-				</div>
-				<div id="_idContainer749" class="Basic-Graphics-Frame _idGenObjectStyleOverride-5">
-				</div>
-			</div>
-			<div id="_idContainer755">
-				<div id="_idContainer751" class="Basic-Graphics-Frame _idGenObjectStyleOverride-11">
-				</div>
-				<div id="_idContainer752" class="Basic-Graphics-Frame _idGenObjectStyleOverride-5">
-				</div>
-				<div id="_idContainer753" class="Basic-Graphics-Frame _idGenObjectStyleOverride-5">
-				</div>
-				<div id="_idContainer754" class="Basic-Graphics-Frame _idGenObjectStyleOverride-5">
-				</div>
-			</div>
-			<div id="_idContainer760">
-				<div id="_idContainer756" class="Basic-Graphics-Frame _idGenObjectStyleOverride-11">
-				</div>
-				<div id="_idContainer757" class="Basic-Graphics-Frame _idGenObjectStyleOverride-5">
-				</div>
-				<div id="_idContainer758" class="Basic-Graphics-Frame _idGenObjectStyleOverride-5">
-				</div>
-				<div id="_idContainer759" class="Basic-Graphics-Frame _idGenObjectStyleOverride-5">
-				</div>
-			</div>
-			<div id="_idContainer765">
-				<div id="_idContainer761" class="Basic-Graphics-Frame _idGenObjectStyleOverride-11">
-				</div>
-				<div id="_idContainer762" class="Basic-Graphics-Frame _idGenObjectStyleOverride-5">
-				</div>
-				<div id="_idContainer763" class="Basic-Graphics-Frame _idGenObjectStyleOverride-5">
-				</div>
-				<div id="_idContainer764" class="Basic-Graphics-Frame _idGenObjectStyleOverride-5">
-				</div>
-			</div>
-		</div>
-	</div>
-</div>
-<div id="_idContainer768" class="Basic-Text-Frame">
-
-<span class="CharOverride-17">+1 quality </span><span class="CharOverride-13">per </span><span class="game-term CharOverride-8">coin</span><span class="CharOverride-13"> spent.</span>
-</div>
-<div id="_idContainer769" class="Basic-Text-Frame">
-
-<span class="CharOverride-17">+1 quality </span><span class="CharOverride-13">for </span><span class="strong CharOverride-13">Workshop</span><span class="CharOverride-13"> crew upgrade.</span>
-</div>
-<div class="_idGenObjectLayout-1">
-	<div id="_idContainer770" class="Basic-Graphics-Frame _idGenObjectStyleOverride-4">
-	</div>
-</div>
-<div class="_idGenObjectLayout-1">
-	<div id="_idContainer771" class="_idGenObjectStyleOverride-5">
-	</div>
-</div>
-<div id="_idContainer772" class="Basic-Graphics-Frame _idGenObjectStyleOverride-6">
-
-<span class="game-term CharOverride-8">Critical:</span><span class="CharOverride-22"> Quality level is Tier +2.</span>
-
-<span class="game-term CharOverride-8">6: </span><span class="CharOverride-22">Quality level is Tier +1.</span>
-
-<span class="game-term CharOverride-8">4/5:</span><span class="CharOverride-22"> Quality level is equal to Tier.</span>
-
-<span class="game-term CharOverride-8">1-3:</span><span class="CharOverride-22"> Quality level is Tier -1.</span>
-</div>
-<div id="_idContainer773" class="Basic-Text-Frame">
-
-8
-</div>
-<div id="_idContainer774" class="Basic-Text-Frame">
-
-crafting
-</div>
