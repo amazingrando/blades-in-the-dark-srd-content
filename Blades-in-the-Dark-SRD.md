@@ -54,7 +54,7 @@ _If you ever need to roll but you have zero (or negative) dice, roll two dice an
 
 All the dice systems in the game are expressions of this basic format. When you’re first learning the game, you can always “collapse” back down to a simple roll to judge how things go. Look up the exact rule later when you have time.
 
-To create a dice pool for a roll, you’ll use a **trait** (like your <span class="game-term">Finesse</span> or your <span class="game-term">Prowess</span> or your crew’s <span class="CharOverride-5">Tier</span>) and take dice equal to its **rating**. You’ll usually end up with one to four dice. Even one die is pretty good in this game—a 50% chance of success. The most common traits you’ll use are the **action ratings** of the player characters. A player might roll dice for their <span class="game-term">Skirmish</span> action rating when they fight an enemy, for example.
+To create a dice pool for a roll, you’ll use a **trait** (like your <span class="game-term">Finesse</span> or your <span class="game-term">Prowess</span> or your crew’s Tier) and take dice equal to its **rating**. You’ll usually end up with one to four dice. Even one die is pretty good in this game—a 50% chance of success. The most common traits you’ll use are the **action ratings** of the player characters. A player might roll dice for their <span class="game-term">Skirmish</span> action rating when they fight an enemy, for example.
 
 There are four types of rolls that you’ll use most often in the game:
 
@@ -376,7 +376,7 @@ The potency factor considers particular weaknesses, taking extra time or a bigge
 
 Quality represents the effectiveness of tools, weapons, or other resources, usually summarized by Tier. **Fine items** count as +1 bonus in quality, stacking with Tier.
 
-_Thorn is picking the lock to a safehouse run of a gang reknowned for Occut dealings. Her crew is Tier I and she has <span class="CharOverride-23">fine</span> lockpicks—so she’s effectively Tier II. The Occult gang is Tier III. Thorn is outclassed in quality, so her effect will be <span class="CharOverride-23">limited</span> on the lock._
+_Thorn is picking the lock to a safehouse run of a gang reknowned for Occut dealings. Her crew is Tier I and she has fine lockpicks—so she’s effectively Tier II. The Occult gang is Tier III. Thorn is outclassed in quality, so her effect will be limited on the lock._
 
 ### Scale
 
@@ -496,7 +496,7 @@ The GM also has the option to rule that your character **completely avoids** the
 
 The GM may also threaten several consequences at once, then the player may choose which ones to resist (and make rolls for each).
 
-> “She stabs you and then leaps off the balcony. <span class="CharOverride-23">Level 2 harm</span> and you <span class="CharOverride-23">lose the opportunity</span> to catch her with fighting.”
+> “She stabs you and then leaps off the balcony. Level 2 harm and you lose the opportunity to catch her with fighting.”
 
 > “I’ll resist losing the opportunity by grappling her as she attacks. She can stab me, but I don’t want to let her escape.”
 
@@ -658,7 +658,7 @@ You’ll use your Tier rating to roll dice when you acquire an asset, as well as
 
 ## Hold
 
-On the faction ladder next to the Tier numbers is a letter indicating the strength of each faction’s **hold**. <span class="CharOverride-15">Hold</span> represents how well a faction can maintain their current position on the ladder. W indicates **weak** hold. S indicates **strong** hold. Your crew begins with **strong** hold at **Tier 0**.
+On the faction ladder next to the Tier numbers is a letter indicating the strength of each faction’s **hold**. Hold represents how well a faction can maintain their current position on the ladder. W indicates **weak** hold. S indicates **strong** hold. Your crew begins with **strong** hold at **Tier 0**.
 
 ## Development
 
@@ -853,21 +853,21 @@ That’s it! Your character is ready for play. When you start the first session,
 
 @TODO style dropcaps.
 
-<span class="CharOverride-32">1</span> **Choose a playbook.** Your playbook represents your character’s reputation, their special abilities, and how they advance.
+<span class="number">1</span> **Choose a playbook.** Your playbook represents your character’s reputation, their special abilities, and how they advance.
 
-<span class="CharOverride-32">2</span> **Choose a heritage.** Detail your choice with a note about your family life. _For example, Ore miners, now war refugees._
+<span class="number">2</span> **Choose a heritage.** Detail your choice with a note about your family life. _For example, Ore miners, now war refugees._
 
-<span class="CharOverride-32">3</span> **Choose a background.** Detail your choice with your specific history. _For example, Labor: Hunter, mutineer._
+<span class="number">3</span> **Choose a background.** Detail your choice with your specific history. _For example, Labor: Hunter, mutineer._
 
-<span class="CharOverride-32">4</span> **Assign four action dots.** No action may begin with a rating higher than 2 during character creation. _(After creation, action ratings may advance up to 3. When you unlock the Mastery advance for your crew, you can advance actions up to rating 4.)_
+<span class="number">4</span> **Assign four action dots.** No action may begin with a rating higher than 2 during character creation. _(After creation, action ratings may advance up to 3. When you unlock the Mastery advance for your crew, you can advance actions up to rating 4.)_
 
-<span class="CharOverride-32">5</span> **Choose a special ability.** They’re in the gray column in the middle of the character sheet. If you can’t decide, choose the first ability on the list. It’s placed there as a good first option.
+<span class="number">5</span> **Choose a special ability.** They’re in the gray column in the middle of the character sheet. If you can’t decide, choose the first ability on the list. It’s placed there as a good first option.
 
-<span class="CharOverride-32">6</span> **Choose a close friend and a rival.** Mark the one who is a close friend, long-time ally, family relation, or lover (the upward-pointing triangle). Mark one who is a rival, enemy, scorned lover, betrayed partner, etc. (the downward-pointing triangle).
+<span class="number">6</span> **Choose a close friend and a rival.** Mark the one who is a close friend, long-time ally, family relation, or lover (the upward-pointing triangle). Mark one who is a rival, enemy, scorned lover, betrayed partner, etc. (the downward-pointing triangle).
 
-<span class="CharOverride-32">7</span> **Choose your vice.** Pick your preferred type of vice, detail it with a short description and indicate the name and location of your vice purveyor.
+<span class="number">7</span> **Choose your vice.** Pick your preferred type of vice, detail it with a short description and indicate the name and location of your vice purveyor.
 
-<span class="CharOverride-32">8</span> **Record your name, alias, and look.** Choose a name, an alias (if you use one), and jot down a few words to describe your look. Examples are provided on the preceding page.
+<span class="number">8</span> **Record your name, alias, and look.** Choose a name, an alias (if you use one), and jot down a few words to describe your look. Examples are provided on the preceding page.
 
 ## Loadout
 
@@ -928,7 +928,7 @@ You may expend your **special armor** to reduce harm from an attack in combat or
 
 When you **protect** a teammate, take **+1d** to your resistance roll. When you gather info to anticipate possible threats in the current situation, you get **+1 effect**.
 
-> The <span class="CharOverride-23">protect</span> teamwork maneuver lets you face a consequence for a teammate. If you choose to resist that consequence, this ability gives you +1d to your resistance roll. Also, when you read a situation to gather information about hidden dangers or potential attackers, you get +1 effect—which means more detailed information.
+> The protect teamwork maneuver lets you face a consequence for a teammate. If you choose to resist that consequence, this ability gives you +1d to your resistance roll. Also, when you read a situation to gather information about hidden dangers or potential attackers, you get +1 effect—which means more detailed information.
 
 ### Arcane fighter
 
@@ -1345,27 +1345,27 @@ If a cohort is destroyed, it may be replaced. Spend <span class="game-term">coin
 
 @TODO dropcaps
 
-<span class="CharOverride-32">1</span>**Choose a crew type.** The crew type determines the group’s purpose, their special abilities, and how they advance.
+<span class="number">1</span>**Choose a crew type.** The crew type determines the group’s purpose, their special abilities, and how they advance.
 
 You begin at **Tier 0**, with **strong hold** and 0 <span class="game-term">rep</span>. You start with 2 <span class="game-term">coin</span>.
 
-<span class="CharOverride-32">2</span> **Choose an initial reputation and lair.** Choose how other underworld factions see you:_Ambitious—Brutal—Daring—Honorable—Professional—Savvy—Subtle—Strange._ Look at the map and pick a district in which to place your lair. Describe the lair.
+<span class="number">2</span> **Choose an initial reputation and lair.** Choose how other underworld factions see you:_Ambitious—Brutal—Daring—Honorable—Professional—Savvy—Subtle—Strange._ Look at the map and pick a district in which to place your lair. Describe the lair.
 
-<span class="CharOverride-32">3</span> **Establish your hunting grounds.** Look at the map and pick a district in which to place your hunting grounds. Decide how to deal with the faction that claims that area.
+<span class="number">3</span> **Establish your hunting grounds.** Look at the map and pick a district in which to place your hunting grounds. Decide how to deal with the faction that claims that area.
 
 * Pay them 1 <span class="game-term">coin</span>.
 * Pay them 2 <span class="game-term">coin</span>. Get **+1 status**.
 * Pay nothing. Get **-1 status**.
 
-<span class="CharOverride-32">4</span> **Choose a special ability.** They’re in the gray column in the middle of the crew sheet. If you can’t decide, choose the first ability on the list. It’s placed there as a good first option.
+<span class="number">4</span> **Choose a special ability.** They’re in the gray column in the middle of the crew sheet. If you can’t decide, choose the first ability on the list. It’s placed there as a good first option.
 
-<span class="CharOverride-32">5</span> **Assign crew upgrades.** Your crew has two upgrades pre-selected. Choose two more. If your crew has a cohort, follow the procedure to create it. Record the faction status changes due to your upgrades:
+<span class="number">5</span> **Assign crew upgrades.** Your crew has two upgrades pre-selected. Choose two more. If your crew has a cohort, follow the procedure to create it. Record the faction status changes due to your upgrades:
 
 * One faction helped you get an upgrade. Take **+1 status** with them. Or spend 1 <span class="game-term">coin</span> for **+2 status** instead.
 * One faction was harmed when you got an upgrade. Take **-2 status** with them. Or spend 1 <span class="game-term">coin</span> for **-1 status** instead.
 
 
-<span class="CharOverride-32">6</span> **Choose a favorite contact.** Mark the one who is a close friend, long-time ally, or partner in crime. Record the faction status changes related to your contact:
+<span class="number">6</span> **Choose a favorite contact.** Mark the one who is a close friend, long-time ally, or partner in crime. Record the faction status changes related to your contact:
 
 * One faction is friendly with your contact. Take **+1 status** with them.
 * One faction is unfriendly with your contact. Take **-1 status** with them.
@@ -1719,7 +1719,7 @@ When you lead a group action, you coordinate multiple members of the team to tac
 
 Each PC who’s involved makes an **action roll** (using the same action) and **the team counts the single best result** as the overall effort for everyone who rolled. However, the character leading the group action takes **1 stress** for each PC that rolled<span class="game-term"> 1-3</span> as their best result.
 
-> This is how you do the “we all sneak into the building” scene. Everyone who wants to sneak in rolls their <span class="CharOverride-47">Prowl</span> action, and the best result counts for the whole team. The leader suffers stress for everyone who does poorly. It’s tough covering for the stragglers.
+> This is how you do the “we all sneak into the building” scene. Everyone who wants to sneak in rolls their Prowl action, and the best result counts for the whole team. The leader suffers stress for everyone who does poorly. It’s tough covering for the stragglers.
 
 **The group action result covers everyone who rolled.** If you don’t roll, your character doesn’t get the effects of the action.
 
@@ -1974,7 +1974,7 @@ Alchemicals, poisons, bombs, and dangerous gadgets are highly restricted. When y
 
 If you want to acquire an asset permanently, you can either gain it as a crew upgrade or work on it as a **long-term project** to set up a permanent acquisition.
 
-> Zamira the Whisper is a duelist in the Iruvian style, and would like a <span class="CharOverride-23">fine</span> sword to add to her permanent items. Her player starts a long-term project: “Get My Family Sword Back from the Pawn Shop.” The GM says this is an 8-clock (she can work on it by <span class="game-term">Consorting</span> or <span class="game-term">Swaying</span> the pawn shop owner or maybe rolling her lifestyle level to represent small payments).
+> Zamira the Whisper is a duelist in the Iruvian style, and would like a fine sword to add to her permanent items. Her player starts a long-term project: “Get My Family Sword Back from the Pawn Shop.” The GM says this is an 8-clock (she can work on it by <span class="game-term">Consorting</span> or <span class="game-term">Swaying</span> the pawn shop owner or maybe rolling her lifestyle level to represent small payments).
 
 ### Long-term project
 
@@ -1996,7 +1996,7 @@ When you fill your healing clock, reduce each instance of harm on your sheet by 
 
 @TODO add table p99
 
-> Cross has two injuries: a level 3 “Shattered Right Leg” and level 1 “Battered.” During downtime, he gets treatment from Quellyn, a witch friend of the crew’s Whisper. Quellyn is a competent healer, so the GM says quality 2 makes sense. The player rolls 2d to recover and gets a <span class="game-term">6</span>: three segments on the healing clock. He decides to spend <span class="CharOverride-23">1 </span><span class="game-term">coin</span> to improve the result to a <span class="game-term">critical</span> to get five segments instead. Four segments fill the clock—all of Cross’s harm is reduced by one level, then he clears the clock and marks one more segment. His level 3 harm “Shattered Right Leg” is reduced to level 2 harm. His level 1 harm “Battered” is reduced to zero and goes away. Cross is left with one injury on his sheet: level 2 “Broken Leg.”
+> Cross has two injuries: a level 3 “Shattered Right Leg” and level 1 “Battered.” During downtime, he gets treatment from Quellyn, a witch friend of the crew’s Whisper. Quellyn is a competent healer, so the GM says quality 2 makes sense. The player rolls 2d to recover and gets a <span class="game-term">6</span>: three segments on the healing clock. He decides to spend 1 <span class="game-term">coin</span> to improve the result to a <span class="game-term">critical</span> to get five segments instead. Four segments fill the clock—all of Cross’s harm is reduced by one level, then he clears the clock and marks one more segment. His level 3 harm “Shattered Right Leg” is reduced to level 2 harm. His level 1 harm “Battered” is reduced to zero and goes away. Cross is left with one injury on his sheet: level 2 “Broken Leg.”
 
 You may heal yourself if you have the <span class="game-term">Physicker</span> special ability, but you take 2 stress when you do so. You can also choose to simply tough it out and attempt to heal without any treatment—in this case, take 1 stress and roll 0d.
 
@@ -2038,7 +2038,7 @@ Make an **attribute roll** using your character’s lowest attribute rating (if 
 
 ### Overindulgence
 
-If your vice roll clears more stress levels than you had marked, you <span class="CharOverride-23">overindulge</span>. A vice is not a reliable, controllable habit. It’s a risk—and one that can drive your character to act against their own best interests.
+If your vice roll clears more stress levels than you had marked, you overindulge. A vice is not a reliable, controllable habit. It’s a risk—and one that can drive your character to act against their own best interests.
 
 When you overindulge, you make a bad call because of your vice—in acquiring it or while under its influence. To bring the effect of this bad decision into the game, select an overindulgence from the list:
 
@@ -2088,7 +2088,7 @@ You can add levels of magnitude together to describe a combination of effects, o
 
 > In the example above, the demon generated magnitude 6 force and the GM included its area of effect “for free” as part of the power. A huge wave at a dock should affect the boats and the crews there, in their judgment.
 
-> In a different session, a Whisper wants to accomplish a ritual that will unleash a hurricane across the district. The GM says that this is a very significant effect, so they add two levels of magnitude together: _<span class="CharOverride-23">force 6</span>_ and _<span class="CharOverride-23">range 5</span>_. To create such a devastating power, the Whisper will suffer 11 stress! The GM offers a compromise: the ritual will take a few hours to complete, so the stress cost will be reduced to 8, but some people in the affected area may realize what’s happening and flee before the full storm hits._
+> In a different session, a Whisper wants to accomplish a ritual that will unleash a hurricane across the district. The GM says that this is a very significant effect, so they add two levels of magnitude together: _force 6_ and _range 5_. To create such a devastating power, the Whisper will suffer 11 stress! The GM offers a compromise: the ritual will take a few hours to complete, so the stress cost will be reduced to 8, but some people in the affected area may realize what’s happening and flee before the full storm hits._
 
 The magnitude table is provided as a tool to help the GM make judgment calls. It’s not meant to be a rigid restriction or mathematical formula to replace those judgment calls. Use the levels as a _guideline_ for setting a magnitude number that seem appropriate to you.
 
