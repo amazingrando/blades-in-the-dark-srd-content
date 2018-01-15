@@ -376,7 +376,7 @@ The potency factor considers particular weaknesses, taking extra time or a bigge
 
 Quality represents the effectiveness of tools, weapons, or other resources, usually summarized by Tier. **Fine items** count as +1 bonus in quality, stacking with Tier.
 
-_Thorn is picking the lock to a safehouse run of a gang reknowned for Occut dealings. Her crew is Tier I and she has fine lockpicks—so she’s effectively Tier II. The Occult gang is Tier III. Thorn is outclassed in quality, so her effect will be limited on the lock._
+_Thorn is picking the lock to a safehouse run of a gang reknowned for Occult dealings. Her crew is Tier I and she has fine lockpicks—so she’s effectively Tier II. The Occult gang is Tier III. Thorn is outclassed in quality, so her effect will be limited on the lock._
 
 ### Scale
 
