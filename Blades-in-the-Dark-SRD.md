@@ -277,12 +277,12 @@ _Each game group will have their own ideas about what “challenging” means. T
 
 To make an action roll, we go through six steps. In play, they flow together somewhat, but let’s break each one down here for clarity.
 
-# The player states their **goal** for the action.
-# The player chooses the **action rating**.
-# The GM sets the **position** for the roll.
-# The GM sets the **effect level** for the action.
-# Add **bonus dice**.
-# The player rolls the dice** and we judge the result.
+* The player states their **goal** for the action.
+* The player chooses the **action rating**.
+* The GM sets the **position** for the roll.
+* The GM sets the **effect level** for the action.
+* Add **bonus dice**.
+* The player rolls the dice and we judge the result.
 
 ## 1. The Player States Their Goal
 
