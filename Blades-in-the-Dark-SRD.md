@@ -46,7 +46,7 @@ When you play, you’ll make several key judgment calls. Everyone contributes, b
 
 _Blades in the Dark_ uses six-sided dice. You roll several at once and read the **single highest result**.
 
-* If the highest die is a **6**, it’s a **full success**—things go well. If you roll more than one **6**, it’s a **critical** success**—you gain some additional advantage.
+* If the highest die is a **6**, it’s a **full success**—things go well. If you roll more than one **6**, it’s a **critical success**—you gain some additional advantage.
 * If the highest die is a **4 or 5**, that’s a **partial success**—you do what you were trying to do, but there are consequences: trouble, harm, reduced effect, etc.
 * If the highest die is **1-3**, it’s a **bad outcome**. Things go poorly. You probably don’t achieve your goal and you suffer complications, too.
 
@@ -451,7 +451,7 @@ This consequence represents losing control of the situation—the action carries
 
 ## Harm
 
-This consequence represents a long-lasting debility (or death). When you suffer harm, record the specific injury on your character sheet equal to the level of harm you suffer. If you suffer** lesser harm**, record it in the bottom row. If you suffer **moderate harm**, write it in the middle row. If you suffer **severe harm**, record it in the top row. See examples of harm and the harm tracker, below.
+This consequence represents a long-lasting debility (or death). When you suffer harm, record the specific injury on your character sheet equal to the level of harm you suffer. If you suffer **lesser harm**, record it in the bottom row. If you suffer **moderate harm**, write it in the middle row. If you suffer **severe harm**, record it in the top row. See examples of harm and the harm tracker, below.
 
 Your character suffers the penalty indicated at the end of the row if any or all harm recorded in that row applies to the situation at hand. So, if you have “Drained” and “Battered” harm in the bottom row, you’ll suffer reduced effect when you try to run away from the constables. When you’re impaired by harm in the top row (severe harm, level 3), your character is incapacitated and can’t do anything unless you have help from someone else or **push yourself** to perform the action.
 
@@ -626,7 +626,7 @@ One unit of <span class="game-term">coin</span> in silver pieces or other bulk c
 
 When you mark your character’s final <span class="game-term">trauma</span> and they retire, the amount of <span class="game-term">coin</span> they’ve managed to stash away determines their fate. Your stash tracker is on your character sheet.
 
-* **Stash 0-10:** **Poor soul. **You end up in the gutter, awash in vice and misery.
+* **Stash 0-10:** **Poor soul.** You end up in the gutter, awash in vice and misery.
 * **Stash 11-20: Meager.** A tiny hovel that you can call your own.
 * **Stash 21-39: Modest.** A simple home or apartment, with some small comforts. You might operate a tavern or small business.
 * **Stash 40: Fine.** A well-appointed home or apartment, claiming a few luxuries. You might operate a medium business.
@@ -664,7 +664,7 @@ On the faction ladder next to the Tier numbers is a letter indicating the streng
 
 To move up the ladder and develop your crew, you need <span class="game-term">rep</span>. <span class="game-term">Rep</span> is a measure of clout and renown. When you accrue enough <span class="game-term">rep</span>, the other factions take you more seriously and you attract the support needed to develop and grow.
 
-When you complete a score, your crew earns **2 **<span class="game-term">rep</span>. If the target of the score is higher Tier than your crew, you get **+1 **<span class="game-term">rep</span>** per Tier higher**. If the target of the score is lower Tier, you get **-1 <span class="game-term">rep</span>** per Tier lower** (minimum zero).
+When you complete a score, your crew earns **2 <span class="game-term">rep</span>**. If the target of the score is higher Tier than your crew, you get **+1 <span class="game-term">rep</span>** per Tier higher. If the target of the score is lower Tier, you get **-1 <span class="game-term">rep</span>** per Tier lower (minimum zero).
 
 You need **12 <span class="game-term">rep</span>** to fill the <span class="game-term">rep</span> tracker on your crew sheet. When you fill the tracker, do one of the following:
 
@@ -701,13 +701,13 @@ When you execute an operation, you gain -1 or -2 status with factions that are h
 
 ### Faction status levels
 
-* **+3: **Allies**. This faction will help you even if it’s not in their best interest to do so. They expect you to do the same for them.
-* **+2: **Friendly**.** This faction will help you if it doesn’t create serious problems for them. They expect you to do the same.
-* **+1: **Helpful**.** This faction will help you if it causes no problems or significant cost for them. They expect the same from you.
-* **0: **Neutral**
-* **-1: **Interfering**.** This faction will look for opportunities to cause trouble for you (or profit from your misfortune) as long as it causes no problems or significant cost for them. They expect the same from you.
-* **-2: **Hostile**.** This faction will look for opportunities to hurt you as long as it doesn’t create serious problems for them. They expect you to do the same, and take precautions against you.
-* **-3: **War**.** This faction will go out of its way to hurt you even if it’s not in their best interest to do so. They expect you to do the same, and take precautions against you. When you’re at war with any number of factions, your crew suffers +1 <span class="game-term">heat</span> from scores, temporarily loses 1 hold, and PCs get only one downtime action rather than two. You can end a war by eliminating your enemy or by negotiating a mutual agreement to establish a new status rating.
+* **+3: Allies.** This faction will help you even if it’s not in their best interest to do so. They expect you to do the same for them.
+* **+2: Friendly.** This faction will help you if it doesn’t create serious problems for them. They expect you to do the same.
+* **+1: Helpful.** This faction will help you if it causes no problems or significant cost for them. They expect the same from you.
+* **0: Neutral**
+* **-1: Interfering.** This faction will look for opportunities to cause trouble for you (or profit from your misfortune) as long as it causes no problems or significant cost for them. They expect the same from you.
+* **-2: Hostile.** This faction will look for opportunities to hurt you as long as it doesn’t create serious problems for them. They expect you to do the same, and take precautions against you.
+* **-3: War.** This faction will go out of its way to hurt you even if it’s not in their best interest to do so. They expect you to do the same, and take precautions against you. When you’re at war with any number of factions, your crew suffers +1 <span class="game-term">heat</span> from scores, temporarily loses 1 hold, and PCs get only one downtime action rather than two. You can end a war by eliminating your enemy or by negotiating a mutual agreement to establish a new status rating.
 
 > If your crew has weak hold when you go to war, the temporary loss of hold causes you to lose one Tier. When the war is over, restore your crew’s Tier back to its pre-war level.
 
@@ -768,7 +768,7 @@ At the end of the session, review the crew xp triggers and mark 1 crew xp for ea
 * **Express the goals, drives, inner conflict, or essential nature of the crew.** This one is very broad! Essentially, did anything happen that highlighted the specific elements that make your crew unique?
 
 
-**When you fill your crew advancement tracker**, clear the marks and take a new **special ability **or mark **two crew upgrade boxes**.
+**When you fill your crew advancement tracker**, clear the marks and take a new **special ability** or mark **two crew upgrade boxes**.
 
 > For example, when a crew of Assassins earns a crew advance, they could take a new special ability, like **Predators**. Or they could mark two upgrades, like **Ironhook Contacts** and **Resolve** **Training**.
 
@@ -776,7 +776,7 @@ Say how you’ve obtained this new ability or upgrades for the crew. _Where did 
 
 ### Profits
 
-Every time the crew advances, **each PC gets** **s**tash** equal to the crew Tier+2, to represent profits generated by the crew as they’ve been operating.
+Every time the crew advances, **each PC gets stash** equal to the crew Tier+2, to represent profits generated by the crew as they’ve been operating.
 
 # Characters
 
@@ -873,8 +873,8 @@ That’s it! Your character is ready for play. When you start the first session,
 
 You have access to all of the **items** on your character sheet. For each operation, decide what your character’s **load** will be. During the operation, you may say that your character has an item on hand by checking the box for the item you want to use—up to a number of items equal to your chosen load. Your load also determines your movement speed and conspicuousness:
 
-* <span class="game-term">1-3 load:</span>** Light. _You’re faster, less conspicuous; you blend in with citizens._
-* <span class="game-term">4/5 load: </span>**Normal**. _You look like a scoundrel, ready for trouble._
+* <span class="game-term">1-3 load:</span>**Light.** _You’re faster, less conspicuous; you blend in with citizens._
+* <span class="game-term">4/5 load: </span>**Normal.** _You look like a scoundrel, ready for trouble._
 * <span class="game-term">6 load: </span>**Heavy.** _You’re slower. You look like an operative on a mission._
 * <span class="game-term">7-9 load: </span>**Encumbered.** _You’re overburdened and can’t do anything except move very slowly._
 
@@ -938,7 +938,7 @@ You may imbue your hands, melee weapons, or tools with spirit energy. You gain *
 
 ### Leader
 
-When you <span class="game-term">Command</span> a **cohort** in combat, they continue to fight when they would otherwise **break **(they’re not taken out when they suffer level 3 harm). They gain **+1 effect** and **1 armor**.
+When you <span class="game-term">Command</span> a **cohort** in combat, they continue to fight when they would otherwise **break** (they’re not taken out when they suffer level 3 harm). They gain **+1 effect** and **1 armor**.
 
 > This ability makes your cohorts more effective in battle and also allows them to resist harm by using armor. While you lead your cohorts, they won’t stop fighting until they take fatal harm (level 4) or you order them to cease. What do you do to inspire such bravery in battle?
 
@@ -1154,7 +1154,7 @@ You’re always aware of supernatural entities in your presence. Take **+1d** wh
 
 ### Iron will
 
-You are immune to the terror that some supernatural entities inflict on sight. When you make a **resistance roll **with <span class="game-term">Resolve</span>, take **+1d**.
+You are immune to the terror that some supernatural entities inflict on sight. When you make a **resistance roll** with <span class="game-term">Resolve</span>, take **+1d**.
 
 > With this ability, you do not freeze up or flee when confronted by any kind of supernatural entity or strange occult event.
 
@@ -1216,7 +1216,7 @@ Also, talk about where the crew makes its **lair**. You begin at Tier 0, so it�
 Your crew is brand-new, but you have chosen some small part of a district as your **hunting grounds**. This is the area that you usually target for your scores, and you know it well. Your hunting grounds don’t have to be in the same district as your lair. The area is small, only three or four city blocks—but it’s still an intrusion on someone. The entire city is divided among larger, stronger factions. The GM will tell you which faction claims the area, then you decide how to deal with them:
 
 * Pay them off. Give them 1 <span class="game-term">coin</span> in exchange for giving you room to work.
-* Pay the faction 2 <span class="game-term">coin</span> as a show of respect and gain **+1 status **with them.
+* Pay the faction 2 <span class="game-term">coin</span> as a show of respect and gain **+1 status** with them.
 * Keep your money and take **-1 status** with that faction.
 
 Your hunting grounds are useful for a particular type of criminal operation. Each crew type has a list of different operation types for their hunting grounds. For instance, Assassins have _Accident_, _Disappearance_, _Murder_, or _Ransom_ as options. Choose one of these operation types as your preference.
@@ -1233,7 +1233,7 @@ Just like picking the crew type, reputation, lair, and hunting grounds, choosing
 
 ## Assign crew upgrades
 
-An upgrade is a valuable asset that helps the crew in some way, like a boat or a gang (see the complete descriptions on the following page). Each crew type has two pre-selected **upgrades** that suit that crew (like **Prowess** **Training** and a** gang** of Thugs for the Bravos crew).
+An upgrade is a valuable asset that helps the crew in some way, like a boat or a gang (see the complete descriptions on the following page). Each crew type has two pre-selected **upgrades** that suit that crew (like **Prowess** **Training** and a **gang** of Thugs for the Bravos crew).
 
 You get to add **two additional upgrades** to your new crew (so you’ll have a total of four upgrades when you start). You can choose from the specific upgrades available to your crew type or the general upgrades on the crew sheet.
 
@@ -1261,7 +1261,7 @@ At your option, these factions are even more concerned with this contact and so 
 * <span class="game-term">Cohort:</span> A cohort is a gang or a single expert NPC who works for your crew. For all the details on cohorts, see the following pages.
 * <span class="game-term">Hidden Lair:</span> Your lair has a secret location and is disguised to hide it from view. If your lair is discovered, use two downtime activities and pay <span class="game-term">coin</span> equal to your Tier to relocate it and hide it once again.
 * <span class="game-term">Mastery: </span>Your crew has access to master level training. You may advance your PCs’ action ratings to 4 (until you unlock this upgrade, PC action ratings are capped at 3). This costs four upgrade boxes to unlock.
-* <span class="game-term">Quality:</span>** **Each upgrade improves the quality rating** of all the PCs’ items of that type, beyond the quality established by the crew’s Tier and fine items. You can improve the quality of **Documents**, **Gear** (covers Burglary Gear and Climbing Gear), Arcane **Implements**, Subterfuge **Supplies**, **Tools** (covers Demolitions Tools and Tinkering Tools), and **Weapons**. _So, if you are Tier 0, with fine lockpicks (+1) and the Quality upgrade for gear (+1), you could contend equally with a Tier II quality lock._
+* <span class="game-term">Quality:</span> **Each upgrade improves the quality rating** of all the PCs’ items of that type, beyond the quality established by the crew’s Tier and fine items. You can improve the quality of **Documents**, **Gear** (covers Burglary Gear and Climbing Gear), Arcane **Implements**, Subterfuge **Supplies**, **Tools** (covers Demolitions Tools and Tinkering Tools), and **Weapons**. _So, if you are Tier 0, with fine lockpicks (+1) and the Quality upgrade for gear (+1), you could contend equally with a Tier II quality lock._
 * <span class="game-term">Quarters:</span> Your lair includes living quarters for the crew. Without this upgrade, each PC sleeps elsewhere, and is vulnerable when they do so.
 * <span class="game-term">Secure Lair:</span><span class="game-term"> </span>Your lair has locks, alarms, and traps to thwart intruders. A second upgrade improves the defenses to include arcane measures that work against spirits. _You might roll your crew’s Tier if these measures are ever put to the test, to see how well they thwart an intruder._
 * <span class="game-term">Training: </span>If you have a Training upgrade, you earn 2 xp (instead of 1) when you train a given xp track during downtime (<span class="game-term">Insight</span>, <span class="game-term">Prowess</span>, <span class="game-term">Resolve</span>, or Playbook xp). This upgrade essentially helps you advance more quickly. See **Advancement**, page 40.
@@ -1271,7 +1271,7 @@ _If you have Insight Training, when you train Insight during downtime, you mark 
 
 ## Cohorts
 
-A **cohort** is a **gang** or an **expert** who works for your crew. To recruit a new cohort, spend** two upgrades** and create them using the process below.
+A **cohort** is a **gang** or an **expert** who works for your crew. To recruit a new cohort, spend **two upgrades** and create them using the process below.
 
 ### Creating a gang
 
@@ -1302,7 +1302,7 @@ When you create a cohort, give them one or two **edges** and an equal number of 
 
 **Edges**
 
-* **Fearsome: **The cohort is terrifying in aspect and reputation.
+* **Fearsome:** The cohort is terrifying in aspect and reputation.
 * **Independent:** The cohort can be trusted to make good decisions and act on their own initiative in the absence of direct orders.
 * **Loyal:** The cohort can’t be bribed or turned against you.
 * **Tenacious:** The cohort won’t be deterred from a task.
@@ -1330,12 +1330,11 @@ When you send a cohort to achieve a goal, roll their **quality** to see how it g
 ## Cohort harm &amp; Healing
 
 Cohorts suffer harm similarly to PCs. A cohort can suffer four levels of harm:
-<ol>
-	<li>**Weakened.** The cohort has reduced effect.
-	<li>**Impaired.** The cohort operates with reduced quality (-1d).
-	<li>**Broken.** The cohort can’t do anything until they recover.
-	<li>**Dead.** The cohort is destroyed.
-</ol>
+
+* **Weakened.** The cohort has reduced effect.
+* **Impaired.** The cohort operates with reduced quality (-1d).
+* **Broken.** The cohort can’t do anything until they recover.
+* **Dead.** The cohort is destroyed.
 
 All of your cohorts heal during downtime. If circumstances are amenable for recovery, each cohort removes one level of harm (or two levels of harm instead, if a PC spends a downtime activity helping them recuperate).
 
@@ -1414,7 +1413,7 @@ A list of five upgrades specific to the crew. Some examples:
 
 <span class="game-term ">City Records:</span> You get </span>**+1d** to the **engagement roll** for **stealth** plans. _You can use blueprints and other documents to determine a good approach for infiltrations._
 
-<span class="game-term">Cover Identities: </span> You get **+1d** to the **engagement roll** for **deception** and **social plans. _False identities help confuse the opposition._
+<span class="game-term">Cover Identities: </span> You get **+1d** to the **engagement roll** for **deception** and **social plans**. _False identities help confuse the opposition._
 
 <span class="game-term">Cover Operation: </span> You get **-2** <span class="game-term">heat</span> per score. _The cover of a legitimate operation helps deflect some of the heat from law enforcement._
 
@@ -1522,13 +1521,13 @@ You gain **+1d** to **resistance** rolls against supernatural threats. You get *
 
 ### Accord
 
-Sometimes friends are as good as territory. You may treat up to three **+3 faction** statuses** you hold as if they are **turf**.
+Sometimes friends are as good as territory. You may treat up to three **+3 faction statuses** you hold as if they are **turf**.
 
 > If your status changes, you lose the turf until it becomes +3 again. Regardless of how much turf you hold (from this ability or otherwise) the minimum <span class="game-term">rep</span> cost to advance your Tier is always 6.
 
 ### High society
 
-It’s all about who you know. Take **-1 **<span class="game-term">heat</span>** **during downtime and **+1d** to **gather information** about the city’s elite.
+It’s all about who you know. Take **-1 <span class="game-term">heat</span>** during downtime and **+1d** to **gather information** about the city’s elite.
 
 ### Pack rats
 
@@ -1552,7 +1551,7 @@ During **downtime**, one of your **cohorts** may perform a downtime activity for
 
 ### Just passing through
 
-During **downtime**, take **-1 **<span class="game-term">heat</span>. When your <span class="game-term">heat</span> is 4 or less, you get **+1d** to deceive people when you pass yourselves off as ordinary citizens.
+During **downtime**, take **-1 <span class="game-term">heat</span>**. When your <span class="game-term">heat</span> is 4 or less, you get **+1d** to deceive people when you pass yourselves off as ordinary citizens.
 
 # The Score
 
@@ -1600,7 +1599,7 @@ The engagement roll is a **fortune roll**, starting with **1d for sheer luck**. 
 
 * Is this operation particularly bold or daring? Take **+1d**. Is this operation overly complex or contingent on many factors? Take **-1d**.
 * Does the **plan’s detail** expose a vulnerability of the target or hit them where they’re weakest? Take **+1d**. Is the target strongest against this approach, or do they have particular defenses or special preparations? Take **-1d**.
-* Can any of your **friends or contacts **provide aid or insight for this operation? Take **+1d**. Are any **enemies or rivals** interfering in the operation? Take **-1d**.
+* Can any of your **friends or contacts** provide aid or insight for this operation? Take **+1d**. Are any **enemies or rivals** interfering in the operation? Take **-1d**.
 * Are there any **other elements** that you want to consider? Maybe a lower-Tier target will give you +1d.  Maybe a higher-Tier target will give you -1d. Maybe there’s a situation in the district that makes the operation more or less tricky.
 
 The engagement roll assumes that the PCs are approaching the target as intelligently as they can, given the plan and detail they provided, so we don’t need to play out tentative probing maneuvers, special precautions, or other ponderous non-action. The engagement roll covers all of that. The PCs are already in action, facing the first obstacle—up on the rooftop, picking the lock on the window; kicking down the door of the rival gang’s lair; maneuvering to speak with a Lord at the masquerade party; etc.
@@ -1633,10 +1632,9 @@ The engagement roll determines the starting position for the PCs’ actions. How
 
 Sometimes an operation seems to call for a couple of plans linked together. A common scenario is a team that wants a two-pronged approach. “You create a diversion at the tavern, and when they send thugs over there, we’ll break into their lair.” There are two ways to handle this.
 
-<ol>
-	<li>The diversion is a **setup maneuver** that a team member performs as part of the plan. A successful setup maneuver can improve **position** for teammates (possibly offsetting a bad engagement roll) or give increased effect.  An unsuccessful setup maneuver might cause trouble for the second part of the plan—an easy consequence is to give the engagement roll -1d. _If it makes sense, the team member who performed the setup can drift back into the main operation and join the team later so they don’t have to sit out and wait._
-	<li>The diversion is its own plan, engagement, and operation, whose outcome creates the opportunity for a future plan. Use this option when the first part of the plan is required for the next part to happen at all. For example, you might execute a stealth plan to steal an artifact from the Museum of the Ancients, then later use that artifact in an occult plan to consecrate a temple for your forgotten god. In this case, you go into downtime (and payoff, <span class="game-term">heat</span>, etc.) after the first part of the plan, as normal.
-</ol>
+
+1. The diversion is a **setup maneuver** that a team member performs as part of the plan. A successful setup maneuver can improve **position** for teammates (possibly offsetting a bad engagement roll) or give increased effect.  An unsuccessful setup maneuver might cause trouble for the second part of the plan—an easy consequence is to give the engagement roll -1d. _If it makes sense, the team member who performed the setup can drift back into the main operation and join the team later so they don’t have to sit out and wait._
+1. The diversion is its own plan, engagement, and operation, whose outcome creates the opportunity for a future plan. Use this option when the first part of the plan is required for the next part to happen at all. For example, you might execute a stealth plan to steal an artifact from the Museum of the Ancients, then later use that artifact in an occult plan to consecrate a temple for your forgotten god. In this case, you go into downtime (and payoff, <span class="game-term">heat</span>, etc.) after the first part of the plan, as normal.
 
 Either approach is fine. It’s usually a question of interest. Is the linked plan idea interesting enough on its own to play out moment by moment? Is it required for the second plan to make sense? If so, make it a separate operation. If not, just use a setup maneuver.
 
@@ -1858,7 +1856,7 @@ Political pressures of various sorts can be applied to the magistrates and warde
 
 ### Smuggling
 
-You arrange smuggling channels inside. You have **+**2 load** while incarcerated, (starting from zero as a prisoner). If you take this claim twice, you’ll have 4 load while you’re serving time in Ironhook. Also, you may choose to carry <span class="game-term">coin</span> in place of load for purposes of bribes or acquiring assets while in prison. You may reset the items in your prison loadout whenever your crew has downtime.
+You arrange smuggling channels inside. You have **+2 load** while incarcerated, (starting from zero as a prisoner). If you take this claim twice, you’ll have 4 load while you’re serving time in Ironhook. Also, you may choose to carry <span class="game-term">coin</span> in place of load for purposes of bribes or acquiring assets while in prison. You may reset the items in your prison loadout whenever your crew has downtime.
 
 # Entanglements
 
@@ -1914,7 +1912,7 @@ An enemy faction makes a move against you (or a friend, contact, or vice purveyo
 
 ### Rivals
 
-A neutral faction throws their weight around. They threaten you, a friend, a contact, or one of your vice purveyors. Forfeit (1 <span class="game-term">rep</span> or 1 <span class="game-term">coin</span>) per Tier of the rival, or stand up to them and lose** 1 status**<span class="game-term"> </span>with them.
+A neutral faction throws their weight around. They threaten you, a friend, a contact, or one of your vice purveyors. Forfeit (1 <span class="game-term">rep</span> or 1 <span class="game-term">coin</span>) per Tier of the rival, or stand up to them and lose **1 status**<span class="game-term"> </span>with them.
 
 ### Show of force
 
@@ -2012,7 +2010,7 @@ Reduce <span class="game-term">heat</span> according to the result: <span class=
 
 ### Train
 
-When you spend time in training,** mark 1 xp** on the xp track for an **attribute** or **playbook **advancement. If you have the appropriate crew Training upgrade unlocked, mark **+1**<span class="game-term"> </span>**xp** (2 total). See **Crew Upgrades**, page <a>65</a>. _You can train a given xp track only once per downtime._
+When you spend time in training, **mark 1 xp** on the xp track for an **attribute** or **playbook** advancement. If you have the appropriate crew Training upgrade unlocked, mark **+1 <span class="game-term"> </span>xp** (2 total). See **Crew Upgrades**, page <a>65</a>. _You can train a given xp track only once per downtime._
 
 ### Indulge vice
 
@@ -2092,7 +2090,7 @@ You can add levels of magnitude together to describe a combination of effects, o
 
 The magnitude table is provided as a tool to help the GM make judgment calls. It’s not meant to be a rigid restriction or mathematical formula to replace those judgment calls. Use the levels as a _guideline_ for setting a magnitude number that seem appropriate to you.
 
-This table can also be used as a guide to **quality level** when a PC **acquires an asset **or crafts an **alchemical** or **gadget**.
+This table can also be used as a guide to **quality level** when a PC **acquires an asset** or crafts an **alchemical** or **gadget**.
 
 @TODO add tables from 105
 
@@ -2109,11 +2107,10 @@ A PC with the <span class="game-term">Ritual</span> special ability begins with 
 Once the source of a ritual is found, you may undertake a long-term project to learn the ritual. Most rituals will require an 8-segment progress clock to learn. The player and the GM answer questions about the ritual to define what it will do in play and what is required to perform it (see below). The player records these answers in their notes for future reference.
 
 ### Ritual Questions
-<ol>
-	<li>GM asks: **“What does the ritual do and how is it weird?”** Player answers.
-	<li>Player asks: **“What must I do to perform the ritual, and what is its price?” **GM answers. A ritual takes at least one downtime activity to perform and inflicts **stress** on the caster according to its **magnitude**.  If performance of the ritual is dangerous or troublesome in some way, it requires an action roll (usually <span class="game-term">Attune</span>). A ritual may also have additional costs, such as a sacrifice, rare item, the start of a dire progress clock, etc.
-	<li>GM asks: **“What new belief or fear does knowledge of this ritual and its attendant occult forces instill in you?”** Player answers.
-</ol>
+
+1. GM asks: **“What does the ritual do and how is it weird?”** Player answers.
+1. Player asks: **“What must I do to perform the ritual, and what is its price?”** GM answers. A ritual takes at least one downtime activity to perform and inflicts **stress** on the caster according to its **magnitude**.  If performance of the ritual is dangerous or troublesome in some way, it requires an action roll (usually <span class="game-term">Attune</span>). A ritual may also have additional costs, such as a sacrifice, rare item, the start of a dire progress clock, etc.
+1. GM asks: **“What new belief or fear does knowledge of this ritual and its attendant occult forces instill in you?”** Player answers.
 
 ### Example Ritual Answers
 
@@ -2139,19 +2136,18 @@ Each performance of a ritual is a unique event, and may not always work the same
 
 # Crafting
 
-During downtime, a PC can <span class="game-term">Tinker</span> with special materials and tools to produce strange** alchemicals**, **build** (or **modify) items**,** **create **spark-craft** gadgets, or enchant **arcane** implements or weapons. The system for each method is similar, with different details depending on the nature of the project.
+During downtime, a PC can <span class="game-term">Tinker</span> with special materials and tools to produce strange **alchemicals**, **build** (or **modify**) **items**, **create spark-craft** gadgets, or enchant **arcane** implements or weapons. The system for each method is similar, with different details depending on the nature of the project.
 
 ## Inventing
 
 To invent a formula for a new alchemical concoction or the plan for a new item of your design, you need to <span class="game-term">Study</span> it as a **long-term project**. Most new formulas or designs will require an 8-segment progress clock to invent and learn. The player and the GM answer questions about the invention to define what it will do in play and what is required to create it (see below). The player records these answers in their notes for future reference.
 
 ### Creation Questions
-<ol>
-	<li>GM asks: **“What type of creation is it and what does it do?”** Player answers. A creation might be mundane, alchemical, arcane, or spark-craft. If a PC has an appropriate special ability (<span class="game-term">Alchemist</span><span class="game-term CharOverride-15">, </span><span class="game-term">Artificer</span><span class="game-term CharOverride-15">, </span><span class="game-term">Strange Methods</span>), they get bonuses when inventing and crafting certain creation types.
-	<li>Player asks: **“What’s the minimum quality level of this item?”** GM answers, with the **magnitude** of the effects the item produces as a guideline.
-	<li>GM asks: **“What rare, strange, or adverse aspect of this formula or design has kept it in obscurity, out of common usage?**” Player answers.
-	<li>Player asks: **“What drawbacks does this item have, if any?”** GM answers by choosing one or more from the drawbacks list, or by saying there are none.
-</ol>
+
+1. GM asks: **“What type of creation is it and what does it do?”** Player answers. A creation might be mundane, alchemical, arcane, or spark-craft. If a PC has an appropriate special ability (<span class="game-term">Alchemist</span><span class="game-term CharOverride-15">, </span><span class="game-term">Artificer</span><span class="game-term CharOverride-15">, </span><span class="game-term">Strange Methods</span>), they get bonuses when inventing and crafting certain creation types.
+1. Player asks: **“What’s the minimum quality level of this item?”** GM answers, with the **magnitude** of the effects the item produces as a guideline.
+1. GM asks: **“What rare, strange, or adverse aspect of this formula or design has kept it in obscurity, out of common usage?**” Player answers.
+1. Player asks: **“What drawbacks does this item have, if any?”** GM answers by choosing one or more from the drawbacks list, or by saying there are none.
 
 A PC with the <span class="game-term">Alchemist</span>, <span class="game-term">Artificer</span>, or <span class="game-term">Strange Methods</span> special abilities invents and learns one special formula when they take the ability (they don’t have to take time to learn it).
 
