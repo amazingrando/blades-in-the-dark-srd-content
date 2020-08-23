@@ -602,7 +602,7 @@ Once you decide to resist a consequence and roll, you suffer the stress indicate
 
 You **reduce** or **avoid** the effects of the consequence (GM chooses).
 
-**Suffer 6 <span class="game-term">Stress minus the highest die result.**
+**Suffer 6 <span class="game-term">Stress</span> minus the highest die result.**
 
 <span class="game-term">Critical</span>: Clear 1 stress.
 
@@ -741,7 +741,7 @@ The few bits PCs use in their daily lives are not tracked. If a character wants 
 * <span class="game-term">8 coin</span>: A good monthly take for a small business. A small safe full of coins and valuables. A very rare luxury commodity.
 * <span class="game-term">10 coin</span>: Liquidating a significant asset—a carriage and goats, a horse, a deed to a small property.
 
-More than 4<span class="game-term">coin</span> is an impractical amount to keep lying around. You must spend the excess or put it in your **stash** (see below). A crew can also store 4<span class="game-term CharOverride-5"></span> <span class="game-term">coin</span> in their lair, by default. If they upgrade to a **vault**, they can expand their stores to <span class="game-term CharOverride-15">8</span> and then 16 <span class="game-term">coin</span>. Any <span class="game-term">coin</span> beyond their limit must be spent as soon as possible (typically before the next score) or distributed among the crew members.
+More than 4<span class="game-term">coin</span> is an impractical amount to keep lying around. You must spend the excess or put it in your **stash** (see below). A crew can also store 4 <span class="game-term">coin</span> in their lair, by default. If they upgrade to a **vault**, they can expand their stores to **8** and then **16** <span class="game-term">coin</span>. Any <span class="game-term">coin</span> beyond their limit must be spent as soon as possible (typically before the next score) or distributed among the crew members.
 
 One unit of <span class="game-term">coin</span> in silver pieces or other bulk currency takes up one item slot for your **load** when carried.
 
@@ -1055,7 +1055,7 @@ _If you want some guidance when you assign your four starting action dots and sp
 
 ## Friends, rivals
 
-A list of five possible friends or rivals go here, along with descriptions of each. Some possibilities include: A spy, a bounty hunter, a pugilist, a cold killer, an extortionist, a physicker, an assassin, a sentinel, an apothecary, a priestess, a noble, a city clerk, an officer, an inspector, a beggar, a locksmith, a gang leader, a drug dealer, a tavern owner, a prostitue, a jail-bird, an information broker, a servant, an archivist, or a supernatural entity.
+A list of five possible friends or rivals go here, along with descriptions of each. Some possibilities include: A spy, a bounty hunter, a pugilist, a cold killer, an extortionist, a physicker, an assassin, a sentinel, an apothecary, a priestess, a noble, a city clerk, an officer, an inspector, a beggar, a locksmith, a gang leader, a drug dealer, a tavern owner, a prostitute, a jail-bird, an information broker, a servant, an archivist, or a supernatural entity.
 
 Questions can include how you know the friend, what they’ve done for you,  what you do for them, and what kind of relationship you have.
 
@@ -1416,8 +1416,7 @@ At your option, these factions are even more concerned with this contact and so 
 
 * <span class="game-term">Secure Lair</span>: Your lair has locks, alarms, and traps to thwart intruders. A second upgrade improves the defenses to include arcane measures that work against spirits. _You might roll your crew’s Tier if these measures are ever put to the test, to see how well they thwart an intruder._
 
-* <span class="game-term">Training</span>: If you have a Training upgrade, you earn 2 xp (instead of 1) when you train a given xp track during downtime (<span class="game-term">Insight</span>, <span class="game-term">Prowess</span>, <span class="game-term">Resolve</span>, or Playbook xp). This upgrade essentially helps you advance more quickly. See **Advancement**, page 40.
-_If you have Insight Training, when you train Insight during downtime, you mark 2 xp on the <span class="game-term">Insight</span> track (instead of just 1). If you have Playbook Training, you mark 2 xp on your playbook xp track when you train._
+* <span class="game-term">Training</span>: If you have a Training upgrade, you earn 2 xp (instead of 1) when you train a given xp track during downtime (<span class="game-term">Insight</span>, <span class="game-term">Prowess</span>, <span class="game-term">Resolve</span>, or Playbook xp). This upgrade essentially helps you advance more quickly. See **Advancement**, page 40.  _If you have Insight Training, when you train Insight during downtime, you mark 2 xp on the <span class="game-term">Insight</span> track (instead of just 1). If you have Playbook Training, you mark 2 xp on your playbook xp track when you train._
 
 * <span class="game-term">Vault</span>: Your lair has a secure vault, increasing your storage capacity for <span class="game-term">coin</span> to 8. A second upgrade increases your capacity to 16.  A separate part of your vault can be used as a holding cell.
 
@@ -1563,7 +1562,7 @@ Sample claims include:
 
 <span class="game-term">Turf</span>: You require one less Rep to advance in tier (max 6)</span>.
 
-<span class="game-term ">City Records</span>: You get</span> **+1d** to the **engagement roll** for **stealth** plans. _You can use blueprints and other documents to determine a good approach for infiltrations._
+<span class="game-term">City Records</span>: You get</span> **+1d** to the **engagement roll** for **stealth** plans. _You can use blueprints and other documents to determine a good approach for infiltrations._
 
 <span class="game-term">Cover Identities</span>:  You get **+1d** to the **engagement roll** for **deception** and **social plans**. _False identities help confuse the opposition._
 
@@ -2168,7 +2167,7 @@ Gain temporary use of an **asset**:
 
 “Temporary use” constitutes one significant period of usage that makes sense for the asset—typically the duration of one score. An asset may also be acquired for “standby” use in the future. You might hire a gang to guard your lair, for example, and they’ll stick around until after the first serious battle, or until a week goes by and they lose interest.
 
-To acquire the asset, roll the crew’s Tier<span class="game-term CharOverride-15"></span>. The result indicates the **quality** of the asset you get, using the crew’s Tier as the base. <span class="game-term">1-3</span>: Tier -1, <span class="game-term">4/5</span>: Tier, <span class="game-term">6</span>: Tier +1, <span class="game-term">critical</span>: Tier +2. You can spend <span class="game-term">coin</span> to raise the result of this roll beyond <span class="game-term">critical</span> by spending **2** <span class="game-term">coin</span> per additional Tier level added.
+To acquire the asset, roll the crew’s Tier. The result indicates the **quality** of the asset you get, using the crew’s Tier as the base. <span class="game-term">1-3</span>: Tier -1, <span class="game-term">4/5</span>: Tier, <span class="game-term">6</span>: Tier +1, <span class="game-term">critical</span>: Tier +2. You can spend <span class="game-term">coin</span> to raise the result of this roll beyond <span class="game-term">critical</span> by spending **2** <span class="game-term">coin</span> per additional Tier level added.
 
 The GM may set a **minimum quality** level that must be achieved to acquire a particular asset. For example, if you want to get a set of Warden uniforms and masks, you’d need to acquire a Tier IV asset. A lower result won’t do.
 
@@ -2467,7 +2466,7 @@ To invent a formula for a new alchemical concoction or the plan for a new item o
 
 ### Creation Questions
 
-1. GM asks: **“What type of creation is it and what does it do?”** Player answers. A creation might be mundane, alchemical, arcane, or spark-craft. If a PC has an appropriate special ability (<span class="game-term">Alchemist</span><span class="game-term CharOverride-15">,</span> <span class="game-term">Artificer</span><span class="game-term CharOverride-15">,</span> <span class="game-term">Strange Methods</span>), they get bonuses when inventing and crafting certain creation types.
+1. GM asks: **“What type of creation is it and what does it do?”** Player answers. A creation might be mundane, alchemical, arcane, or spark-craft. If a PC has an appropriate special ability (<span class="game-term">Alchemist</span>, <span class="game-term">Artificer</span>, <span class="game-term">Strange Methods</span>), they get bonuses when inventing and crafting certain creation types.
 1. Player asks: **“What’s the minimum quality level of this item?”** GM answers, with the **magnitude** of the effects the item produces as a guideline.
 1. GM asks: **“What rare, strange, or adverse aspect of this formula or design has kept it in obscurity, out of common usage?**” Player answers.
 1. Player asks: **“What drawbacks does this item have, if any?”** GM answers by choosing one or more from the drawbacks list, or by saying there are none.
