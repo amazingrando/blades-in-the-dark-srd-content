@@ -46,9 +46,9 @@ When you play, you’ll make several key judgment calls. Everyone contributes, b
 
 _Blades in the Dark_ uses six-sided dice. You roll several at once and read the **single highest result**.
 
-* If the highest die is a **6**, it’s a **full success**—things go well. If you roll more than one **6**, it’s a **critical success**—you gain some additional advantage.
+* If the highest die is a <span class="game-term">6</span>, it’s a **full success**—things go well. If you roll more than one <span class="game-term">6</span>, it’s a **critical success**—you gain some additional advantage.
 * If the highest die is a **4 or 5**, that’s a **partial success**—you do what you were trying to do, but there are consequences: trouble, harm, reduced effect, etc.
-* If the highest die is **1-3**, it’s a **bad outcome**. Things go poorly. You probably don’t achieve your goal and you suffer complications, too.
+* If the highest die is <span class="game-term">1-3</span>, it’s a **bad outcome**. Things go poorly. You probably don’t achieve your goal and you suffer complications, too.
 
 _If you ever need to roll but you have zero (or negative) dice, roll two dice and take the single lowest result. You can’t roll a **critical** when you have zero dice._
 
@@ -58,10 +58,10 @@ To create a dice pool for a roll, you’ll use a **trait** (like your <span clas
 
 There are four types of rolls that you’ll use most often in the game:
 
-* <span class="game-term">Action roll. </span>When a PC attempts an action that’s dangerous or troublesome, you make an action roll to find out how it goes. Action rolls and their effects and consequences drive most of the game.
-* <span class="game-term">Downtime roll. </span>When the PCs are at their leisure after a job, they can perform downtime activities in relative safety. You make downtime rolls to see how much they get done.
-* <span class="game-term">Fortune roll. </span>The GM can make a fortune roll to disclaim decision making and leave something up to chance. _How loyal is an NPC? How much does the plague spread? How much evidence is burned before the constables kick in the door?_
-* <span class="game-term">Resistance roll. </span>A player can make a resistance roll when their character suffers a consequence they don’t like. The roll tells us how much stress their character suffers to reduce the severity of a consequence. _When you resist that “Broken Leg” harm, you take some stress and now it’s only a “Sprained Ankle” instead._
+* <span class="game-term">Action roll</span>. When a PC attempts an action that’s dangerous or troublesome, you make an action roll to find out how it goes. Action rolls and their effects and consequences drive most of the game.
+* <span class="game-term">Downtime roll</span>. When the PCs are at their leisure after a job, they can perform downtime activities in relative safety. You make downtime rolls to see how much they get done.
+* <span class="game-term">Fortune roll</span>. The GM can make a fortune roll to disclaim decision making and leave something up to chance. _How loyal is an NPC? How much does the plague spread? How much evidence is burned before the constables kick in the door?_
+* <span class="game-term">Resistance roll</span>. A player can make a resistance roll when their character suffers a consequence they don’t like. The roll tells us how much stress their character suffers to reduce the severity of a consequence. _When you resist that “Broken Leg” harm, you take some stress and now it’s only a “Sprained Ankle” instead._
 
 ## The Game Structure
 
@@ -120,7 +120,42 @@ The GM judges the threat level of the enemies and uses these “preemptive” re
 
 For details on **Resistance Rolls**, see page 28.
 
-@TODO Add table from page 9.
+----------
+
+### EXAMPLE ACTION &amp; ATTRIBUTE RATINGS
+
+#### <span class="game-term">Insight</span>
+
+| []()     | |          |          |          |        |
+| :--:     |-|   :--:   |  :--:    |  :--:    | :--    |
+| &#x25CF; | | &#x25CB; | &#x25CB; | &#x25CB; | <span class="game-term">Hunt</span> |
+| &#x25CB; | | &#x25CB; | &#x25CB; | &#x25CB; | <span class="game-term">Study</span> |
+| &#x25CB; | | &#x25CB; | &#x25CB; | &#x25CB; | <span class="game-term">Survey</span> |
+| &#x25CB; | | &#x25CB; | &#x25CB; | &#x25CB; | <span class="game-term">Tinker</span> |
+
+This character has a <span class="game-term">Hunt</span> action rating of 1.  Their <span class="game-term">Insight</span> attribute rating is 1 (the first column of dots).
+
+#### <span class="game-term">Prowess</span>
+
+| []()     | |          |          |          |          |
+| :--:     |-|   :--:   |  :--:    |  :--:    | :--      |
+| &#x25CB; | | &#x25CB; | &#x25CB; | &#x25CB; | <span class="game-term">Finesse</span> |
+| &#x25CF; | | &#x25CB; | &#x25CB; | &#x25CB; | <span class="game-term">Prowl</span> |
+| &#x25CF; | | &#x25CF; | &#x25CB; | &#x25CB; | <span class="game-term">Skirmish</span> |
+| &#x25CB; | | &#x25CB; | &#x25CB; | &#x25CB; | <span class="game-term">Wreck</span> |
+
+They also have <span class="game-term">Prowl</span> 1 and <span class="game-term">Skirmish</span> 2.  Their <span class="game-term">Prowess</span> attribute rating is 2.
+
+#### <span class="game-term">Resolve</span>
+
+| []()     | |          |          |          |         |
+| :--:     |-|   :--:   |  :--:    |  :--:    | :--     |   
+| &#x25CF; | | &#x25CF; | &#x25CB; | &#x25CB; | <span class="game-term">Attune</span> |
+| &#x25CF; | | &#x25CB; | &#x25CB; | &#x25CB; | <span class="game-term">Command</span> |
+| &#x25CB; | | &#x25CB; | &#x25CB; | &#x25CB; | <span class="game-term">Consort</span> |
+| &#x25CF; | | &#x25CB; | &#x25CB; | &#x25CB; | <span class="game-term">Sway</span> |
+
+----------
 
 ## Actions
 
@@ -174,7 +209,7 @@ _You might smash down a door or wall with a sledgehammer, or use an explosive to
 
 As you can see, many actions overlap with others. This is by design. As a player, you get to choose which action you roll, by saying what your character does. Can you try to <span class="game-term">Wreck</span> someone during a fight? Sure! The GM tells you the position and effect level of your action in this circumstance. As it says, <span class="game-term">Skirmish</span> _might_ be better (less risky or more effective), depending on the situation at hand (sometimes it won’t be better).
 
-# Stress & Trauma
+# Stress &amp; Trauma
 
 ## Stress
 
@@ -352,17 +387,63 @@ When you narrate the action after the roll, the GM and player collaborate togeth
 * Add up to two bonus dice. 1) **Assistance** from a teammate. 2) **Push yourself** (take 2 stress) or accept a **Devil’s Bargain**.
 * Roll the dice pool and judge the outcome. The players and GM narrate the action together. The GM has final say over what happens and inflicts consequences as called for by the position and the result of the roll.
 
+----------
+
+### ACTION ROLL
+
+&#x23E3; &nbsp; **1d** for each **Action** rating dot.
+
+&#x2295; &nbsp; **+1d** if you have **Assistance**.
+
+&#x2295; &nbsp; **+1d** if you **Push** yourself -or- you accept a **Devil’s Bargain**.
+
+#### CONTROLLED
+
+*You act on your terms. You exploit a dominant advantage.*
+
+* <span class="game-term">Critical</span>: You do it with **increased effect**.
+* <span class="game-term">6</span>: You do it.
+* <span class="game-term">4/5</span>: You hesitate.
+    - Withdraw and try a different approach, or
+    - else do it with a minor consequence: a **minor complication** occurs, you have **reduced effect**, you suffer **lesser harm**, you end up in a **risky** position.
+* <span class="game-term">1-3</span>: You falter.
+    - Press on by seizing a **risky** opportunity, or
+    - withdraw and try a different approach.
+
+#### RISKY
+
+*You go head to head. You act under fire. You take a chance.*
+
+* <span class="game-term">Critical</span>: You do it with **increased effect**.
+* <span class="game-term">6</span>: You do it.
+* <span class="game-term">4/5</span>: You do it, but there’s a consequence: you suffer **harm**, a **complication** occurs, you have **reduced effect**, you end up in a **desperate** position.
+* <span class="game-term">1-3</span>: Things go badly. You suffer **harm**, a **complication** occurs, you end up in a **desperate** position, you **lose this opportunity**.
+
+#### DESPERATE
+
+*You overreach your capabilities. You’re in serious trouble.*
+
+* <span class="game-term">Critical</span>: You do it with **increased effect**.
+* <span class="game-term">6</span>: You do it.
+* <span class="game-term">4/5</span>: You do it, but there’s a consequence: you suffer **severe harm**, a **serious complication** occurs, you have **reduced effect**.
+* <span class="game-term">1-3</span>: It’s the worst outcome. You suffer **severe harm**, a **serious complication** occurs, you **lose this opportunity** for action.
+
+----------
+
+
 ## Double-duty Rolls
 
 Since NPCs don’t roll for their actions, an action roll does double-duty: **it resolves the action of the PC as well as any NPCs that are involved**. The single roll tells us how those actions interact and which consequences result. On a <span class="game-term">6</span>, the PC wins and has their effect. On a <span class="game-term">4/5</span>, it’s a mix—both the PC and the NPC have their effect. On a <span class="game-term">1-3</span>, the NPC wins and has their effect as a consequence on the PC.
-
-@TODO add Action Roll table p21
 
 # Effect
 
 In _Blades in the Dark_, you achieve goals by taking actions and facing consequences. But how many actions does it take to achieve a particular goal? That depends on the **effect level** of your actions. The GM judges the effect level using the profiles below. Which one best matches the action at hand&#173;&#173;—**great**, **standard**, or **limited**? Each effect level indicates the questions that should be answered for that effect, as well as how many segments to tick if you’re using a **progress clock**.
 
-@TODO add fancy effect levels p23.
+| Effect Levels  |     | Ticks | 
+| --:          | :-- | :-:       |
+| **GREAT**    | *You achieve more than usual. How does the extra effort manifest? What additional benefit do you enjoy?*         | 3 |
+| **STANDARD** | *You achieve what we’d expect as “normal” with this action. Is that enough, or is there more left to do?*        | 2 |
+| **LIMITED**  | *You achieve a partial or weak effect. How is your impact diminished? What effort remains to achieve your goal?* | 1 |
 
 ## Assessing Factors
 
@@ -376,7 +457,7 @@ The potency factor considers particular weaknesses, taking extra time or a bigge
 
 Quality represents the effectiveness of tools, weapons, or other resources, usually summarized by Tier. **Fine items** count as +1 bonus in quality, stacking with Tier.
 
-_Thorn is picking the lock to a safehouse run of a gang reknowned for Occult dealings. Her crew is Tier I and she has fine lockpicks—so she’s effectively Tier II. The Occult gang is Tier III. Thorn is outclassed in quality, so her effect will be limited on the lock._
+_Thorn is picking the lock to a safehouse run of a gang renowned for Occult dealings. Her crew is Tier I and she has fine lock picks---so she’s effectively Tier II. The Occult gang is Tier III. Thorn is outclassed in quality, so her effect will be limited on the lock._
 
 ### Scale
 
@@ -457,18 +538,29 @@ Your character suffers the penalty indicated at the end of the row if any or all
 
 If you need to mark a harm level, but the row is already filled, the harm moves up to the next row above. So, if you suffered standard harm (level 2) but had no empty spaces in the second row, you’d have to record severe harm (level 3), instead. If you run out of spaces on the top row and need to mark harm there, your character suffers a **catastrophic, permanent consequence** (loss of a limb, sudden death, etc., depending on the circumstances).
 
-@TODO Table from p27
+----------
 
+#### HARM
+
+| []() |  |  |
+| :-: | :-- | :--: |
+| 3 | _Shattered Right Leg_ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Need Help |
+| 2 | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; \| | -1D |
+| 1 | _Drained_ &nbsp; \| &nbsp; _Battered_ | Reduced Effect |
+
+_This character has three harm: a “Shattered Right Leg” (level 3) plus “Drained” and “Battered” (level 1). If they suffer another level 1 harm, it will move up to level 2. If they suffer another level 3 harm, it will move up to level 4: Fatal._
+
+----------
 
 ### Harm examples
 
-**Fatal (4):** _Electrocuted, Drowned, Stabbed in the Heart._
+**Fatal (4)**: _Electrocuted, Drowned, Stabbed in the Heart._
 
-**Severe (3):** _Impaled, Broken Leg, Shot in Chest, Badly Burned, Terrified._
+**Severe (3)**: _Impaled, Broken Leg, Shot in Chest, Badly Burned, Terrified._
 
-**Moderate (2):** _Exhausted, Deep Cut to Arm, Concussion, Panicked, Seduced._
+**Moderate (2)**: _Exhausted, Deep Cut to Arm, Concussion, Panicked, Seduced._
 
-**Lesser (1):** _Battered, Drained, Distracted, Scared, Confused._
+**Lesser (1)**: _Battered, Drained, Distracted, Scared, Confused._
 
 Harm like “Drained” or “Exhausted” can be a good fallback consequence if there’s nothing else threatening a PC (like when they spend all night <span class="game-term">Studying</span> those old books, looking for any clues to their enemy’s weaknesses before he strikes).
 
@@ -502,7 +594,19 @@ The GM may also threaten several consequences at once, then the player may choos
 
 Once you decide to resist a consequence and roll, you suffer the stress indicated. You can’t roll first and see how much stress you’ll take, then decide whether or not to resist.
 
-@TODO add table p29
+----------
+
+### RESISTANCE ROLL
+
+&#x23E3; &nbsp; **1d** for each **Attribute** rating.
+
+You **reduce** or **avoid** the effects of the consequence (GM chooses).
+
+**Suffer 6 <span class="game-term">Stress</span> minus the highest die result.**
+
+<span class="game-term">Critical</span>: Clear 1 stress.
+
+----------
 
 ## Armor
 
@@ -529,7 +633,7 @@ The fortune roll is a tool the GM can use to disclaim decision making. You use a
 
 **When you need to make a determination about a situation the PCs aren’t directly involved in** and don’t want to simply decide the outcome.
 
-> Two rival gands are fighting. How does that turn out? The GM makes a fortune roll for each of them. One gets a good result but the other gets limited effect. The GM decides that the first gang takes over some of their rivals’ turf but suffer some injuries during the skirmish.
+> Two rival gangs are fighting. How does that turn out? The GM makes a fortune roll for each of them. One gets a good result but the other gets limited effect. The GM decides that the first gang takes over some of their rivals’ turf but suffer some injuries during the skirmish.
 
 **When an outcome is uncertain**, but no other roll applies to the situation at hand.
 
@@ -554,7 +658,22 @@ Other examples of fortune rolls:
 * Inspectors are putting a case together against the PC crew. How quickly will their evidence result in arrests? The crew’s <span class="game-term">wanted level</span> counts as a major advantage for the inspectors.
 * The PCs face off in a skirmish with a veteran demon hunter captain and her crew. The tide of battle goes in the PCs’ favor, and many crew members are killed. One of the players asks if the captain will surrender to spare the rest of her crew’s lives. The GM isn’t sure. How cold-hearted is this veteran hunter? She’s stared giant demons in the eye without flinching... is there anything human left inside her? The GM makes a 2d fortune roll for “human feelings” to see if a spark of compassion remains in heart. If so, maybe one of the PCs can roll to <span class="game-term">Consort</span>, <span class="game-term">Sway</span>, or <span class="game-term">Command</span> her to stand down.
 
-@TODO table p31
+----------
+
+### FORTUNE ROLL
+
+&#x23E3; &nbsp; *1d* for each **Trait** rating.
+
+&#x2295; &nbsp; *+1d* for each **Major Advantage**.
+
+&#x2296; &nbsp; *-1d* for each **Major Disadvantage**.
+
+* <span class="game-term">Critical</span>: Exceptional result / Great, extreme effect.
+* <span class="game-term">6</span>: Good result / Standard,  full effect.
+* <span class="game-term">4/5</span>: Mixed result / Limited, partial  effect.
+* <span class="game-term">1-3</span>: Bad result / Poor, little effect.
+
+----------
 
 # Gathering Information
 
@@ -591,7 +710,19 @@ You track the investigation project using a progress clock. Once the clock is fi
 * You might <span class="game-term">Sway</span> a powerful lord at a party so he divulges his future plans. _What does he intend to do? How can I get him to think I might be a good partner in this venture?_
 * Or you might <span class="game-term">Sway</span> his bodyguard to confide in you about recent events. _Where has he been lately? Who’s he been meeting with?_
 
-@TODO table p33
+----------
+
+### GATHER INFORMATION
+
+*Ask a question and make an action roll or a fortune roll. The GM answers you honestly, with a level of detail depending on the effect level.*
+
+**Great**: You get exceptional details. The information is complete and follow-up questions may expand into related areas or reveal more than you hoped for.
+
+**Standard**: You get good details. Clarifying and follow-up questions are possible.
+
+**Limited**: You get incomplete or partial information. More information gathering will be needed to get all the answers.
+
+----------
 
 # Coin and Stash
 
@@ -603,14 +734,14 @@ The few bits PCs use in their daily lives are not tracked. If a character wants 
 
 ## Monetary values
 
-* <span class="game-term">1 coin: </span>A full purse of silver pieces. A week’s wages.
-* <span class="game-term">2 coin:</span> A fine weapon. A weekly income for a small business. A fine piece of art. A set of luxury clothes.
-* <span class="game-term">4 coin:</span> A satchel full of silver. A month’s wages.
-* <span class="game-term">6 coin:</span> An exquisite jewel. A heavy burden of silver pieces.
-* <span class="game-term">8 coin:</span> A good monthly take for a small business. A small safe full of coins and valuables. A very rare luxury commodity.
-* <span class="game-term">10 coin:</span> Liquidating a significant asset—a carriage and goats, a horse, a deed to a small property.
+* <span class="game-term">1 coin</span>: A full purse of silver pieces. A week’s wages.
+* <span class="game-term">2 coin</span>: A fine weapon. A weekly income for a small business. A fine piece of art. A set of luxury clothes.
+* <span class="game-term">4 coin</span>: A satchel full of silver. A month’s wages.
+* <span class="game-term">6 coin</span>: An exquisite jewel. A heavy burden of silver pieces.
+* <span class="game-term">8 coin</span>: A good monthly take for a small business. A small safe full of coins and valuables. A very rare luxury commodity.
+* <span class="game-term">10 coin</span>: Liquidating a significant asset—a carriage and goats, a horse, a deed to a small property.
 
-More than 4<span class="game-term">coin</span> is an impractical amount to keep lying around. You must spend the excess or put it in your **stash** (see below). A crew can also store 4<span class="game-term CharOverride-5"> </span><span class="game-term">coin</span> in their lair, by default. If they upgrade to a **vault**, they can expand their stores to <span class="game-term CharOverride-15">8</span> and then 16 <span class="game-term">coin</span>. Any <span class="game-term">coin</span> beyond their limit must be spent as soon as possible (typically before the next score) or distributed among the crew members.
+More than 4<span class="game-term">coin</span> is an impractical amount to keep lying around. You must spend the excess or put it in your **stash** (see below). A crew can also store 4 <span class="game-term">coin</span> in their lair, by default. If they upgrade to a **vault**, they can expand their stores to **8** and then **16** <span class="game-term">coin</span>. Any <span class="game-term">coin</span> beyond their limit must be spent as soon as possible (typically before the next score) or distributed among the crew members.
 
 One unit of <span class="game-term">coin</span> in silver pieces or other bulk currency takes up one item slot for your **load** when carried.
 
@@ -668,8 +799,8 @@ When you complete a score, your crew earns **2 <span class="game-term">rep</span
 
 You need **12 <span class="game-term">rep</span>** to fill the <span class="game-term">rep</span> tracker on your crew sheet. When you fill the tracker, do one of the following:
 
-* If your hold is weak, it becomes strong. **Reset your **<span class="game-term">rep</span>** to zero**.
-* If your hold is strong, you can pay to increase your crew Tier by one. This costs <span class="game-term">coin</span> equal to your **new Tier x 8**. As long as your <span class="game-term">rep</span> tracker is full, you don’t earn new <span class="game-term">rep</span> (12 is the max). Once you pay and increase your Tier, **reset your **<span class="game-term">rep</span>** to zero** and **reduce your hold to weak**.
+* If your hold is weak, it becomes strong. **Reset your <span class="game-term">rep</span> to zero**.
+* If your hold is strong, you can pay to increase your crew Tier by one. This costs <span class="game-term">coin</span> equal to your **new Tier x 8**. As long as your <span class="game-term">rep</span> tracker is full, you don’t earn new <span class="game-term">rep</span> (12 is the max). Once you pay and increase your Tier, **reset your <span class="game-term">rep</span> to zero** and **reduce your hold to weak**.
 
 ## Turf
 
@@ -677,7 +808,17 @@ Another way to contribute to the crew’s development is by acquiring **turf**. 
 
 Turf is marked on your <span class="game-term">rep</span> tracker (see the example below). Each piece of turf you hold reduces the <span class="game-term">rep</span> cost to develop by one. So, if you have 2 turf, you need 10 <span class="game-term">rep</span> to develop. If you have 4 turf, you need 8 <span class="game-term">rep</span> to develop. **You can hold a maximum of 6 turf.** When you develop and reset your <span class="game-term">rep</span>, **you keep the marks from all the turf you hold.**
 
-@TODO table p37
+----------
+
+*If you hold 3 pieces of turf, you need only 9 <span class="game-term">Rep</span> to develop, instead of 12.*
+
+| <span class="game-term">Rep</span> | | | | | | | | | | | | | | <span class="game-term">Turf</span> |
+|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
+| | &#x25CB; | &#x25CB; | &#x25CB; | &#x25CB; | &#x25CB; | &#x25CB; | | &#x25CB; | &#x25CB; | &#x25CB; | &#x2297; | &#x2297; | &#x2297; | |
+
+*When you develop, you’ll clear the 9 <span class="game-term">Rep</span> marks, but keep the 3 turf marks. Mark turf on the right side, to show the “cap” on how much <span class="game-term">Rep</span> is needed.*
+
+----------
 
 Also, when you acquire turf, you expand the scope of your crew’s **hunting grounds**.
 
@@ -749,7 +890,6 @@ At the end of the session, review the **xp triggers** on your character sheet. F
 * **You expressed your beliefs, drives, heritage, or background.** Your character’s beliefs and drives are yours to define, session to session. Feel free to tell the group about them when you mark xp.
 * **You struggled with issues from your vice or traumas**. Mark xp for this if your vice tempted you to some bad action or if a trauma condition caused you trouble. Simply indulging your vice doesn’t count as struggling with it (unless you **overindulge**).
 
-
 You may mark end-of-session xp on any xp tracks you want (any attribute or your playbook xp track).
 
 When you fill an xp track, clear all the marks and take an **advance**. When you take an advance from your playbook track, you may choose an additional **special ability**. When you take an advance from an attribute, you may add an **additional action dot** to one of the actions under that attribute.
@@ -766,7 +906,6 @@ At the end of the session, review the crew xp triggers and mark 1 crew xp for ea
 * **Contend with challenges above your current station.** If you tangled with higher Tiers or more dangerous opposition, mark xp for this.
 * **Bolster your crew’s reputation or develop a new one.** Review your crew’s reputation. Did you do anything to promote it? Also mark xp if you developed a new reputation for the crew.
 * **Express the goals, drives, inner conflict, or essential nature of the crew.** This one is very broad! Essentially, did anything happen that highlighted the specific elements that make your crew unique?
-
 
 **When you fill your crew advancement tracker**, clear the marks and take a new **special ability** or mark **two crew upgrade boxes**.
 
@@ -830,14 +969,13 @@ Each playbook has a list of NPCs that your character knows. Choose one from the 
 
 Every character is in thrall to some vice or another, which they indulge to deal with stress. Choose a vice from the list, and describe it on the line above with the specific details and the name and location of your **vice purveyor**.
 
-* <span class="game-term">Faith: </span>You’re dedicated to an unseen power, forgotten god, ancestor, etc.
-* <span class="game-term">Gambling:</span> You crave games of chance, betting on sporting events, etc.
-* <span class="game-term">Luxury: </span>Expensive or ostentatious displays of opulence.
-* <span class="game-term">Obligation: </span>You’re devoted to a family, a cause, an organization, a charity, etc.
-* <span class="game-term">Pleasure:</span> Gratification from lovers, food, drink, drugs, art, theater, etc.
-* <span class="game-term">Stupor: </span>You seek oblivion in the abuse of drugs, drinking to excess, getting beaten to a pulp in the fighting pits, etc.
-* <span class="game-term">Weird: </span>You experiment with strange essences, consort with rogue spirits, observe bizarre rituals or taboos, etc.
-
+* <span class="game-term">Faith</span>: You’re dedicated to an unseen power, forgotten god, ancestor, etc.
+* <span class="game-term">Gambling</span>: You crave games of chance, betting on sporting events, etc.
+* <span class="game-term">Luxury</span>: Expensive or ostentatious displays of opulence.
+* <span class="game-term">Obligation</span>: You’re devoted to a family, a cause, an organization, a charity, etc.
+* <span class="game-term">Pleasure</span>: Gratification from lovers, food, drink, drugs, art, theater, etc.
+* <span class="game-term">Stupor</span>: You seek oblivion in the abuse of drugs, drinking to excess, getting beaten to a pulp in the fighting pits, etc.
+* <span class="game-term">Weird</span>: You experiment with strange essences, consort with rogue spirits, observe bizarre rituals or taboos, etc.
 
 ## Record your name, alias, &amp; look
 
@@ -873,11 +1011,10 @@ That’s it! Your character is ready for play. When you start the first session,
 
 You have access to all of the **items** on your character sheet. For each operation, decide what your character’s **load** will be. During the operation, you may say that your character has an item on hand by checking the box for the item you want to use—up to a number of items equal to your chosen load. Your load also determines your movement speed and conspicuousness:
 
-* <span class="game-term">1-3 load:</span>**Light.** _You’re faster, less conspicuous; you blend in with citizens._
-* <span class="game-term">4/5 load: </span>**Normal.** _You look like a scoundrel, ready for trouble._
-* <span class="game-term">6 load: </span>**Heavy.** _You’re slower. You look like an operative on a mission._
-* <span class="game-term">7-9 load: </span>**Encumbered.** _You’re overburdened and can’t do anything except move very slowly._
-
+* <span class="game-term">1-3 load</span>: **Light.** _You’re faster, less conspicuous; you blend in with citizens._
+* <span class="game-term">4/5 load</span>: **Normal.** _You look like a scoundrel, ready for trouble._
+* <span class="game-term">6 load</span>: **Heavy.** _You’re slower. You look like an operative on a mission._
+* <span class="game-term">7-9 load</span>: **Encumbered.** _You’re overburdened and can’t do anything except move very slowly._
 
 Some special abilities (like the Cutter’s <span class="game-term">Mule</span> ability or Assassin’s Rigging) increase the load limits.
 
@@ -891,10 +1028,18 @@ You don’t need to select specific items now.  Review your personal items and t
 
 Medium length description of the character here. Include what kind of activities they normally partake in.
 
-**Include the XP triggers for the characters here.** At the end of a session mark XP if you addressed a challenge with: insert a short list of methods or actions here. Examples could include: violence, coersion, knowledge, charm, audacity, calculation, deception, influence, stealth, evasion, technical skill, mayham, tracking, or occult powers.
+**Include the XP triggers for the characters here.** At the end of a session mark XP if you addressed a challenge with: insert a short list of methods or actions here. Examples could include: violence, coercion, knowledge, charm, audacity, calculation, deception, influence, stealth, evasion, technical skill, mayhem, tracking, or occult powers.
 
-@TODO tables 51
+----------
 
+### STARTING ACTIONS
+
+| []()     | |          |          |          |         |
+| :--:     |-|   :--:   |  :--:    |  :--:    | :--     |   
+| &#x25CF; | | &#x25CF; | &#x25CB; | &#x25CB; | PRIMARY ACTION |
+| &#x25CF; | | &#x25CB; | &#x25CB; | &#x25CB; | SECONDARY ACTION |
+
+----------
 
 ## Starting builds
 
@@ -910,9 +1055,9 @@ _If you want some guidance when you assign your four starting action dots and sp
 
 ## Friends, rivals
 
-A list of five possible friends or rivals go here, along with descriptions of each. Some possibilities include: A spy, a bounty hunte, a pugalist, a cold killer, an extortionist, a physicker, an assassin, a sentinel, an apothocary, a priestess, a noble, a city clerk, an officer, an inspector, a beggar, a locksmith, a gang leader, a drug dealer, a tavern owner, a porstitue, a jail-bird, an information broker, a servant, an archivist, or a supernatural entitity.
+A list of five possible friends or rivals go here, along with descriptions of each. Some possibilities include: A spy, a bounty hunter, a pugilist, a cold killer, an extortionist, a physicker, an assassin, a sentinel, an apothecary, a priestess, a noble, a city clerk, an officer, an inspector, a beggar, a locksmith, a gang leader, a drug dealer, a tavern owner, a prostitute, a jail-bird, an information broker, a servant, an archivist, or a supernatural entity.
 
-Questions can inlclue how you know the friend, what they’ve done for you,  what you do for them, and what kind of relationship you have.
+Questions can include how you know the friend, what they’ve done for you,  what you do for them, and what kind of relationship you have.
 
 ## Special abilities
 
@@ -1180,7 +1325,7 @@ You may expend your **special armor** to resist a supernatural consequence, or t
 
 Add a list of five distinctive items that are either Fine (+1 quality), light (reduced load), rare, or otherwise specific to this character.
 
-Some examples include: Weapons, clothes, arcane impliments, specialized tools, custom gear, capable pets, or supernatural objects.
+Some examples include: Weapons, clothes, arcane implements, specialized tools, custom gear, capable pets, or supernatural objects.
 
 # Crew creation
 
@@ -1239,9 +1384,8 @@ You get to add **two additional upgrades** to your new crew (so you’ll have a 
 
 When you assign your two upgrades, the GM will tell you about two factions that are impacted by your choices:
 
-* One faction helped you get an upgrade. They like you, and you get **+1 status** with them. At your option, spend 1 <span class="game-term">coin </span>to repay their kindness, and take **+2 status** with them instead.
-* One faction was screwed over when you got an upgrade. They don’t like you, and you get **-2 status** with them. At your option, spend 1 <span class="game-term">coin </span>to mollify them, and take **-1 status** with them instead.
-
+* One faction helped you get an upgrade. They like you, and you get **+1 status** with them. At your option, spend 1 <span class="game-term">coin</span> to repay their kindness, and take **+2 status** with them instead.
+* One faction was screwed over when you got an upgrade. They don’t like you, and you get **-2 status** with them. At your option, spend 1 <span class="game-term">coin</span> to mollify them, and take **-1 status** with them instead.
 
 You’ll be able get more upgrades in the future by earning xp
 
@@ -1256,18 +1400,27 @@ At your option, these factions are even more concerned with this contact and so 
 
 ## Crew upgrade Examples
 
-* <span class="game-term">Boat house:</span><span class="game-term"> </span>You have a boat, a dock on a waterway, and a small shack to store boating supplies. A second upgrade improves the boat with armor and more cargo capacity.
-* <span class="game-term">Carriage House:</span> You have a carriage, and draft animals to pull it, and a stable. A second upgrade improves the carriage with armor and larger, swifter steeds.
-* <span class="game-term">Cohort:</span> A cohort is a gang or a single expert NPC who works for your crew. For all the details on cohorts, see the following pages.
-* <span class="game-term">Hidden Lair:</span> Your lair has a secret location and is disguised to hide it from view. If your lair is discovered, use two downtime activities and pay <span class="game-term">coin</span> equal to your Tier to relocate it and hide it once again.
-* <span class="game-term">Mastery: </span>Your crew has access to master level training. You may advance your PCs’ action ratings to 4 (until you unlock this upgrade, PC action ratings are capped at 3). This costs four upgrade boxes to unlock.
-* <span class="game-term">Quality:</span> **Each upgrade improves the quality rating** of all the PCs’ items of that type, beyond the quality established by the crew’s Tier and fine items. You can improve the quality of **Documents**, **Gear** (covers Burglary Gear and Climbing Gear), Arcane **Implements**, Subterfuge **Supplies**, **Tools** (covers Demolitions Tools and Tinkering Tools), and **Weapons**. _So, if you are Tier 0, with fine lockpicks (+1) and the Quality upgrade for gear (+1), you could contend equally with a Tier II quality lock._
-* <span class="game-term">Quarters:</span> Your lair includes living quarters for the crew. Without this upgrade, each PC sleeps elsewhere, and is vulnerable when they do so.
-* <span class="game-term">Secure Lair:</span><span class="game-term"> </span>Your lair has locks, alarms, and traps to thwart intruders. A second upgrade improves the defenses to include arcane measures that work against spirits. _You might roll your crew’s Tier if these measures are ever put to the test, to see how well they thwart an intruder._
-* <span class="game-term">Training: </span>If you have a Training upgrade, you earn 2 xp (instead of 1) when you train a given xp track during downtime (<span class="game-term">Insight</span>, <span class="game-term">Prowess</span>, <span class="game-term">Resolve</span>, or Playbook xp). This upgrade essentially helps you advance more quickly. See **Advancement**, page 40.
-_If you have Insight Training, when you train Insight during downtime, you mark 2 xp on the <span class="game-term">Insight</span> track (instead of just 1). If you have Playbook Training, you mark 2 xp on your playbook xp track when you train._
-* <span class="game-term">Vault:</span><span class="game-term"> </span>Your lair has a secure vault, increasing your storage capacity for <span class="game-term">coin</span> to 8. A second upgrade increases your capacity to 16.  A separate part of your vault can be used as a holding cell.
-* <span class="game-term">Workshop:</span> Your lair has a workshop appointed with tools for tinkering and alchemy, as well as a small library of books, documents, and maps. You may accomplish long-term projects with these assets without leaving your lair.
+* <span class="game-term">Boat house</span></span>: You have a boat, a dock on a waterway, and a small shack to store boating supplies. A second upgrade improves the boat with armor and more cargo capacity.
+
+* <span class="game-term">Carriage House</span>: You have a carriage, and draft animals to pull it, and a stable. A second upgrade improves the carriage with armor and larger, swifter steeds.
+
+* <span class="game-term">Cohort</span>: A cohort is a gang or a single expert NPC who works for your crew. For all the details on cohorts, see the following pages.
+
+* <span class="game-term">Hidden Lair</span>: Your lair has a secret location and is disguised to hide it from view. If your lair is discovered, use two downtime activities and pay <span class="game-term">coin</span> equal to your Tier to relocate it and hide it once again.
+
+* <span class="game-term">Mastery</span>: Your crew has access to master level training. You may advance your PCs’ action ratings to 4 (until you unlock this upgrade, PC action ratings are capped at 3). This costs four upgrade boxes to unlock.
+
+* <span class="game-term">Quality</span>: **Each upgrade improves the quality rating** of all the PCs’ items of that type, beyond the quality established by the crew’s Tier and fine items. You can improve the quality of **Documents**, **Gear** (covers Burglary Gear and Climbing Gear), Arcane **Implements**, Subterfuge **Supplies**, **Tools** (covers Demolitions Tools and Tinkering Tools), and **Weapons**. _So, if you are Tier 0, with fine lock picks (+1) and the Quality upgrade for gear (+1), you could contend equally with a Tier II quality lock._
+
+* <span class="game-term">Quarters</span>: Your lair includes living quarters for the crew. Without this upgrade, each PC sleeps elsewhere, and is vulnerable when they do so.
+
+* <span class="game-term">Secure Lair</span>: Your lair has locks, alarms, and traps to thwart intruders. A second upgrade improves the defenses to include arcane measures that work against spirits. _You might roll your crew’s Tier if these measures are ever put to the test, to see how well they thwart an intruder._
+
+* <span class="game-term">Training</span>: If you have a Training upgrade, you earn 2 xp (instead of 1) when you train a given xp track during downtime (<span class="game-term">Insight</span>, <span class="game-term">Prowess</span>, <span class="game-term">Resolve</span>, or Playbook xp). This upgrade essentially helps you advance more quickly. See **Advancement**, page 40.  _If you have Insight Training, when you train Insight during downtime, you mark 2 xp on the <span class="game-term">Insight</span> track (instead of just 1). If you have Playbook Training, you mark 2 xp on your playbook xp track when you train._
+
+* <span class="game-term">Vault</span>: Your lair has a secure vault, increasing your storage capacity for <span class="game-term">coin</span> to 8. A second upgrade increases your capacity to 16.  A separate part of your vault can be used as a holding cell.
+
+* <span class="game-term">Workshop</span>: Your lair has a workshop appointed with tools for tinkering and alchemy, as well as a small library of books, documents, and maps. You may accomplish long-term projects with these assets without leaving your lair.
 
 ## Cohorts
 
@@ -1277,12 +1430,11 @@ A **cohort** is a **gang** or an **expert** who works for your crew. To recruit 
 
 Choose a **gang type** from the list below:
 
-* <span class="game-term">Adepts:</span><span class="game-term"> </span>Scholars, tinkerers, occultists, and chemists.
-* <span class="game-term">Rooks:</span> Con artists, spies, and socialites.
-* <span class="game-term">Rovers:</span><span class="game-term"> </span>Sailors, carriage drivers, and deathlands scavengers.
-* <span class="game-term">Skulks:</span> Scouts, infiltrators, and thieves.
-* <span class="game-term">Thugs:</span> Killers, brawlers, and roustabouts.
-
+* <span class="game-term">Adepts</span>: Scholars, tinkerers, occultists, and chemists.
+* <span class="game-term">Rooks</span>: Con artists, spies, and socialites.
+* <span class="game-term">Rovers</span>: Sailors, carriage drivers, and deathlands scavengers.
+* <span class="game-term">Skulks</span>: Scouts, infiltrators, and thieves.
+* <span class="game-term">Thugs</span>: Killers, brawlers, and roustabouts.
 
 A gang has **scale** and **quality** equal to your current crew Tier. It increases in scale and quality when your crew moves up in Tier.
 
@@ -1313,7 +1465,6 @@ When you create a cohort, give them one or two **edges** and an equal number of 
 * **Savage:** The cohort is excessively violent and cruel.
 * **Unreliable:** The cohort isn’t always available, due to other obligations, stupefaction from their vices, etc.
 * **Wild:** The cohort is drunken, debauched, and loud-mouthed.
-
 
 ### Modifying a cohort
 
@@ -1363,12 +1514,10 @@ You begin at **Tier 0**, with **strong hold** and 0 <span class="game-term">rep<
 * One faction helped you get an upgrade. Take **+1 status** with them. Or spend 1 <span class="game-term">coin</span> for **+2 status** instead.
 * One faction was harmed when you got an upgrade. Take **-2 status** with them. Or spend 1 <span class="game-term">coin</span> for **-1 status** instead.
 
-
 <span class="number">6</span> **Choose a favorite contact.** Mark the one who is a close friend, long-time ally, or partner in crime. Record the faction status changes related to your contact:
 
 * One faction is friendly with your contact. Take **+1 status** with them.
 * One faction is unfriendly with your contact. Take **-1 status** with them.
-
 
 At your option, increase the intensity of the factions’ relationship with your contact and take **+2** and **-2 status**, instead.
 
@@ -1387,13 +1536,13 @@ _Add questions to personalize the crew. How is the crew distinguished from other
 * Second upgrade
 
 ## Favored Operations
-A list of operation types that the crew may perform. Some possibilities include: murder, ranson, extortion, sabotage, aquisition, consecration, sacrifice, sale, supply, show of force, sociailize, burglary, espionage, robbery, smuggling arms, smuggling contraband, or smuggling passengers.
+A list of operation types that the crew may perform. Some possibilities include: murder, ranson, extortion, sabotage, acquisition, consecration, sacrifice, sale, supply, show of force, socialize, burglary, espionage, robbery, smuggling arms, smuggling contraband, or smuggling passengers.
 
 ## Contacts
 
-A list of five possible contacts for thew crew, along with descriptions of each. Some possibilities include: a gang boss, a deal broker, a noble, a bounty hunter, a merchant, a blacksmith, a physicker, a ward boss, a taver owner, an academic, an occultist, a magistrate, a dillettante, an explorer, a collector, an arms dealer, a drug dealer, an anarchist, or a dock worker.
+A list of five possible contacts for thew crew, along with descriptions of each. Some possibilities include: a gang boss, a deal broker, a noble, a bounty hunter, a merchant, a blacksmith, a physicker, a ward boss, a taver owner, an academic, an occultist, a magistrate, a dilettante, an explorer, a collector, an arms dealer, a drug dealer, an anarchist, or a dock worker.
 
-Questions can inlclue how you know the friend, what they’ve done for you,  what you do for them, and what kind of relationship you have.
+Questions can include how you know the friend, what they’ve done for you,  what you do for them, and what kind of relationship you have.
 
 ## Crew upgrades
 
@@ -1402,70 +1551,72 @@ A list of five upgrades specific to the crew. Some examples:
 * **Rigging:** You get 2 free load in two of the equipment categories (weapons, implements, supplies, gear, documents, and tools).
 * **Prison Contacts:** Your Tier is effectively +1 higher in prison. _This counts for any Tier-related element in prison, including the incarceration roll._
 * **Elite Cohorts (specify type):** All of your cohorts with the specified type get **+1d** to quality rolls for related actions.
-* **Hardened:** Each PC gets **+1 **<span class="game-term">trauma</span>** box**. This costs three upgrades to unlock, not just one. _This may bring a PC with 4 _<span class="game-term">trauma</span>_ back into play if you wish._
+* **Hardened:** Each PC gets **+1** <span class="game-term">trauma</span> **box**. This costs three upgrades to unlock, not just one. _This may bring a PC with 4 <span class="game-term">trauma</span> back into play if you wish._
 * **Composed:** Each PC gets **+1 stress box**. This costs three upgrades to unlock, not just one.
 * **Underground Maps and Passkeys:** You have easy passage through the underground canals, tunnels, and basements of the city.
 * **Camouflage:** Your vehicles are perfectly concealed when at rest. They blend in as part of the environment, or as an uninteresting civilian vehicle (your choice).
 
-### Make a Claim Map for the Crew. Sample claims include:</span>
+### Make a Claim Map for the Crew
 
-<span class="game-term">Turf: </span>You require one less Rep to advance in tier (max 6).</span>
+Sample claims include:
 
-<span class="game-term ">City Records:</span> You get </span>**+1d** to the **engagement roll** for **stealth** plans. _You can use blueprints and other documents to determine a good approach for infiltrations._
+<span class="game-term">Turf</span>: You require one less Rep to advance in tier (max 6)</span>.
 
-<span class="game-term">Cover Identities: </span> You get **+1d** to the **engagement roll** for **deception** and **social plans**. _False identities help confuse the opposition._
+<span class="game-term">City Records</span>: You get</span> **+1d** to the **engagement roll** for **stealth** plans. _You can use blueprints and other documents to determine a good approach for infiltrations._
 
-<span class="game-term">Cover Operation: </span> You get **-2** <span class="game-term">heat</span> per score. _The cover of a legitimate operation helps deflect some of the heat from law enforcement._
+<span class="game-term">Cover Identities</span>:  You get **+1d** to the **engagement roll** for **deception** and **social plans**. _False identities help confuse the opposition._
 
-<span class="game-term">Envoy:</span> You get **+2** <span class="game-term">coin</span> in **payoff** for scores that involve high-class clients. _This well-connected liaison will help arrange for a better payoff from rich clients._
+<span class="game-term">Cover Operation</span>:  You get **-2** <span class="game-term">heat</span> per score. _The cover of a legitimate operation helps deflect some of the <span class="game-term">heat</span> from law enforcement._
 
-<span class="game-term">Fixer:</span> You get </span>**+2** <span class="game-term">coin</span> in **payoff** for scores that involve lower-class clients. _This well-respected agent will help arrange for a better payoff from poorer clients._
+<span class="game-term">Envoy</span>: You get **+2** <span class="game-term">coin</span> in **payoff** for scores that involve high-class clients. _This well-connected liaison will help arrange for a better payoff from rich clients._
 
-<span class="game-term">Infirmary:</span> You get **+1d** to healing treatment rolls. _The infirmary also has beds for long-term convalescence._
+<span class="game-term">Fixer</span>: You get</span> **+2** <span class="game-term">coin</span> in **payoff** for scores that involve lower-class clients. _This well-respected agent will help arrange for a better payoff from poorer clients._
 
-<span class="game-term">Informants:</span> You get **+1d** to gather information for a score. _Your eyes and ears on the streets are always on the lookout for new targets._
+<span class="game-term">Infirmary</span>: You get **+1d** to healing treatment rolls. _The infirmary also has beds for long-term convalescence._
 
-<span class="game-term">Protection Racket:</span> Any time during downtime, roll dice equal to your Tier. You earn <span class="game-term">coin</span> equal to the highest result, minus your <span class="game-term">heat</span>. _Some of the locals are terrified of you and will gladly pay for “protection.”_
+<span class="game-term">Informants</span>: You get **+1d** to gather information for a score. _Your eyes and ears on the streets are always on the lookout for new targets._
 
-<span class="game-term">Training Rooms:</span> Your cohorts of a specific type get **+1 scale**. _Extra training enables them to fight like a larger gang._
+<span class="game-term">Protection Racket</span>: Any time during downtime, roll dice equal to your Tier. You earn <span class="game-term">coin</span> equal to the highest result, minus your <span class="game-term">heat</span>. _Some of the locals are terrified of you and will gladly pay for “protection.”_
 
-<span class="game-term">Vice Den:</span> Any time during downtime, roll dice equal to your Tier. You earn <span class="game-term">coin</span> equal to the highest result, minus your <span class="game-term">heat</span>.
+<span class="game-term">Training Rooms</span>: Your cohorts of a specific type get **+1 scale**. _Extra training enables them to fight like a larger gang._
 
-<span class="game-term">Victim Trophies:</span> You get **+1 rep** per score. _Word of your grisly “collection” gets around, and your boldness boosts your rep in the underworld._
+<span class="game-term">Vice Den</span>: Any time during downtime, roll dice equal to your Tier. You earn <span class="game-term">coin</span> equal to the highest result, minus your <span class="game-term">heat</span>.
 
-<span class="game-term">Fighting Pits </span> During downtime, roll dice equal to your Tier. You earn <span class="game-term">coin</span> equal to the highest result, minus your <span class="game-term">heat</span>. _The locals love to gamble away their hard-won coin on the blood-sports you host._
+<span class="game-term">Victim Trophies</span>: You get **+1 rep** per score. _Word of your grisly “collection” gets around, and your boldness boosts your rep in the underworld._
 
-<span class="game-term">Street Fence:</span> You get **+2** <span class="game-term">coin</span> in your payoff for scores that involve lower-class targets. _An expert can find the treasure amid the trash you loot from your poorer victims._
+<span class="game-term">Fighting Pits</span>  During downtime, roll dice equal to your Tier. You earn <span class="game-term">coin</span> equal to the highest result, minus your <span class="game-term">heat</span>. _The locals love to gamble away their hard-won coin on the blood-sports you host._
 
-<span class="game-term">Terrorized Citizens:</span> You get **+2** <span class="game-term">coin</span> in your payoff for scores that involve battle or extortion. _The frightened locals offer you tribute whenever you lash out. They don’t want to be next._
+<span class="game-term">Street Fence</span>: You get **+2** <span class="game-term">coin</span> in your payoff for scores that involve lower-class targets. _An expert can find the treasure amid the trash you loot from your poorer victims._
 
-<span class="game-term">Warehouses:</span> You get **+1d** to **acquire asset** rolls. _You have space to hold all the various spoils you end up with after your battles. It can be useful on its own or for barter when you need it._
+<span class="game-term">Terrorized Citizens</span>: You get **+2** <span class="game-term">coin</span> in your payoff for scores that involve battle or extortion. _The frightened locals offer you tribute whenever you lash out. They don’t want to be next._
 
-<span class="game-term">Ancient Altar: </span> You get **+1d** to the **engagement roll** for **occult** plans. _Its blessing is with you._
+<span class="game-term">Warehouses</span>: You get **+1d** to **acquire asset** rolls. _You have space to hold all the various spoils you end up with after your battles. It can be useful on its own or for barter when you need it._
 
-<span class="game-term">Ancient Tower:</span> You get **+1d** to <span class="game-term">Consort</span> with arcane entities on-site.
+<span class="game-term">Ancient Altar</span>:  You get **+1d** to the **engagement roll** for **occult** plans. _Its blessing is with you._
 
-<span class="game-term">Offertory:</span> You get **+2** <span class="game-term">coin</span> in your payoff for scores that involve occult operations. _The frightened locals offer you tribute when you perform your dark practices. They don’t want to be next._
+<span class="game-term">Ancient Tower</span>: You get **+1d** to <span class="game-term">Consort</span> with arcane entities on-site.
 
-<span class="game-term">Local Graft:</span> You get **+2** <span class="game-term">coin</span> in **payoff** for scores that involve a show of force or socializing. _A few city officials share bribe money with those who show that they’re players on the scene._
+<span class="game-term">Offertory</span>: You get **+2** <span class="game-term">coin</span> in your payoff for scores that involve occult operations. _The frightened locals offer you tribute when you perform your dark practices. They don’t want to be next._
 
-<span class="game-term">Lookouts: </span> You get **+1d** to <span class="game-term">Hunt</span> or <span class="game-term">Survey</span> on your turf.
+<span class="game-term">Local Graft</span>: You get **+2** <span class="game-term">coin</span> in **payoff** for scores that involve a show of force or socializing. _A few city officials share bribe money with those who show that they’re players on the scene._
 
-<span class="game-term">Luxury Venue: </span> **+1d** to <span class="game-term">Consort</span> and <span class="game-term">Sway</span> rolls on-site. _Silks, paintings, and crystal impress the clientele._
+<span class="game-term">Lookouts</span>:  You get **+1d** to <span class="game-term">Hunt</span> or <span class="game-term">Survey</span> on your turf.
 
-<span class="game-term">Surplus Cache:</span> You get **+2** <span class="game-term">coin</span> in **payoff** for scores that involve product sale or supply. _You have an abundance of product, which pads your pockets every now and then._
+<span class="game-term">Luxury Venue</span>:  **+1d** to <span class="game-term">Consort</span> and <span class="game-term">Sway</span> rolls on-site. _Silks, paintings, and crystal impress the clientele._
 
-<span class="game-term">Covert Drop:</span> You get **+2** <span class="game-term">coin</span> in **payoff** for scores that involve espionage or sabotage. _The perfect hidden exchange point is worth the extra coin to discerning clientele._
+<span class="game-term">Surplus Cache</span>: You get **+2** <span class="game-term">coin</span> in **payoff** for scores that involve product sale or supply. _You have an abundance of product, which pads your pockets every now and then._
 
-<span class="game-term">Interrogation Chamber:</span> You get **+1d** to <span class="game-term">Command</span> and <span class="game-term">Sway</span> on-site. _Grisly business, but effective._
+<span class="game-term">Covert Drop</span>: You get **+2** <span class="game-term">coin</span> in **payoff** for scores that involve espionage or sabotage. _The perfect hidden exchange point is worth the extra coin to discerning clientele._
 
-<span class="game-term">Loyal Fence:</span> You get **+2** <span class="game-term">coin</span> in **payoff** for scores that involve burglary or robbery. _It requires a skilled eye and good contacts to move stolen goods._
+<span class="game-term">Interrogation Chamber</span>: You get **+1d** to <span class="game-term">Command</span> and <span class="game-term">Sway</span> on-site. _Grisly business, but effective._
 
-<span class="game-term">Secret Pathways: </span> You get **+1d** to the **engagement roll** for **stealth** plans. _You might have access to long-forgotten underground canals, rooftop walkways, or some other route of your choosing._
+<span class="game-term">Loyal Fence</span>: You get **+2** <span class="game-term">coin</span> in **payoff** for scores that involve burglary or robbery. _It requires a skilled eye and good contacts to move stolen goods._
 
-<span class="game-term">Tavern:</span> You get **+1d** to <span class="game-term">Consort</span> and <span class="game-term">Sway</span> rolls on-site. _Some booze and friendly conversation can go a long way._
+<span class="game-term">Secret Pathways</span>:  You get **+1d** to the **engagement roll** for **stealth** plans. _You might have access to long-forgotten underground canals, rooftop walkways, or some other route of your choosing._
 
-<span class="game-term">Side Business:</span> Any time during downtime, roll dice equal to your Tier. You earn <span class="game-term">coin</span> equal to the highest result, minus your <span class="game-term">heat</span>. _What kind of legitimate business is this? How do you get paid in secret?_
+<span class="game-term">Tavern</span>: You get **+1d** to <span class="game-term">Consort</span> and <span class="game-term">Sway</span> rolls on-site. _Some booze and friendly conversation can go a long way._
+
+<span class="game-term">Side Business</span>: Any time during downtime, roll dice equal to your Tier. You earn <span class="game-term">coin</span> equal to the highest result, minus your <span class="game-term">heat</span>. _What kind of legitimate business is this? How do you get paid in secret?_
 
 ## Crew special abilities
 
@@ -1579,7 +1730,12 @@ But you, the players, don’t have to do the nitty-gritty planning. The characte
 
 There are six different plans, each with a missing **detail** you need to provide (see the list below). To “plan an operation,” simply choose the plan and supply the detail. Then the GM will **cut to the action** as the first moments of the operation unfold.
 
-@TODO Add table p79
+* Assault---Do violence to a target. *Detail: The point of attack.*
+* Deception---Lure, trick, or manipulate. *Detail: The method of deception.*
+* Stealth---Trespass unseen. *Detail: The point of infiltration.*
+* Occult---Engage a supernatural power. *Detail: The arcane method.*
+* Social---Negotiate, bargain, or persuade. *Detail: The social connection.*
+* Transport---Carry cargo or people through danger. *Detail: The route and means.*
 
 ## The Detail
 
@@ -1606,7 +1762,22 @@ The engagement roll assumes that the PCs are approaching the target as intellige
 
 Don’t make the engagement roll and then describe the PCs _approaching_ the target. It’s the approach that the engagement roll resolves. Cut to the action that results _because of_ that initial approach—to the first serious obstacle in their path.
 
-@TODO add table p81
+----------
+
+### ENGAGEMENT ROLL
+
+&#x23E3; &nbsp; **1d** for sheer luck.
+
+&#x2295; &nbsp; **+1d** for each **Major Advantage**.
+
+&#x2296; &nbsp; **-1d** for each **Major Disadvantage**.
+
+* <span class="game-term">Critical</span>: Exceptional result. *You’ve already overcome the first obstacle and you’re in a controlled position for what’s next.*
+* <span class="game-term">6</span>: Good result. *You’re in a controlled position when the action starts.*
+* <span class="game-term">4/5</span>: Mixed result. *You’re in a risky position when the action starts.*
+* <span class="game-term">1-3</span>: Bad result. *You’re in a desperate position when the action starts.*
+
+----------
 
 > The first obstacles at the witches’ house are their cunning locks and magical traps. The engagement roll puts us on the roof outside a window, as the PCs attempt to silently and carefully break into the attic.
 
@@ -1632,7 +1803,6 @@ The engagement roll determines the starting position for the PCs’ actions. How
 
 Sometimes an operation seems to call for a couple of plans linked together. A common scenario is a team that wants a two-pronged approach. “You create a diversion at the tavern, and when they send thugs over there, we’ll break into their lair.” There are two ways to handle this.
 
-
 1. The diversion is a **setup maneuver** that a team member performs as part of the plan. A successful setup maneuver can improve **position** for teammates (possibly offsetting a bad engagement roll) or give increased effect.  An unsuccessful setup maneuver might cause trouble for the second part of the plan—an easy consequence is to give the engagement roll -1d. _If it makes sense, the team member who performed the setup can drift back into the main operation and join the team later so they don’t have to sit out and wait._
 1. The diversion is its own plan, engagement, and operation, whose outcome creates the opportunity for a future plan. Use this option when the first part of the plan is required for the next part to happen at all. For example, you might execute a stealth plan to steal an artifact from the Museum of the Ancients, then later use that artifact in an occult plan to consecrate a temple for your forgotten god. In this case, you go into downtime (and payoff, <span class="game-term">heat</span>, etc.) after the first part of the plan, as normal.
 
@@ -1644,9 +1814,9 @@ The rules don’t distinguish between actions performed in the present moment an
 
 The GM sets a **stress cost** when you activate a flashback action.
 
-* <span class="game-term">0 </span><span class="game-term">Stress:</span> An ordinary action for which you had easy opportunity. _The Cutter _<span class="game-term">Consorted</span>_ with her friend to agree to arrive at the dice game ahead of time, to suddenly spring out as a surprise ally._
-* <span class="game-term">1 </span><span class="game-term">Stress:</span> A complex action or unlikely opportunity. _The Hound _<span class="game-term">Finessed</span>_ his pistols into a hiding spot near the card table so he could retrieve them after the pat-down at the front door._
-* <span class="game-term">2 </span><span class="game-term">(or more) Stress:</span> An elaborate action that involved special opportunities or contingencies. _The Whisper has already <span class="game-term">Studied</span> the history of the property and learned of a ghost that is known to haunt its ancient canal dock—a ghost that can be compelled to reveal the location of the hidden vault._
+* <span class="game-term">0</span> <span class="game-term">Stress</span>: An ordinary action for which you had easy opportunity. _The Cutter _<span class="game-term">Consorted</span>_ with her friend to agree to arrive at the dice game ahead of time, to suddenly spring out as a surprise ally._
+* <span class="game-term">1</span> <span class="game-term">Stress</span>: A complex action or unlikely opportunity. _The Hound _<span class="game-term">Finessed</span> his pistols into a hiding spot near the card table so he could retrieve them after the pat-down at the front door._
+* <span class="game-term">2</span> <span class="game-term">(or more) Stress</span>: An elaborate action that involved special opportunities or contingencies. _The Whisper has already <span class="game-term">Studied</span> the history of the property and learned of a ghost that is known to haunt its ancient canal dock—a ghost that can be compelled to reveal the location of the hidden vault._
 
 After the stress cost is paid, a flashback action is handled just like any other action. Sometimes it will entail an action roll, because there’s some danger or trouble involved. Sometimes a flashback will entail a fortune roll, because we just need to find out how well (or how much, or how long, etc.). Sometimes a flashback won’t call for a roll at all because you can just pay the stress and it’s accomplished.
 
@@ -1672,7 +1842,7 @@ A flashback isn’t time travel. It can’t “undo” something that just occur
 
 > “Eh... not so fast. When you want the distraction to hit, let’s make a fortune roll to see how crazy the Fireweed Goat Maneuver gets. Three dice.”
 
-&emdash;
+> ----------
 
 > “The engagement roll is... a <span class="game-term">2</span>. Looks like a desperate situation for you! Hmmm. Okay, so you’re inside the gang’s compound at the docks, slipping up through the shadows next to some huge metal storage tanks. But then all the electric lights come on. The big metal warehouse door rolls open, and you hear a heavy wagon coming in through the gate. Looks like they’re getting a delivery right now, and a bunch of gang members are out to receive it. They’re about to be on top of you. What do you do?”
 
@@ -1707,7 +1877,7 @@ When the team of PCs works together, the characters have access to four special 
 
 ### Assist
 
-When you assist another player who’s rolling, describe what your character does to help. Take 1 stress and give them **+1d** to their roll. You might also suffer any consequences that occur because of the roll, depending on the circumstances. Only one character may assist a given roll._ If you really want to help and someone else is already assisting, consider performing a **setup** maneuver instead._
+When you assist another player who’s rolling, describe what your character does to help. Take 1 stress and give them **+1d** to their roll. You might also suffer any consequences that occur because of the roll, depending on the circumstances. Only one character may assist a given roll. _If you really want to help and someone else is already assisting, consider performing a **setup** maneuver instead._
 
 A character may assist a group action, but only if they aren’t taking part in it directly. You decide which character in the group action gets the bonus die.
 
@@ -1756,10 +1926,10 @@ Downtime fulfills two purposes in the game:
 
 Downtime is divided into four parts, which are resolved in order:
 	<ol>
-		<li><span class="game-term">Payoff. </span>The crew receives their rewards from a successfully completed score.
-		<li><span class="game-term">Heat. </span>The crew accumulates suspicion and attention from the law and the powers-that-be in the city as a result of their last score.
-		<li><span class="game-term">Entanglements.</span> The crew faces trouble from the rival factions, the law, and the haunted city itself.
-		<li><span class="game-term">Downtime Activities.</span> The PCs indulge their vices to remove stress, work on long-term projects, recover from injuries, etc.
+		<li><span class="game-term">Payoff</span>. The crew receives their rewards from a successfully completed score.
+		<li><span class="game-term">Heat</span>. The crew accumulates suspicion and attention from the law and the powers-that-be in the city as a result of their last score.
+		<li><span class="game-term">Entanglements</span>. The crew faces trouble from the rival factions, the law, and the haunted city itself.
+		<li><span class="game-term">Downtime Activities</span>. The PCs indulge their vices to remove stress, work on long-term projects, recover from injuries, etc.
 	</ol>
 
 After the downtime activities are resolved, the game returns to free play, and the group can move toward their next score.
@@ -1768,7 +1938,7 @@ After the downtime activities are resolved, the game returns to free play, and t
 
 After a score, the PCs take stock of their income from the operation. A successful score generates both <span class="game-term">rep</span> and <span class="game-term">coin</span>.
 
-The crew earns 2 <span class="game-term">rep</span> per score by default. If the target of the score is higher Tier than you, take **+1 **<span class="game-term">rep</span>** per Tier higher**. If the target of the score is lower Tier, you get **-1 **<span class="game-term">rep</span>** per Tier lower** (minimum zero).
+The crew earns 2 <span class="game-term">rep</span> per score by default. If the target of the score is higher Tier than you, take **+1** <span class="game-term">rep</span> **per Tier higher**. If the target of the score is lower Tier, you get **-1** <span class="game-term">rep</span> **per Tier lower** (minimum zero).
 
 > If your crew is Tier I and you pull off a successful score against a Tier III target, you earn 4 <span class="game-term">rep</span> (2 <span class="game-term">rep</span>, +2 <span class="game-term">rep</span> for a target two tiers above you). If your crew is Tier III and you complete a score against a Tier I target, you earn 0 <span class="game-term">rep</span> (2 rep, -2 rep for the lower Tier target).
 
@@ -1776,11 +1946,11 @@ If you keep the operation completely quiet so no one knows about it, you earn ze
 
 The crew earns <span class="game-term">coin</span> based on the nature of the operation and/or any loot they seized:
 
-* <span class="game-term">2 coin:</span> A minor job; several full purses.
-* <span class="game-term">4 coin:</span> A small job; a strongbox.
-* <span class="game-term">6 coin:</span> A standard score; decent loot.
-* <span class="game-term">8 coin:</span> A big score; serious loot.
-* <span class="game-term">10+ coin:</span> A major score; impressive loot.
+* <span class="game-term">2 coin</span>: A minor job; several full purses.
+* <span class="game-term">4 coin</span>: A small job; a strongbox.
+* <span class="game-term">6 coin</span>: A standard score; decent loot.
+* <span class="game-term">8 coin</span>: A big score; serious loot.
+* <span class="game-term">10+ coin</span>: A major score; impressive loot.
 
 
 Record the <span class="game-term">coin</span> on the crew sheet, or divvy it up among the crew members as you see fit.
@@ -1795,22 +1965,28 @@ GM, definitely don’t screw around with the players when it comes to the payoff
 
 The city is full of prying eyes and informants. Anything you do might be witnessed, and there’s always evidence left behind. To reflect this, your crew acquires <span class="game-term">heat</span> as they commit crimes. After a score or conflict with an opponent, your crew takes <span class="game-term">heat</span> according to the nature of the operation:
 
-* <span class="game-term">0 heat:</span> Smooth &amp; quiet; low exposure.
-* <span class="game-term">2 heat:</span> Contained; standard exposure.
-* <span class="game-term">4 heat: </span>Loud &amp; chaotic; high exposure.
-* <span class="game-term">6 heat:</span> Wild; devastating exposure.
+* <span class="game-term">0 heat</span>: Smooth &amp; quiet; low exposure.
+* <span class="game-term">2 heat</span>: Contained; standard exposure.
+* <span class="game-term">4 heat</span> : Loud &amp; chaotic; high exposure.
+* <span class="game-term">6 heat</span>: Wild; devastating exposure.
 
 Add +1 <span class="game-term">heat</span> for a high-profile or well-connected target. Add +1 <span class="game-term">heat</span> if the situation happened on hostile turf. Add +1 <span class="game-term">heat</span> if you’re at war with another faction. Add +2 <span class="game-term">heat</span> if killing was involved (whether the crew did the killing or not—bodies draw attention).
 
 You mark <span class="game-term">heat</span> levels on the <span class="game-term">heat</span> tracker on the crew sheet.
 
-@TODO add table p91
+----------
+
+| <span class="game-term">Heat</span> | <span class="game-term">Wanted Level</span> |
+| :--: | :--:         |
+| &#x2297; &nbsp; &#x2297; &nbsp; &#x2297; &nbsp; &#x25CB; &nbsp; &#x25CB; &nbsp; &#x25CB; &nbsp; &#x25CB; &nbsp; &#x25CB; &nbsp; &#x25CB; | &#x25A1; &nbsp; &#x25A1; &nbsp; &#x25A1; &nbsp; &#x25A1; | 
+
+----------
 
 When your <span class="game-term">heat</span> level reaches 9, you gain a <span class="game-term">wanted level</span> and clear your <span class="game-term">heat</span> (any excess <span class="game-term">heat</span> “rolls over,” so if your <span class="game-term">heat</span> was 7 and you took 4 <span class="game-term">heat</span>, you’d reset with 2 <span class="game-term">heat</span> marked).
 
 The higher your <span class="game-term">wanted level</span>, the more serious the response when law enforcement takes action against you (they’ll send a force of higher **quality** and **scale**).
 
-Also, your <span class="game-term">wanted level</span> contributes to the severity of the **entanglements** that your crew faces after a score. See page <a>94</a> for details.
+Also, your <span class="game-term">wanted level</span> contributes to the severity of the **entanglements** that your crew faces after a score. See page 94 for details.
 
 ## Incarceration
 
@@ -1820,19 +1996,40 @@ Incarceration may result from investigation and arrest by the officers, or becau
 
 The severity of the prison sentence depends on your <span class="game-term">wanted level</span>:
 
-* <span class="game-term">Wanted Level 4: </span>Life or execution.
-* <span class="game-term">Wanted Level 3:</span> A year or two.
-* <span class="game-term">Wanted Level 2:</span> Several months.
-* <span class="game-term">Wanted Level 1:</span> A month or two.
-* <span class="game-term">Wanted Level 0:</span> A few weeks. Or, the constables give you a beating to teach you a lesson (suffer level 3 harm, no resistance roll allowed—they keep going until you’re injured).
+* <span class="game-term">Wanted Level 4</span>: Life or execution.
+* <span class="game-term">Wanted Level 3</span>: A year or two.
+* <span class="game-term">Wanted Level 2</span>: Several months.
+* <span class="game-term">Wanted Level 1</span>: A month or two.
+* <span class="game-term">Wanted Level 0</span>: A few weeks. Or, the constables give you a beating to teach you a lesson (suffer level 3 harm, no resistance roll allowed—they keep going until you’re injured).
 
 Incarceration is dehumanizing and brutal. The renown of your crew is your only real defense inside. When you serve your time, make an **incarceration roll** using your crew’s Tier as the dice pool.
 
-@TODO add table p92
+----------
+
+### INCARCERATION ROLL
+
+* <span class="game-term">Critical</span>: You make a name for yourself inside. You gain **+3** <span class="game-term">Rep</span> for your crew, **1 prison claim** and **+1 faction status** with a faction that you assisted while you served your time.
+* <span class="game-term">6</span>: You do your time well. Your crew gains **1 prison claim** and **+1 faction status** with a faction that you assisted while you served your time.
+* <span class="game-term">4/5</span>: You keep your head down and do your time without incident.
+* <span class="game-term">1-3</span>: It’s horrific. You suffer a level of trauma from the experience.
+
+----------
 
 ## Prison claims
 
-@TODO add table p93
+----------
+
+### CLAIMS: PRISON
+
+| []() |  | | | | | |
+| :--: | :--: | :--: | :--: | :--: | :--: | :--: |
+| Parole Influence | &#x2015; | Smuggling | &#x2015; | Allied Claim | | Cell Block Control |
+| &#x2758; | | &#x2758; | | &#x2758; | | &#x2758; |
+| Guard Payoff | &#x2015; | **PRISON** | &#x2015; | Guard Payoff | &#x2015; | Allied Claim |
+| &#x2758; | | &#x2758; | | &#x2758; | | &#x2758; |
+| Hardcase | &#x2015; | Smuggling | &#x2015; | Allied Claim | &#x2015; | Allied Claim |
+
+----------
 
 ### Allied claim
 
@@ -1864,7 +2061,15 @@ Your crew didn’t just spring into existence tonight. You have a complex histor
 
 After payoff and <span class="game-term">heat</span> are determined, the GM generates an entanglement for the crew using the lists below. Find the column that matches the crew’s current <span class="game-term">heat</span> level. Then roll a number of dice equal to their <span class="game-term">wanted level</span>, and use the result of the roll to select which sort of entanglement manifests. _If <span class="game-term">wanted level</span> is zero, roll two dice and keep the lowest result._
 
-@TODO add table p94
+----------
+
+| RESULT | <span class="game-term">Heat</span> **0-3** | <span class="game-term">Heat</span> **4-5** | <span class="game-term">Heat</span> **6** |
+| :--:   | :--          | :--          | :--        |
+| 1-3    | Gang Trouble or The Usual Suspects | Gang Trouble or Questioning | Flipped or Interrogation |
+| 4-5    | Rivals or Unquiet Dead | Reprisals or Unquiet Dead | Demonic Notice or Show of Force |
+| 6      | Cooperation | Show of Force | Arrest |
+
+----------
 
 Bring the entanglement into play immediately, or hold off until an appropriate moment. For example, if you get the _Interrogation_ entanglement, you might wait until a PC indulges their vice, then say the costables picked them up when they were distracted by its pleasures.
 
@@ -1884,7 +2089,7 @@ A +3 status faction asks you for a favor. Agree to do it, or forfeit 1 <span cla
 
 ### Demonic notice
 
-A demon approaches the crew with a dark offer. Accept their bargain, hide until it loses interest (forfeit<span class="game-term"> </span>3 <span class="game-term">rep</span>), or deal with it another way.
+A demon approaches the crew with a dark offer. Accept their bargain, hide until it loses interest (forfeit 3 <span class="game-term">rep</span>), or deal with it another way.
 
 ### Flipped
 
@@ -1902,7 +2107,7 @@ The officers round up one of the PCs to question them about the crew’s crimes.
 
 ### Questioning
 
-The cops grab an NPC member of your crew or one of the crew’s contacts, to question them about your crimes. _Who do they think is most vulnerable?_ Make a **fortune roll** to see how much they talk (<span class="game-term">1-3:</span> **+2** <span class="game-term">heat</span>, <span class="game-term">4/5:</span> **+1** <span class="game-term">heat</span>), or pay the constables off with 2 <span class="game-term">coin</span>.
+The cops grab an NPC member of your crew or one of the crew’s contacts, to question them about your crimes. _Who do they think is most vulnerable?_ Make a **fortune roll** to see how much they talk (<span class="game-term">1-3</span>: **+2** <span class="game-term">heat</span>, <span class="game-term">4/5</span>: **+1** <span class="game-term">heat</span>), or pay the constables off with 2 <span class="game-term">coin</span>.
 
 >Roll 2d for a normal person to see how well they keep quiet. If they’re an experienced underworld type or some kind of tough, give them 3d or 4d instead. If they’re soft or if they have some loyalty to the law, give them 1d or 0d.
 
@@ -1912,7 +2117,7 @@ An enemy faction makes a move against you (or a friend, contact, or vice purveyo
 
 ### Rivals
 
-A neutral faction throws their weight around. They threaten you, a friend, a contact, or one of your vice purveyors. Forfeit (1 <span class="game-term">rep</span> or 1 <span class="game-term">coin</span>) per Tier of the rival, or stand up to them and lose **1 status**<span class="game-term"> </span>with them.
+A neutral faction throws their weight around. They threaten you, a friend, a contact, or one of your vice purveyors. Forfeit (1 <span class="game-term">rep</span> or 1 <span class="game-term">coin</span>) per Tier of the rival, or stand up to them and lose **1 status** with them.
 
 ### Show of force
 
@@ -1962,7 +2167,7 @@ Gain temporary use of an **asset**:
 
 “Temporary use” constitutes one significant period of usage that makes sense for the asset—typically the duration of one score. An asset may also be acquired for “standby” use in the future. You might hire a gang to guard your lair, for example, and they’ll stick around until after the first serious battle, or until a week goes by and they lose interest.
 
-To acquire the asset, roll the crew’s Tier<span class="game-term CharOverride-15">.</span> The result indicates the **quality** of the asset you get, using the crew’s Tier as the base. <span class="game-term">1-3:</span> Tier -1, <span class="game-term">4/5:</span> Tier, <span class="game-term">6:</span> Tier +1, <span class="game-term">critical:</span> Tier +2. You can spend <span class="game-term">coin</span> to raise the result of this roll beyond <span class="game-term">critical</span> by spending **2** <span class="game-term">coin</span> per additional Tier level added.
+To acquire the asset, roll the crew’s Tier. The result indicates the **quality** of the asset you get, using the crew’s Tier as the base. <span class="game-term">1-3</span>: Tier -1, <span class="game-term">4/5</span>: Tier, <span class="game-term">6</span>: Tier +1, <span class="game-term">critical</span>: Tier +2. You can spend <span class="game-term">coin</span> to raise the result of this roll beyond <span class="game-term">critical</span> by spending **2** <span class="game-term">coin</span> per additional Tier level added.
 
 The GM may set a **minimum quality** level that must be achieved to acquire a particular asset. For example, if you want to get a set of Warden uniforms and masks, you’d need to acquire a Tier IV asset. A lower result won’t do.
 
@@ -1976,7 +2181,7 @@ If you want to acquire an asset permanently, you can either gain it as a crew up
 
 ### Long-term project
 
-When you work on a long-term project (either a brand new one, or an already existing one), describe what your character does to advance the project clock, and roll one of your actions. Mark segments on the clock according to your result: <span class="game-term">1-3:</span> one segment, <span class="game-term">4/5:</span> two segments, <span class="game-term">6:</span> three segments, <span class="game-term">critical:</span> five segments.
+When you work on a long-term project (either a brand new one, or an already existing one), describe what your character does to advance the project clock, and roll one of your actions. Mark segments on the clock according to your result: <span class="game-term">1-3</span>: one segment, <span class="game-term">4/5</span>: two segments, <span class="game-term">6</span>: three segments, <span class="game-term">critical</span>: five segments.
 
 A long-term project can cover a wide variety of activities, like doing research into an arcane ritual, investigating a mystery, establishing someone’s trust, courting a new friend or contact, changing your character’s vice, and so on.
 
@@ -1988,11 +2193,11 @@ In order to work on a project, you might first have to achieve the means to purs
 
 When you recover, you seek treatment and heal your harm. You might visit a physicker who can stitch your wounds and soothe your mind with anatomical science or a witch who specializes in healing charms and restorative alchemy. If you don’t have a contact or fellow PC who can provide treatment, you can use the **acquire asset** activity to gain access to a healer, who can provide service for the whole crew.
 
-Recovery is like a long-term project. Your healer rolls (<span class="game-term">Tinker</span> for a PC with the <span class="game-term">Physicker</span> special ability or the **quality** level of an NPC) and then you mark a number of segments on your **healing clock**. <span class="game-term">1-3:</span> one segment, <span class="game-term">4/5:</span> two segments, <span class="game-term">6:</span> three segments, <span class="game-term">critical:</span> five segments.
+Recovery is like a long-term project. Your healer rolls (<span class="game-term">Tinker</span> for a PC with the <span class="game-term">Physicker</span> special ability or the **quality** level of an NPC) and then you mark a number of segments on your **healing clock**. <span class="game-term">1-3</span>: one segment, <span class="game-term">4/5</span>: two segments, <span class="game-term">6</span>: three segments, <span class="game-term">critical</span>: five segments.
 
 When you fill your healing clock, reduce each instance of harm on your sheet by one level, then clear the clock. If you have more segments to mark, they “roll over.”
 
-@TODO add table p99
+@TODO add clock p99
 
 > Cross has two injuries: a level 3 “Shattered Right Leg” and level 1 “Battered.” During downtime, he gets treatment from Quellyn, a witch friend of the crew’s Whisper. Quellyn is a competent healer, so the GM says quality 2 makes sense. The player rolls 2d to recover and gets a <span class="game-term">6</span>: three segments on the healing clock. He decides to spend 1 <span class="game-term">coin</span> to improve the result to a <span class="game-term">critical</span> to get five segments instead. Four segments fill the clock—all of Cross’s harm is reduced by one level, then he clears the clock and marks one more segment. His level 3 harm “Shattered Right Leg” is reduced to level 2 harm. His level 1 harm “Battered” is reduced to zero and goes away. Cross is left with one injury on his sheet: level 2 “Broken Leg.”
 
@@ -2006,19 +2211,25 @@ Whenever you suffer new harm, clear any ticks on your healing clock.
 
 Say what your character does to reduce the <span class="game-term">heat</span> level of the crew and make an action roll. Maybe you <span class="game-term">Consort</span> with your friend who’s a officer and she arranges for a few incriminating Watch reports to disappear. Or maybe you <span class="game-term">Command</span> the fear of the local citizens so they’re afraid to snitch.
 
-Reduce <span class="game-term">heat</span> according to the result: <span class="game-term">1-3:</span> one, <span class="game-term">4/5:</span> two, <span class="game-term">6:</span> three, <span class="game-term">critical:</span> five.
+Reduce <span class="game-term">heat</span> according to the result: <span class="game-term">1-3</span>: one, <span class="game-term">4/5</span>: two, <span class="game-term">6</span>: three, <span class="game-term">critical</span>: five.
 
 ### Train
 
-When you spend time in training, **mark 1 xp** on the xp track for an **attribute** or **playbook** advancement. If you have the appropriate crew Training upgrade unlocked, mark **+1 <span class="game-term"> </span>xp** (2 total). See **Crew Upgrades**, page <a>65</a>. _You can train a given xp track only once per downtime._
+When you spend time in training, **mark 1 xp** on the xp track for an **attribute** or **playbook** advancement. If you have the appropriate crew Training upgrade unlocked, mark **+1 xp** (2 total). See **Crew Upgrades**, page 65. _You can train a given xp track only once per downtime._
 
 ### Indulge vice
 
 Visit your **vice purveyor** to relieve **stress**. See the next section for details.
 
-# Vice
+----------
 
-@TODO add table p101
+### VICE ROLL
+
+&#x23E3; &nbsp; Roll dice equal to your **Lowest Attribute** rating.
+
+Clear stress equal to your highest die result. If you clear more stress levels than you had marked, you ***overindulge***. *If you do not or cannot indulge your vice during downtime, you take stress equal to your <span class="game-term">trauma</span>.*
+
+----------
 
 ## Stress Relief
 
@@ -2040,10 +2251,10 @@ If your vice roll clears more stress levels than you had marked, you overindulge
 
 When you overindulge, you make a bad call because of your vice—in acquiring it or while under its influence. To bring the effect of this bad decision into the game, select an overindulgence from the list:
 
-* <span class="game-term">Attract Trouble.</span> Select or roll an additional **entanglement**.
+* <span class="game-term">Attract Trouble</span>. Select or roll an additional **entanglement**.
 * <span class="game-term">Brag</span> about your exploits. **+2** <span class="game-term">heat</span>.
-* <span class="game-term">Lost.</span> Your character vanishes for a few weeks. Play a different character until this one returns from their bender. When your character returns, they’ve also healed any harm they had.
-* <span class="game-term">Tapped.</span> Your current purveyor cuts you off. Find a new source for your vice.
+* <span class="game-term">Lost</span>. Your character vanishes for a few weeks. Play a different character until this one returns from their bender. When your character returns, they’ve also healed any harm they had.
+* <span class="game-term">Tapped</span>. Your current purveyor cuts you off. Find a new source for your vice.
 
 ### Ignoring your vice
 
@@ -2070,9 +2281,66 @@ If you’re not sure how far to progress a faction’s clock, make a fortune rol
 
 When factions do things that are known in the criminal underworld, **tell the players about it** through one of their **friends** or **contacts** or **vice purveyors**. These rumors and bits of gossip can lead to future scores and opportunities for the PCs.
 
-## Downtime Activities Summary
 
-@TODO add tables p102
+----------
+
+### DOWNTIME ACTIVITIES SUMMARY
+
+_Add ***+1d*** to your roll if a ***friend*** or ***contact*** helps with your downtime activity._
+
+#### ACQUIRE ASSET
+
+Roll the crew’s **Tier**. The result indicates the *quality* of the asset:
+
+* <span class="game-term">Critical</span>: Tier +2.
+* <span class="game-term">6</span>: Tier +1.
+* <span class="game-term">4/5</span>: Tier.
+* <span class="game-term">1-3</span>: Tier -1.
+
+_Some items require a minimum quality result to acquire. To raise the result beyond critical, you may spend **2 coin** per +1 Tier bonus._
+
+#### LONG-TERM PROJECT
+
+Work on a **long-term project**, if you have the means.
+
+Mark segments on the clock according to your result:
+
+* <span class="game-term">Critical</span>: Five ticks.
+* <span class="game-term">6</span>: Three ticks.
+* <span class="game-term">4/5</span>: Two ticks.
+* <span class="game-term">1-3</span>: One tick.
+
+#### RECOVER
+
+Get **treatment** to tick your **healing clock** (like a long-term project). *When you fill a clock, each harm is reduced by one level.*
+
+#### REDUCE HEAT
+
+Say how you reduce <span class="game-term">heat</span> on the crew and roll your action. Reduce <span class="game-term">heat</span> according to the result level:
+
+* <span class="game-term">Critical</span>: Clear five <span class="game-term">heat</span>.
+* <span class="game-term">6</span>: Clear three <span class="game-term">heat</span>.
+* <span class="game-term">4/5</span>: Clear two <span class="game-term">heat</span>.
+* <span class="game-term">1-3</span>: Clear one <span class="game-term">heat</span>.
+
+#### TRAIN
+
+**Mark 1 xp** (in an attribute or your playbook). Add **+1** xp if you have the appropriate crew upgrade. *You may train a given xp track once per downtime.*
+
+#### VICE
+
+Visit your **vice purveyor** to relieve **stress**. Roll dice equal to your **lowest attribute**. Clear stress equal to your highest die result. If you clear more stress levels than you had marked, you ***overindulge*** (see below). _If you do not or cannot indulge your vice during downtime, you take stress equal to your <span class="game-term">trauma</span>._
+
+----------
+
+**Overindulge**: You made a bad call because of your vice—in acquiring it or while under its influence. What did you do?
+
+* **Attract Trouble**: *Maybe an enemy has tracked you to your vice purveyor and you let your guard down.* Select or roll an additional **entanglement**.
+* **Brag**: Maybe you brag about your exploits. The crew takes <span class="game-term">+2 heat</span>.
+* **Lost**: Play a different character until this one returns from their bender.
+* **Tapped**: Your current purveyor cuts you off. Find a new source for the indulgence of your vice.
+
+
 
 # Magnitude
 
@@ -2092,7 +2360,61 @@ The magnitude table is provided as a tool to help the GM make judgment calls. It
 
 This table can also be used as a guide to **quality level** when a PC **acquires an asset** or crafts an **alchemical** or **gadget**.
 
-@TODO add tables from 105
+----------
+
+### AREA/SCALE
+| 0 | 1 | 2 | 3	| 4 | 5 | 6 |
+| :--: | :--: | :--: | :--: | :--: | :--: | :--: |
+| A closet | A small room | A large room& Several rooms | A small building | A large building | A city block |
+| 1 or 2 people	| A small gang (3-6) | A medium gang (12) | A large gang (20) | A huge gang (40) | A massive gang (80) | A colossal gang (160) |
+
+----------
+
+### DURATION/RANGE
+
+| 0 | 1 | 2 | 3	| 4 | 5 | 6 |
+| :--: | :--: | :--: | :--: | :--: | :--: | :--: |
+| A few moments | A few minutes | An hour | A few hours | A day | Several days | A week |
+| Within reach | A dozen paces | A stone’s throw | Down the road | Several blocks away | Across the district | Across the city |
+
+----------
+
+### TIER &amp; QUALITY / FORCE
+
+| 0 | 1 | 2 | 3	| 4 | 5 | 6 |
+| :--: | :--: | :--: | :--: | :--: | :--: | :--: |
+| Poor | Adequate | Good | Excellent | Superior | Impeccable | Legendary |
+| Weak  | Moderate | Strong | Serious | Powerful | Overwhelming | Devastating |
+
+----------
+
+### QUALITY EXAMPLES
+
+| []() |     |
+| :--: | :-- |
+| <span class="game-term">6</span> | *A mansion, large ship, rare essences or arcane artifacts, powerful demon*   |
+| <span class="game-term">5</span> | *A large townhouse, small ship, custom-tailored clothing, lightning barrier* |
+| <span class="game-term">4</span> | *A luxury vehicle, townhouse, typical demon or powerful ghost*               |
+| <span class="game-term">3</span> | *A coach, boat, military rifle, fashionable clothing, small home*            |
+| <span class="game-term">2</span> | *A pistol, respectable clothing, private rented room, typical ghost*         |
+| <span class="game-term">1</span> | *A fighting blade, ordinary clothing, shared apartment, cheap food or drugs* |
+| <span class="game-term">0</span> | *A rusty knife, worn & tattered clothing, rickety shack on the street*       |
+
+----------
+
+### FORCE EXAMPLES
+
+| []() |     |
+| :--: | :-- |
+| <span class="game-term">6</span> | *Hurricane wind, molten lava, tidal wave, electrical maelstrom*              |
+| <span class="game-term">5</span> | *A ship’s cannon, raging thunder-storm, massive fire, lightning strike*      |
+| <span class="game-term">4</span> | *A charging horse, burning forge, bomb, whirlwind, electrocution*            |
+| <span class="game-term">3</span> | *A crushing blow, staggering wind, grenade, searing fire, electrical surge*  |
+| <span class="game-term">2</span> | *A powerful blow, howling wind, burning brand*                               |
+| <span class="game-term">1</span> | *A solid punch, steady wind, torch flame, electrical shock*                  |
+| <span class="game-term">0</span> | *A firm shove, a candle flame, breeze, tiny spark*                           |
+
+----------
 
 # Rituals
 
@@ -2144,7 +2466,7 @@ To invent a formula for a new alchemical concoction or the plan for a new item o
 
 ### Creation Questions
 
-1. GM asks: **“What type of creation is it and what does it do?”** Player answers. A creation might be mundane, alchemical, arcane, or spark-craft. If a PC has an appropriate special ability (<span class="game-term">Alchemist</span><span class="game-term CharOverride-15">, </span><span class="game-term">Artificer</span><span class="game-term CharOverride-15">, </span><span class="game-term">Strange Methods</span>), they get bonuses when inventing and crafting certain creation types.
+1. GM asks: **“What type of creation is it and what does it do?”** Player answers. A creation might be mundane, alchemical, arcane, or spark-craft. If a PC has an appropriate special ability (<span class="game-term">Alchemist</span>, <span class="game-term">Artificer</span>, <span class="game-term">Strange Methods</span>), they get bonuses when inventing and crafting certain creation types.
 1. Player asks: **“What’s the minimum quality level of this item?”** GM answers, with the **magnitude** of the effects the item produces as a guideline.
 1. GM asks: **“What rare, strange, or adverse aspect of this formula or design has kept it in obscurity, out of common usage?**” Player answers.
 1. Player asks: **“What drawbacks does this item have, if any?”** GM answers by choosing one or more from the drawbacks list, or by saying there are none.
@@ -2157,11 +2479,26 @@ Common alchemicals (see **Sample Creations** on page 226) and ordinary items don
 
 ## Crafting
 
-@TODO add table p109
-
 To craft something, spend one **downtime activity** to make a <span class="game-term">Tinker</span> roll to determine the **quality level** of the item you produce. The base quality level is equal to your crew’s Tier, modified by the result of the roll (see the results on the next page).
 
-The results are based on your crew’s Tier because it indicates the overall quality of the workspace and materials you have access to. _If you do the work with the **Workshop** upgrade for your crew, your effective Tier level is one higher for this roll._
+The results are based on your crew’s Tier because it indicates the overall quality of the workspace and materials you have access to. _If you do the work with the <span class="game-term">Workshop</span> upgrade for your crew, your effective Tier level is one higher for this roll._
+
+----------
+
+### CRAFTING ROLL
+
+&#x23E3; &nbsp; **1d** for each <span class="game-term">Tinker</span> action dot.
+
+&#x2295; &nbsp; **+1** quality per <span class="game-term">Coin</span> spent.
+
+&#x2295; &nbsp; **+1** quality for <span class="game-term">Workshop</span> crew upgrade.
+
+* <span class="game-term">Critical</span>: Quality level is Tier +2.
+* <span class="game-term">6</span>: Quality level is Tier +1.
+* <span class="game-term">4/5</span>: Quality level is equal to Tier.
+* <span class="game-term">1-3</span>: Quality level is Tier -1.
+
+----------
 
 The GM sets a **minimum quality** level that must be achieved to craft the item, based on the **magnitude** of the effect(s) it produces. The GM uses magnitude as a _guideline_ for setting the quality level—it may be higher or lower at their discretion to better describe the nature of the project. An item may be crafted at _higher_ quality if the player wishes to attempt it.
 
@@ -2181,9 +2518,9 @@ Modified items, like special creations, may have **drawbacks**.
 
 A creation or modification may have one or more drawbacks, chosen by the GM.
 
-* <span class="game-term">Complex. </span>You’ll have to create it in multiple stages; the GM will tell you how many. One downtime activity and crafting roll is needed per stage.
-* <span class="game-term">Conspicuous. </span>This creation doesn’t go unnoticed. Take **+1** <span class="game-term">heat</span> if it’s used any number of times on an operation.
-* <span class="game-term">Consumable.</span> This creation has a limited number of uses (all alchemicals must have this drawback, usually one use).
-* <span class="game-term">Rare. </span>This creation requires a rare item or material when it is crafted.
-* <span class="game-term">Unreliable. </span>When you use the item, make a fortune roll (using its **quality**) to see how well it performs.
-* <span class="game-term">Volatile. </span>The item produces a dangerous or troublesome side-effect for the user, specified by the GM (see examples on the sample creations, next page). A side-effect is a consequence, and may be **resisted**.
+* <span class="game-term">Complex</span>. You’ll have to create it in multiple stages; the GM will tell you how many. One downtime activity and crafting roll is needed per stage.
+* <span class="game-term">Conspicuous</span>. This creation doesn’t go unnoticed. Take **+1** <span class="game-term">heat</span> if it’s used any number of times on an operation.
+* <span class="game-term">Consumable</span>. This creation has a limited number of uses (all alchemicals must have this drawback, usually one use).
+* <span class="game-term">Rare</span>. This creation requires a rare item or material when it is crafted.
+* <span class="game-term">Unreliable</span>. When you use the item, make a fortune roll (using its **quality**) to see how well it performs.
+* <span class="game-term">Volatile</span>. The item produces a dangerous or troublesome side-effect for the user, specified by the GM (see examples on the sample creations, next page). A side-effect is a consequence, and may be **resisted**.
