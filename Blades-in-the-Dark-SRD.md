@@ -118,8 +118,6 @@ When the enemy has a big advantage, you'll need to make a resistance roll before
 
 The GM judges the threat level of the enemies and uses these "preemptive" resistance rolls as needed to reflect the capabilities of especially dangerous foes.
 
-For details on **Resistance Rolls**, see page 28.
-
 ---
 
 ### EXAMPLE ACTION & ATTRIBUTE RATINGS
@@ -229,7 +227,7 @@ You can use stress to push yourself for greater performance. For each bonus you 
 
 ## Trauma
 
-When a PC marks their last stress box, they suffer a level of **trauma**. When you take **trauma**, circle one of your **trauma conditions** like *Cold*, *Reckless*, *Unstable*, etc. They're all described on the next page.
+When a PC marks their last stress box, they suffer a level of **trauma**. When you take **trauma**, circle one of your **trauma conditions** like *Cold*, *Reckless*, *Unstable*, etc. They're all described in the next section.
 
 When you suffer **trauma**, you're taken out of action. You're "left for dead" or otherwise dropped out of the current conflict, only to come back later, shaken and drained. When you return, **you have zero stress** and your vice has been satisfied for the next downtime.
 
@@ -369,7 +367,7 @@ If it's ever needed, the GM has final say over which Devil's Bargains are valid.
 
 ## 6. Roll the Dice and Judge the Result
 
-Once the goal, action rating, position, and effect have been established, add any bonus dice and roll the dice pool to determine the outcome. (See the sets of possible outcomes, by position, on the next page.)
+Once the goal, action rating, position, and effect have been established, add any bonus dice and roll the dice pool to determine the outcome. (See the sets of possible outcomes, by position, in the next sections.)
 
 The action roll does a lot of work for you. It tells you how well the character performs as well as how serious the consequences are for them. They might succeed at their action without any consequences (on a **6**), or they might succeed but suffer consequences (on a **4/5**), or it might just all go wrong (on a **1-3**).
 
@@ -750,7 +748,7 @@ One unit of **coin** in silver pieces or other bulk currency takes up one item s
 * Spend 1 **coin** to get an additional **activity** during **downtime**.
 * Spend 1 **coin** to increase the result level of a **downtime activity** roll.
 * Spend **coin** to avoid certain crew **entanglements**.
-* Put **coin** in your character's **stash** to improve their lifestyle and circumstances when they retire. See the next page.
+* Put **coin** in your character's **stash** to improve their lifestyle and circumstances when they retire. See the next section.
 * Spend **coin** when you advance your crew's **Tier**.
 
 ## Stash & Retirement
@@ -979,7 +977,7 @@ Every character is in thrall to some vice or another, which they indulge to deal
 
 ## Record your name, alias, & look
 
-Choose a name for your character from the sample list, or create your own. If your character uses an alias or nickname in the underworld, make a note of it. Record a few evocative words that describe your character's look (samples provided on the next page).
+Choose a name for your character from the sample list, or create your own. If your character uses an alias or nickname in the underworld, make a note of it. Record a few evocative words that describe your character's look (samples provided in the next sections).
 
 ## Review your details
 
@@ -1005,7 +1003,7 @@ That's it! Your character is ready for play. When you start the first session, t
 
 **7** **Choose your vice.** Pick your preferred type of vice, detail it with a short description and indicate the name and location of your vice purveyor.
 
-**8** **Record your name, alias, and look.** Choose a name, an alias (if you use one), and jot down a few words to describe your look. Examples are provided on the preceding page.
+**8** **Record your name, alias, and look.** Choose a name, an alias (if you use one), and jot down a few words to describe your look. Examples are provided in the preceding sections.
 
 ## Loadout
 
@@ -1378,7 +1376,7 @@ Just like picking the crew type, reputation, lair, and hunting grounds, choosing
 
 ## Assign crew upgrades
 
-An upgrade is a valuable asset that helps the crew in some way, like a boat or a gang (see the complete descriptions on the following page). Each crew type has two pre-selected **upgrades** that suit that crew (like **Prowess** **Training** and a **gang** of Thugs for the Bravos crew).
+An upgrade is a valuable asset that helps the crew in some way, like a boat or a gang (see the complete descriptions in the following sections). Each crew type has two pre-selected **upgrades** that suit that crew (like **Prowess** **Training** and a **gang** of Thugs for the Bravos crew).
 
 You get to add **two additional upgrades** to your new crew (so you'll have a total of four upgrades when you start). You can choose from the specific upgrades available to your crew type or the general upgrades on the crew sheet.
 
@@ -1404,7 +1402,7 @@ At your option, these factions are even more concerned with this contact and so 
 
 * **Carriage House**: You have a carriage, and draft animals to pull it, and a stable. A second upgrade improves the carriage with armor and larger, swifter steeds.
 
-* **Cohort**: A cohort is a gang or a single expert NPC who works for your crew. For all the details on cohorts, see the following pages.
+* **Cohort**: A cohort is a gang or a single expert NPC who works for your crew. For all the details on cohorts, see the following sections.
 
 * **Hidden Lair**: Your lair has a secret location and is disguised to hide it from view. If your lair is discovered, use two downtime activities and pay **coin** equal to your Tier to relocate it and hide it once again.
 
@@ -1416,7 +1414,7 @@ At your option, these factions are even more concerned with this contact and so 
 
 * **Secure Lair**: Your lair has locks, alarms, and traps to thwart intruders. A second upgrade improves the defenses to include arcane measures that work against spirits. *You might roll your crew's Tier if these measures are ever put to the test, to see how well they thwart an intruder.*
 
-* **Training**: If you have a Training upgrade, you earn 2 xp (instead of 1) when you train a given xp track during downtime (**Insight**, **Prowess**, **Resolve**, or Playbook xp). This upgrade essentially helps you advance more quickly. See **Advancement**, page 40.  *If you have Insight Training, when you train Insight during downtime, you mark 2 xp on the **Insight** track (instead of just 1). If you have Playbook Training, you mark 2 xp on your playbook xp track when you train.*
+* **Training**: If you have a Training upgrade, you earn 2 xp (instead of 1) when you train a given xp track during downtime (**Insight**, **Prowess**, **Resolve**, or Playbook xp). This upgrade essentially helps you advance more quickly. See **Advancement**, for more information.  *If you have Insight Training, when you train Insight during downtime, you mark 2 xp on the **Insight** track (instead of just 1). If you have Playbook Training, you mark 2 xp on your playbook xp track when you train.*
 
 * **Vault**: Your lair has a secure vault, increasing your storage capacity for **coin** to 8. A second upgrade increases your capacity to 16.  A separate part of your vault can be used as a holding cell.
 
@@ -1726,7 +1724,7 @@ A score consists of a few key elements, detailed in this chapter: **planning & e
 
 Your crew spends time planning each score. They huddle around a flickering lantern in their lair, looking at scrawled maps, whispering plots and schemes, bickering about the best approach, lamenting the dangers ahead, and lusting after stacks of coin.
 
-But you, the players, don't have to do the nitty-gritty planning. The characters take care of that, off-screen. All you have to do is choose what **type of plan** the characters *have already made*. There's no need to sweat all the little details and try to cover every eventuality ahead of time, because the **engagement roll** (detailed on the next page) ultimately determines how much trouble you're in when the plan is put in motion. *No plan is ever perfect.* You can't account for everything. This system assumes that there's always some unknown factors and trouble—major or minor—in every operation; you just have to make the best of it.
+But you, the players, don't have to do the nitty-gritty planning. The characters take care of that, off-screen. All you have to do is choose what **type of plan** the characters *have already made*. There's no need to sweat all the little details and try to cover every eventuality ahead of time, because the **engagement roll** (detailed in the next section) ultimately determines how much trouble you're in when the plan is put in motion. *No plan is ever perfect.* You can't account for everything. This system assumes that there's always some unknown factors and trouble—major or minor—in every operation; you just have to make the best of it.
 
 There are six different plans, each with a missing **detail** you need to provide (see the list below). To "plan an operation," simply choose the plan and supply the detail. Then the GM will **cut to the action** as the first moments of the operation unfold.
 
@@ -1984,7 +1982,7 @@ When your **heat** level reaches 9, you gain a **wanted level** and clear your *
 
 The higher your **wanted level**, the more serious the response when law enforcement takes action against you (they'll send a force of higher **quality** and **scale**).
 
-Also, your **wanted level** contributes to the severity of the **entanglements** that your crew faces after a score. See page 94 for details.
+Also, your **wanted level** contributes to the severity of the **entanglements** that your crew faces after a score.
 
 ## Incarceration
 
@@ -2073,7 +2071,7 @@ Bring the entanglement into play immediately, or hold off until an appropriate m
 
 Entanglements manifest fully before the PCs have a chance to avoid them. When an entanglement comes into play, describe the situation after the entanglement has manifested. The PCs deal with it from that point—they can't intercept it and defuse it before it happens. The purpose of the mechanic is to abstract a lot of the complex stuff happening in the backgrounds of the characters' lives in order to generate trouble for them. Entanglements are the cost of doing business in the underworld—a good crew learns to roll with the punches and pick their battles.
 
-The entanglements are detailed on the following pages. Each has a list of potential ways for the PCs to be rid of it. If you want the entanglements to be a momentary problem for the crew, stick to the suggested methods to resolve them, and move on to the next part of downtime. If you want to dive in and explore the entanglement in detail, set the scene and play out the event in full, following the actions and consequences where they lead.
+The entanglements are detailed in the following sections. Each has a list of potential ways for the PCs to be rid of it. If you want the entanglements to be a momentary problem for the crew, stick to the suggested methods to resolve them, and move on to the next part of downtime. If you want to dive in and explore the entanglement in detail, set the scene and play out the event in full, following the actions and consequences where they lead.
 
 ### Arrest
 
@@ -2213,7 +2211,7 @@ Reduce **heat** according to the result: **1-3**: one, **4/5**: two, **6**: thre
 
 ### Train
 
-When you spend time in training, **mark 1 xp** on the xp track for an **attribute** or **playbook** advancement. If you have the appropriate crew Training upgrade unlocked, mark **+1 xp** (2 total). See **Crew Upgrades**, page 65. *You can train a given xp track only once per downtime.*
+When you spend time in training, **mark 1 xp** on the xp track for an **attribute** or **playbook** advancement. If you have the appropriate crew Training upgrade unlocked, mark **+1 xp** (2 total). See **Crew Upgrades**, for more information. *You can train a given xp track only once per downtime.*
 
 ### Indulge vice
 
@@ -2473,11 +2471,11 @@ A PC with the **Alchemist**, **Artificer**, or **Strange Methods** special abili
 
 Once you've invented a formula or design, you can **craft** it by using a downtime activity (see **Crafting**, below). No one else can craft this invention unless they learn your design as a long-term project. If you acquire a formula or design invented by another tinkerer, you may learn to craft it by completing a long-term project.
 
-Common alchemicals (see **Sample Creations** on page 226) and ordinary items don't require special formulas or designs to learn. Anyone may attempt to craft them by using commonly available instructions.
+Common alchemicals (see **Sample Creations** for more information) and ordinary items don't require special formulas or designs to learn. Anyone may attempt to craft them by using commonly available instructions.
 
 ## Crafting
 
-To craft something, spend one **downtime activity** to make a **Tinker** roll to determine the **quality level** of the item you produce. The base quality level is equal to your crew's Tier, modified by the result of the roll (see the results on the next page).
+To craft something, spend one **downtime activity** to make a **Tinker** roll to determine the **quality level** of the item you produce. The base quality level is equal to your crew's Tier, modified by the result of the roll (see the results in the next section).
 
 The results are based on your crew's Tier because it indicates the overall quality of the workspace and materials you have access to. *If you do the work with the **Workshop** upgrade for your crew, your effective Tier level is one higher for this roll.*
 
@@ -2521,4 +2519,4 @@ A creation or modification may have one or more drawbacks, chosen by the GM.
 * **Consumable**. This creation has a limited number of uses (all alchemicals must have this drawback, usually one use).
 * **Rare**. This creation requires a rare item or material when it is crafted.
 * **Unreliable**. When you use the item, make a fortune roll (using its **quality**) to see how well it performs.
-* **Volatile**. The item produces a dangerous or troublesome side-effect for the user, specified by the GM (see examples on the sample creations, next page). A side-effect is a consequence, and may be **resisted**.
+* **Volatile**. The item produces a dangerous or troublesome side-effect for the user, specified by the GM. A side-effect is a consequence, and may be **resisted**.
