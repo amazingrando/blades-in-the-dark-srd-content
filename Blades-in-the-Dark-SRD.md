@@ -1,4 +1,5 @@
 ---
+title: Blades in the Dark
 mainfont: DejaVuSerif.ttf
 sansfont: DejaVuSans.ttf
 monofont: DejaVuSansMono.ttf 
@@ -131,7 +132,7 @@ The GM judges the threat level of the enemies and uses these "preemptive" resist
 #### **Insight**
 
 |   []()   |     |          |          |          |            |
-| :------: | --- | :------: | :------: | :------: | :--------- |
+|:------:|---|:------:|:------:|:------:|:---------|
 | &#x25CF; |     | &#x25CB; | &#x25CB; | &#x25CB; | **Hunt**   |
 | &#x25CB; |     | &#x25CB; | &#x25CB; | &#x25CB; | **Study**  |
 | &#x25CB; |     | &#x25CB; | &#x25CB; | &#x25CB; | **Survey** |

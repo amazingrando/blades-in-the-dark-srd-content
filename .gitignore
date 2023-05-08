@@ -6,3 +6,5 @@ node_modules
 *.pdf
 *.toc
 *.pdf
+*.epub
+*.html
