@@ -1,3 +1,10 @@
 .DS_store
 node_modules
 .idea
+*.aux
+*.log
+*.pdf
+*.toc
+*.pdf
+*.epub
+*.html
